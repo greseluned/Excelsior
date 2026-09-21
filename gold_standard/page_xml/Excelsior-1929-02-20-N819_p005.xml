@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:02:11.647+02:00</Created>
+        <LastChange>2025-05-09T17:07:28.044+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93780805" pageNr="5" tsid="242809801" status="GT" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AULXRHLBUBMLGKRYZEJXPURC" xmlUrl="https://files.transkribus.eu/Get?id=DSBXKPJAOTJGTGZIJUKSBSJN" imageId="17243712"/>
+    </Metadata>
+    <Page imageFilename="0005_p005.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="181,234 2301,234 2301,3276 181,3276"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789980330908" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_2_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_1"/>
+                <RegionRefIndexed index="4" regionRef="r_18"/>
+                <RegionRefIndexed index="6" regionRef="r_4_1"/>
+                <RegionRefIndexed index="8" regionRef="r_19"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations>
+            <Relation type="link" custom="relationName {value:pic-caption;}">
+                <RegionRef regionRef="r"/>
+                <RegionRef regionRef="r_2_1"/>
+            </Relation>
+            <Relation type="link" custom="relationName {value:pic-caption;}">
+                <RegionRef regionRef="r_18"/>
+                <RegionRef regionRef="r_3_1"/>
+            </Relation>
+            <Relation type="link" custom="relationName {value:pic-caption;}">
+                <RegionRef regionRef="r_19"/>
+                <RegionRef regionRef="r_4_1"/>
+            </Relation>
+        </Relations>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="181,234 2301,234 2301,3276 181,3276"/>
+        </GraphicRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:Photograph;}">
+            <Coords points="186,234 2323,234 2323,1456 186,1456"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:2;} structure {type:caption;}">
+            <Coords points="195,1494 980,1494 980,1746 195,1746"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="240,1536 276,1537 313,1537 349,1539 386,1539 422,1539 459,1539 495,1540 532,1540 568,1540 605,1540 642,1540 678,1540 715,1540 751,1540 788,1540 824,1540 861,1540 897,1540 934,1539 971,1539 971,1509 934,1509 897,1510 861,1510 824,1510 788,1510 751,1510 715,1510 678,1510 642,1510 605,1510 568,1510 532,1510 495,1510 459,1509 422,1509 386,1509 349,1509 313,1507 276,1507 240,1506"/>
+                <Baseline points="240,1526 276,1527 313,1527 349,1529 386,1529 422,1529 459,1529 495,1530 532,1530 568,1530 605,1530 642,1530 678,1530 715,1530 751,1530 788,1530 824,1530 861,1530 897,1530 934,1529 971,1529"/>
+                <TextEquiv>
+                    <Unicode>Banquete ofrecido por el Cónsul Ge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="206,1579 244,1579 282,1579 320,1579 358,1579 396,1579 434,1579 472,1579 510,1580 548,1581 586,1581 624,1581 662,1581 700,1581 738,1581 776,1581 814,1582 852,1582 890,1582 928,1582 966,1584 966,1554 928,1552 890,1552 852,1552 814,1552 776,1551 738,1551 700,1551 662,1551 624,1551 586,1551 548,1551 510,1550 472,1549 434,1549 396,1549 358,1549 320,1549 282,1549 244,1549 206,1549"/>
+                <Baseline points="206,1569 244,1569 282,1569 320,1569 358,1569 396,1569 434,1569 472,1569 510,1570 548,1571 586,1571 624,1571 662,1571 700,1571 738,1571 776,1571 814,1572 852,1572 890,1572 928,1572 966,1574"/>
+                <TextEquiv>
+                    <Unicode>neral y la Cámara de Comercio China,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="195,1621 234,1620 273,1620 312,1620 351,1620 390,1620 429,1620 469,1620 508,1621 547,1621 586,1621 625,1622 664,1623 703,1623 743,1623 782,1623 821,1623 860,1623 899,1623 938,1623 978,1621 978,1591 938,1593 899,1593 860,1593 821,1593 782,1593 743,1593 703,1593 664,1593 625,1592 586,1591 547,1591 508,1591 469,1590 429,1590 390,1590 351,1590 312,1590 273,1590 234,1590 195,1591"/>
+                <Baseline points="195,1611 234,1610 273,1610 312,1610 351,1610 390,1610 429,1610 469,1610 508,1611 547,1611 586,1611 625,1612 664,1613 703,1613 743,1613 782,1613 821,1613 860,1613 899,1613 938,1613 978,1611"/>
+                <TextEquiv>
+                    <Unicode>en honor al Viceministro, Moh, del de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="200,1662 238,1662 276,1662 315,1662 353,1662 392,1662 430,1663 469,1663 507,1663 546,1663 584,1663 622,1663 661,1663 699,1663 738,1665 776,1665 815,1665 853,1665 892,1666 930,1666 969,1668 969,1638 930,1636 892,1636 853,1635 815,1635 776,1635 738,1635 699,1633 661,1633 622,1633 584,1633 546,1633 507,1633 469,1633 430,1633 392,1632 353,1632 315,1632 276,1632 238,1632 200,1632"/>
+                <Baseline points="200,1652 238,1652 276,1652 315,1652 353,1652 392,1652 430,1653 469,1653 507,1653 546,1653 584,1653 622,1653 661,1653 699,1653 738,1655 776,1655 815,1655 853,1655 892,1656 930,1656 969,1658"/>
+                <TextEquiv>
+                    <Unicode>partamento de Industria, Comercio y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="210,1702 248,1704 286,1704 324,1704 362,1704 400,1704 438,1704 476,1704 514,1705 552,1705 590,1705 628,1705 666,1705 704,1705 742,1705 780,1707 818,1707 856,1707 894,1707 932,1708 971,1708 971,1678 932,1678 894,1677 856,1677 818,1677 780,1677 742,1675 704,1675 666,1675 628,1675 590,1675 552,1675 514,1675 476,1674 438,1674 400,1674 362,1674 324,1674 286,1674 248,1674 210,1672"/>
+                <Baseline points="210,1692 248,1694 286,1694 324,1694 362,1694 400,1694 438,1694 476,1694 514,1695 552,1695 590,1695 628,1695 666,1695 704,1695 742,1695 780,1697 818,1697 856,1697 894,1697 932,1698 971,1698"/>
+                <TextEquiv>
+                    <Unicode>Trabajo del Gobierno Nacionalista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="201,1747 226,1747 251,1747 276,1747 301,1747 327,1747 327,1717 301,1717 276,1717 251,1717 226,1717 201,1717"/>
+                <Baseline points="201,1737 226,1737 251,1737 276,1737 301,1737 327,1737"/>
+                <TextEquiv>
+                    <Unicode>Chino.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Banquete ofrecido por el Cónsul Ge¬neral y la Cámara de Comercio China,en honor al Viceministro, Moh, del de¬partamento de Industria, Comercio yTrabajo del Gobierno NacionalistaChino.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:3;} structure {type:caption;}">
+            <Coords points="199,1779 984,1779 984,1994 199,1994"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="245,1822 281,1822 318,1822 355,1822 392,1822 429,1822 465,1823 502,1824 539,1824 576,1824 613,1824 649,1824 686,1825 723,1825 760,1825 797,1825 833,1825 870,1825 907,1825 944,1825 981,1825 981,1795 944,1795 907,1795 870,1795 833,1795 797,1795 760,1795 723,1795 686,1795 649,1794 613,1794 576,1794 539,1794 502,1794 465,1793 429,1792 392,1792 355,1792 318,1792 281,1792 245,1792"/>
+                <Baseline points="245,1812 281,1812 318,1812 355,1812 392,1812 429,1812 465,1813 502,1814 539,1814 576,1814 613,1814 649,1814 686,1815 723,1815 760,1815 797,1815 833,1815 870,1815 907,1815 944,1815 981,1815"/>
+                <TextEquiv>
+                    <Unicode>El Presidente Quezon, la Sra. del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="210,1863 248,1863 286,1863 325,1864 363,1864 402,1864 440,1864 478,1864 517,1864 555,1866 594,1866 632,1866 670,1866 709,1866 747,1866 786,1867 824,1867 862,1867 901,1867 939,1867 978,1867 978,1837 939,1837 901,1837 862,1837 824,1837 786,1837 747,1836 709,1836 670,1836 632,1836 594,1836 555,1836 517,1834 478,1834 440,1834 402,1834 363,1834 325,1834 286,1833 248,1833 210,1833"/>
+                <Baseline points="210,1853 248,1853 286,1853 325,1854 363,1854 402,1854 440,1854 478,1854 517,1854 555,1856 594,1856 632,1856 670,1856 709,1856 747,1856 786,1857 824,1857 862,1857 901,1857 939,1857 978,1857"/>
+                <TextEquiv>
+                    <Unicode>Almirante Bristol, la Sra. de Quezon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="209,1909 248,1908 288,1906 328,1906 368,1905 408,1905 448,1905 488,1905 528,1906 568,1906 608,1906 648,1908 688,1908 728,1908 768,1909 808,1909 848,1909 888,1909 928,1909 968,1908 968,1878 928,1879 888,1879 848,1879 808,1879 768,1879 728,1878 688,1878 648,1878 608,1876 568,1876 528,1876 488,1875 448,1875 408,1875 368,1875 328,1876 288,1876 248,1878 209,1879"/>
+                <Baseline points="209,1899 248,1898 288,1896 328,1896 368,1895 408,1895 448,1895 488,1895 528,1896 568,1896 608,1896 648,1898 688,1898 728,1898 768,1899 808,1899 848,1899 888,1899 928,1899 968,1898"/>
+                <TextEquiv>
+                    <Unicode>y el Almirante Bristol, durante la fies¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="210,1948 249,1948 289,1947 329,1947 369,1947 409,1947 449,1947 489,1948 529,1948 569,1948 609,1950 649,1950 689,1950 729,1950 769,1951 809,1951 849,1951 889,1950 929,1950 969,1950 969,1920 929,1920 889,1920 849,1921 809,1921 769,1921 729,1920 689,1920 649,1920 609,1920 569,1918 529,1918 489,1918 449,1917 409,1917 369,1917 329,1917 289,1917 249,1918 210,1918"/>
+                <Baseline points="210,1938 249,1938 289,1937 329,1937 369,1937 409,1937 449,1937 489,1938 529,1938 569,1938 609,1940 649,1940 689,1940 729,1940 769,1941 809,1941 849,1941 889,1940 929,1940 969,1940"/>
+                <TextEquiv>
+                    <Unicode>ta con que los Sres. de Quezon obse¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="216,1989 246,1989 277,1989 308,1989 339,1989 369,1989 400,1989 431,1989 462,1989 492,1989 523,1989 554,1989 585,1989 615,1990 646,1990 677,1990 708,1990 738,1990 769,1991 800,1992 831,1992 831,1962 800,1962 769,1961 738,1960 708,1960 677,1960 646,1960 615,1960 585,1959 554,1959 523,1959 492,1959 462,1959 431,1959 400,1959 369,1959 339,1959 308,1959 277,1959 246,1959 216,1959"/>
+                <Baseline points="216,1979 246,1979 277,1979 308,1979 339,1979 369,1979 400,1979 431,1979 462,1979 492,1979 523,1979 554,1979 585,1979 615,1980 646,1980 677,1980 708,1980 738,1980 769,1981 800,1982 831,1982"/>
+                <TextEquiv>
+                    <Unicode>quiaron a los Sres. de Bristol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>El Presidente Quezon, la Sra. delAlmirante Bristol, la Sra. de Quezony el Almirante Bristol, durante la fies¬ta con que los Sres. de Quezon obse¬quiaron a los Sres. de Bristol.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_18" custom="readingOrder {index:4;} structure {type:Photograph;}">
+            <Coords points="1058,1365 2137,1365 2137,2462 1058,2462"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="196,238 2276,238 2276,247 196,247"/>
+        </SeparatorRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:6;} structure {type:caption;}">
+            <Coords points="200,2019 985,2019 985,2311 200,2311"/>
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="246,2061 282,2061 319,2062 355,2062 392,2062 429,2062 465,2062 502,2062 538,2064 575,2064 612,2064 648,2064 685,2064 721,2064 758,2065 795,2065 831,2065 868,2065 904,2065 941,2065 978,2065 978,2035 941,2035 904,2035 868,2035 831,2035 795,2035 758,2035 721,2034 685,2034 648,2034 612,2034 575,2034 538,2034 502,2032 465,2032 429,2032 392,2032 355,2032 319,2032 282,2031 246,2031"/>
+                <Baseline points="246,2051 282,2051 319,2052 355,2052 392,2052 429,2052 465,2052 502,2052 538,2054 575,2054 612,2054 648,2054 685,2054 721,2054 758,2055 795,2055 831,2055 868,2055 904,2055 941,2055 978,2055"/>
+                <TextEquiv>
+                    <Unicode>Bautizo de la primogénita de los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="212,2104 250,2103 288,2103 326,2103 365,2103 403,2104 441,2104 480,2104 518,2104 556,2106 595,2106 633,2106 671,2106 709,2107 748,2107 786,2107 824,2107 863,2107 901,2107 939,2107 978,2106 978,2076 939,2077 901,2077 863,2077 824,2077 786,2077 748,2077 709,2077 671,2076 633,2076 595,2076 556,2076 518,2074 480,2074 441,2074 403,2074 365,2073 326,2073 288,2073 250,2073 212,2074"/>
+                <Baseline points="212,2094 250,2093 288,2093 326,2093 365,2093 403,2094 441,2094 480,2094 518,2094 556,2096 595,2096 633,2096 671,2096 709,2097 748,2097 786,2097 824,2097 863,2097 901,2097 939,2097 978,2096"/>
+                <TextEquiv>
+                    <Unicode>Sres. de Tuason (Dn. José) de la que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="213,2145 251,2145 290,2145 328,2145 367,2145 405,2145 444,2145 482,2146 521,2146 559,2146 598,2146 637,2146 675,2148 714,2148 752,2148 791,2148 829,2148 868,2149 906,2149 945,2149 984,2149 984,2119 945,2119 906,2119 868,2119 829,2118 791,2118 752,2118 714,2118 675,2118 637,2116 598,2116 559,2116 521,2116 482,2116 444,2115 405,2115 367,2115 328,2115 290,2115 251,2115 213,2115"/>
+                <Baseline points="213,2135 251,2135 290,2135 328,2135 367,2135 405,2135 444,2135 482,2136 521,2136 559,2136 598,2136 637,2136 675,2138 714,2138 752,2138 791,2138 829,2138 868,2139 906,2139 945,2139 984,2139"/>
+                <TextEquiv>
+                    <Unicode>han sido padrinos la esposa del Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="206,2187 244,2187 283,2187 322,2187 361,2187 399,2187 438,2188 477,2188 516,2188 554,2188 593,2188 632,2188 671,2190 709,2190 748,2190 787,2190 826,2190 864,2190 903,2190 942,2190 981,2190 981,2160 942,2160 903,2160 864,2160 826,2160 787,2160 748,2160 709,2160 671,2160 632,2158 593,2158 554,2158 516,2158 477,2158 438,2158 399,2157 361,2157 322,2157 283,2157 244,2157 206,2157"/>
+                <Baseline points="206,2177 244,2177 283,2177 322,2177 361,2177 399,2177 438,2178 477,2178 516,2178 554,2178 593,2178 632,2178 671,2180 709,2180 748,2180 787,2180 826,2180 864,2180 903,2180 942,2180 981,2180"/>
+                <TextEquiv>
+                    <Unicode>M. V. del Rosario y el Sr. G. Araneta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="210,2226 248,2227 287,2227 325,2227 364,2227 402,2228 441,2229 479,2229 518,2229 556,2229 595,2229 634,2229 672,2229 711,2229 749,2229 788,2230 826,2230 865,2230 903,2232 942,2232 981,2233 981,2203 942,2202 903,2202 865,2200 826,2200 788,2200 749,2199 711,2199 672,2199 634,2199 595,2199 556,2199 518,2199 479,2199 441,2199 402,2198 364,2197 325,2197 287,2197 248,2197 210,2196"/>
+                <Baseline points="210,2216 248,2217 287,2217 325,2217 364,2217 402,2218 441,2219 479,2219 518,2219 556,2219 595,2219 634,2219 672,2219 711,2219 749,2219 788,2220 826,2220 865,2220 903,2222 942,2222 981,2223"/>
+                <TextEquiv>
+                    <Unicode>La neofita fué después confirmada,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="215,2268 252,2268 290,2269 327,2269 365,2269 403,2269 440,2269 478,2269 516,2269 553,2271 591,2271 629,2271 666,2271 704,2271 742,2271 779,2272 817,2272 855,2272 892,2272 930,2271 968,2271 968,2241 930,2241 892,2242 855,2242 817,2242 779,2242 742,2241 704,2241 666,2241 629,2241 591,2241 553,2241 516,2239 478,2239 440,2239 403,2239 365,2239 327,2239 290,2239 252,2238 215,2238"/>
+                <Baseline points="215,2258 252,2258 290,2259 327,2259 365,2259 403,2259 440,2259 478,2259 516,2259 553,2261 591,2261 629,2261 666,2261 704,2261 742,2261 779,2262 817,2262 855,2262 892,2262 930,2261 968,2261"/>
+                <TextEquiv>
+                    <Unicode>actuando de madrina la Srta. Chuchi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="216,2310 241,2311 266,2311 291,2311 316,2311 341,2311 366,2311 391,2310 416,2310 441,2311 466,2311 491,2313 516,2314 516,2284 491,2283 466,2281 441,2281 416,2280 391,2280 366,2281 341,2281 316,2281 291,2281 266,2281 241,2281 216,2280"/>
+                <Baseline points="216,2300 241,2301 266,2301 291,2301 316,2301 341,2301 366,2301 391,2300 416,2300 441,2301 466,2301 491,2303 516,2304"/>
+                <TextEquiv>
+                    <Unicode>V. del Rosario.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bautizo de la primogénita de losSres. de Tuason (Dn. José) de la quehan sido padrinos la esposa del Sr.M. V. del Rosario y el Sr. G. Araneta.La neofita fué después confirmada,actuando de madrina la Srta. ChuchiV. del Rosario.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:7;}">
+            <Coords points="2107,1436 2292,1436 2292,1443 2107,1443"/>
+        </SeparatorRegion>
+        <TextRegion id="r_19" custom="readingOrder {index:8;} structure {type:Photograph;}">
+            <Coords points="221,2371 2315,2371 2315,3294 221,3294"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:9;}">
+            <Coords points="194,1438 1027,1438 1027,1447 194,1447"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:10;}">
+            <Coords points="1509,1470 1720,1470 1720,1482 1509,1482"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:11;}">
+            <Coords points="1449,1484 1766,1484 1766,1500 1449,1500"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:12;}">
+            <Coords points="1528,1502 1811,1502 1811,1517 1528,1517"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:13;}">
+            <Coords points="1365,1524 1934,1524 1934,1551 1365,1551"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:14;}">
+            <Coords points="202,2351 1031,2351 1031,2360 202,2360"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:15;}">
+            <Coords points="2088,2352 2295,2352 2295,2359 2088,2359"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:16;}">
+            <Coords points="353,3264 2286,3264 2286,3273 353,3273"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:17;}">
+            <Coords points="187,249 200,249 200,1446 187,1446"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:18;}">
+            <Coords points="202,2351 216,2351 216,3268 202,3268"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:19;}">
+            <Coords points="868,997 876,997 876,1132 868,1132"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:20;}">
+            <Coords points="2279,251 2292,251 2292,1441 2279,1441"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:21;}">
+            <Coords points="2288,2354 2295,2354 2295,3259 2288,3259"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:22;}">
+            <Coords points="218,342 240,342 240,345 218,345"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:23;}">
+            <Coords points="1614,1478 1662,1478 1662,1481 1614,1481"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:24;}">
+            <Coords points="1649,2631 1697,2631 1697,2635 1649,2635"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:25;}">
+            <Coords points="1207,2489 1213,2489 1213,2527 1207,2527"/>
+        </SeparatorRegion>
+        <GraphicRegion id="r_25" custom="readingOrder {index:26;}">
+            <Coords points="1029,1342 2121,1342 2121,2447 1029,2447"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
