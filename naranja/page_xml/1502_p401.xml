@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:45:09.373+02:00</Created>
+        <LastChange>2021-06-08T16:47:37.036+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782450" pageNr="1502" tsid="236401825" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KBFBSJIECJIWYWFSFRDWQITM" xmlUrl="https://files.transkribus.eu/Get?id=TAZLBAGXFTVIVXZPZNUUWSBU" imageId="17247860" />
+    </Metadata>
+    <Page imageFilename="1502_p401.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="202,254 2281,254 2281,3252 202,3252" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982764285" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="206,254 2281,254 2281,3252 206,3252" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1717,1980 1935,1980 1935,2071 1717,2071" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="460,2947 685,2947 685,3014 460,3014" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="456,3005 624,3017 638,3007 662,3015 688,3007 688,2912 630,2925 616,2937 598,2923 560,2927 486,2976 456,2982" />
+                <Baseline points="462,3002 489,3003 516,3003 544,3004 571,3005 598,3004 626,3003 653,3003 681,3002" />
+                <TextEquiv>
+                    <Unicode>PAJRIZEL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PAJRIZEL</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="202,339 1091,339 1091,867 202,867" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="210,406 1094,387 1071,341 210,354" />
+                <Baseline points="216,396 259,395 303,395 346,393 390,393 434,392 477,392 521,392 564,390 608,390 652,389 695,389 739,387 782,387 826,386 870,386 913,385 957,384 1000,384 1044,383 1088,383" />
+                <TextEquiv>
+                    <Unicode>EL "DIA DE RIZAL" EN MANILA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="249,555 1081,538 1094,503 248,512" />
+                <Baseline points="255,543 296,542 338,542 379,540 421,540 463,539 504,539 546,537 588,537 629,537 671,536 713,536 754,534 796,534 838,534 879,533 921,533 963,531 1004,531 1046,530 1088,530" />
+                <TextEquiv>
+                    <Unicode>El Sr. Antonio Torres, Presidente de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="209,619 1093,594 1092,572 959,557 208,575" />
+                <Baseline points="215,608 258,606 302,605 345,605 389,603 432,603 476,602 519,602 563,600 606,600 650,599 694,599 737,598 781,597 824,596 868,596 911,594 955,594 998,593 1042,592 1086,591" />
+                <TextEquiv>
+                    <Unicode>Junta Municipal, que fué el "grand mar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="209,675 1086,666 1085,626 968,620 209,640" />
+                <Baseline points="216,668 259,668 302,668 345,666 388,666 432,665 475,665 518,665 561,663 604,662 648,662 691,660 734,660 777,659 820,659 864,657 907,657 950,656 993,656 1036,656 1080,654" />
+                <TextEquiv>
+                    <Unicode>shall" de la grandiosa procesión cívica, en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="203,739 976,734 1094,714 1094,694 202,693" />
+                <Baseline points="209,731 255,729 301,729 347,728 394,728 440,726 486,726 532,725 579,725 625,723 671,723 717,722 764,722 810,720 856,720 902,719 949,718 995,717 1041,716 1088,716" />
+                <TextEquiv>
+                    <Unicode>la que figuraron entre otres muchas y sim¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="207,803 1092,781 1091,756 1006,743 206,757" />
+                <Baseline points="212,791 255,791 299,789 343,789 386,788 430,788 474,788 517,786 561,786 605,785 649,785 692,783 736,783 780,783 823,782 867,780 911,780 954,779 998,777 1042,777 1086,776" />
+                <TextEquiv>
+                    <Unicode>bólicas carrozas, las tres que reproducimos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="209,864 364,857 392,867 504,858 504,834 487,824 404,817 367,836 334,821 271,831 209,828" />
+                <Baseline points="215,852 240,852 266,852 292,852 317,852 343,852 369,851 395,851 420,851 446,852 472,852 498,854" />
+                <TextEquiv>
+                    <Unicode>en está plana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="780,889 838,891 854,876 1085,883 1084,841 968,847 949,862 934,851 835,861 779,852" />
+                <Baseline points="785,878 811,879 838,879 865,878 891,878 918,878 945,876 972,876 998,875 1025,874 1052,873 1079,872" />
+                <TextEquiv>
+                    <Unicode>Fotos SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EL "DIA DE RIZAL" EN MANILA
+El Sr. Antonio Torres, Presidente de la
+Junta Municipal, que fué el "grand mar¬
+shall" de la grandiosa procesión cívica, en
+la que figuraron entre otres muchas y sim¬
+bólicas carrozas, las tres que reproducimos
+en esta plana.
+Fotos SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="775,855 1081,855 1081,883 775,883" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1439,1980 1704,1980 1704,2096 1439,2096" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="795,2818 1996,2818 1996,3009 795,3009" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="791,2902 932,2932 1300,2895 1680,2921 1722,2905 1723,2847 1321,2826 1209,2849 1128,2818 878,2845 792,2820" />
+                <Baseline points="798,2879 843,2882 889,2885 935,2886 981,2888 1027,2889 1073,2891 1119,2891 1165,2892 1211,2892 1257,2892 1302,2892 1348,2892 1394,2892 1440,2892 1486,2892 1532,2892 1578,2893 1624,2894 1670,2895 1716,2895" />
+                <TextEquiv>
+                    <Unicode>SUNDINANCAÑAL NORRILALNRARNSO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="957,3016 1971,2999 1969,2920 1901,2952 955,2936" />
+                <Baseline points="963,2997 1013,2999 1063,2999 1113,2999 1163,2997 1213,2997 1263,2996 1313,2994 1363,2992 1413,2991 1463,2988 1513,2987 1563,2985 1613,2983 1663,2981 1713,2981 1763,2979 1813,2979 1863,2979 1913,2979 1964,2981" />
+                <TextEquiv>
+                    <Unicode>SWEE T DREAMS AROMATIC GEN CEU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SUNDINANCAÑAL NORRILALNRARNSO
+SWEE T DREAMS AROMATIC GEN CEU</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1124,335 1277,335 1277,347 1124,347" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="452,443 868,443 868,454 452,454" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="214,969 1491,969 1491,993 214,993" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1509,1412 2263,1412 2263,1429 1509,1429" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="514,1893 958,1893 958,1909 514,1909" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="216,1899 391,1899 391,1913 216,1913" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="618,1910 958,1910 958,1936 618,1936" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="524,2144 959,2144 959,2167 524,2167" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="461,2169 632,2169 632,2178 461,2178" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="2084,2337 2265,2337 2265,2353 2084,2353" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="412,3219 2103,3219 2103,3238 412,3238" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="205,987 230,987 230,1913 205,1913" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="380,2770 406,2770 406,3162 380,3162" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="397,2159 424,2159 424,3233 397,3233" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="1508,1230 1524,1230 1524,1427 1508,1427" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="2082,2340 2105,2340 2105,3233 2082,3233" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="2109,2609 2140,2609 2140,3192 2109,3192" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="2251,1412 2268,1412 2268,2350 2251,2350" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="927,1893 960,1893 960,2161 927,2161" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="2009,2002 2084,2002 2084,2006 2009,2006" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="1316,1006 1393,1006 1393,1052 1316,1052" />
+        </GraphicRegion>
+        <GraphicRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="2167,257 2239,257 2239,438 2167,438" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

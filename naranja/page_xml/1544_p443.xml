@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:45:41.892+02:00</Created>
+        <LastChange>2021-06-08T17:06:14.341+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782060" pageNr="1544" tsid="236401889" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=VXTCRUUBQCMLUVADAURBBEBE" xmlUrl="https://files.transkribus.eu/Get?id=CXCHOVROXDOPGEWZTJHYBUHG" imageId="17247943" />
+    </Metadata>
+    <Page imageFilename="1544_p443.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="181,233 2300,233 2300,3267 181,3267" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982773785" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="181,233 2300,233 2300,3267 181,3267" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1835,1409 1957,1409 1957,1444 1835,1444" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="444,383 1097,383 1097,597 444,597" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="439,435 1075,442 1091,380 440,381" />
+                <Baseline points="444,425 476,425 508,426 540,426 572,427 604,428 636,428 668,428 700,428 732,428 764,428 796,428 828,428 860,428 892,428 924,428 956,428 988,428 1020,428 1052,428 1085,429" />
+                <TextEquiv>
+                    <Unicode>BELLEZAS ELECTAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="498,520 1048,513 1048,486 1016,461 673,460 648,484 623,460 498,461" />
+                <Baseline points="503,510 530,510 557,510 584,510 611,510 638,510 665,509 692,509 719,509 746,509 773,509 800,509 827,509 854,509 881,509 908,510 935,510 962,510 989,510 1016,510 1043,512" />
+                <TextEquiv>
+                    <Unicode>DEL CARNAVAL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="631,595 648,602 687,595 736,602 745,594 772,603 886,603 907,587 907,563 879,541 823,548 776,541 753,554 739,541 649,541 631,554" />
+                <Baseline points="636,590 662,591 689,591 715,590 742,590 769,590 795,590 822,591 848,591 875,591 902,591" />
+                <TextEquiv>
+                    <Unicode>DE 1932</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BELLEZAS ELECTAS
+DEL CARNAVAL
+DE 1932</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="414,767 1129,767 1129,1675 414,1675" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="453,798 1121,801 1121,777 1079,757 1004,782 960,760 918,783 849,757 744,761 717,783 679,761 645,783 607,761 453,766" />
+                <Baseline points="458,795 490,795 523,795 556,795 589,795 622,795 655,795 688,795 721,795 754,795 787,795 819,795 852,795 885,795 918,795 951,795 984,795 1017,795 1050,795 1083,797 1116,797" />
+                <TextEquiv>
+                    <Unicode>Foto de la derecha: La Srta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="414,867 1133,859 1094,821 1045,821 1015,850 967,822 784,821 740,849 605,821 414,821" />
+                <Baseline points="419,858 454,858 489,858 525,858 560,858 596,858 631,858 667,858 702,858 738,858 773,858 808,858 844,858 879,858 915,858 950,858 986,858 1021,858 1057,858 1092,858 1128,858" />
+                <TextEquiv>
+                    <Unicode>Emma Zamora, electa Srta. Fili¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="418,938 559,938 579,918 1123,922 1123,900 1031,885 418,900" />
+                <Baseline points="423,924 457,923 492,923 527,921 562,921 596,921 631,921 666,921 701,920 735,920 770,920 805,920 840,921 874,921 909,921 944,921 979,921 1013,920 1048,920 1083,920 1118,920" />
+                <TextEquiv>
+                    <Unicode>pinas y Reina del carnaval de es¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="414,994 551,994 570,975 663,1003 1127,991 1127,959 1093,948 414,951" />
+                <Baseline points="419,984 454,983 489,983 524,983 559,983 594,983 629,983 665,983 700,983 735,983 770,983 805,984 840,984 875,984 911,984 946,984 981,984 1016,983 1051,983 1086,983 1122,981" />
+                <TextEquiv>
+                    <Unicode>te año. Foto inferior, de izquierda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="414,1058 457,1038 487,1059 783,1058 801,1040 839,1058 1127,1057 1127,1032 1075,1012 1010,1036 949,1013 689,1013 667,1035 599,1013 414,1020" />
+                <Baseline points="419,1047 454,1047 489,1046 524,1046 559,1046 594,1046 629,1046 665,1046 700,1046 735,1046 770,1046 805,1046 840,1046 875,1046 911,1046 946,1046 981,1046 1016,1047 1051,1047 1086,1047 1122,1049" />
+                <TextEquiv>
+                    <Unicode>a derecha: Srta: Rosalina Lim,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="415,1114 1127,1117 1127,1086 969,1069 940,1090 871,1069 818,1099 716,1070 690,1095 548,1072 522,1098 415,1075" />
+                <Baseline points="420,1106 455,1107 490,1107 525,1107 560,1107 595,1107 630,1107 665,1107 700,1107 735,1107 771,1107 806,1107 841,1107 876,1107 911,1107 946,1107 981,1107 1016,1107 1051,1107 1086,1107 1122,1109" />
+                <TextEquiv>
+                    <Unicode>Srta. Luzón; Srta. Aleli Guzman,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="412,1179 1124,1178 1124,1138 1062,1133 976,1132 953,1155 863,1133 836,1159 806,1133 773,1155 545,1133 519,1159 412,1136" />
+                <Baseline points="417,1169 452,1169 487,1170 522,1171 557,1172 592,1172 627,1172 662,1172 697,1172 732,1172 768,1172 803,1172 838,1172 873,1171 908,1170 943,1170 978,1170 1013,1170 1048,1170 1083,1169 1119,1169" />
+                <TextEquiv>
+                    <Unicode>Srta. Visayas; y la Srta. Violeta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="409,1244 1123,1234 1098,1204 939,1197 889,1223 687,1197 661,1222 567,1197 542,1221 409,1198" />
+                <Baseline points="414,1233 449,1233 484,1233 519,1233 554,1232 590,1232 625,1233 660,1233 695,1233 730,1233 766,1233 801,1233 836,1233 871,1233 906,1232 942,1232 977,1232 1012,1232 1047,1230 1082,1230 1118,1229" />
+                <TextEquiv>
+                    <Unicode>López, Srta. Mindanao. Las cere¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="418,1306 1117,1298 1116,1268 1087,1261 992,1277 943,1260 920,1284 880,1261 417,1269" />
+                <Baseline points="423,1296 457,1296 491,1295 526,1295 560,1295 595,1295 629,1295 664,1295 698,1295 733,1295 767,1295 801,1295 836,1295 870,1295 905,1295 939,1295 974,1295 1008,1295 1043,1293 1077,1293 1112,1292" />
+                <TextEquiv>
+                    <Unicode>monias de la coronación, de caráe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="421,1370 1129,1358 1129,1333 1029,1325 421,1325" />
+                <Baseline points="426,1359 460,1359 495,1358 530,1358 565,1358 600,1358 635,1358 670,1358 705,1359 740,1359 775,1359 809,1359 844,1359 879,1359 914,1359 949,1358 984,1358 1019,1358 1054,1356 1089,1356 1124,1355" />
+                <TextEquiv>
+                    <Unicode>ter tipicamente oriental, de Emma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="417,1428 665,1427 687,1409 719,1440 748,1420 1127,1425 1127,1390 1008,1381 982,1401 816,1381 764,1409 536,1385 460,1411 417,1387" />
+                <Baseline points="422,1424 457,1422 492,1422 527,1421 562,1419 597,1419 632,1419 667,1419 702,1419 737,1419 772,1419 807,1419 842,1419 877,1419 912,1419 947,1419 982,1419 1017,1419 1052,1418 1087,1418 1122,1416" />
+                <TextEquiv>
+                    <Unicode>I, brillantes y solemnes fueron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="414,1505 763,1478 782,1497 828,1478 1094,1490 1105,1444 889,1447 862,1474 813,1445 685,1475 632,1445 414,1461" />
+                <Baseline points="419,1485 453,1485 487,1485 521,1485 555,1484 589,1484 623,1484 657,1484 691,1484 725,1484 759,1484 793,1484 827,1482 861,1482 895,1482 929,1482 963,1482 997,1481 1031,1481 1065,1481 1100,1479" />
+                <TextEquiv>
+                    <Unicode>presenciadas en el Auditorium'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="421,1557 967,1562 1035,1541 1124,1562 1124,1516 421,1511" />
+                <Baseline points="426,1547 460,1547 495,1545 529,1545 564,1545 599,1545 633,1545 668,1545 703,1544 737,1544 772,1544 807,1544 841,1545 876,1545 911,1545 945,1545 980,1545 1015,1545 1049,1545 1084,1545 1119,1545" />
+                <TextEquiv>
+                    <Unicode>de la ciudad del Carnaval por muy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="419,1619 600,1618 611,1607 631,1626 783,1618 782,1589 730,1572 667,1572 625,1586 418,1581" />
+                <Baseline points="423,1607 448,1608 473,1608 498,1608 524,1608 549,1608 574,1607 600,1607 625,1607 650,1607 675,1607 701,1607 726,1608 751,1608 777,1608" />
+                <TextEquiv>
+                    <Unicode>numeroso público.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="804,1683 895,1675 970,1682 985,1673 1000,1683 1120,1682 1126,1640 804,1645" />
+                <Baseline points="809,1670 835,1670 861,1671 887,1671 913,1671 939,1671 965,1671 991,1670 1017,1670 1043,1670 1069,1670 1095,1670 1121,1668" />
+                <TextEquiv>
+                    <Unicode>Fotos—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto de la derecha: La Srta.
+Emma Zamora, electa Srta. Fili¬
+pinas y Reina del carnaval de es¬
+te año. Foto inferior, de izquierda
+a derecha: Srta: Rosalina Lim,
+Srta. Luzón; Srta. Aleli Guzman,
+Srta. Visayas; y la Srta. Violeta
+López, Srta. Mindanao. Las cere¬
+monias de la coronación, de caráe¬
+ter tipicamente oriental, de Emma
+I, brillantes y solemnes fueron
+presenciadas en el Auditorium'
+de la ciudad del Carnaval por muy
+numeroso público.
+Fotos—SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="308,237 1248,237 1248,262 308,262" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="368,276 1252,276 1252,293 368,293" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="306,295 1256,295 1256,314 306,314" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1517,1759 2200,1759 2200,1780 1517,1780" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="280,1764 873,1764 873,1779 280,1779" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="277,2790 405,2790 405,2797 277,2797" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="428,3161 861,3161 861,3179 428,3179" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="270,3161 413,3161 413,3172 270,3172" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1702,3175 2213,3175 2213,3190 1702,3190" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="319,3206 857,3206 857,3227 319,3227" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1105,3222 1565,3222 1565,3238 1105,3238" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1749,3227 2178,3227 2178,3244 1749,3244" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="280,3228 861,3228 861,3250 280,3250" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1054,3239 1565,3239 1565,3256 1054,3256" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1991,3246 2189,3246 2189,3261 1991,3261" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="190,360 210,360 210,1539 190,1539" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="187,1774 219,1774 219,3158 187,3158" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="234,308 255,308 255,1403 234,1403" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="239,1775 261,1775 261,2953 239,2953" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="258,1784 269,1784 269,2529 258,2529" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="263,2532 271,2532 271,2988 263,2988" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="858,1766 884,1766 884,2153 858,2153" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="858,2251 875,2251 875,2974 858,2974" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="1695,1761 1715,1761 1715,2152 1695,2152" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="1693,2170 1711,2170 1711,3039 1693,3039" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="2191,1779 2211,1779 2211,2981 2191,2981" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="2215,353 2234,353 2234,1402 2215,1402" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:31;}">
+            <Coords points="2211,1779 2230,1779 2230,3003 2211,3003" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:32;}">
+            <Coords points="2263,1778 2287,1778 2287,2929 2263,2929" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:33;}">
+            <Coords points="2274,321 2295,321 2295,1556 2274,1556" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:34;}">
+            <Coords points="1468,2370 1520,2370 1520,2372 1468,2372" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_36" custom="readingOrder {index:35;}">
+            <Coords points="181,233 2300,233 2300,3266 181,3266" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

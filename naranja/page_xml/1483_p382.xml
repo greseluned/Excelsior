@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:44:54.363+02:00</Created>
+        <LastChange>2021-06-08T16:39:49.231+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782418" pageNr="1483" tsid="236401796" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KRMESNUEGTIXCLFLJCINQWDD" xmlUrl="https://files.transkribus.eu/Get?id=XPXMVHUYTZYCIVRQLEYYWMRK" imageId="17247824" />
+    </Metadata>
+    <Page imageFilename="1483_p382.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="362,504 2126,504 2126,3008 362,3008" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982759635" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="493,504 1989,504 1989,587 493,587" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="492,581 1999,565 1936,498 492,506" />
+                <Baseline points="501,567 575,566 649,566 724,566 798,564 873,564 947,564 1021,564 1096,564 1170,564 1245,564 1319,564 1393,564 1468,566 1542,566 1617,566 1691,566 1765,566 1840,564 1914,564 1989,564" />
+                <TextEquiv>
+                    <Unicode>La Gran Feria de Singalong por San Antonio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La Gran Feria de Singalong por San Antonio</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="362,723 1225,723 1225,2999 362,2999" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="398,764 1227,760 1227,721 398,721" />
+                <Baseline points="408,753 448,752 488,752 529,750 569,750 610,750 650,750 691,750 731,750 772,750 812,750 852,751 893,752 933,752 974,752 1014,752 1055,753 1095,753 1136,752 1176,752 1217,752" />
+                <TextEquiv>
+                    <Unicode>Cuando este número llegue a las manos de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="353,811 1153,819 1228,804 1228,780 353,781" />
+                <Baseline points="363,801 405,801 448,801 491,801 534,800 576,800 619,800 662,800 705,800 747,800 790,800 833,800 876,800 918,800 961,800 1004,800 1047,800 1089,800 1132,800 1175,800 1218,798" />
+                <TextEquiv>
+                    <Unicode>nuestros lectores, ya se habrán abierto al pue¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="366,860 1222,861 1222,825 1194,814 366,819" />
+                <Baseline points="375,849 416,849 458,849 500,849 542,848 584,848 626,848 667,848 709,848 751,848 793,849 835,849 877,849 919,849 960,849 1002,849 1044,849 1086,849 1128,849 1170,849 1212,849" />
+                <TextEquiv>
+                    <Unicode>ble de Manila y de provincias las puertas de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="362,912 773,906 773,887 723,865 703,874 663,865 650,878 623,867 609,880 548,865 526,874 362,865" />
+                <Baseline points="372,896 398,897 424,899 450,899 476,899 502,899 528,899 554,898 581,897 607,897 633,897 659,897 685,897 711,897 737,899 764,900" />
+                <TextEquiv>
+                    <Unicode>Feria de San Antonio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="383,957 1225,957 1225,934 1135,921 383,923" />
+                <Baseline points="393,953 434,953 475,953 516,954 557,954 598,954 639,954 680,954 721,954 762,954 804,954 845,954 886,954 927,954 968,954 1009,954 1050,954 1091,954 1132,953 1173,953 1215,953" />
+                <TextEquiv>
+                    <Unicode>Puede decirse y afirmarse que toda Manila so¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="359,1014 1225,1005 1185,971 359,980" />
+                <Baseline points="369,1004 411,1002 453,1002 495,1002 538,1002 580,1002 622,1002 665,1002 707,1002 749,1002 792,1002 834,1002 876,1002 918,1002 961,1002 1003,1002 1045,1002 1088,1001 1130,1001 1172,1001 1215,999" />
+                <TextEquiv>
+                    <Unicode>cial acudirá a está Feria, pues en ella están in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="365,1061 1223,1051 1206,1016 365,1019" />
+                <Baseline points="375,1050 419,1049 463,1050 507,1050 551,1050 595,1050 639,1050 684,1050 728,1050 772,1050 816,1050 860,1049 904,1049 949,1049 993,1049 1037,1049 1081,1048 1125,1047 1169,1047 1214,1046" />
+                <TextEquiv>
+                    <Unicode>teresadas las más prominentes damas y señori¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="361,1110 1221,1109 1221,1071 1191,1062 657,1085 361,1067" />
+                <Baseline points="371,1098 413,1098 455,1098 497,1097 539,1097 581,1097 623,1097 665,1097 707,1097 749,1096 791,1095 833,1095 875,1095 917,1095 959,1095 1001,1095 1043,1095 1085,1095 1127,1095 1169,1096 1212,1097" />
+                <TextEquiv>
+                    <Unicode>tas de nuestra cosmopolita sociedad, desde la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="359,1157 1220,1153 1220,1119 1127,1114 359,1115" />
+                <Baseline points="368,1145 410,1144 452,1143 494,1143 536,1143 578,1143 620,1143 663,1142 705,1142 747,1142 789,1142 831,1142 873,1142 915,1143 958,1143 1000,1143 1042,1143 1084,1143 1126,1143 1168,1142 1211,1142" />
+                <TextEquiv>
+                    <Unicode>ilustre esposa del Gobernador General Sr. Roose¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="365,1204 1193,1205 1230,1201 1230,1160 365,1170" />
+                <Baseline points="374,1193 416,1191 458,1191 500,1191 543,1191 585,1191 627,1191 670,1191 712,1191 754,1191 797,1190 839,1190 881,1190 923,1190 966,1190 1008,1190 1050,1190 1093,1190 1135,1191 1177,1191 1220,1191" />
+                <TextEquiv>
+                    <Unicode>velt y la distinguida señora del Presidente del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="357,1253 1220,1253 1220,1218 1137,1205 928,1225 357,1210" />
+                <Baseline points="366,1238 408,1238 450,1239 492,1239 535,1239 577,1239 619,1239 661,1239 704,1239 746,1239 788,1239 830,1239 873,1239 915,1239 957,1239 999,1239 1042,1239 1084,1239 1126,1239 1168,1239 1211,1239" />
+                <TextEquiv>
+                    <Unicode>Senado, Hon. Manuel L. Quezon, hasta las Srtas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="365,1301 1054,1300 1054,1268 1018,1257 758,1257 726,1274 629,1254 365,1258" />
+                <Baseline points="375,1289 408,1289 441,1289 475,1289 508,1289 542,1289 575,1289 609,1289 642,1289 676,1289 709,1287 742,1287 776,1287 809,1287 843,1287 876,1287 910,1287 943,1287 977,1287 1010,1287 1044,1287" />
+                <TextEquiv>
+                    <Unicode>Filipinas que hasta ahora ha habido.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="386,1355 1233,1354 1233,1328 1190,1313 386,1314" />
+                <Baseline points="396,1344 437,1344 478,1344 520,1344 561,1344 603,1344 644,1344 685,1344 727,1343 768,1343 810,1343 851,1343 892,1343 934,1343 975,1343 1017,1343 1058,1344 1099,1344 1141,1344 1182,1346 1224,1346" />
+                <TextEquiv>
+                    <Unicode>Muchos y diversos atractivos ofrece la Feria,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="366,1410 1171,1411 1222,1403 1222,1369 365,1369" />
+                <Baseline points="375,1394 416,1394 458,1394 500,1394 542,1394 584,1392 626,1392 667,1392 709,1392 751,1392 793,1391 835,1391 877,1391 919,1391 960,1391 1002,1392 1044,1392 1086,1392 1128,1392 1170,1394 1212,1394" />
+                <TextEquiv>
+                    <Unicode>que ocupa una gran extensión de terreno, por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="358,1451 1220,1452 1194,1406 1094,1426 358,1410" />
+                <Baseline points="368,1440 410,1439 452,1439 494,1439 536,1439 578,1439 620,1439 663,1439 705,1439 747,1439 789,1439 831,1439 873,1440 915,1440 958,1440 1000,1440 1042,1440 1084,1440 1126,1440 1168,1440 1211,1442" />
+                <TextEquiv>
+                    <Unicode>los elementos que toman parte en ella, por la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l16" custom="readingOrder {index:15;}">
+                <Coords points="361,1501 1231,1490 1208,1451 362,1463" />
+                <Baseline points="371,1485 413,1485 456,1487 498,1487 541,1487 583,1487 626,1487 668,1487 711,1487 753,1487 796,1487 838,1487 881,1487 923,1487 966,1487 1008,1487 1051,1487 1093,1487 1136,1487 1178,1487 1221,1487" />
+                <TextEquiv>
+                    <Unicode>variedad de sus espectáculos, por la Exposi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l17" custom="readingOrder {index:16;}">
+                <Coords points="365,1545 1175,1550 1221,1544 1221,1512 365,1514" />
+                <Baseline points="374,1536 415,1535 457,1535 499,1535 541,1533 583,1533 625,1533 667,1533 709,1533 751,1533 793,1533 834,1533 876,1533 918,1533 960,1535 1002,1535 1044,1535 1086,1535 1128,1535 1170,1535 1212,1535" />
+                <TextEquiv>
+                    <Unicode>ción y Concurso de Belenes, primera de su cla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l18" custom="readingOrder {index:17;}">
+                <Coords points="353,1593 1185,1598 1221,1594 1221,1557 353,1565" />
+                <Baseline points="363,1584 405,1583 447,1583 490,1583 532,1582 575,1581 617,1581 660,1581 702,1581 745,1581 787,1581 829,1581 872,1583 914,1583 957,1583 999,1583 1042,1583 1084,1581 1127,1581 1169,1581 1212,1581" />
+                <TextEquiv>
+                    <Unicode>se que se celebra en Manila y es la mayor no¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l19" custom="readingOrder {index:18;}">
+                <Coords points="356,1643 1233,1635 1233,1608 1084,1598 356,1608" />
+                <Baseline points="366,1629 408,1629 451,1629 494,1629 537,1629 580,1629 623,1630 666,1631 709,1631 752,1629 795,1629 837,1629 880,1629 923,1629 966,1629 1009,1629 1052,1629 1095,1629 1138,1629 1181,1629 1224,1629" />
+                <TextEquiv>
+                    <Unicode>vedad que ofrece, y por los puestos artísticamen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l20" custom="readingOrder {index:19;}">
+                <Coords points="362,1691 1230,1682 1230,1658 1168,1651 362,1650" />
+                <Baseline points="372,1677 414,1677 456,1679 499,1679 541,1679 584,1679 626,1679 669,1679 711,1679 754,1677 796,1677 838,1677 881,1677 923,1677 966,1677 1008,1677 1051,1677 1093,1677 1136,1677 1178,1678 1221,1679" />
+                <TextEquiv>
+                    <Unicode>te adornados, en los cuales han puesto su empe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l21" custom="readingOrder {index:20;}">
+                <Coords points="362,1740 1220,1741 1220,1703 1029,1690 362,1698" />
+                <Baseline points="371,1725 413,1725 455,1725 497,1725 539,1725 581,1725 623,1725 665,1725 707,1725 749,1724 791,1724 833,1724 875,1724 917,1724 959,1724 1001,1724 1043,1724 1085,1725 1127,1725 1169,1727 1212,1727" />
+                <TextEquiv>
+                    <Unicode>ño y su mayor entusiasmo las señoritas que se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l22" custom="readingOrder {index:21;}">
+                <Coords points="356,1789 933,1785 933,1759 909,1746 821,1738 773,1753 732,1738 712,1753 356,1748" />
+                <Baseline points="366,1772 393,1772 421,1773 449,1773 477,1773 505,1773 533,1773 561,1773 589,1773 617,1772 645,1772 672,1772 700,1772 728,1772 756,1772 784,1772 812,1772 840,1773 868,1773 896,1773 924,1773" />
+                <TextEquiv>
+                    <Unicode>han hecho cargo de los mismos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l23" custom="readingOrder {index:22;}">
+                <Coords points="398,1845 1225,1843 1225,1802 398,1801" />
+                <Baseline points="408,1829 448,1829 488,1829 529,1829 569,1829 609,1830 650,1830 690,1830 730,1829 771,1829 811,1829 851,1829 892,1829 932,1830 972,1830 1013,1830 1053,1830 1093,1830 1134,1830 1174,1831 1215,1832" />
+                <TextEquiv>
+                    <Unicode>Como faro luminoso que con su cegadora luz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l24" custom="readingOrder {index:23;}">
+                <Coords points="363,1891 1231,1884 1212,1850 1072,1843 363,1855" />
+                <Baseline points="372,1878 414,1878 456,1878 499,1878 541,1878 584,1877 626,1877 669,1877 711,1877 754,1877 796,1877 838,1877 881,1877 923,1877 966,1877 1008,1877 1051,1877 1093,1877 1136,1877 1178,1877 1221,1877" />
+                <TextEquiv>
+                    <Unicode>colmará de divinos resplandores las fiestas de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l25" custom="readingOrder {index:24;}">
+                <Coords points="364,1940 1224,1932 1224,1904 1181,1891 364,1897" />
+                <Baseline points="374,1925 416,1925 458,1925 500,1925 542,1925 584,1925 626,1925 668,1925 710,1925 752,1925 794,1925 836,1925 878,1925 920,1925 962,1925 1004,1926 1046,1926 1088,1926 1130,1926 1172,1926 1215,1926" />
+                <TextEquiv>
+                    <Unicode>la Feria, descollará en primer término el glo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l26" custom="readingOrder {index:25;}">
+                <Coords points="363,1988 1231,1982 1212,1947 363,1947" />
+                <Baseline points="372,1971 414,1973 456,1973 499,1973 541,1973 584,1973 626,1973 669,1973 711,1971 754,1971 796,1971 838,1971 881,1971 923,1971 966,1972 1008,1973 1051,1973 1093,1974 1136,1974 1178,1975 1221,1976" />
+                <TextEquiv>
+                    <Unicode>rioso taumaturgo, bendiciendo a sus devotos, y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l27" custom="readingOrder {index:26;}">
+                <Coords points="359,2036 1217,2029 1217,1997 1150,1988 763,2007 556,1986 448,2008 359,1988" />
+                <Baseline points="369,2021 413,2021 457,2021 501,2021 545,2021 589,2021 633,2021 678,2021 722,2021 766,2021 810,2021 854,2021 898,2021 943,2021 987,2021 1031,2021 1075,2021 1119,2021 1163,2021 1208,2022" />
+                <TextEquiv>
+                    <Unicode>bajo su égida la linda niña que con el candoro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l28" custom="readingOrder {index:27;}">
+                <Coords points="360,2086 1224,2085 1224,2044 360,2045" />
+                <Baseline points="369,2067 411,2067 453,2067 495,2067 538,2067 580,2067 622,2067 665,2067 707,2067 749,2067 792,2067 834,2067 876,2067 918,2067 961,2067 1003,2067 1045,2068 1088,2069 1130,2069 1172,2070 1215,2072" />
+                <TextEquiv>
+                    <Unicode>so título de "Lirio de la Inocencia” reinará en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l29" custom="readingOrder {index:28;}">
+                <Coords points="361,2124 402,2131 622,2127 622,2090 586,2094 495,2083 478,2098 426,2083 361,2085" />
+                <Baseline points="371,2115 397,2115 424,2115 451,2115 478,2115 504,2114 531,2114 558,2114 585,2115 612,2117" />
+                <TextEquiv>
+                    <Unicode>dichas fiestas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l30" custom="readingOrder {index:29;}">
+                <Coords points="405,2186 1222,2189 1222,2146 1198,2139 405,2139" />
+                <Baseline points="414,2171 453,2171 493,2171 533,2171 573,2171 613,2171 653,2171 693,2172 733,2172 773,2172 813,2172 852,2174 892,2174 932,2174 972,2174 1012,2175 1052,2175 1092,2175 1132,2175 1172,2174 1212,2174" />
+                <TextEquiv>
+                    <Unicode>Como decimos, la Exposición y Concurso de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l31" custom="readingOrder {index:30;}">
+                <Coords points="356,2229 1216,2230 1216,2195 1086,2186 812,2207 357,2190" />
+                <Baseline points="365,2217 407,2217 449,2217 491,2217 533,2217 575,2217 617,2217 659,2219 701,2219 743,2219 785,2219 827,2220 869,2220 911,2220 953,2222 995,2222 1037,2222 1079,2222 1121,2222 1163,2222 1206,2222" />
+                <TextEquiv>
+                    <Unicode>Belenes atraerá sin duda, por su novedad, a mu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l32" custom="readingOrder {index:31;}">
+                <Coords points="357,2278 1215,2280 1215,2241 1135,2233 357,2243" />
+                <Baseline points="365,2267 407,2265 449,2265 491,2265 533,2265 575,2265 617,2265 659,2265 701,2265 743,2265 785,2267 827,2267 869,2267 911,2267 953,2267 995,2268 1037,2268 1079,2268 1121,2268 1163,2268 1206,2267" />
+                <TextEquiv>
+                    <Unicode>chos forasteros, pues se ha puesto especial em¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l33" custom="readingOrder {index:32;}">
+                <Coords points="365,2332 1234,2322 1234,2294 1106,2282 365,2290" />
+                <Baseline points="374,2315 416,2315 459,2313 501,2313 544,2312 586,2312 629,2312 671,2312 714,2312 756,2313 799,2313 841,2313 884,2315 926,2315 969,2315 1011,2316 1054,2316 1096,2316 1139,2316 1181,2318 1224,2318" />
+                <TextEquiv>
+                    <Unicode>peño en hacerla lo más artística y atractiva po¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l34" custom="readingOrder {index:33;}">
+                <Coords points="359,2371 1221,2370 1221,2341 1037,2331 359,2339" />
+                <Baseline points="369,2361 411,2361 453,2360 495,2360 537,2360 579,2360 621,2360 664,2360 706,2360 748,2361 790,2361 832,2361 874,2361 916,2361 959,2361 1001,2362 1043,2363 1085,2363 1127,2363 1169,2363 1212,2363" />
+                <TextEquiv>
+                    <Unicode>sible. Tenemos entendido que entre Belenes gran¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l35" custom="readingOrder {index:34;}">
+                <Coords points="357,2421 1226,2422 1226,2386 1077,2378 357,2387" />
+                <Baseline points="366,2408 408,2408 451,2408 493,2408 536,2408 578,2408 621,2408 663,2408 706,2408 748,2408 791,2408 834,2408 876,2408 919,2408 961,2409 1004,2409 1046,2409 1089,2409 1131,2411 1174,2411 1217,2412" />
+                <TextEquiv>
+                    <Unicode>des, medianos y pequeños, se han inscrito unos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l36" custom="readingOrder {index:35;}">
+                <Coords points="363,2474 1231,2466 1231,2438 1128,2427 363,2433" />
+                <Baseline points="372,2457 414,2457 456,2456 499,2456 541,2456 584,2456 626,2456 669,2456 711,2456 754,2456 796,2456 838,2456 881,2456 923,2456 966,2457 1008,2457 1051,2457 1093,2457 1136,2457 1178,2457 1221,2459" />
+                <TextEquiv>
+                    <Unicode>quince, no habiendo sus expositores regateado me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l37" custom="readingOrder {index:36;}">
+                <Coords points="357,2517 1224,2517 1200,2475 357,2478" />
+                <Baseline points="366,2502 408,2502 450,2504 493,2504 535,2504 578,2504 620,2504 663,2504 705,2504 748,2504 790,2504 832,2504 875,2504 917,2504 960,2504 1002,2504 1045,2504 1087,2505 1130,2505 1172,2505 1215,2507" />
+                <TextEquiv>
+                    <Unicode>dio alguno para que resulten verdaderas obras de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l38" custom="readingOrder {index:37;}">
+                <Coords points="362,2565 1224,2565 1222,2529 1101,2521 363,2527" />
+                <Baseline points="371,2550 413,2550 455,2551 497,2552 539,2552 582,2552 624,2552 666,2552 708,2552 750,2552 793,2553 835,2553 877,2553 919,2553 961,2553 1004,2553 1046,2553 1088,2553 1130,2555 1172,2555 1215,2555" />
+                <TextEquiv>
+                    <Unicode>arte, en las que la propiedad corra parejas con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l39" custom="readingOrder {index:38;}">
+                <Coords points="369,2612 397,2612 407,2603 416,2612 621,2612 621,2577 569,2571 500,2583 394,2566 370,2571" />
+                <Baseline points="378,2597 403,2598 429,2598 455,2598 481,2597 507,2597 533,2597 559,2598 585,2599 611,2601" />
+                <TextEquiv>
+                    <Unicode>el buen gusto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l40" custom="readingOrder {index:39;}">
+                <Coords points="399,2668 1208,2669 1222,2623 399,2625" />
+                <Baseline points="408,2654 448,2654 488,2654 528,2654 568,2654 609,2654 649,2655 689,2655 729,2655 769,2655 810,2655 850,2657 890,2657 930,2657 970,2657 1011,2658 1051,2658 1091,2658 1131,2658 1171,2657 1212,2657" />
+                <TextEquiv>
+                    <Unicode>En cada noche de los nueve días que durará</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l41" custom="readingOrder {index:40;}">
+                <Coords points="364,2715 1226,2715 1226,2681 1145,2675 365,2674" />
+                <Baseline points="374,2700 416,2700 458,2699 500,2700 542,2700 584,2700 626,2700 669,2700 711,2700 753,2702 795,2702 837,2702 879,2702 921,2703 964,2703 1006,2703 1048,2705 1090,2705 1132,2705 1174,2706 1217,2706" />
+                <TextEquiv>
+                    <Unicode>la Feria, serán variadas las representaciones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l42" custom="readingOrder {index:41;}">
+                <Coords points="356,2761 1224,2759 1189,2723 357,2726" />
+                <Baseline points="365,2748 407,2748 449,2748 492,2748 534,2748 577,2748 619,2748 662,2748 704,2748 747,2748 789,2750 831,2750 874,2750 916,2751 959,2751 1001,2751 1044,2753 1086,2753 1129,2753 1171,2753 1214,2754" />
+                <TextEquiv>
+                    <Unicode>que se darán en el amplio y artístico Audito¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l43" custom="readingOrder {index:42;}">
+                <Coords points="356,2805 1227,2811 1227,2776 1175,2768 356,2777" />
+                <Baseline points="365,2798 407,2796 450,2796 492,2796 535,2795 578,2795 620,2795 663,2796 706,2796 748,2796 791,2797 834,2798 876,2798 919,2798 962,2799 1004,2799 1047,2799 1090,2799 1132,2799 1175,2799 1218,2799" />
+                <TextEquiv>
+                    <Unicode>rium que se ha construído, tomando parte en las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l44" custom="readingOrder {index:43;}">
+                <Coords points="355,2852 1222,2862 1222,2826 1181,2815 355,2820" />
+                <Baseline points="365,2843 407,2843 449,2843 492,2843 534,2843 576,2843 619,2843 661,2843 703,2843 746,2844 788,2844 830,2844 873,2846 915,2846 957,2846 1000,2846 1042,2847 1084,2847 1127,2847 1169,2847 1212,2849" />
+                <TextEquiv>
+                    <Unicode>mismas el Instituto de Mujeres, el Philippine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l45" custom="readingOrder {index:44;}">
+                <Coords points="375,2900 1224,2908 1224,2880 1174,2865 376,2859" />
+                <Baseline points="384,2888 425,2888 467,2889 508,2889 550,2889 591,2889 633,2891 674,2891 716,2891 757,2891 799,2892 841,2892 882,2892 924,2893 965,2894 1007,2894 1048,2894 1090,2895 1131,2895 1173,2895 1215,2897" />
+                <TextEquiv>
+                    <Unicode>Women College, el Colegio de Santa Escolástica,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l46" custom="readingOrder {index:45;}">
+                <Coords points="367,2954 1233,2957 1233,2921 1203,2915 368,2915" />
+                <Baseline points="377,2937 419,2936 461,2936 503,2936 546,2936 588,2936 630,2936 673,2937 715,2937 757,2939 800,2939 842,2940 884,2940 926,2942 969,2942 1011,2942 1053,2943 1096,2943 1138,2943 1180,2943 1223,2943" />
+                <TextEquiv>
+                    <Unicode>y los Colegios Ateneo de Manila, San Juan de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l47" custom="readingOrder {index:46;}">
+                <Coords points="361,2998 847,3002 847,2973 802,2953 763,2972 728,2955 533,2953 495,2971 466,2954 361,2953" />
+                <Baseline points="371,2982 396,2983 422,2984 448,2984 474,2984 500,2985 526,2985 552,2985 578,2985 604,2985 629,2985 655,2985 681,2985 707,2985 733,2985 759,2987 785,2987 811,2988 837,2988" />
+                <TextEquiv>
+                    <Unicode>Letrán, La Salle, etc, etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cuando este número llegue a las manos de
+nuestros lectores, ya se habrán abierto al pue¬
+ble de Manila y de provincias las puertas de la
+Feria de San Antonio.
+Puede decirse y afirmarse que toda Manila so¬
+cial acudirá a esta Feria, pues en ella están in¬
+teresadas las más prominentes damas y señori¬
+tas de nuestra cosmopolita sociedad, desde la
+ilustre esposa del Gobernador General Sr. Roose¬
+velt y la distinguida señora del Presidente del
+Senado, Hon. Manuel L. Quezon, hasta las Srtas.
+Filipinas que hasta ahora ha habido.
+Muchos y diversos atractivos ofrece la Feria,
+que ocupa una gran extensión de terreno, por
+los elementos que toman parte en ella, por la
+variedad de sus espectáculos, por la Exposi¬
+ción y Concurso de Belenes, primera de su cla¬
+se que se celebra en Manila y es la mayor no¬
+vedad que ofrece, y por los puestos artísticamen¬
+te adornados, en los cuales han puesto su empe¬
+ño y su mayor entusiasmo las señoritas que se
+han hecho cargo de los mismos.
+Como faro luminoso que con su cegadora luz
+colmará de divinos resplandores las fiestas de
+la Feria, descollará en primer término el glo¬
+rioso taumaturgo, bendiciendo a sus devotos, y
+bajo su égida la linda niña que con el candoro¬
+so título de "Lirio de la Inocencia” reinará en
+dichas fiestas.
+Como decimos, la Exposición y Concurso de
+Belenes atraerá sin duda, por su novedad, a mu¬
+chos forasteros, pues se ha puesto especial em¬
+peño en hacerla lo más artística y atractiva po¬
+sible. Tenemos entendido que entre Belenes gran¬
+des, medianos y pequeños, se han inscrito unos
+quince, no habiendo sus expositores regateado me¬
+dio alguno para que resulten verdaderas obras de
+arte, en las que la propiedad corra parejas con
+el buen gusto.
+En cada noche de los nueve días que durará
+la Feria, serán variadas las representaciones
+que se darán en el amplio y artístico Audito¬
+rium que se ha construído, tomando parte en las
+mismas el Instituto de Mujeres, el Philippine
+Women College, el Colegio de Santa Escolástica,
+y los Colegios Ateneo de Manila, San Juan de
+Letrán, La Salle, etc, etc.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1291,719 2121,719 2121,2001 1291,2001" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1263,2027 2126,2027 2126,3008 1263,3008" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1303,2068 2122,2068 2122,2025 1303,2026" />
+                <Baseline points="1313,2057 1355,2056 1397,2055 1439,2055 1481,2055 1523,2055 1565,2055 1607,2055 1649,2055 1691,2055 1733,2055 1775,2057 1817,2057 1859,2057 1901,2057 1943,2057 1985,2057 2027,2057 2069,2055 2112,2055" />
+                <TextEquiv>
+                    <Unicode>La niña Carmencita López y Miciano, hija del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1259,2104 2126,2106 2106,2067 1259,2074" />
+                <Baseline points="1268,2094 1310,2096 1352,2096 1395,2096 1437,2096 1480,2097 1522,2097 1565,2097 1607,2097 1650,2097 1692,2097 1734,2097 1777,2097 1819,2097 1862,2097 1904,2096 1947,2096 1989,2096 2032,2096 2074,2097 2117,2097" />
+                <TextEquiv>
+                    <Unicode>reputado Dr. Enrique López, que ha sido elegida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1268,2140 2130,2147 2130,2119 2085,2106 1268,2107" />
+                <Baseline points="1278,2138 1320,2139 1362,2139 1404,2139 1446,2139 1488,2139 1530,2139 1573,2139 1615,2139 1657,2139 1699,2139 1741,2139 1783,2139 1825,2139 1868,2139 1910,2139 1952,2139 1994,2139 2036,2139 2078,2138 2121,2138" />
+                <TextEquiv>
+                    <Unicode>“Lirio de la Inocencia” de la gran Feria de Sin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1262,2195 1368,2198 1372,2194 1404,2193 1404,2169 1391,2167 1381,2157 1363,2159 1355,2155 1341,2163 1313,2147 1305,2155 1285,2162 1262,2162" />
+                <Baseline points="1271,2187 1302,2181 1333,2180 1364,2183 1395,2186" />
+                <TextEquiv>
+                    <Unicode>galong.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1289,2283 2133,2281 2133,2249 2079,2234 1289,2242" />
+                <Baseline points="1299,2271 1340,2271 1381,2271 1422,2271 1464,2271 1505,2271 1546,2270 1587,2270 1629,2270 1670,2270 1711,2270 1752,2270 1794,2270 1835,2270 1876,2270 1917,2270 1959,2270 2000,2270 2041,2271 2082,2271 2124,2271" />
+                <TextEquiv>
+                    <Unicode>La comunidad norteamérica tendrá su noche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1262,2332 2067,2332 2127,2326 2127,2294 1261,2295" />
+                <Baseline points="1271,2318 1313,2318 1355,2318 1398,2319 1440,2319 1482,2318 1525,2318 1567,2318 1609,2318 1652,2318 1694,2316 1736,2316 1779,2316 1821,2316 1863,2316 1906,2315 1948,2315 1990,2315 2033,2316 2075,2316 2118,2316" />
+                <TextEquiv>
+                    <Unicode>el día 16, y la Noche Filipina será la del día 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1257,2373 2125,2372 2125,2341 2009,2331 1257,2334" />
+                <Baseline points="1266,2364 1308,2364 1350,2364 1393,2364 1435,2364 1478,2364 1520,2364 1563,2364 1605,2364 1648,2364 1690,2364 1732,2363 1775,2363 1817,2363 1860,2363 1902,2363 1945,2363 1987,2363 2030,2363 2072,2364 2115,2364" />
+                <TextEquiv>
+                    <Unicode>Pero la que constituirá el clou de todas las no¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1263,2424 2078,2427 2130,2423 2130,2378 1263,2383" />
+                <Baseline points="1272,2411 1314,2411 1356,2412 1399,2412 1441,2412 1484,2412 1526,2412 1569,2412 1611,2411 1654,2411 1696,2411 1738,2411 1781,2411 1823,2411 1866,2411 1908,2411 1951,2411 1993,2411 2036,2411 2078,2411 2121,2411" />
+                <TextEquiv>
+                    <Unicode>ches de la Feria será la de la Coronación del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1273,2466 2128,2469 2127,2434 2064,2426 1273,2427" />
+                <Baseline points="1283,2457 1324,2458 1366,2459 1408,2459 1450,2460 1491,2460 1533,2460 1575,2459 1617,2459 1658,2459 1700,2459 1742,2457 1784,2457 1825,2457 1867,2457 1909,2457 1951,2457 1992,2457 2034,2457 2076,2457 2118,2459" />
+                <TextEquiv>
+                    <Unicode>"Lirio de la Inocencia", cuyas ceremonias tiene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1256,2517 2130,2524 2130,2487 1255,2481" />
+                <Baseline points="1265,2507 1307,2507 1350,2507 1393,2507 1436,2507 1479,2507 1521,2507 1564,2505 1607,2505 1650,2505 1693,2505 1735,2504 1778,2504 1821,2504 1864,2504 1907,2504 1949,2504 1992,2505 2035,2505 2078,2507 2121,2508" />
+                <TextEquiv>
+                    <Unicode>a su cargo la Sra. Caridad Maffei de Lobregat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1262,2566 1984,2573 2079,2560 2079,2528 1262,2530" />
+                <Baseline points="1272,2553 1311,2553 1351,2553 1391,2553 1431,2553 1471,2553 1511,2553 1551,2553 1591,2552 1631,2552 1671,2552 1710,2552 1750,2552 1790,2552 1830,2552 1870,2552 1910,2552 1950,2553 1990,2553 2030,2553 2070,2553" />
+                <TextEquiv>
+                    <Unicode>que es la “Maga” del arte y del buen gusto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1300,2621 2130,2619 2102,2579 1300,2578" />
+                <Baseline points="1310,2607 1350,2608 1391,2609 1431,2609 1472,2610 1512,2610 1553,2610 1593,2609 1634,2609 1674,2609 1715,2609 1756,2609 1796,2609 1837,2607 1877,2607 1918,2608 1958,2609 1999,2609 2039,2609 2080,2610 2121,2612" />
+                <TextEquiv>
+                    <Unicode>En fin; que se preparan diez días de alegría</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1265,2667 2128,2668 2129,2629 1265,2632" />
+                <Baseline points="1274,2655 1316,2655 1358,2655 1400,2655 1443,2655 1485,2655 1527,2655 1570,2655 1612,2655 1654,2655 1697,2655 1739,2655 1781,2655 1823,2655 1866,2657 1908,2657 1950,2657 1993,2657 2035,2657 2077,2657 2120,2657" />
+                <TextEquiv>
+                    <Unicode>sana y reconfortadora, que serán un a modo de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1264,2714 2128,2715 2128,2681 1921,2670 1264,2679" />
+                <Baseline points="1274,2702 1316,2702 1358,2703 1400,2703 1442,2703 1485,2703 1527,2703 1569,2703 1611,2703 1653,2703 1696,2703 1738,2703 1780,2703 1822,2703 1864,2703 1907,2703 1949,2703 1991,2703 2033,2703 2075,2703 2118,2703" />
+                <TextEquiv>
+                    <Unicode>anticipo de las puras y jubilosas de las Pascuas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1268,2764 1722,2762 1722,2732 1634,2716 1537,2734 1454,2714 1268,2716" />
+                <Baseline points="1277,2750 1302,2750 1328,2750 1353,2750 1379,2750 1404,2750 1430,2750 1456,2750 1481,2750 1507,2750 1532,2750 1558,2750 1584,2750 1609,2750 1635,2750 1660,2750 1686,2750 1712,2750" />
+                <TextEquiv>
+                    <Unicode>de Navidad, ya próximas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1304,2816 2127,2816 2127,2784 2078,2778 1304,2770" />
+                <Baseline points="1313,2804 1353,2804 1393,2804 1433,2804 1474,2805 1514,2805 1554,2805 1594,2805 1635,2805 1675,2804 1715,2804 1755,2804 1796,2804 1836,2804 1876,2804 1916,2804 1957,2805 1997,2805 2037,2805 2077,2807 2118,2807" />
+                <TextEquiv>
+                    <Unicode>Contribuyan todos nuestros lectores con algo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1259,2862 2106,2868 2123,2828 1259,2824" />
+                <Baseline points="1269,2849 1311,2850 1353,2850 1395,2850 1438,2850 1480,2852 1522,2852 1564,2852 1607,2852 1649,2852 1691,2852 1733,2852 1776,2852 1818,2852 1860,2852 1902,2852 1945,2852 1987,2853 2029,2853 2071,2853 2114,2853" />
+                <TextEquiv>
+                    <Unicode>a está Feria, pues su objeto no puede ser más</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1267,2908 2123,2909 2123,2872 1267,2867" />
+                <Baseline points="1277,2897 1318,2897 1360,2897 1402,2897 1444,2897 1486,2897 1528,2898 1569,2898 1611,2898 1653,2898 1695,2898 1737,2900 1779,2900 1821,2900 1862,2900 1904,2900 1946,2900 1988,2901 2030,2901 2072,2901 2114,2901" />
+                <TextEquiv>
+                    <Unicode>laudable: Ayudar a una parroquia pobre, como</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1261,2955 2134,2951 2134,2922 2082,2914 1262,2912" />
+                <Baseline points="1271,2943 1313,2943 1356,2943 1398,2942 1441,2942 1484,2943 1526,2943 1569,2943 1612,2943 1654,2944 1697,2945 1740,2945 1782,2946 1825,2946 1868,2946 1910,2948 1953,2948 1996,2948 2038,2948 2081,2948 2124,2948" />
+                <TextEquiv>
+                    <Unicode>lo es la del Distrito de Singalong, a terminar la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l20" custom="readingOrder {index:19;}">
+                <Coords points="1262,3003 1743,3004 1743,2978 1704,2963 1602,2975 1520,2963 1263,2970" />
+                <Baseline points="1271,2991 1296,2991 1322,2990 1348,2990 1373,2990 1399,2990 1425,2991 1451,2991 1476,2991 1502,2991 1528,2991 1553,2991 1579,2993 1605,2993 1631,2993 1656,2994 1682,2994 1708,2994 1734,2994" />
+                <TextEquiv>
+                    <Unicode>construcción de su Iglesia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La niña Carmencita López y Miciano, hija del
+reputado Dr. Enrique López, que ha sido elegida
+“Lirio de la Inocencia” de la gran Feria de Sin¬
+galong.
+La comunidad norteamérica tendrá su noche,
+el día 16, y la Noche Filipina será la del día 9.
+Pero la que constituirá el clou de todas las no¬
+ches de la Feria será la de la Coronación del
+"Lirio de la Inocencia", cuyas ceremonias tiene
+a su cargo la Sra. Caridad Maffei de Lobregat,
+que es la “Maga” del arte y del buen gusto.
+En fin; que se preparan diez días de alegría
+sana y reconfortadora, que serán un a modo de
+anticipo de las puras y jubilosas de las Pascuas
+de Navidad, ya próximas.
+Contribuyan todos nuestros lectores con algo
+a esta Feria, pues su objeto no puede ser más
+laudable: Ayudar a una parroquia pobre, como
+lo es la del Distrito de Singalong, a terminar la
+construcción de su Iglesia.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1065,618 1315,618 1315,625 1065,625" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1299,1026 1300,1026 1300,1150 1299,1150" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1291,719 2121,719 2121,2001 1291,2001" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

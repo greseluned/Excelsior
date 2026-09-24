@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:45:50.377+02:00</Created>
+        <LastChange>2021-10-29T19:13:00.071+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781397" pageNr="506" tsid="236400550" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FYAHSWOMJKTUDOSVUBOTZHQL" xmlUrl="https://files.transkribus.eu/Get?id=DDUAKUCJXTFSOHKGAVBYDMHU" imageId="17244275" />
+    </Metadata>
+    <Page imageFilename="0506_p042.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982532773" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2184,1597 2184,2063 2225,2063 2225,1597" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="2184,1640 2217,1640 2217,1597 2184,1597" />
+                <Baseline points="2184,1626 2217,1626" />
+                <TextEquiv>
+                    <Unicode>El</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="2184,1762 2217,1762 2217,1732 2184,1732" />
+                <Baseline points="2184,1752 2217,1752" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2189,1798 2205,1795 2205,1765 2189,1768" />
+                <Baseline points="2189,1788 2205,1785" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2193,1874 2214,1874 2214,1831 2193,1831" />
+                <Baseline points="2193,1860 2214,1860" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="2196,1955 2211,1955 2211,1922 2196,1922" />
+                <Baseline points="2196,1944 2211,1944" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="2192,2000 2225,2003 2225,1970 2192,1967" />
+                <Baseline points="2192,1989 2225,1992" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="2190,2063 2220,2063 2220,2021 2190,2021" />
+                <Baseline points="2190,2049 2220,2049" />
+                <TextEquiv>
+                    <Unicode>CO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>El
+2
+E
+2
+
+2
+CO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

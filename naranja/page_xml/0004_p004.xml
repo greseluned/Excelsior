@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:02:08.59+02:00</Created>
+        <LastChange>2021-11-03T16:12:19.901+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93780821" pageNr="4" tsid="236399362" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=TXPDUXGNRPBFTWNDRIVOWDIX" xmlUrl="https://files.transkribus.eu/Get?id=MEBKOCIZHGUVETFSYGQNMYOF" imageId="17243711" />
+    </Metadata>
+    <Page imageFilename="0004_p004.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="181,211 2296,211 2296,3276 181,3276" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982416631" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="213,211 2281,211 2281,1123 213,1123" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="209,1163 2295,1163 2295,1413 209,1413" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="350,1209 446,1209 543,1209 639,1211 736,1211 833,1209 929,1209 1026,1209 1122,1209 1219,1209 1316,1209 1412,1209 1509,1211 1605,1211 1702,1211 1799,1211 1895,1212 1992,1212 2088,1214 2185,1215 2282,1217 2282,1181 2185,1179 2088,1178 1992,1176 1895,1176 1799,1175 1702,1175 1605,1175 1509,1175 1412,1173 1316,1173 1219,1173 1122,1173 1026,1173 929,1173 833,1173 736,1175 639,1175 543,1173 446,1173 350,1173" />
+                <Baseline points="350,1197 446,1197 543,1197 639,1199 736,1199 833,1197 929,1197 1026,1197 1122,1197 1219,1197 1316,1197 1412,1197 1509,1199 1605,1199 1702,1199 1799,1199 1895,1200 1992,1200 2088,1202 2185,1203 2282,1205" />
+                <TextEquiv>
+                    <Unicode>Don FULGENCIO BORROMEO, (a la izquierda) y Don RAFAEL MORENO, (a la derecha), reelegidos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="221,1260 324,1260 428,1260 531,1260 635,1260 738,1260 842,1260 945,1260 1049,1260 1152,1260 1256,1260 1360,1260 1463,1260 1567,1260 1670,1261 1774,1262 1877,1262 1981,1263 2084,1263 2188,1265 2292,1265 2292,1229 2188,1229 2084,1227 1981,1227 1877,1226 1774,1226 1670,1225 1567,1224 1463,1224 1360,1224 1256,1224 1152,1224 1049,1224 945,1224 842,1224 738,1224 635,1224 531,1224 428,1224 324,1224 221,1224" />
+                <Baseline points="221,1248 324,1248 428,1248 531,1248 635,1248 738,1248 842,1248 945,1248 1049,1248 1152,1248 1256,1248 1360,1248 1463,1248 1567,1248 1670,1249 1774,1250 1877,1250 1981,1251 2084,1251 2188,1253 2292,1253" />
+                <TextEquiv>
+                    <Unicode>Presidente y Vice-Presidente, respectivamente, del Banco de las Islas Filipinas, primera institución</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="212,1311 321,1311 430,1311 540,1311 649,1311 759,1310 868,1310 977,1310 1087,1310 1196,1310 1306,1310 1415,1311 1525,1311 1634,1311 1743,1312 1853,1313 1962,1314 2072,1314 2181,1316 2291,1317 2291,1280 2181,1279 2072,1277 1962,1277 1853,1276 1743,1275 1634,1274 1525,1274 1415,1274 1306,1273 1196,1273 1087,1273 977,1273 868,1273 759,1273 649,1274 540,1274 430,1274 321,1274 212,1274" />
+                <Baseline points="212,1299 321,1299 430,1299 540,1299 649,1299 759,1298 868,1298 977,1298 1087,1298 1196,1298 1306,1298 1415,1299 1525,1299 1634,1299 1743,1300 1853,1301 1962,1302 2072,1302 2181,1304 2291,1305" />
+                <TextEquiv>
+                    <Unicode>bancaria establecida en el extremo Oriente, que ha conmemorado el 75.o aniversario de su fundación</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="215,1364 318,1364 422,1364 525,1362 629,1362 732,1362 836,1362 939,1362 1043,1362 1146,1362 1250,1364 1353,1364 1457,1364 1560,1364 1664,1364 1767,1365 1871,1365 1974,1367 2078,1367 2181,1368 2285,1368 2285,1331 2181,1331 2078,1330 1974,1330 1871,1328 1767,1328 1664,1327 1560,1327 1457,1327 1353,1327 1250,1327 1146,1325 1043,1325 939,1325 836,1325 732,1325 629,1325 525,1325 422,1327 318,1327 215,1327" />
+                <Baseline points="215,1352 318,1352 422,1352 525,1350 629,1350 732,1350 836,1350 939,1350 1043,1350 1146,1350 1250,1352 1353,1352 1457,1352 1560,1352 1664,1352 1767,1353 1871,1353 1974,1355 2078,1355 2181,1356 2285,1356" />
+                <TextEquiv>
+                    <Unicode>en 1851 con una reseña histórica de su vida muy interesante, magistralmente escrita y lujosamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="209,1415 236,1416 263,1415 290,1415 317,1415 344,1415 372,1416 372,1379 344,1378 317,1378 290,1378 263,1378 236,1379 209,1378" />
+                <Baseline points="209,1403 236,1404 263,1403 290,1403 317,1403 344,1403 372,1404" />
+                <TextEquiv>
+                    <Unicode>editada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Don FULGENCIO BORROMEO, (a la izquierda) y Don RAFAEL MORENO, (a la derecha), reelegidos
+Presidente y Vice-Presidente, respectivamente, del Banco de las Islas Filipinas, primera institución
+bancaria establecida en el extremo Oriente, que ha conmemorado el 75.o aniversario de su fundación
+en 1851 con una reseña histórica de su vida muy interesante, magistralmente escrita y lujosamente
+editada.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="181,1698 2296,1698 2296,3040 181,3040" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="206,3066 2284,3066 2284,3276 206,3276" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="2112,3101 2140,3102 2168,3102 2196,3101 2224,3101 2252,3102 2280,3104 2280,3067 2252,3065 2224,3064 2196,3064 2168,3065 2140,3065 2112,3064" />
+                <Baseline points="2112,3089 2140,3090 2168,3090 2196,3089 2224,3089 2252,3090 2280,3092" />
+                <TextEquiv>
+                    <Unicode>Fotos TVT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="297,3170 395,3170 494,3170 593,3170 692,3168 791,3168 889,3167 988,3167 1087,3165 1186,3165 1285,3164 1383,3164 1482,3164 1581,3162 1680,3162 1779,3161 1877,3161 1976,3161 2075,3161 2174,3161 2273,3161 2273,3125 2174,3125 2075,3125 1976,3125 1877,3125 1779,3125 1680,3126 1581,3126 1482,3128 1383,3128 1285,3128 1186,3129 1087,3129 988,3131 889,3131 791,3132 692,3132 593,3134 494,3134 395,3134 297,3134" />
+                <Baseline points="297,3158 395,3158 494,3158 593,3158 692,3156 791,3156 889,3155 988,3155 1087,3153 1186,3153 1285,3152 1383,3152 1482,3152 1581,3150 1680,3150 1779,3149 1877,3149 1976,3149 2075,3149 2174,3149 2273,3149" />
+                <TextEquiv>
+                    <Unicode>El Te Deum en la Catedral por el aniversario de la coronación de S. S. el Papa Pío XI. El</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="218,3221 321,3221 424,3221 527,3220 630,3219 733,3219 836,3218 939,3218 1042,3217 1145,3216 1248,3216 1351,3215 1454,3215 1557,3213 1660,3213 1763,3212 1866,3212 1969,3210 2072,3210 2175,3210 2279,3209 2279,3173 2175,3174 2072,3174 1969,3174 1866,3176 1763,3176 1660,3177 1557,3177 1454,3179 1351,3179 1248,3180 1145,3180 1042,3181 939,3182 836,3182 733,3183 630,3183 527,3184 424,3185 321,3185 218,3185" />
+                <Baseline points="218,3209 321,3209 424,3209 527,3208 630,3207 733,3207 836,3206 939,3206 1042,3205 1145,3204 1248,3204 1351,3203 1454,3203 1557,3201 1660,3201 1763,3200 1866,3200 1969,3198 2072,3198 2175,3198 2279,3197" />
+                <TextEquiv>
+                    <Unicode>Excmo. Sr. Arzobispo de Manila Mons. M. J. O'Doherty, el Delegado de S. S. en Filipinas, Mons.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="219,3270 316,3270 413,3270 510,3270 608,3270 705,3269 802,3269 900,3269 997,3267 1094,3267 1192,3266 1289,3266 1386,3265 1483,3264 1581,3264 1678,3263 1775,3263 1873,3263 1970,3261 2067,3261 2165,3261 2165,3225 2067,3225 1970,3225 1873,3227 1775,3227 1678,3227 1581,3228 1483,3228 1386,3229 1289,3230 1192,3230 1094,3231 997,3231 900,3233 802,3233 705,3233 608,3234 510,3234 413,3234 316,3234 219,3234" />
+                <Baseline points="219,3258 316,3258 413,3258 510,3258 608,3258 705,3257 802,3257 900,3257 997,3255 1094,3255 1192,3254 1289,3254 1386,3253 1483,3252 1581,3252 1678,3251 1775,3251 1873,3251 1970,3249 2067,3249 2165,3249" />
+                <TextEquiv>
+                    <Unicode>Piani y los IImos. Obispos de las Diócesis de Filipinas, momentos después de las ceremonias,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fotos TVT
+El Te Deum en la Catedral por el aniversario de la coronación de S. S. el Papa Pío XI. El
+Exemo. Sr. Arzobispo de Manila Mons. M. J. O'Doherty, el Delegado de S. S. en Filipinas, Mons.
+Piani y los IImos. Obispos de las Diócesis de Filipinas, momentos después de las ceremonias,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="202,1525 2254,1525 2254,1533 202,1533" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="210,1539 870,1539 870,1545 210,1545" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="1798,1541 1998,1541 1998,1544 1798,1544" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="1408,1700 1772,1700 1772,1702 1408,1702" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="376,2980 592,2980 592,2999 376,2999" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="1194,2998 2259,2998 2259,3015 1194,3015" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="208,3000 802,3000 802,3015 208,3015" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="802,3009 926,3009 926,3016 802,3016" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="397,1714 419,1714 419,1717 397,1717" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="1527,1901 1548,1901 1548,1905 1527,1905" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="229,1957 261,1957 261,1960 229,1960" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="196,1703 2296,1703 2296,3025 196,3025" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

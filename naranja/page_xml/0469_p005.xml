@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:45:37.543+02:00</Created>
+        <LastChange>2021-11-17T21:15:50.111+01:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781358" pageNr="469" tsid="236400491" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ANHGGPYHAMBWXVADHIKSCEDE" xmlUrl="https://files.transkribus.eu/Get?id=STISGJCNKQDFDKQGELWVCFML" imageId="17244074" />
+    </Metadata>
+    <Page imageFilename="0469_p005.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982523811" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="140,217 140,510 374,510 374,217" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="213,367 213,3344 2147,3344 2147,367" />
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="872,662 909,662 947,662 984,661 1022,661 1060,661 1097,661 1135,660 1173,659 1210,659 1248,659 1286,659 1323,659 1361,659 1399,659 1436,659 1474,659 1512,659 1549,659 1587,659 1625,659 1625,625 1587,625 1549,625 1512,625 1474,625 1436,625 1399,625 1361,625 1323,625 1286,625 1248,625 1210,625 1173,625 1135,626 1097,627 1060,627 1022,627 984,627 947,628 909,628 872,628" />
+                <Baseline points="872,651 909,651 947,651 984,650 1022,650 1060,650 1097,650 1135,649 1173,648 1210,648 1248,648 1286,648 1323,648 1361,648 1399,648 1436,648 1474,648 1512,648 1549,648 1587,648 1625,648" />
+                <TextEquiv>
+                    <Unicode>LA MARCA DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:1;}">
+                <Coords points="828,1495 855,1504 882,1516 909,1530 936,1543 963,1552 963,1518 936,1509 909,1496 882,1482 855,1470 828,1461" />
+                <Baseline points="828,1484 855,1493 882,1505 909,1519 936,1532 963,1541" />
+                <TextEquiv>
+                    <Unicode>AMA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:2;}">
+                <Coords points="812,1559 839,1569 866,1579 893,1591 920,1603 947,1616 947,1582 920,1569 893,1557 866,1545 839,1535 812,1525" />
+                <Baseline points="812,1548 839,1558 866,1568 893,1580 920,1592 947,1605" />
+                <TextEquiv>
+                    <Unicode>Gicaga,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:3;}">
+                <Coords points="530,2153 602,2153 675,2153 748,2153 821,2155 894,2155 966,2155 1039,2155 1112,2155 1185,2155 1258,2155 1330,2155 1403,2155 1476,2155 1549,2156 1622,2156 1694,2156 1767,2156 1840,2156 1913,2156 1986,2156 1986,2122 1913,2122 1840,2122 1767,2122 1694,2122 1622,2122 1549,2122 1476,2121 1403,2121 1330,2121 1258,2121 1185,2121 1112,2121 1039,2121 966,2121 894,2121 821,2121 748,2119 675,2119 602,2119 530,2119" />
+                <Baseline points="530,2142 602,2142 675,2142 748,2142 821,2144 894,2144 966,2144 1039,2144 1112,2144 1185,2144 1258,2144 1330,2144 1403,2144 1476,2144 1549,2145 1622,2145 1694,2145 1767,2145 1840,2145 1913,2145 1986,2145" />
+                <TextEquiv>
+                    <Unicode>GASOLINA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:4;}">
+                <Coords points="449,2606 528,2606 608,2606 687,2606 767,2606 846,2605 926,2605 1005,2605 1085,2605 1164,2605 1244,2605 1323,2605 1403,2605 1482,2605 1562,2605 1641,2605 1721,2603 1800,2603 1880,2603 1959,2602 2039,2602 2039,2568 1959,2568 1880,2569 1800,2569 1721,2569 1641,2571 1562,2571 1482,2571 1403,2571 1323,2571 1244,2571 1164,2571 1085,2571 1005,2571 926,2571 846,2571 767,2572 687,2572 608,2572 528,2572 449,2572" />
+                <Baseline points="449,2595 528,2595 608,2595 687,2595 767,2595 846,2594 926,2594 1005,2594 1085,2594 1164,2594 1244,2594 1323,2594 1403,2594 1482,2594 1562,2594 1641,2594 1721,2592 1800,2592 1880,2592 1959,2591 2039,2591" />
+                <TextEquiv>
+                    <Unicode>ACEITE PARA MOTORES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:5;}">
+                <Coords points="345,3065 435,3065 525,3067 615,3067 705,3067 795,3067 885,3067 975,3067 1065,3065 1155,3065 1246,3064 1336,3064 1426,3062 1516,3062 1606,3061 1696,3059 1786,3059 1876,3059 1966,3058 2056,3058 2147,3058 2147,3024 2056,3024 1966,3024 1876,3025 1786,3025 1696,3025 1606,3027 1516,3028 1426,3028 1336,3030 1246,3030 1155,3031 1065,3031 975,3033 885,3033 795,3033 705,3033 615,3033 525,3033 435,3031 345,3031" />
+                <Baseline points="345,3054 435,3054 525,3056 615,3056 705,3056 795,3056 885,3056 975,3056 1065,3054 1155,3054 1246,3053 1336,3053 1426,3051 1516,3051 1606,3050 1696,3048 1786,3048 1876,3048 1966,3047 2056,3047 2147,3047" />
+                <TextEquiv>
+                    <Unicode>The Asiatic PerroleumCo, colid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LA MARCA DE
+AMA.
+Gicaga,
+GASOLINA
+ACEITE PARA MOTORES
+The Asiatic PerroleumCo, colid.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

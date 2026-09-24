@@ -1,0 +1,869 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:47:48.985+02:00</Created>
+        <LastChange>2021-06-08T18:18:24.834+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782642" pageNr="1689" tsid="236402078" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GKQGTWUEAGQGFEDPWFRCGFCG" xmlUrl="https://files.transkribus.eu/Get?id=RYUHGAMDJMAZHIULDJXZAYGG" imageId="17248312" />
+    </Metadata>
+    <Page imageFilename="1689_p588.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="214,264 2268,264 2268,3245 214,3245" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982806576" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="214,264 2268,264 2268,691 214,691" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="222,715 1213,715 1213,1602 222,1602" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="221,763 299,757 317,771 540,752 662,764 687,759 687,727 567,716 537,726 508,710 496,723 325,716 300,736 257,716 220,720" />
+                <Baseline points="227,755 252,755 277,755 302,755 327,755 353,753 378,753 403,753 428,752 454,752 479,752 504,751 529,750 554,750 580,750 605,750 630,752 655,752 681,753" />
+                <TextEquiv>
+                    <Unicode>La juventud turca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="258,824 1167,826 1183,783 258,793" />
+                <Baseline points="264,821 309,819 355,818 400,818 446,816 492,816 537,816 583,815 628,815 674,815 720,815 765,815 811,815 856,815 902,815 948,815 993,815 1039,815 1084,815 1130,815 1176,815" />
+                <TextEquiv>
+                    <Unicode>SE HA DADO DESENFRENADAMENTE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="582,881 838,883 852,877 852,841 689,837 668,856 647,835 609,836 582,857" />
+                <Baseline points="588,873 613,872 639,870 665,870 691,870 717,870 742,870 768,870 794,872 820,872 846,873" />
+                <TextEquiv>
+                    <Unicode>AL BAILE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="264,945 1202,935 1190,903 1095,898 794,921 743,896 264,902" />
+                <Baseline points="270,933 316,933 362,932 408,932 455,932 501,932 547,932 594,932 640,932 686,932 733,933 779,933 825,933 871,933 918,932 964,932 1010,932 1057,932 1103,930 1149,930 1196,929" />
+                <TextEquiv>
+                    <Unicode>La fiebre del baile se ha agudizado tanto en¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="221,990 1209,991 1209,954 221,960" />
+                <Baseline points="227,983 275,983 324,983 373,983 422,983 470,981 519,981 568,981 617,981 665,981 714,981 763,981 812,981 860,981 909,981 958,981 1007,981 1055,981 1104,981 1153,981 1202,981" />
+                <TextEquiv>
+                    <Unicode>tre la juventud turca, que los salones de baile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="225,1043 1191,1043 1215,1008 225,1012" />
+                <Baseline points="231,1034 279,1032 328,1032 377,1032 426,1032 475,1032 524,1032 573,1032 622,1032 671,1032 720,1032 768,1032 817,1032 866,1032 915,1032 964,1032 1013,1031 1062,1031 1111,1031 1160,1031 1209,1031" />
+                <TextEquiv>
+                    <Unicode>abiertos en Constantinopla resultan insuficien¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="223,1093 238,1095 239,1093 252,1095 267,1093 277,1094 284,1098 290,1094 303,1093 304,1077 293,1074 282,1060 247,1061 240,1051 227,1051" />
+                <Baseline points="231,1082 264,1085 297,1088" />
+                <TextEquiv>
+                    <Unicode>tes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="270,1147 1212,1140 1212,1107 1166,1100 270,1100" />
+                <Baseline points="276,1134 322,1134 369,1133 415,1133 462,1133 508,1133 555,1133 601,1133 648,1133 694,1133 741,1133 787,1133 834,1133 880,1133 927,1133 973,1133 1020,1133 1066,1133 1113,1132 1159,1131 1206,1131" />
+                <TextEquiv>
+                    <Unicode>En vista de esto, varias organizaciones y clubs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="224,1203 1202,1194 1202,1153 1166,1148 701,1171 551,1148 504,1174 224,1148" />
+                <Baseline points="230,1185 278,1184 326,1183 374,1182 423,1182 471,1182 519,1182 568,1182 616,1182 664,1182 713,1182 761,1182 809,1182 857,1182 906,1182 954,1182 1002,1182 1051,1182 1099,1182 1147,1182 1196,1181" />
+                <TextEquiv>
+                    <Unicode>juveniles han solicitado del Gobierno que destine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="215,1243 1215,1249 1189,1197 930,1195 900,1224 799,1196 215,1212" />
+                <Baseline points="221,1233 270,1233 319,1233 369,1233 418,1233 468,1233 517,1233 566,1232 616,1232 665,1232 715,1233 764,1233 813,1233 863,1233 912,1233 962,1233 1011,1233 1060,1233 1110,1233 1159,1235 1209,1235" />
+                <TextEquiv>
+                    <Unicode>algunos de los mayores salones del palacio de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="233,1297 1209,1287 1127,1249 233,1260" />
+                <Baseline points="239,1284 287,1283 335,1283 383,1283 431,1283 480,1283 528,1283 576,1283 624,1283 672,1284 721,1284 769,1284 817,1284 865,1284 913,1284 962,1284 1010,1284 1058,1284 1106,1284 1154,1284 1203,1283" />
+                <TextEquiv>
+                    <Unicode>verano del ex Sultán de Turquía en Dolma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="227,1347 867,1346 867,1313 832,1300 743,1316 570,1300 515,1322 227,1300" />
+                <Baseline points="233,1335 264,1335 295,1335 327,1335 358,1335 390,1335 421,1335 452,1335 484,1334 515,1334 547,1334 578,1334 609,1334 641,1334 672,1334 704,1334 735,1334 766,1334 798,1334 829,1334 861,1334" />
+                <TextEquiv>
+                    <Unicode>Bagtche para salones de baile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="262,1395 1217,1392 1175,1357 262,1365" />
+                <Baseline points="269,1388 316,1388 363,1388 410,1388 457,1388 504,1388 551,1388 598,1388 645,1388 692,1388 740,1388 787,1388 834,1388 881,1388 928,1388 975,1388 1022,1388 1069,1388 1116,1389 1163,1389 1211,1389" />
+                <TextEquiv>
+                    <Unicode>Constantinopla se convierte rápidamente en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="214,1441 1212,1450 1212,1413 1043,1403 214,1421" />
+                <Baseline points="221,1439 270,1439 319,1439 368,1439 418,1439 467,1439 516,1439 565,1437 615,1437 664,1437 713,1437 762,1436 812,1436 861,1436 910,1436 959,1436 1009,1437 1058,1437 1107,1437 1156,1439 1206,1440" />
+                <TextEquiv>
+                    <Unicode>una ciudad de costumbres europeas modernas a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="215,1498 1208,1498 1168,1453 1030,1478 969,1453 215,1468" />
+                <Baseline points="221,1490 270,1490 319,1490 368,1490 417,1490 466,1490 515,1488 564,1488 613,1488 662,1488 711,1488 760,1488 809,1488 858,1488 907,1488 956,1488 1005,1488 1054,1488 1103,1490 1152,1490 1202,1491" />
+                <TextEquiv>
+                    <Unicode>pesar de que la gente vieja recrimina a la ju¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l16" custom="readingOrder {index:15;}">
+                <Coords points="224,1546 1206,1539 1206,1517 1025,1503 224,1517" />
+                <Baseline points="230,1538 278,1538 326,1538 375,1538 423,1538 472,1538 520,1539 569,1539 617,1539 666,1539 714,1539 762,1539 811,1538 859,1538 908,1538 956,1538 1005,1538 1053,1538 1102,1538 1150,1538 1199,1538" />
+                <TextEquiv>
+                    <Unicode>ventud duramente por adoptar costumbres con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l17" custom="readingOrder {index:16;}">
+                <Coords points="224,1603 789,1596 726,1556 438,1556 379,1576 224,1556" />
+                <Baseline points="231,1589 258,1590 286,1590 313,1590 341,1592 369,1592 396,1592 424,1592 451,1591 479,1590 507,1590 534,1590 562,1589 589,1589 617,1589 645,1589 672,1589 700,1589 727,1590 755,1590 783,1592" />
+                <TextEquiv>
+                    <Unicode>trarias a las tradicionales.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La juventud turca
+SE HA DADO DESENFRENADAMENTE
+AL BAILE
+La fiebre del baile se ha agudizado tanto en¬
+tre la juventud turca, que los salones de baile
+abiertos en Constantinopla resultan insuficien¬
+tes.
+En vista de esto, varias organizaciones y clubs
+juveniles han solicitado del Gobierno que destine
+algunos de los mayores salones del palacio de
+verano del ex Sultán de Turquía en Dolma¬
+Bagtche para salones de baile.
+Constantinopla se convierte rápidamente en
+una ciudad de costumbres europeas modernas a
+pesar de que la gente vieja recrimina a la ju¬
+ventud duramente por adoptar costumbres con¬
+trarias a las tradicionales.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="222,1700 1216,1700 1216,2732 222,2732" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="293,1747 1148,1742 1123,1699 293,1704" />
+                <Baseline points="299,1736 341,1736 383,1735 425,1734 467,1734 509,1734 551,1733 594,1733 636,1733 678,1733 720,1733 762,1733 804,1733 846,1733 889,1733 931,1733 973,1733 1015,1733 1057,1733 1099,1733 1142,1733" />
+                <TextEquiv>
+                    <Unicode>EL PERIODICO MAS PEQUEÑO DEL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="629,1803 666,1803 677,1796 699,1802 771,1798 792,1803 817,1796 817,1758 714,1755 707,1748 672,1756 629,1756" />
+                <Baseline points="635,1788 660,1787 685,1786 710,1785 735,1785 760,1787 785,1788 810,1790" />
+                <TextEquiv>
+                    <Unicode>MUNDO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="258,1853 1199,1858 1218,1822 258,1824" />
+                <Baseline points="264,1851 311,1851 358,1850 406,1850 453,1850 501,1850 548,1848 595,1848 643,1848 690,1848 738,1848 785,1848 832,1848 880,1848 927,1847 975,1847 1022,1847 1069,1847 1117,1847 1164,1847 1212,1847" />
+                <TextEquiv>
+                    <Unicode>El más diminuto periódico existente en el mun¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="227,1915 1209,1906 1209,1868 227,1869" />
+                <Baseline points="233,1902 281,1902 330,1901 378,1901 427,1901 475,1901 524,1901 572,1899 621,1899 669,1899 718,1899 766,1899 815,1899 863,1899 912,1899 960,1899 1009,1899 1057,1899 1106,1899 1154,1899 1203,1899" />
+                <TextEquiv>
+                    <Unicode>do se titula Better Times, y lo publica en Nueva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="228,1964 1215,1954 1119,1913 228,1920" />
+                <Baseline points="234,1953 282,1953 331,1952 380,1952 429,1952 477,1950 526,1950 575,1950 624,1950 672,1950 721,1950 770,1950 819,1950 867,1950 916,1950 965,1950 1014,1950 1062,1950 1111,1949 1160,1949 1209,1949" />
+                <TextEquiv>
+                    <Unicode>York la dirección de la “Obra de las casas bara¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="225,2013 1095,2019 1206,2011 1206,1969 1059,1992 934,1965 885,1993 782,1968 225,1971" />
+                <Baseline points="231,2004 279,2003 327,2003 376,2002 424,2001 473,2001 521,2001 570,2001 618,2001 667,2001 715,2001 763,2001 812,2001 860,2001 909,2001 957,2001 1006,2001 1054,2001 1103,2001 1151,2001 1200,2001" />
+                <TextEquiv>
+                    <Unicode>tas” Sus modestas dimensiones (10 cm. por 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="225,2067 1220,2058 1191,2020 1151,2043 225,2028" />
+                <Baseline points="231,2054 280,2054 329,2054 378,2054 427,2054 476,2054 525,2054 575,2054 624,2052 673,2052 722,2052 771,2052 820,2052 869,2051 919,2051 968,2051 1017,2052 1066,2052 1115,2052 1164,2054 1214,2055" />
+                <TextEquiv>
+                    <Unicode>cm.) están lejos de alcanzar las del Times, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="225,2117 1214,2107 1213,2080 1079,2068 224,2076" />
+                <Baseline points="231,2106 279,2106 328,2105 377,2105 426,2105 475,2105 524,2105 572,2105 621,2105 670,2105 719,2105 768,2103 817,2103 866,2103 914,2103 963,2103 1012,2103 1061,2103 1110,2103 1159,2102 1208,2102" />
+                <TextEquiv>
+                    <Unicode>Londres, o Le Temps, de París; pero bajo tan pe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="227,2175 1202,2163 1202,2133 1113,2122 227,2132" />
+                <Baseline points="233,2156 281,2156 329,2156 377,2156 425,2156 473,2156 521,2156 570,2156 618,2156 666,2156 714,2156 762,2156 810,2156 858,2156 907,2156 955,2154 1003,2154 1051,2154 1099,2154 1147,2154 1196,2153" />
+                <TextEquiv>
+                    <Unicode>queño espacio encierra numerosas informaciones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="228,2219 1210,2208 1209,2181 1096,2172 228,2182" />
+                <Baseline points="234,2207 282,2207 330,2207 379,2207 427,2207 476,2207 524,2207 573,2207 621,2207 670,2207 718,2207 766,2207 815,2205 863,2205 912,2205 960,2205 1009,2204 1057,2204 1106,2204 1154,2203 1203,2202" />
+                <TextEquiv>
+                    <Unicode>útiles, bastantes grabados y novelas muy in ere¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="218,2263 1206,2267 1215,2222 218,2235" />
+                <Baseline points="224,2256 273,2256 322,2258 371,2258 420,2258 470,2258 519,2258 568,2258 617,2258 666,2256 716,2256 765,2256 814,2256 863,2256 912,2256 962,2255 1011,2256 1060,2256 1109,2256 1158,2256 1208,2258" />
+                <TextEquiv>
+                    <Unicode>santes. Este colega liliputiense tira más de 200.000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:11;}">
+                <Coords points="227,2323 1172,2322 1209,2315 1209,2281 227,2283" />
+                <Baseline points="234,2307 282,2307 330,2307 379,2307 427,2307 476,2307 524,2307 573,2307 621,2307 670,2307 718,2307 766,2307 815,2307 863,2307 912,2307 960,2307 1009,2307 1057,2307 1106,2307 1154,2307 1203,2307" />
+                <TextEquiv>
+                    <Unicode>ejemplares, desinándose sus productos a aumentar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l13" custom="readingOrder {index:12;}">
+                <Coords points="215,2367 1173,2371 1208,2334 215,2341" />
+                <Baseline points="221,2361 270,2360 319,2360 368,2360 417,2359 466,2358 515,2358 564,2358 613,2358 662,2358 711,2357 760,2357 809,2357 858,2357 907,2357 956,2357 1005,2357 1054,2357 1103,2357 1152,2358 1202,2358" />
+                <TextEquiv>
+                    <Unicode>el fondo de la Sociedad constructora de casas eco¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l14" custom="readingOrder {index:13;}">
+                <Coords points="220,2415 1103,2427 1214,2418 1214,2382 220,2392" />
+                <Baseline points="227,2409 276,2409 325,2411 374,2411 423,2411 472,2411 521,2411 570,2411 619,2411 668,2411 717,2411 766,2411 815,2409 864,2409 913,2409 962,2409 1011,2409 1060,2409 1109,2409 1158,2409 1208,2409" />
+                <TextEquiv>
+                    <Unicode>nómicas. Sus gastos son reducidos, pues por lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l15" custom="readingOrder {index:14;}">
+                <Coords points="227,2476 1169,2473 1211,2466 1211,2435 227,2440" />
+                <Baseline points="233,2463 281,2462 330,2462 378,2462 427,2460 476,2460 524,2460 573,2460 621,2460 670,2460 719,2460 767,2460 816,2460 864,2462 913,2462 962,2462 1010,2462 1059,2460 1107,2460 1156,2460 1205,2459" />
+                <TextEquiv>
+                    <Unicode>que se refiere a personal, no tiene sino un so o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l16" custom="readingOrder {index:15;}">
+                <Coords points="221,2519 1204,2523 1212,2474 1160,2501 1103,2476 221,2490" />
+                <Baseline points="227,2511 275,2511 324,2511 373,2511 422,2511 471,2510 520,2510 569,2510 618,2510 667,2510 716,2510 764,2510 813,2510 862,2511 911,2511 960,2511 1009,2511 1058,2511 1107,2511 1156,2510 1205,2510" />
+                <TextEquiv>
+                    <Unicode>redactor, un fotograbador y un tipógrafo: el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l17" custom="readingOrder {index:16;}">
+                <Coords points="222,2568 1221,2563 1182,2533 1028,2528 222,2532" />
+                <Baseline points="228,2562 277,2562 326,2561 376,2561 425,2561 474,2561 524,2561 573,2561 622,2561 672,2562 721,2562 770,2562 820,2562 869,2562 918,2562 968,2562 1017,2562 1066,2562 1116,2562 1165,2562 1215,2562" />
+                <TextEquiv>
+                    <Unicode>ideal en estos tiempos difíciles de huelgas per¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l18" custom="readingOrder {index:17;}">
+                <Coords points="231,2627 1209,2617 1209,2587 1112,2576 231,2587" />
+                <Baseline points="237,2613 285,2613 333,2612 381,2612 430,2612 478,2612 526,2612 575,2612 623,2613 671,2613 720,2613 768,2613 816,2613 864,2613 913,2613 961,2613 1009,2612 1058,2612 1106,2612 1154,2612 1203,2612" />
+                <TextEquiv>
+                    <Unicode>manentes. Por lo que es posible que el Betten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l19" custom="readingOrder {index:18;}">
+                <Coords points="233,2675 1191,2675 1212,2639 462,2629 364,2655 232,2632" />
+                <Baseline points="239,2663 287,2663 335,2663 383,2663 432,2663 480,2663 528,2663 577,2663 625,2663 673,2663 722,2663 770,2664 818,2664 866,2663 915,2663 963,2663 1011,2663 1060,2663 1108,2661 1156,2661 1205,2660" />
+                <TextEquiv>
+                    <Unicode>Times, nombre acaso profético de mejores tiem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l20" custom="readingOrder {index:19;}">
+                <Coords points="231,2732 1204,2726 1174,2680 231,2692" />
+                <Baseline points="237,2715 285,2715 333,2715 381,2715 429,2715 477,2715 525,2714 573,2714 621,2714 669,2714 717,2714 765,2714 813,2714 861,2714 909,2714 957,2714 1005,2714 1053,2714 1101,2714 1149,2714 1197,2714" />
+                <TextEquiv>
+                    <Unicode>nos, sea el precursor de los diarios del porvenir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EL PERIODICO MAS PEQUEÑO DEL
+MUNDO
+El mas diminuto periódico existente en el mun¬
+do se titula Better Times, y lo publica en Nueva
+York la dirección de la “Obra de las casas bara¬
+tas” Sus modestas dimensiones (10 cm. por 14
+cm.) están lejos de alcanzar las del Times, de
+Londres, o Le Temps, de París; pero bajo tan pe¬
+queño espacio encierra numerosas informaciones
+útiles, bastantes grabados y novelas muy in ere¬
+santes. Este colega liliputiense tira más de 200.000
+ejemplares, desinándose sus productos a aumentar
+el fondo de la Sociedad constructora de casas eco¬
+nómicas. Sus gastos son reducidos, pues por lo
+que se refiere a personal, no tiene sino un so o
+redactor, un fotograbador y un tipógrafo: el
+ideal en estos tiempos difíciles de huelgas per¬
+manentes. Por lo que es posible que el Betten¬
+Times, nombre acaso profético de mejores tiem¬
+nos, sea el precursor de los diarios del porvenir.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="228,2830 1215,2830 1215,3238 228,3238" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="335,2860 1125,2863 1111,2828 335,2827" />
+                <Baseline points="341,2859 379,2858 418,2858 457,2858 496,2858 535,2859 574,2859 613,2859 652,2859 691,2859 730,2861 768,2861 807,2861 846,2861 885,2861 924,2861 963,2862 1002,2861 1041,2861 1080,2861 1119,2861" />
+                <TextEquiv>
+                    <Unicode>EN HOMBRE FOSIL AFRICANO?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="268,2933 303,2931 315,2916 327,2913 321,2881 261,2892" />
+                <Baseline points="273,2922 321,2913" />
+                <TextEquiv>
+                    <Unicode>*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="347,2922 1221,2931 1184,2889 347,2897" />
+                <Baseline points="353,2916 396,2918 439,2919 482,2920 525,2921 568,2921 611,2922 654,2922 697,2922 740,2922 784,2922 827,2922 870,2922 913,2922 956,2922 999,2922 1042,2924 1085,2924 1128,2924 1171,2925 1215,2925" />
+                <TextEquiv>
+                    <Unicode>dombre de Oldoway.—El Dr. Hans Reck,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="231,2987 1218,2975 1146,2939 231,2954" />
+                <Baseline points="237,2973 285,2973 334,2973 383,2973 432,2973 480,2973 529,2973 578,2973 627,2973 675,2973 724,2973 773,2973 822,2973 870,2973 919,2973 968,2973 1017,2973 1065,2973 1114,2972 1163,2972 1212,2972" />
+                <TextEquiv>
+                    <Unicode>Ce Berlín, acaba de mostrar a la Sociedad Geo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="230,3035 1222,3036 1196,2996 528,2988 361,3015 230,2987" />
+                <Baseline points="237,3023 285,3023 334,3023 383,3023 432,3024 481,3024 530,3024 579,3024 628,3023 677,3023 726,3023 774,3023 823,3023 872,3023 921,3023 970,3023 1019,3024 1068,3024 1117,3024 1166,3026 1215,3027" />
+                <TextEquiv>
+                    <Unicode>iógica, de aquella ciudad, un descubrimien o que,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="228,3082 1123,3091 1208,3082 1208,3045 228,3052" />
+                <Baseline points="234,3075 282,3074 330,3074 379,3074 427,3074 476,3074 524,3074 572,3074 621,3074 669,3074 718,3074 766,3074 814,3074 863,3074 911,3075 960,3075 1008,3075 1056,3075 1105,3075 1153,3074 1202,3074" />
+                <TextEquiv>
+                    <Unicode>si sa autemticidad es reconocida, sería capital</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="221,3137 1189,3139 1199,3100 221,3106" />
+                <Baseline points="227,3125 275,3125 323,3123 371,3123 420,3123 468,3123 516,3123 565,3125 613,3125 661,3125 710,3125 758,3125 806,3125 854,3126 903,3126 951,3126 999,3126 1048,3126 1096,3126 1144,3125 1193,3125" />
+                <TextEquiv>
+                    <Unicode>para la palcentología humana: se trata, en efec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="222,3180 1221,3181 1221,3153 1168,3140 1040,3140 1013,3167 903,3139 222,3151" />
+                <Baseline points="228,3173 277,3174 326,3174 375,3174 425,3176 474,3176 523,3176 573,3176 622,3176 671,3177 721,3177 770,3177 819,3177 868,3177 918,3177 967,3177 1016,3177 1066,3177 1115,3177 1164,3177 1214,3177" />
+                <TextEquiv>
+                    <Unicode>to. de un hombre fósil exhumado en el Africa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="258,3235 585,3234 585,3215 564,3204 457,3205 439,3192 401,3211 373,3192 362,3201 343,3192 258,3200" />
+                <Baseline points="264,3224 290,3225 316,3225 342,3225 368,3225 394,3225 421,3225 447,3225 473,3225 499,3225 525,3225 551,3225 578,3225" />
+                <TextEquiv>
+                    <Unicode>tiental alemana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EN HOMBRE FOSIL AFRICANO?
+*
+dombre de Oldoway.—El Dr. Hans Reck,
+Ce Berlín, acaba de mostrar a la Sociedad Geo¬
+iógica, de aquella ciudad, un descubrimien o que,
+si sa autemticidad es reconocida, sería capital
+para la palcentología humana: se trata, en efec
+to. de un hombre fósil exhumado en el Africa
+tiental alemana.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1262,710 2253,710 2253,3245 1262,3245" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1308,756 2231,754 2245,716 1307,709" />
+                <Baseline points="1314,747 1360,746 1406,746 1452,746 1498,744 1545,744 1591,744 1637,744 1683,744 1729,744 1776,743 1822,743 1868,743 1914,743 1960,743 2007,743 2053,743 2099,744 2145,744 2191,744 2238,744" />
+                <TextEquiv>
+                    <Unicode>He aquí los primeros informes del descubri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1269,806 1319,810 1324,805 1357,804 1377,810 1385,805 1401,809 1418,805 1418,772 1385,773 1366,764 1343,772 1325,772 1316,764 1303,764 1293,772 1270,772" />
+                <Baseline points="1275,794 1302,795 1329,794 1357,795 1384,795 1412,798" />
+                <TextEquiv>
+                    <Unicode>miento:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1307,854 2259,845 2259,822 2114,812 1307,812" />
+                <Baseline points="1313,846 1360,846 1407,845 1454,845 1501,845 1548,845 1595,845 1642,845 1689,845 1736,845 1783,845 1830,845 1877,845 1924,845 1971,845 2018,845 2065,846 2112,846 2159,846 2206,846 2253,848" />
+                <TextEquiv>
+                    <Unicode>La expedición en el curso de la cual se ha pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1260,907 2254,906 2254,868 1260,870" />
+                <Baseline points="1266,897 1315,897 1364,897 1413,897 1462,897 1511,897 1560,897 1609,897 1658,897 1707,897 1756,897 1805,897 1854,897 1903,897 1952,897 2001,897 2050,897 2099,897 2148,897 2197,897 2247,897" />
+                <TextEquiv>
+                    <Unicode>ducido, organizada por el Instituto y el Museo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1258,955 2250,959 2250,915 2167,909 1258,918" />
+                <Baseline points="1265,947 1316,947 1368,948 1419,948 1471,948 1522,948 1574,948 1625,948 1677,948 1728,947 1780,947 1831,947 1883,947 1934,947 1986,946 2037,945 2089,945 2140,945 2192,947 2244,947" />
+                <TextEquiv>
+                    <Unicode>de Geología y Paleontología de la Universidad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1265,1011 2244,1003 2208,964 1265,965" />
+                <Baseline points="1271,996 1319,998 1367,998 1416,998 1464,998 1512,998 1561,998 1609,998 1657,998 1706,998 1754,998 1802,998 1851,998 1899,998 1947,998 1996,998 2044,998 2092,998 2141,998 2189,996 2238,996" />
+                <TextEquiv>
+                    <Unicode>de Berlín, tenía por programa la busca de verte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1264,1059 2253,1059 2253,1022 2140,1012 1264,1013" />
+                <Baseline points="1271,1050 1319,1049 1368,1049 1417,1049 1466,1049 1515,1048 1563,1047 1612,1047 1661,1047 1710,1047 1759,1047 1807,1047 1856,1047 1905,1047 1954,1049 2003,1049 2051,1049 2100,1049 2149,1049 2198,1049 2247,1049" />
+                <TextEquiv>
+                    <Unicode>brados fósiles terciarios y había emprendido con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1265,1106 2192,1123 2257,1079 1265,1076" />
+                <Baseline points="1271,1100 1322,1100 1374,1100 1425,1100 1477,1100 1528,1098 1580,1098 1631,1098 1683,1098 1734,1098 1786,1098 1837,1098 1889,1100 1940,1100 1992,1100 2043,1100 2095,1101 2146,1101 2198,1101 2250,1103" />
+                <TextEquiv>
+                    <Unicode>este objeto excavaciones sistemáticas en el lugar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1265,1163 2247,1163 2247,1125 2134,1114 1265,1123" />
+                <Baseline points="1272,1148 1320,1148 1368,1149 1417,1149 1465,1149 1514,1149 1562,1149 1611,1149 1659,1149 1708,1149 1756,1149 1804,1149 1853,1149 1901,1148 1950,1149 1998,1149 2047,1149 2095,1149 2144,1150 2192,1151 2241,1152" />
+                <TextEquiv>
+                    <Unicode>conocido bajo el nombre de “pozos” de Oldoway.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1271,1211 2247,1209 2208,1165 1271,1169" />
+                <Baseline points="1278,1199 1326,1199 1374,1200 1422,1200 1470,1200 1518,1200 1566,1200 1615,1200 1663,1200 1711,1200 1759,1200 1807,1200 1855,1200 1903,1200 1952,1200 2000,1200 2048,1200 2096,1200 2144,1200 2192,1200 2241,1202" />
+                <TextEquiv>
+                    <Unicode>Es éste un conjunto de capas de toba volcánica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1268,1262 2254,1254 2199,1217 1268,1220" />
+                <Baseline points="1275,1251 1323,1251 1372,1251 1420,1251 1469,1250 1518,1250 1566,1250 1615,1250 1663,1250 1712,1250 1761,1250 1809,1250 1858,1250 1906,1250 1955,1250 2004,1250 2052,1250 2101,1250 2149,1250 2198,1250 2247,1250" />
+                <TextEquiv>
+                    <Unicode>donde el Dr. Reck distingue cinco principales ho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1262,1313 2255,1313 2255,1278 2183,1269 1262,1277" />
+                <Baseline points="1268,1301 1317,1301 1366,1302 1415,1302 1464,1302 1513,1302 1562,1302 1611,1302 1660,1302 1709,1302 1758,1302 1807,1302 1856,1302 1905,1301 1954,1301 2003,1301 2052,1301 2101,1301 2150,1301 2199,1301 2249,1301" />
+                <TextEquiv>
+                    <Unicode>rizontes geológicos. Las excavaciones en tres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1260,1363 2259,1357 2241,1324 2086,1316 1260,1328" />
+                <Baseline points="1266,1352 1315,1352 1364,1353 1414,1353 1463,1353 1512,1353 1562,1353 1611,1353 1660,1353 1710,1352 1759,1352 1808,1352 1858,1352 1907,1352 1956,1352 2006,1352 2055,1352 2104,1352 2154,1353 2203,1353 2253,1353" />
+                <TextEquiv>
+                    <Unicode>meses pusieron al descubierto unos 1,700 huesos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1265,1414 2251,1419 2251,1381 2215,1367 1265,1373" />
+                <Baseline points="1272,1403 1320,1403 1369,1404 1417,1404 1466,1404 1515,1404 1563,1404 1612,1404 1660,1403 1709,1403 1758,1403 1806,1403 1855,1403 1903,1403 1952,1403 2001,1403 2049,1403 2098,1404 2146,1404 2195,1405 2244,1406" />
+                <TextEquiv>
+                    <Unicode>de animales mezclados con rastro de industria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1259,1466 2252,1467 2227,1421 1984,1444 1944,1421 1259,1421" />
+                <Baseline points="1265,1454 1314,1454 1363,1454 1412,1455 1461,1455 1510,1455 1559,1455 1608,1455 1657,1455 1706,1455 1755,1455 1804,1455 1853,1455 1902,1455 1951,1455 2000,1455 2049,1455 2098,1455 2147,1455 2196,1454 2246,1454" />
+                <TextEquiv>
+                    <Unicode>humana, bajo la forma, sobre todo, de ruinas de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1262,1516 1437,1515 1437,1490 1422,1483 1384,1484 1375,1475 1358,1475 1334,1484 1319,1469 1305,1469 1290,1483 1262,1483" />
+                <Baseline points="1269,1505 1296,1506 1323,1506 1350,1505 1377,1505 1404,1506 1431,1508" />
+                <TextEquiv>
+                    <Unicode>cabañas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1299,1566 2247,1558 2121,1524 1299,1527" />
+                <Baseline points="1305,1556 1351,1556 1398,1556 1445,1556 1492,1557 1539,1557 1585,1557 1632,1557 1679,1557 1726,1557 1773,1557 1819,1557 1866,1557 1913,1557 1960,1557 2007,1557 2053,1557 2100,1557 2147,1557 2194,1556 2241,1556" />
+                <TextEquiv>
+                    <Unicode>El hombre fósil ha sido encontrado en la pen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1271,1618 2249,1618 2249,1580 2208,1573 1919,1595 1896,1572 1271,1572" />
+                <Baseline points="1277,1607 1325,1607 1373,1608 1421,1608 1470,1608 1518,1608 1566,1608 1615,1608 1663,1608 1711,1607 1760,1607 1808,1607 1856,1607 1904,1607 1953,1607 2001,1607 2049,1607 2098,1607 2146,1607 2194,1607 2243,1607" />
+                <TextEquiv>
+                    <Unicode>diente inclinada de los “pozos”. Reposaba entre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1261,1665 2240,1665 2222,1631 2040,1620 1261,1634" />
+                <Baseline points="1268,1658 1316,1658 1364,1658 1412,1658 1461,1659 1509,1659 1557,1659 1606,1659 1654,1659 1702,1658 1751,1658 1799,1658 1847,1658 1895,1658 1944,1658 1992,1658 2040,1658 2089,1658 2137,1658 2185,1659 2234,1659" />
+                <TextEquiv>
+                    <Unicode>una capa de toba a poca profundidad bajo la su¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l20" custom="readingOrder {index:19;}">
+                <Coords points="1259,1731 2247,1718 2255,1682 1259,1684" />
+                <Baseline points="1265,1712 1314,1712 1363,1710 1412,1710 1461,1709 1511,1709 1560,1709 1609,1709 1658,1709 1707,1709 1757,1709 1806,1709 1855,1709 1904,1709 1953,1709 2003,1709 2052,1709 2101,1709 2150,1709 2199,1709 2249,1709" />
+                <TextEquiv>
+                    <Unicode>perficie, y con la circunstancia notable de que la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l21" custom="readingOrder {index:20;}">
+                <Coords points="1265,1771 2250,1764 2226,1724 1265,1737" />
+                <Baseline points="1271,1760 1319,1760 1368,1760 1416,1759 1465,1758 1514,1758 1562,1758 1611,1759 1660,1760 1708,1760 1757,1760 1806,1760 1854,1760 1903,1760 1952,1760 2000,1760 2049,1760 2098,1760 2146,1758 2195,1758 2244,1757" />
+                <TextEquiv>
+                    <Unicode>capa en cuestión no presentaba ninguna modifi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l22" custom="readingOrder {index:21;}">
+                <Coords points="1267,1819 2248,1819 2248,1784 2151,1776 1806,1801 1764,1774 1652,1801 1267,1784" />
+                <Baseline points="1274,1811 1322,1811 1370,1811 1419,1811 1467,1812 1515,1812 1564,1812 1612,1811 1660,1811 1709,1811 1757,1811 1805,1811 1854,1809 1902,1809 1950,1809 1999,1809 2047,1809 2095,1809 2144,1808 2192,1808 2241,1808" />
+                <TextEquiv>
+                    <Unicode>cación ni ninguna huella de trabajo destinado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l23" custom="readingOrder {index:22;}">
+                <Coords points="1259,1870 2219,1873 2248,1827 1259,1835" />
+                <Baseline points="1265,1862 1313,1862 1362,1862 1411,1862 1460,1862 1509,1862 1557,1862 1606,1862 1655,1862 1704,1860 1753,1860 1801,1860 1850,1860 1899,1860 1948,1860 1997,1860 2045,1860 2094,1860 2143,1860 2192,1859 2241,1859" />
+                <TextEquiv>
+                    <Unicode>a un enterramiento. De esto deduce el Dr. Reck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l24" custom="readingOrder {index:23;}">
+                <Coords points="1272,1930 2256,1921 2256,1885 2020,1875 1978,1899 1943,1877 1272,1884" />
+                <Baseline points="1278,1914 1326,1913 1375,1913 1423,1913 1472,1911 1521,1911 1569,1911 1618,1911 1666,1911 1715,1911 1764,1910 1812,1910 1861,1910 1909,1910 1958,1911 2007,1911 2055,1911 2104,1911 2152,1911 2201,1911 2250,1913" />
+                <TextEquiv>
+                    <Unicode>que aquel hombre no fué enterrado, sino que, por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l25" custom="readingOrder {index:24;}">
+                <Coords points="1271,1974 2178,1977 2253,1969 2253,1941 1270,1937" />
+                <Baseline points="1277,1961 1325,1962 1374,1962 1422,1962 1471,1962 1519,1962 1568,1962 1616,1962 1665,1962 1713,1962 1762,1962 1810,1962 1859,1962 1907,1962 1956,1962 2004,1961 2053,1961 2101,1961 2150,1961 2198,1961 2247,1961" />
+                <TextEquiv>
+                    <Unicode>el contrario, a consecuencia de un accidente cual¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l26" custom="readingOrder {index:25;}">
+                <Coords points="1261,2025 2253,2020 2253,1986 2104,1980 1261,1986" />
+                <Baseline points="1268,2013 1319,2013 1371,2013 1422,2013 1474,2013 1525,2013 1577,2012 1628,2012 1680,2012 1731,2012 1783,2012 1834,2012 1886,2012 1937,2012 1989,2012 2040,2013 2092,2013 2143,2013 2195,2013 2247,2013" />
+                <TextEquiv>
+                    <Unicode>quiera su esqueleto fué hallado englobado como</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l27" custom="readingOrder {index:26;}">
+                <Coords points="1268,2074 2249,2074 2249,2039 2210,2027 1268,2037" />
+                <Baseline points="1274,2063 1322,2063 1370,2064 1419,2064 1467,2064 1516,2064 1564,2064 1613,2064 1661,2064 1710,2064 1758,2063 1806,2063 1855,2063 1903,2063 1952,2063 2000,2063 2049,2063 2097,2063 2146,2063 2194,2063 2243,2063" />
+                <TextEquiv>
+                    <Unicode>un fósil ordinario en la formacián natural de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l28" custom="readingOrder {index:27;}">
+                <Coords points="1268,2130 2220,2129 2250,2123 2250,2083 1268,2085" />
+                <Baseline points="1274,2115 1322,2114 1371,2114 1419,2114 1468,2114 1516,2114 1565,2115 1613,2115 1662,2115 1710,2115 1759,2115 1807,2115 1856,2115 1904,2115 1953,2115 2001,2115 2050,2115 2098,2114 2147,2114 2195,2114 2244,2114" />
+                <TextEquiv>
+                    <Unicode>toba: cabria, pues, suponer, por ejemplo, que el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l29" custom="readingOrder {index:28;}">
+                <Coords points="1267,2179 2243,2171 2225,2140 1267,2132" />
+                <Baseline points="1274,2165 1322,2165 1370,2165 1418,2165 1466,2165 1514,2165 1562,2165 1611,2165 1659,2166 1707,2166 1755,2166 1803,2166 1851,2166 1899,2165 1948,2165 1996,2165 2044,2165 2092,2164 2140,2163 2188,2163 2237,2162" />
+                <TextEquiv>
+                    <Unicode>hombre se había ahogado y que su cuerpo repo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l30" custom="readingOrder {index:29;}">
+                <Coords points="1255,2226 2103,2235 2257,2225 2257,2193 1255,2196" />
+                <Baseline points="1262,2214 1311,2216 1360,2216 1410,2216 1459,2217 1509,2217 1558,2217 1607,2217 1657,2217 1706,2217 1756,2216 1805,2216 1854,2216 1904,2216 1953,2216 2003,2216 2052,2214 2101,2214 2151,2214 2200,2214 2250,2214" />
+                <TextEquiv>
+                    <Unicode>saba en el fondo del lago donde se ha depositado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l31" custom="readingOrder {index:30;}">
+                <Coords points="1265,2275 2255,2275 2255,2243 2217,2234 1464,2236 1441,2259 1265,2236" />
+                <Baseline points="1271,2267 1319,2267 1368,2267 1417,2267 1466,2267 1515,2267 1564,2267 1613,2267 1662,2267 1711,2267 1760,2267 1808,2267 1857,2267 1906,2267 1955,2267 2004,2267 2053,2267 2102,2267 2151,2267 2200,2267 2249,2267" />
+                <TextEquiv>
+                    <Unicode>la toba. Por otra parte, dando por admitida la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l32" custom="readingOrder {index:31;}">
+                <Coords points="1265,2331 2248,2317 2167,2285 1265,2293" />
+                <Baseline points="1271,2316 1319,2316 1368,2316 1416,2316 1465,2316 1513,2316 1562,2316 1610,2318 1659,2318 1707,2318 1756,2318 1804,2318 1853,2318 1901,2318 1950,2317 1998,2316 2047,2316 2095,2316 2144,2315 2192,2315 2241,2315" />
+                <TextEquiv>
+                    <Unicode>contemporaneidad de la capa de toba y del hom¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l33" custom="readingOrder {index:32;}">
+                <Coords points="1266,2379 2253,2378 2253,2337 2128,2331 1950,2359 1896,2332 1266,2332" />
+                <Baseline points="1272,2367 1320,2367 1369,2367 1418,2367 1467,2367 1515,2367 1564,2367 1613,2367 1662,2367 1710,2367 1759,2367 1808,2367 1857,2367 1905,2367 1954,2367 2003,2367 2052,2367 2100,2367 2149,2366 2198,2366 2247,2366" />
+                <TextEquiv>
+                    <Unicode>bre de Oldoway, M. Reck indica que tanto por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l34" custom="readingOrder {index:33;}">
+                <Coords points="1262,2428 2230,2427 2247,2388 1262,2396" />
+                <Baseline points="1268,2418 1316,2418 1365,2418 1413,2418 1462,2417 1511,2418 1559,2418 1608,2418 1657,2418 1705,2418 1754,2418 1803,2418 1851,2418 1900,2418 1949,2418 1997,2418 2046,2418 2095,2418 2143,2418 2192,2417 2241,2417" />
+                <TextEquiv>
+                    <Unicode>su situación estratégica, como por su contenido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l35" custom="readingOrder {index:34;}">
+                <Coords points="1262,2491 2258,2477 2230,2436 1262,2444" />
+                <Baseline points="1268,2472 1317,2471 1366,2471 1415,2469 1464,2469 1514,2469 1563,2468 1612,2468 1661,2468 1710,2468 1760,2468 1809,2468 1858,2468 1907,2468 1956,2468 2006,2468 2055,2468 2104,2469 2153,2469 2202,2469 2252,2469" />
+                <TextEquiv>
+                    <Unicode>paleontológico, la capa visada aparece como de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l36" custom="readingOrder {index:35;}">
+                <Coords points="1268,2532 2250,2532 2250,2498 2207,2487 1268,2492" />
+                <Baseline points="1275,2519 1323,2519 1371,2520 1420,2520 1468,2520 1517,2520 1565,2520 1614,2520 1662,2520 1711,2519 1759,2519 1807,2519 1856,2519 1904,2519 1953,2519 2001,2519 2050,2519 2098,2519 2147,2519 2195,2519 2244,2520" />
+                <TextEquiv>
+                    <Unicode>edad cuaternaria y hasta más rigurosamente,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l37" custom="readingOrder {index:36;}">
+                <Coords points="1270,2586 2055,2587 2232,2579 2246,2547 1270,2548" />
+                <Baseline points="1277,2571 1325,2571 1373,2571 1421,2571 1469,2571 1517,2571 1565,2571 1614,2570 1662,2570 1710,2570 1758,2570 1806,2570 1854,2570 1902,2570 1951,2570 1999,2570 2047,2570 2095,2570 2143,2570 2191,2568 2240,2568" />
+                <TextEquiv>
+                    <Unicode>paleolítica. Unicamente el examen de los fósi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l38" custom="readingOrder {index:37;}">
+                <Coords points="1262,2634 2259,2628 2230,2596 2006,2583 1262,2588" />
+                <Baseline points="1268,2619 1317,2621 1366,2621 1415,2622 1465,2622 1514,2622 1563,2622 1612,2621 1662,2621 1711,2621 1760,2621 1809,2619 1859,2619 1908,2619 1957,2619 2006,2619 2056,2619 2105,2619 2154,2620 2203,2621 2253,2622" />
+                <TextEquiv>
+                    <Unicode>les podrá demostrar si aquellas conclusiones son,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l39" custom="readingOrder {index:38;}">
+                <Coords points="1265,2683 2008,2681 1989,2645 1911,2636 1596,2640 1535,2661 1265,2644" />
+                <Baseline points="1271,2672 1307,2672 1344,2672 1380,2672 1417,2673 1453,2673 1490,2673 1526,2672 1563,2672 1599,2672 1636,2672 1672,2672 1709,2672 1745,2672 1782,2672 1818,2672 1855,2672 1891,2672 1928,2672 1964,2672 2001,2673" />
+                <TextEquiv>
+                    <Unicode>como parece, enteramente legítimas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l40" custom="readingOrder {index:39;}">
+                <Coords points="1314,2732 2253,2730 2253,2700 2069,2686 1948,2711 1314,2692" />
+                <Baseline points="1320,2720 1366,2720 1412,2721 1459,2721 1505,2721 1551,2721 1598,2721 1644,2721 1690,2721 1737,2720 1783,2720 1829,2720 1876,2720 1922,2720 1968,2720 2015,2720 2061,2721 2107,2721 2154,2721 2200,2722 2247,2723" />
+                <TextEquiv>
+                    <Unicode>El hombre de Oldoway es un esqueleto muy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l41" custom="readingOrder {index:40;}">
+                <Coords points="1265,2783 2243,2778 2205,2740 2170,2762 1265,2749" />
+                <Baseline points="1271,2772 1319,2772 1367,2772 1415,2772 1464,2772 1512,2772 1560,2772 1609,2772 1657,2772 1705,2771 1754,2771 1802,2771 1850,2771 1898,2771 1947,2771 1995,2771 2043,2771 2092,2771 2140,2771 2188,2772 2237,2772" />
+                <TextEquiv>
+                    <Unicode>completo. Presenta un cráneo voluminoso do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l42" custom="readingOrder {index:41;}">
+                <Coords points="1257,2834 2241,2835 2231,2796 2110,2786 1540,2810 1495,2788 1467,2814 1257,2788" />
+                <Baseline points="1263,2822 1311,2822 1360,2822 1408,2822 1457,2823 1506,2823 1554,2823 1603,2823 1651,2823 1700,2823 1749,2823 1797,2822 1846,2822 1894,2822 1943,2822 1992,2822 2040,2822 2089,2822 2137,2822 2186,2822 2235,2822" />
+                <TextEquiv>
+                    <Unicode>licocéfalo, de un tipo francamente negroide, se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l43" custom="readingOrder {index:42;}">
+                <Coords points="1265,2885 2249,2883 2181,2836 2068,2862 1265,2849" />
+                <Baseline points="1272,2874 1320,2874 1369,2873 1417,2873 1466,2873 1514,2873 1563,2873 1611,2873 1660,2873 1708,2873 1757,2873 1806,2873 1854,2873 1903,2873 1951,2873 2000,2873 2048,2873 2097,2873 2145,2872 2194,2871 2243,2871" />
+                <TextEquiv>
+                    <Unicode>mejante también a ciertos tipes negros actuales,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l44" custom="readingOrder {index:43;}">
+                <Coords points="1271,2939 2228,2931 2243,2895 1271,2901" />
+                <Baseline points="1278,2924 1328,2924 1378,2924 1429,2924 1479,2924 1530,2924 1580,2924 1631,2924 1681,2924 1732,2924 1782,2924 1833,2924 1883,2924 1934,2924 1984,2924 2035,2922 2085,2922 2136,2922 2186,2921 2237,2921" />
+                <TextEquiv>
+                    <Unicode>como el famoso Hombre de Grimaldi, descubierto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l45" custom="readingOrder {index:44;}">
+                <Coords points="1268,2986 2241,2978 2241,2949 2131,2939 1399,2940 1368,2963 1268,2940" />
+                <Baseline points="1274,2975 1322,2975 1370,2975 1418,2975 1466,2975 1514,2975 1562,2973 1610,2973 1658,2973 1706,2973 1754,2973 1802,2973 1850,2973 1898,2973 1946,2973 1994,2973 2042,2973 2090,2973 2138,2972 2186,2972 2235,2972" />
+                <TextEquiv>
+                    <Unicode>hace algunos años en las grutas de los Bause¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l46" custom="readingOrder {index:45;}">
+                <Coords points="1272,3035 2151,3034 2151,3002 1990,2987 1617,3011 1272,2989" />
+                <Baseline points="1278,3023 1321,3024 1364,3024 1408,3024 1451,3026 1494,3026 1538,3026 1581,3026 1624,3024 1668,3024 1711,3024 1754,3024 1798,3023 1841,3023 1884,3023 1928,3023 1971,3023 2014,3023 2058,3023 2101,3023 2145,3023" />
+                <TextEquiv>
+                    <Unicode>Rusé y estudiado por el Doctor R. Verneau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l47" custom="readingOrder {index:46;}">
+                <Coords points="1314,3084 2256,3074 2226,3043 1654,3044 1633,3065 1314,3043" />
+                <Baseline points="1320,3075 1366,3075 1413,3075 1459,3075 1506,3075 1552,3074 1599,3074 1645,3074 1692,3074 1738,3074 1785,3074 1831,3074 1878,3074 1924,3074 1971,3074 2017,3074 2064,3074 2110,3074 2157,3074 2203,3074 2250,3072" />
+                <TextEquiv>
+                    <Unicode>Resultará, pues, de este descubrimiento el atri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l48" custom="readingOrder {index:47;}">
+                <Coords points="1269,3139 2241,3128 2241,3102 2152,3086 1819,3113 1269,3092" />
+                <Baseline points="1275,3126 1323,3126 1371,3126 1419,3126 1467,3126 1515,3126 1563,3126 1611,3126 1659,3126 1707,3126 1755,3125 1803,3125 1851,3125 1899,3125 1947,3125 1995,3125 2043,3125 2091,3125 2139,3124 2187,3123 2235,3123" />
+                <TextEquiv>
+                    <Unicode>buir a las razas africanas una grande antigue¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l49" custom="readingOrder {index:48;}">
+                <Coords points="1266,3187 2253,3179 2228,3140 1266,3145" />
+                <Baseline points="1272,3176 1320,3176 1369,3176 1418,3176 1467,3176 1515,3176 1564,3176 1613,3176 1662,3176 1710,3176 1759,3176 1808,3176 1857,3176 1905,3176 1954,3175 2003,3174 2052,3174 2100,3174 2149,3173 2198,3173 2247,3173" />
+                <TextEquiv>
+                    <Unicode>dad, y el reconocimiento al tipo humano de Gri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l50" custom="readingOrder {index:49;}">
+                <Coords points="1266,3238 2253,3236 2188,3191 1266,3203" />
+                <Baseline points="1272,3224 1320,3225 1369,3227 1418,3227 1467,3227 1515,3228 1564,3228 1613,3228 1662,3227 1710,3227 1759,3227 1808,3227 1857,3226 1905,3225 1954,3225 2003,3225 2052,3225 2100,3225 2149,3225 2198,3225 2247,3227" />
+                <TextEquiv>
+                    <Unicode>maldi de una muy amplia extensión geográfica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>He aquí los primeros informes del descubri¬
+miento:
+La expedición en el curso de la cual se ha pro¬
+ducido, organizada por el Instituto y el Museo
+de Geología y Paleontología de la Universidad
+de Berlín, tenía por programa la busca de verte¬
+brados fósiles terciarios y había emprendido con
+este objeto excavaciones sistemáticas en el lugar
+conocido bajo el nombre de “pozos” de Oldoway.
+Es éste un conjunto de capas de toba volcánica
+donde el Dr. Reck distingue cinco principales ho¬
+rizontes geológicos. Las excavaciones en tres
+meses pusieron al descubierto unos 1,700 huesos
+de animales mezclados con rastro de industria
+humana, bajo la forma, sobre todo, de ruinas de
+cabañas.
+El hombre fósil ha sido encontrado en la pen¬
+diente inclinada de los “pozos”. Reposaba entre
+una capa de toba a poca profundidad bajo la su¬
+perficie, y con la circunstancia notable de que la
+capa en cuestión no presentaba ninguna modifi¬
+cación ni ninguna huella de trabajo destinado
+a un enterramiento. De esto deduce el Dr. Reck
+que aquel hombre no fué enterrado, sino que, por
+el contrario, a consecuencia de un accidente cual¬
+quiera su esqueleto fué hallado englobado como
+un fósil ordinario en la formacián natural de la
+toba: cabria, pues, suponer, por ejemplo, que el
+hombre se había ahogado y que su cuerpo repo¬
+saba en el fondo del lago donde se ha depositado
+la toba. Por otra parte, dando por admitida la
+contemporaneidad de la capa de toba y del hom¬
+bre de Oldoway, M. Reck indica que tanto por
+su situación estratégica, como por su contenido
+paleontológico, la capa visada aparece como de
+edad cuaternaria y hasta más rigurosamente,
+paleolítica. Unicamente el examen de los fósi¬
+les podrá demostrar si aquellas conclusiones son,
+como parece, enteramente legítimas.
+El hombre de Oldoway es un esqueleto muy
+completo. Presenta un cráneo voluminoso do¬
+licocéfalo, de un tipo francamente negroide, se¬
+mejante también a ciertos tipes negros actuales,
+como el famoso Hombre de Grimaldi, descubierto
+hace algunos años en las grutas de los Bause¬
+Rusé y estudiado por el Doctor R. Verneau.
+Resultará, pues, de este descubrimiento el atri¬
+buir a las razas africanas una grande antigue¬
+dad, y el reconocimiento al tipo humano de Gri¬
+maldi de una muy amplia extensión geográfica.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="299,267 1643,267 1643,281 299,281" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1676,270 2096,270 2096,278 1676,278" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="760,379 936,379 936,391 760,391" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="708,385 977,385 977,402 708,402" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="718,399 936,399 936,412 718,412" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="786,537 907,537 907,544 786,544" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1806,539 1989,539 1989,549 1806,549" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1808,549 2004,549 2004,562 1808,562" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1529,558 1659,558 1659,566 1529,566" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1677,657 2264,657 2264,669 1677,669" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="216,658 822,658 822,668 216,668" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="632,1654 805,1654 805,1658 632,1658" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="613,2784 827,2784 827,2789 613,2789" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="216,398 228,398 228,665 216,665" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="1309,409 1319,409 1319,586 1309,586" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="2257,576 2261,576 2261,665 2257,665" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

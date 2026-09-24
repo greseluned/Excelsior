@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:17:57.442+02:00</Created>
+        <LastChange>2021-11-03T18:09:53.627+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781196" pageNr="310" tsid="236400163" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ERRTDUOCHUIXFZDJSFUAWGSI" xmlUrl="https://files.transkribus.eu/Get?id=GIFWLKBSRVTPOIYNCRXUZJZK" imageId="17244939" />
+    </Metadata>
+    <Page imageFilename="0310_p310.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="224,275 2226,275 2226,3239 224,3239" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982486622" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="224,276 2226,276 2226,2704 224,2704" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="236,2608 1298,2608 1298,2948 236,2948" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="353,2719 396,2722 439,2723 483,2724 526,2725 569,2727 613,2727 656,2727 699,2728 743,2728 786,2728 829,2728 873,2728 916,2727 959,2727 1003,2727 1046,2727 1089,2728 1133,2728 1176,2728 1220,2730 1220,2645 1176,2643 1133,2643 1089,2643 1046,2642 1003,2642 959,2642 916,2642 873,2643 829,2643 786,2643 743,2643 699,2643 656,2642 613,2642 569,2642 526,2640 483,2639 439,2638 396,2637 353,2634" />
+                <Baseline points="353,2691 396,2694 439,2695 483,2696 526,2697 569,2699 613,2699 656,2699 699,2700 743,2700 786,2700 829,2700 873,2700 916,2699 959,2699 1003,2699 1046,2699 1089,2700 1133,2700 1176,2700 1220,2702" />
+                <TextEquiv>
+                    <Unicode>G3 un clgamillo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="246,2845 297,2845 348,2847 400,2847 451,2847 503,2847 554,2847 605,2847 657,2847 708,2847 760,2847 811,2845 862,2845 914,2845 965,2845 1017,2845 1068,2844 1119,2844 1171,2845 1222,2845 1274,2845 1274,2760 1222,2760 1171,2760 1119,2759 1068,2759 1017,2760 965,2760 914,2760 862,2760 811,2760 760,2762 708,2762 657,2762 605,2762 554,2762 503,2762 451,2762 400,2762 348,2762 297,2760 246,2760" />
+                <Baseline points="246,2817 297,2817 348,2819 400,2819 451,2819 503,2819 554,2819 605,2819 657,2819 708,2819 760,2819 811,2817 862,2817 914,2817 965,2817 1017,2817 1068,2816 1119,2816 1171,2817 1222,2817 1274,2817" />
+                <TextEquiv>
+                    <Unicode>ceza Aubelucudad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="392,2964 427,2964 463,2965 498,2965 534,2965 570,2965 605,2965 641,2965 676,2965 712,2965 748,2965 783,2965 819,2965 854,2965 890,2965 926,2965 961,2965 997,2967 1032,2967 1068,2967 1104,2968 1104,2883 1068,2882 1032,2882 997,2882 961,2880 926,2880 890,2880 854,2880 819,2880 783,2880 748,2880 712,2880 676,2880 641,2880 605,2880 570,2880 534,2880 498,2880 463,2880 427,2879 392,2879" />
+                <Baseline points="392,2936 427,2936 463,2937 498,2937 534,2937 570,2937 605,2937 641,2937 676,2937 712,2937 748,2937 783,2937 819,2937 854,2937 890,2937 926,2937 961,2937 997,2939 1032,2939 1068,2939 1104,2940" />
+                <TextEquiv>
+                    <Unicode>no e diacute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>G3 un clgamillo¬
+ceza Aubelucudad
+no e diacute</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1497,3125 2205,3125 2205,3239 1497,3239" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1509,3173 1543,3174 1578,3176 1613,3176 1648,3177 1683,3178 1717,3179 1752,3179 1787,3180 1822,3180 1857,3180 1891,3182 1926,3182 1961,3182 1996,3182 2031,3183 2065,3183 2100,3183 2135,3183 2170,3182 2205,3182 2205,3137 2170,3137 2135,3138 2100,3138 2065,3138 2031,3138 1996,3137 1961,3137 1926,3137 1891,3137 1857,3135 1822,3135 1787,3135 1752,3134 1717,3134 1683,3133 1648,3132 1613,3131 1578,3131 1543,3129 1509,3128" />
+                <Baseline points="1509,3158 1543,3159 1578,3161 1613,3161 1648,3162 1683,3163 1717,3164 1752,3164 1787,3165 1822,3165 1857,3165 1891,3167 1926,3167 1961,3167 1996,3167 2031,3168 2065,3168 2100,3168 2135,3168 2170,3167 2205,3167" />
+                <TextEquiv>
+                    <Unicode>Tel 21802 Misericordía 555</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1695,3242 1721,3242 1748,3242 1775,3242 1801,3242 1828,3242 1855,3242 1882,3242 1908,3243 1935,3243 1962,3245 1989,3246 1989,3201 1962,3200 1935,3198 1908,3198 1882,3197 1855,3197 1828,3197 1801,3197 1775,3197 1748,3197 1721,3197 1695,3197" />
+                <Baseline points="1695,3227 1721,3227 1748,3227 1775,3227 1801,3227 1828,3227 1855,3227 1882,3227 1908,3228 1935,3228 1962,3230 1989,3231" />
+                <TextEquiv>
+                    <Unicode>MANILA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tel 21802 Misericordía 555
+MANILA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="460,275 699,275 699,295 460,295" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="432,1649 444,1649 444,1877 432,1877" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="737,685 745,685 745,808 737,808" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="776,1279 783,1279 783,1382 776,1382" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="803,999 808,999 808,1085 803,1085" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="936,1120 942,1120 942,1228 936,1228" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="942,971 957,971 957,1224 942,1224" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="945,649 954,649 954,912 945,912" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="958,621 966,621 966,738 958,738" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="958,753 967,753 967,880 958,880" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1053,2149 1062,2149 1062,2355 1053,2355" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1074,793 1082,793 1082,919 1074,919" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1377,1883 1389,1883 1389,2031 1377,2031" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1389,1869 1404,1869 1404,2088 1389,2088" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1415,1846 1431,1846 1431,2054 1415,2054" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1428,1837 1444,1837 1444,2052 1428,2052" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="1441,1822 1458,1822 1458,2045 1441,2045" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1458,1813 1471,1813 1471,2028 1458,2028" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="1470,1805 1482,1805 1482,2019 1470,2019" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="1484,1790 1494,1790 1494,2007 1484,2007" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="1497,1782 1506,1782 1506,1995 1497,1995" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="1510,1772 1518,1772 1518,2002 1510,2002" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="1533,1749 1544,1749 1544,1965 1533,1965" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="1545,1739 1555,1739 1555,1953 1545,1953" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="1557,1718 1566,1718 1566,1939 1557,1939" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="1663,1917 1677,1917 1677,2146 1663,2146" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="1708,2099 1712,2099 1712,2191 1708,2191" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="1796,1999 1806,1999 1806,2191 1796,2191" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:31;}">
+            <Coords points="1802,1860 1811,1860 1811,2020 1802,2020" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:32;}">
+            <Coords points="1809,2078 1816,2078 1816,2184 1809,2184" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:33;}">
+            <Coords points="1857,1958 1866,1958 1866,2137 1857,2137" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:34;}">
+            <Coords points="1931,1844 1950,1844 1950,2115 1931,2115" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:35;}">
+            <Coords points="1942,1910 1957,1910 1957,2140 1942,2140" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:36;}">
+            <Coords points="1957,1150 1964,1150 1964,1267 1957,1267" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:37;}">
+            <Coords points="2012,1294 2020,1294 2020,1451 2012,1451" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:38;}">
+            <Coords points="2073,1909 2085,1909 2085,2163 2073,2163" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:39;}">
+            <Coords points="2092,1734 2103,1734 2103,1891 2092,1891" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_41" custom="readingOrder {index:40;}">
+            <Coords points="2105,1743 2113,1743 2113,1887 2105,1887" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_42" custom="readingOrder {index:41;}">
+            <Coords points="2109,2235 2127,2235 2127,2447 2109,2447" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_43" custom="readingOrder {index:42;}">
+            <Coords points="2113,1746 2122,1746 2122,1905 2113,1905" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_44" custom="readingOrder {index:43;}">
+            <Coords points="2149,2098 2163,2098 2163,2294 2149,2294" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_45" custom="readingOrder {index:44;}">
+            <Coords points="2171,1946 2176,1946 2176,2083 2171,2083" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_46" custom="readingOrder {index:45;}">
+            <Coords points="2177,1983 2186,1983 2186,2186 2177,2186" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:08:22.843+02:00</Created>
+        <LastChange>2021-11-03T16:54:35.871+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781009" pageNr="127" tsid="236399986" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CIMXPFODMLFZYIUFKKNVCQUI" xmlUrl="https://files.transkribus.eu/Get?id=CEBGUVJPCZZECWTLJRSKUONF" imageId="17243960" />
+    </Metadata>
+    <Page imageFilename="0127_p127.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="290,1445 2191,1445 2191,3044 290,3044" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982444331" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="736,1601 1728,1601 1728,2790 736,2790" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1769,2174 2191,2174 2191,2355 1769,2355" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="290,2923 1363,2923 1363,3044 290,3044" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="359,2975 409,2977 459,2977 509,2977 559,2977 609,2977 659,2977 709,2977 759,2977 809,2977 859,2977 909,2977 959,2977 1009,2977 1059,2977 1109,2977 1159,2977 1209,2978 1259,2980 1309,2980 1359,2981 1359,2938 1309,2937 1259,2937 1209,2935 1159,2934 1109,2934 1059,2934 1009,2934 959,2934 909,2934 859,2934 809,2934 759,2934 709,2934 659,2934 609,2934 559,2934 509,2934 459,2934 409,2934 359,2932" />
+                <Baseline points="359,2961 409,2963 459,2963 509,2963 559,2963 609,2963 659,2963 709,2963 759,2963 809,2963 859,2963 909,2963 959,2963 1009,2963 1059,2963 1109,2963 1159,2963 1209,2964 1259,2966 1309,2966 1359,2967" />
+                <TextEquiv>
+                    <Unicode>Preeminente figura de nuestra sociedad y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="293,3037 337,3037 381,3037 425,3037 469,3038 513,3038 557,3038 601,3038 645,3038 689,3037 733,3037 777,3037 821,3037 865,3037 909,3037 953,3037 997,3038 1041,3038 1085,3038 1129,3040 1173,3040 1173,2997 1129,2997 1085,2995 1041,2995 997,2995 953,2994 909,2994 865,2994 821,2994 777,2994 733,2994 689,2994 645,2995 601,2995 557,2995 513,2995 469,2995 425,2994 381,2994 337,2994 293,2994" />
+                <Baseline points="293,3023 337,3023 381,3023 425,3023 469,3024 513,3024 557,3024 601,3024 645,3024 689,3023 733,3023 777,3023 821,3023 865,3023 909,3023 953,3023 997,3024 1041,3024 1085,3024 1129,3026 1173,3026" />
+                <TextEquiv>
+                    <Unicode>ntusiasta e incondicional "sportman".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Preeminente figura de nuestra sociedad y
+ntusiasta e incondicional "sportman".</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1674,1445 1992,1445 1992,1464 1674,1464" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1711,2268 2097,2268 2097,2297 1711,2297" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

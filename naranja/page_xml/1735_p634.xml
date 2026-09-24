@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:51:25.265+02:00</Created>
+        <LastChange>2021-06-08T18:38:27.684+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782685" pageNr="1735" tsid="236402121" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NRNOLGAAQCHZFKWGARQJVFWI" xmlUrl="https://files.transkribus.eu/Get?id=DCRSETJPAHOEOZDSYFKBKYTO" imageId="17248462" />
+    </Metadata>
+    <Page imageFilename="1735_p634.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="172,240 2284,240 2284,3268 172,3268" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982816470" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="178,242 2284,242 2284,3268 178,3268" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="172,398 1130,398 1130,1144 172,1144" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="174,448 1122,452 1122,402 1001,423 951,397 174,407" />
+                <Baseline points="180,443 226,443 273,444 320,444 367,444 414,444 460,443 507,443 554,443 601,443 648,443 694,441 741,441 788,441 835,441 882,441 928,441 975,441 1022,443 1069,443 1116,444" />
+                <TextEquiv>
+                    <Unicode>PASAJEROS LLEGADOS POR LOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="180,512 733,514 761,491 784,514 1104,514 1112,463 180,467" />
+                <Baseline points="186,504 232,504 278,504 324,504 370,504 416,504 462,504 508,504 554,504 600,504 646,504 692,504 738,503 784,503 830,503 876,503 922,503 968,503 1014,503 1060,503 1107,503" />
+                <TextEquiv>
+                    <Unicode>TRANSATLANTICOS "PRESIDENT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="215,573 465,579 522,548 554,579 602,550 649,579 988,578 988,523 215,536" />
+                <Baseline points="221,569 259,567 297,566 335,566 373,564 411,563 449,561 487,560 525,558 563,558 602,557 640,556 678,555 716,555 754,555 792,557 830,557 868,558 906,561 944,564 983,567" />
+                <TextEquiv>
+                    <Unicode>JACKSON" Y “TENNESSEE'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="235,675 1083,674 1083,644 1022,628 235,628" />
+                <Baseline points="240,663 281,663 323,662 365,662 407,662 449,662 491,662 532,662 574,662 616,662 658,663 700,663 742,663 784,663 825,663 867,663 909,663 951,663 993,663 1035,663 1077,663" />
+                <TextEquiv>
+                    <Unicode>En la parte superior de la foto: La Sra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="174,721 1031,722 1031,691 983,680 805,703 630,680 174,692" />
+                <Baseline points="179,716 221,716 263,716 305,716 348,717 390,717 432,717 475,717 517,717 559,717 602,716 644,716 686,716 728,716 771,716 813,716 855,716 898,716 940,716 982,717 1025,717" />
+                <TextEquiv>
+                    <Unicode>de Alanson B. Turrell, que ha establecido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="176,778 771,786 996,763 967,732 908,750 176,734" />
+                <Baseline points="182,767 222,767 262,768 303,768 343,768 384,768 424,768 464,768 505,768 545,768 586,768 626,768 666,768 707,768 747,768 788,768 828,767 868,767 909,767 949,767 990,767" />
+                <TextEquiv>
+                    <Unicode>la primera estación radiográfica en Fi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="186,827 782,839 899,835 945,810 858,784 639,805 521,788 503,806 405,782 351,812 186,786" />
+                <Baseline points="192,821 229,821 266,821 304,821 341,821 378,821 416,821 453,821 490,821 528,821 565,821 602,821 640,821 677,821 714,821 752,822 789,822 826,822 864,822 901,822 939,824" />
+                <TextEquiv>
+                    <Unicode>lipinas. El Sr. E. C. Baumgardner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="174,879 710,889 742,863 778,888 908,880 871,836 837,864 794,837 763,856 576,837 549,864 431,836 174,851" />
+                <Baseline points="180,872 216,872 252,872 288,872 324,872 360,872 396,872 432,872 468,873 504,873 541,873 577,873 613,873 649,873 685,873 721,873 757,874 793,875 829,875 865,875 902,876" />
+                <TextEquiv>
+                    <Unicode>Superintendente Auxiliar de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="185,933 567,938 585,919 622,945 646,922 664,938 857,928 840,893 734,908 337,892 317,909 185,893" />
+                <Baseline points="191,926 224,926 257,926 290,926 323,926 356,927 389,927 422,927 455,927 488,927 521,927 554,927 587,927 620,927 653,927 686,927 719,927 752,927 785,927 818,927 851,927" />
+                <TextEquiv>
+                    <Unicode>Radio Corporation of the Phil¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="177,987 816,983 814,956 672,941 638,957 597,945 570,968 490,940 453,959 379,941 339,969 265,940 177,940" />
+                <Baseline points="182,978 213,977 244,977 276,977 307,977 339,977 370,977 401,977 433,978 464,978 496,978 527,978 558,978 590,980 621,980 653,980 684,980 715,979 747,978 778,978 810,977" />
+                <TextEquiv>
+                    <Unicode>ippines. Los Sres. de Ocampo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="185,1045 763,1035 763,1010 742,1004 185,996" />
+                <Baseline points="191,1031 219,1029 247,1029 276,1028 304,1028 332,1028 361,1028 389,1029 417,1029 446,1029 474,1030 502,1031 531,1031 559,1031 587,1032 616,1032 644,1031 672,1031 701,1030 729,1029 758,1026" />
+                <TextEquiv>
+                    <Unicode>(don Fernando) que han re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="174,1099 714,1087 714,1066 670,1051 645,1064 360,1051 342,1068 301,1045 285,1059 174,1060" />
+                <Baseline points="180,1086 206,1084 232,1083 259,1082 285,1082 312,1082 338,1082 364,1082 391,1083 417,1083 444,1083 470,1085 496,1085 523,1085 549,1085 576,1085 602,1085 628,1085 655,1083 681,1082 708,1080" />
+                <TextEquiv>
+                    <Unicode>gresado de su viaje de lu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="175,1147 227,1147 238,1139 280,1146 303,1136 333,1147 416,1147 429,1140 429,1116 402,1100 385,1107 361,1101 312,1117 277,1099 264,1099 245,1118 229,1108 175,1107" />
+                <Baseline points="180,1136 207,1137 234,1137 261,1137 288,1136 315,1136 342,1136 369,1137 396,1137 423,1139" />
+                <TextEquiv>
+                    <Unicode>na de miel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PASAJEROS LLEGADOS POR LOS
+TRANSATLANTICOS "PRESIDENT
+JACKSON" Y “TENNESSEE'
+En la parte superior de la foto: La Sra.
+de Alanson B. Turrell, que ha establecido
+la primera estación radiográfica en Fi¬
+lipinas. El Sr. E. C. Baumgardner
+Superintendente Auxiliar de la
+Radio Corporation of the Phil¬
+ippines. Los Sres. de Ocampo
+(don Fernando) que han re¬
+gresado de su viaje de lu¬
+na de miel.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="644,3244 708,3244 708,3262 644,3262" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="222,2520 744,2520 744,2988 222,2988" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="242,2572 453,2579 522,2565 574,2579 592,2564 709,2578 741,2569 741,2534 359,2531 331,2551 284,2532 242,2537" />
+                <Baseline points="248,2565 273,2565 299,2564 324,2564 350,2564 376,2564 401,2564 427,2564 453,2565 478,2565 504,2565 529,2565 555,2565 581,2565 606,2565 632,2565 658,2565 683,2564 709,2564 735,2564" />
+                <TextEquiv>
+                    <Unicode>En el centro de la foto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="224,2627 248,2638 388,2615 487,2631 710,2626 737,2619 736,2580 602,2580 573,2607 503,2580 465,2603 424,2581 396,2594 319,2580 223,2591" />
+                <Baseline points="230,2616 255,2616 280,2616 305,2616 330,2616 355,2616 380,2616 405,2616 430,2616 455,2616 480,2616 505,2616 530,2616 555,2616 580,2616 605,2615 630,2615 655,2615 680,2614 705,2613 731,2612" />
+                <TextEquiv>
+                    <Unicode>nferior: La Sra. de Thi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="217,2682 452,2671 631,2683 652,2665 738,2679 738,2645 481,2636 445,2658 364,2636 324,2659 293,2636 216,2636" />
+                <Baseline points="222,2670 247,2670 273,2669 298,2669 324,2669 349,2669 375,2669 400,2669 426,2669 451,2667 477,2667 502,2667 528,2667 553,2667 579,2667 604,2667 630,2667 655,2667 681,2667 706,2667 732,2667" />
+                <TextEquiv>
+                    <Unicode>bault (don Lorenzo) con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="216,2743 263,2724 312,2739 366,2724 740,2730 750,2701 728,2685 678,2701 636,2684 545,2685 497,2711 470,2684 423,2700 388,2684 367,2703 280,2684 262,2702 216,2702" />
+                <Baseline points="222,2720 248,2720 274,2721 300,2721 326,2721 352,2721 378,2721 404,2721 430,2720 456,2720 483,2720 509,2720 535,2720 561,2720 587,2720 613,2719 639,2718 665,2718 691,2718 717,2718 744,2718" />
+                <TextEquiv>
+                    <Unicode>su hija kuth. El Sr. D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="222,2783 429,2784 472,2764 495,2786 616,2773 667,2785 737,2770 746,2751 651,2736 620,2761 577,2735 545,2758 517,2740 468,2753 401,2735 389,2748 290,2740 266,2763 221,2764" />
+                <Baseline points="227,2774 252,2774 278,2774 303,2774 329,2774 355,2774 380,2772 406,2772 432,2772 457,2772 483,2772 509,2772 534,2771 560,2771 586,2771 611,2771 637,2769 663,2769 688,2768 714,2766 740,2765" />
+                <TextEquiv>
+                    <Unicode>. Boguslav (a la dere¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="225,2835 743,2834 742,2788 542,2789 528,2803 432,2788 412,2808 366,2789 336,2805 249,2805 224,2788" />
+                <Baseline points="231,2826 256,2826 281,2826 306,2826 332,2826 357,2826 382,2826 408,2826 433,2826 458,2826 484,2825 509,2825 534,2825 559,2824 585,2823 610,2823 635,2822 661,2822 686,2821 711,2820 737,2819" />
+                <TextEquiv>
+                    <Unicode>ha) y los Sres. Roy Scott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="224,2868 297,2891 325,2876 424,2894 516,2877 528,2889 738,2882 737,2851 596,2853 567,2838 512,2867 494,2851 383,2844 224,2857" />
+                <Baseline points="230,2879 255,2879 280,2877 305,2877 330,2877 355,2877 380,2876 405,2876 430,2876 455,2876 480,2876 505,2876 530,2876 555,2876 580,2876 605,2876 630,2876 655,2874 680,2874 705,2873 731,2873" />
+                <TextEquiv>
+                    <Unicode>Ira Morgan, Directores</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="219,2939 717,2939 736,2931 736,2895 655,2891 630,2915 591,2892 567,2916 495,2892 308,2908 218,2892" />
+                <Baseline points="225,2931 250,2930 275,2930 300,2930 326,2930 351,2930 376,2930 402,2930 427,2930 452,2930 478,2930 503,2930 528,2930 553,2930 579,2930 604,2930 629,2929 655,2928 680,2927 705,2927 731,2924" />
+                <TextEquiv>
+                    <Unicode>Jinematográficos de Hol¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="219,2998 248,2993 255,2996 271,2989 316,2990 320,2994 331,2989 337,2994 359,2989 358,2956 337,2942 308,2957 218,2956" />
+                <Baseline points="224,2984 249,2982 275,2980 301,2979 327,2979 353,2984" />
+                <TextEquiv>
+                    <Unicode>ywood.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En el centro de la foto
+nferior: La Sra. de Thi¬
+bault (don Lorenzo) con
+su hija kuth. El Sr. D.
+. Boguslav (a la dere¬
+ha) y los Sres. Roy Scott
+Ira Morgan, Directores
+Jinematográficos de Hol¬
+ywood.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="456,3224 676,3224 676,3248 456,3248" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1936,3136 2259,3136 2259,3170 1936,3170" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1931,3171 2265,3166 2264,3131 2030,3139 1930,3131" />
+                <Baseline points="1937,3161 1963,3161 1990,3161 2017,3161 2044,3160 2071,3159 2098,3159 2124,3159 2151,3159 2178,3158 2205,3158 2232,3158 2259,3159" />
+                <TextEquiv>
+                    <Unicode>Foros—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foros—SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="191,240 1247,240 1247,264 191,264" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="191,264 1231,264 1231,281 191,281" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1906,1674 2265,1674 2265,1702 1906,1702" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="673,3230 865,3230 865,3244 673,3244" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="455,3231 655,3231 655,3241 455,3241" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1250,3235 2264,3235 2264,3252 1250,3252" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:10.367+02:00</Created>
+        <LastChange>2021-06-08T14:59:15.166+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782195" pageNr="1270" tsid="236401513" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AZODCFXAWOEEDFJOWOFZRHQC" xmlUrl="https://files.transkribus.eu/Get?id=OUDJWERJHEWNMVSKOOPUDVCL" imageId="17247043" />
+    </Metadata>
+    <Page imageFilename="1270_p169.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="186,254 2270,254 2270,3249 186,3249" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982710118" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+                <RegionRefIndexed index="8" regionRef="r_9_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TableRegion id="tbl_1_1" custom="readingOrder {index:0;}">
+            <Coords points="204,254 2270,254 2270,1725 204,1725" />
+            <TableCell row="0" col="0" orientation="0.0" type="paragraph" id="r_1_1_1">
+                <Coords points="204,254 1192,254 1192,403 204,403" />
+                <TextLine id="r_1_1_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="357,291 1181,291 1181,237 357,236" />
+                    <Baseline points="363,263 403,264 444,264 484,264 525,265 566,266 606,266 647,266 687,266 728,266 769,266 809,266 850,266 890,266 931,266 972,266 1012,267 1053,267 1093,267 1134,269 1175,269" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_1_1l2" custom="readingOrder {index:1;}">
+                    <Coords points="224,378 1151,387 1130,306 773,329 695,304 635,329 463,304 372,339 224,285" />
+                    <Baseline points="230,378 275,377 321,377 367,375 413,375 458,375 504,374 550,374 596,374 641,374 687,374 733,375 779,375 824,375 870,375 916,375 962,375 1007,374 1053,374 1099,374 1145,372" />
+                    <TextEquiv>
+                        <Unicode>LA PALMA DE MALLORCA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" type="paragraph" id="r_1_1_2">
+                <Coords points="1192,254 1281,254 1281,403 1192,403" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="2" orientation="0.0" type="paragraph" id="r_1_1_3">
+                <Coords points="1281,254 2270,254 2270,403 1281,403" />
+                <TextLine id="r_1_1_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1331,289 2267,278 2267,248 2231,246 1331,244" />
+                    <Baseline points="1337,272 1383,270 1429,268 1475,267 1521,266 1568,264 1614,264 1660,264 1706,264 1752,264 1799,264 1845,264 1891,266 1937,266 1983,266 2030,267 2076,267 2122,267 2168,267 2214,269 2261,269" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_1_3l2" custom="readingOrder {index:1;}">
+                    <Coords points="1386,388 2171,396 2171,324 1878,339 1792,308 1639,340 1386,312" />
+                    <Baseline points="1392,386 1430,386 1469,386 1507,386 1546,386 1585,386 1623,386 1662,386 1701,386 1739,386 1778,386 1817,386 1855,386 1894,386 1933,386 1971,386 2010,386 2049,386 2087,386 2126,386 2165,387" />
+                    <TextEquiv>
+                        <Unicode>TUPRAS' COMPANIA DE SECUROS</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" orientation="0.0" type="paragraph" id="r_1_2_1">
+                <Coords points="204,403 1192,403 1192,471 204,471" />
+                <TextLine id="r_1_2_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="360,450 418,468 1053,459 1053,422 1002,413 593,420 574,440 552,422 360,422" />
+                    <Baseline points="366,458 400,458 434,459 468,459 502,459 536,459 570,459 604,459 638,459 672,459 706,459 740,459 774,458 808,458 842,458 876,458 910,458 944,459 978,459 1012,459 1047,459" />
+                    <TextEquiv>
+                        <Unicode>HOTEL Y RESTAURANT</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" type="paragraph" id="r_1_2_2">
+                <Coords points="1192,403 1281,403 1281,471 1192,471" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="2" orientation="0.0" type="paragraph" id="r_1_2_3">
+                <Coords points="1281,403 2270,403 2270,471 1281,471" />
+                <TextLine id="r_1_2_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1514,445 1617,458 2000,453 2030,442 2030,408 1514,409" />
+                    <Baseline points="1520,441 1545,442 1570,443 1595,443 1620,443 1646,444 1671,444 1696,444 1721,444 1746,444 1772,444 1797,444 1822,444 1847,444 1872,444 1898,444 1923,443 1948,443 1973,443 1998,443 2024,444" />
+                    <TextEquiv>
+                        <Unicode>FILIPINAS BUILDING"</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" type="paragraph" id="r_1_3_1">
+                <Coords points="204,471 1192,471 1192,519 204,519" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" type="paragraph" id="r_1_3_2">
+                <Coords points="1192,471 1281,471 1281,519 1192,519" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="2" orientation="0.0" type="paragraph" id="r_1_3_3">
+                <Coords points="1281,471 2270,471 2270,519 1281,519" />
+                <TextLine id="r_1_3_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1575,514 1949,515 1950,478 1792,475 1779,488 1767,476 1702,483 1648,469 1635,482 1591,469 1575,479" />
+                    <Baseline points="1580,504 1605,506 1631,506 1657,506 1683,506 1709,506 1735,507 1761,507 1787,507 1813,507 1839,506 1865,506 1891,506 1917,506 1943,507" />
+                    <TextEquiv>
+                        <Unicode>21 PLAZA MORAGA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" orientation="0.0" type="paragraph" id="r_1_4_1">
+                <Coords points="204,519 1192,519 1192,599 204,599" />
+                <TextLine id="r_1_4_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="318,567 1098,566 1098,541 1046,515 318,527" />
+                    <Baseline points="323,561 361,561 399,561 438,561 476,561 515,561 553,561 592,561 630,561 669,561 707,561 745,561 784,561 822,561 861,561 899,561 938,561 976,561 1015,561 1053,560 1092,560" />
+                    <TextEquiv>
+                        <Unicode>PANADERIA Y REPOSTERIA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" type="paragraph" id="r_1_4_2">
+                <Coords points="1192,519 1281,519 1281,599 1192,599" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="2" orientation="0.0" type="paragraph" id="r_1_4_3">
+                <Coords points="1281,519 2270,519 2270,599 1281,599" />
+                <TextLine id="r_1_4_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1691,578 1854,578 1854,549 1837,541 1821,545 1814,540 1756,541 1732,532 1692,531" />
+                    <Baseline points="1698,566 1723,567 1748,567 1773,566 1798,566 1823,567 1848,569" />
+                    <TextEquiv>
+                        <Unicode>MANILA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" orientation="0.0" type="paragraph" id="r_1_5_1">
+                <Coords points="204,599 1192,599 1192,752 204,752" />
+                <TextLine id="r_1_5_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="711,714 760,710 771,722 831,723 852,709 852,676 845,676 818,652 795,651 775,660 733,700 711,702" />
+                    <Baseline points="717,713 742,710 768,709 794,709 820,712 846,716" />
+                    <TextEquiv>
+                        <Unicode>*</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_5_1l2" custom="readingOrder {index:1;}">
+                    <Coords points="575,721 640,724 645,659 637,659 632,652 608,652 597,661 592,660 586,665 579,665" />
+                    <Baseline points="582,710 608,712 635,714" />
+                    <TextEquiv>
+                        <Unicode>*</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" type="paragraph" id="r_1_5_2">
+                <Coords points="1192,599 1281,599 1281,752 1192,752" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="2" orientation="0.0" type="paragraph" id="r_1_5_3">
+                <Coords points="1281,599 2270,599 2270,752 1281,752" />
+                <TextLine id="r_1_5_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1526,659 1616,675 1763,664 1832,675 1891,662 1976,674 2015,657 2015,635 1979,625 1944,637 1800,625 1526,635" />
+                    <Baseline points="1532,659 1557,659 1582,659 1607,659 1632,659 1657,659 1682,659 1707,659 1732,659 1757,660 1783,660 1808,660 1833,660 1858,660 1883,660 1908,660 1933,660 1958,659 1983,659 2009,659" />
+                    <TextEquiv>
+                        <Unicode>Aceptamos Seguros de</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_5_3l2" custom="readingOrder {index:1;}">
+                    <Coords points="1380,742 1392,747 1409,746 1412,742 1456,747 1466,742 1479,745 1484,740 1512,745 1513,711 1505,711 1494,700 1381,700" />
+                    <Baseline points="1386,732 1416,734 1446,734 1476,734 1506,735" />
+                    <TextEquiv>
+                        <Unicode>VIDA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" orientation="0.0" type="paragraph" id="r_1_6_1">
+                <Coords points="204,752 1192,752 1192,1118 204,1118" />
+                <TextLine id="r_1_6_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="345,835 394,851 1064,842 1037,804 950,803 929,825 884,803 345,804" />
+                    <Baseline points="350,834 385,836 420,836 456,836 491,836 527,836 562,836 597,836 633,836 668,836 704,836 739,836 774,836 810,836 845,836 881,836 916,836 951,836 987,836 1022,837 1058,837" />
+                    <TextEquiv>
+                        <Unicode>ESPECIALIDAD EN EL SER-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_1l2" custom="readingOrder {index:1;}">
+                    <Coords points="353,903 1071,905 1047,861 354,861" />
+                    <Baseline points="359,896 394,896 429,896 464,896 500,896 535,897 570,897 606,896 641,896 676,896 712,896 747,896 782,896 817,896 853,896 888,896 923,897 959,897 994,897 1029,897 1065,899" />
+                    <TextEquiv>
+                        <Unicode>VICIO DE BANQUETES PARA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_1l3" custom="readingOrder {index:2;}">
+                    <Coords points="338,958 799,970 826,943 851,966 892,943 926,969 1031,971 1070,960 1071,938 339,931" />
+                    <Baseline points="344,956 380,956 416,956 452,956 488,957 524,957 560,957 596,957 632,957 668,957 704,957 740,957 776,957 812,957 848,957 884,957 920,957 956,957 992,957 1028,959 1065,959" />
+                    <TextEquiv>
+                        <Unicode>BODAS, BAUTIZOS Y CUAL-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_1l4" custom="readingOrder {index:3;}">
+                    <Coords points="359,1034 520,1017 1068,1027 1038,980 752,980 733,999 679,980 359,980" />
+                    <Baseline points="365,1020 399,1020 434,1019 469,1019 504,1019 539,1019 574,1019 608,1019 643,1019 678,1019 713,1019 748,1019 783,1019 818,1019 852,1019 887,1019 922,1019 957,1019 992,1020 1027,1020 1062,1020" />
+                    <TextEquiv>
+                        <Unicode>QUIER INDOLE DE FIESTAS.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" type="paragraph" id="r_1_6_2">
+                <Coords points="1192,752 1281,752 1281,1118 1192,1118" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="2" orientation="0.0" type="paragraph" id="r_1_6_3">
+                <Coords points="1281,752 2270,752 2270,1118 1281,1118" />
+                <TextLine id="r_1_6_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1466,802 1708,804 1748,795 1748,767 1734,764 1466,760" />
+                    <Baseline points="1472,797 1499,797 1526,795 1553,795 1580,795 1607,795 1634,795 1661,795 1688,795 1715,795 1742,794" />
+                    <TextEquiv>
+                        <Unicode>INCENDIOS</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_3l2" custom="readingOrder {index:1;}">
+                    <Coords points="1559,868 1702,873 1818,865 1841,873 1859,861 1859,830 1839,820 1760,828 1746,820 1737,828 1727,820 1559,821" />
+                    <Baseline points="1565,857 1591,857 1617,857 1643,857 1669,857 1695,857 1722,858 1748,858 1774,858 1800,858 1826,858 1853,857" />
+                    <TextEquiv>
+                        <Unicode>MOBILIARIO</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_3l3" custom="readingOrder {index:2;}">
+                    <Coords points="1650,931 1961,930 1976,920 1976,887 1649,884" />
+                    <Baseline points="1655,920 1681,921 1707,921 1734,921 1760,920 1786,920 1813,920 1839,918 1865,918 1892,918 1918,918 1944,920 1971,921" />
+                    <TextEquiv>
+                        <Unicode>MERCANCIAS</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_3l4" custom="readingOrder {index:3;}">
+                    <Coords points="1728,976 1751,991 1773,993 1824,987 1838,994 1951,992 1972,980 1973,953 1959,944 1728,948" />
+                    <Baseline points="1734,980 1759,980 1785,980 1811,980 1837,980 1863,981 1889,981 1915,981 1941,981 1967,981" />
+                    <TextEquiv>
+                        <Unicode>VAPORES</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_3l5" custom="readingOrder {index:4;}">
+                    <Coords points="1791,1054 2127,1054 2139,1051 2139,1008 1816,1005 1791,1021" />
+                    <Baseline points="1797,1044 1822,1043 1848,1043 1874,1043 1900,1043 1926,1044 1952,1044 1977,1044 2003,1044 2029,1044 2055,1043 2081,1043 2107,1043 2133,1041" />
+                    <TextEquiv>
+                        <Unicode>AUTOMOVILES</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_6_3l6" custom="readingOrder {index:5;}">
+                    <Coords points="1474,1107 1538,1121 1704,1107 1719,1122 1757,1101 1791,1119 2062,1108 2062,1077 2041,1068 1809,1083 1782,1068 1711,1092 1685,1068 1474,1072" />
+                    <Baseline points="1479,1103 1507,1104 1536,1104 1565,1104 1594,1104 1623,1106 1652,1106 1681,1106 1710,1106 1739,1106 1768,1106 1796,1106 1825,1106 1854,1106 1883,1106 1912,1106 1941,1106 1970,1106 1999,1106 2028,1106 2057,1107" />
+                    <TextEquiv>
+                        <Unicode>FIANZAS y GARANTIAS</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" orientation="0.0" type="paragraph" id="r_1_7_1">
+                <Coords points="204,1118 1192,1118 1192,1182 204,1182" />
+                <TextLine id="r_1_7_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="335,1169 1063,1170 1074,1123 839,1116 807,1141 781,1116 616,1116 543,1146 335,1126" />
+                    <Baseline points="341,1160 377,1158 413,1158 450,1160 486,1160 522,1160 559,1160 595,1160 631,1160 668,1160 704,1160 740,1160 777,1160 813,1160 849,1160 886,1160 922,1160 958,1160 995,1160 1031,1160 1068,1158" />
+                    <TextEquiv>
+                        <Unicode>Espacioso y Ventilado Salón Pard</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="1" type="paragraph" id="r_1_7_2">
+                <Coords points="1192,1118 1281,1118 1281,1182 1192,1182" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="2" orientation="0.0" type="paragraph" id="r_1_7_3">
+                <Coords points="1281,1118 2270,1118 2270,1182 1281,1182" />
+                <TextLine id="r_1_7_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1422,1172 2111,1170 2094,1132 1422,1135" />
+                    <Baseline points="1427,1167 1460,1167 1494,1167 1528,1167 1562,1167 1596,1167 1630,1167 1664,1167 1698,1167 1732,1167 1766,1167 1799,1167 1833,1167 1867,1169 1901,1169 1935,1169 1969,1169 2003,1169 2037,1169 2071,1169 2105,1169" />
+                    <TextEquiv>
+                        <Unicode>PRESTAMOS HIPOTECARIOS</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" orientation="0.0" type="paragraph" id="r_1_8_1">
+                <Coords points="204,1182 1192,1182 1192,1284 204,1284" />
+                <TextLine id="r_1_8_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="333,1235 1077,1227 1077,1206 958,1186 882,1205 752,1188 729,1210 551,1187 333,1201" />
+                    <Baseline points="339,1226 375,1226 412,1226 448,1227 485,1227 522,1227 558,1227 595,1227 631,1227 668,1227 705,1227 741,1227 778,1227 814,1227 851,1227 888,1227 924,1227 961,1229 997,1229 1034,1229 1071,1229" />
+                    <TextEquiv>
+                        <Unicode>Grandes Reuniones, Bailes y Fieslas.</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="1" type="paragraph" id="r_1_8_2">
+                <Coords points="1192,1182 1281,1182 1281,1284 1192,1284" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="2" orientation="0.0" type="paragraph" id="r_1_8_3">
+                <Coords points="1281,1182 2270,1182 2270,1284 1281,1284" />
+                <TextLine id="r_1_8_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1260,1281 1310,1254 2197,1266 2211,1219 1260,1229" />
+                    <Baseline points="1266,1250 1315,1250 1364,1251 1414,1251 1463,1251 1513,1251 1562,1251 1611,1251 1661,1253 1710,1253 1760,1253 1809,1253 1859,1253 1908,1253 1957,1253 2007,1254 2056,1254 2106,1254 2155,1254 2205,1253" />
+                    <TextEquiv>
+                        <Unicode> SE ALQUILA LOCAL PARA OFICINAS</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="0" orientation="0.0" type="paragraph" id="r_1_9_1">
+                <Coords points="204,1284 1192,1284 1192,1441 204,1441" />
+                <TextLine id="r_1_9_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="566,1377 584,1387 638,1387 665,1361 679,1375 726,1375 741,1361 767,1386 822,1388 834,1382 834,1326 817,1315 791,1316 761,1339 735,1339 713,1362 686,1362 640,1325 613,1318 566,1336" />
+                    <Baseline points="572,1377 597,1376 623,1376 648,1375 674,1374 700,1374 725,1374 751,1374 776,1374 802,1375 828,1376" />
+                    <TextEquiv>
+                        <Unicode>* *</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="1" type="paragraph" id="r_1_9_2">
+                <Coords points="1192,1284 1281,1284 1281,1360 1192,1360" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="8" col="2" orientation="0.0" type="paragraph" id="r_1_9_3">
+                <Coords points="1281,1284 2270,1284 2270,1360 1281,1360" />
+                <TextLine id="r_1_9_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1260,1359 1286,1367 1311,1342 1398,1355 1559,1340 1622,1347 1634,1341 1634,1313 1566,1301 1522,1320 1507,1308 1441,1314 1424,1300 1326,1300 1293,1331 1260,1330" />
+                    <Baseline points="1266,1340 1291,1339 1317,1337 1343,1336 1369,1335 1395,1335 1421,1335 1447,1335 1472,1335 1498,1335 1524,1337 1550,1337 1576,1337 1602,1337 1628,1338" />
+                    <TextEquiv>
+                        <Unicode>y Dirijanse a la:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="0" type="paragraph" id="r_1_10_1">
+                <Coords points="1192,1360 1281,1360 1281,1441 1192,1441" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="1" orientation="0.0" type="paragraph" id="r_1_10_2">
+                <Coords points="1281,1360 2270,1360 2270,1441 1281,1441" />
+                <TextLine id="r_1_10_2l1" custom="readingOrder {index:0;}">
+                    <Coords points="1339,1403 2189,1403 2189,1364 2095,1387 2062,1364 1575,1364 1554,1383 1339,1364" />
+                    <Baseline points="1344,1398 1388,1398 1432,1399 1476,1400 1520,1400 1564,1400 1608,1401 1653,1401 1697,1401 1741,1401 1785,1401 1829,1401 1873,1401 1918,1401 1962,1401 2006,1400 2050,1400 2094,1400 2138,1400 2183,1400" />
+                    <TextEquiv>
+                        <Unicode>OFICINA CENTRAL, CUARTO No. 205</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="0" orientation="0.0" type="paragraph" id="r_1_11_1">
+                <Coords points="204,1441 1192,1441 1192,1543 204,1543" />
+                <TextLine id="r_1_11_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="336,1518 1077,1515 1077,1485 1037,1468 336,1477" />
+                    <Baseline points="342,1508 378,1508 414,1508 451,1509 487,1509 524,1509 560,1509 597,1509 633,1509 670,1509 706,1509 742,1509 779,1511 815,1511 852,1511 888,1511 925,1511 961,1512 998,1512 1034,1512 1071,1514" />
+                    <TextEquiv>
+                        <Unicode>JUAN GALMES, Propietario</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="1" type="paragraph" id="r_1_11_2">
+                <Coords points="1192,1441 1281,1441 1281,1543 1192,1543" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="2" orientation="0.0" type="paragraph" id="r_1_11_3">
+                <Coords points="1281,1441 2270,1441 2270,1543 1281,1543" />
+                <TextLine id="r_1_11_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1368,1501 1426,1532 2012,1535 2095,1532 2127,1475 1368,1486" />
+                    <Baseline points="1374,1505 1411,1510 1448,1514 1486,1517 1523,1518 1560,1521 1598,1522 1635,1523 1672,1523 1710,1524 1747,1524 1784,1523 1822,1523 1859,1522 1896,1521 1934,1521 1971,1520 2008,1520 2046,1520 2083,1520 2121,1520" />
+                    <TextEquiv>
+                        <Unicode>"FILIPINAS BUILDING"</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="0" orientation="0.0" type="paragraph" id="r_1_12_1">
+                <Coords points="204,1543 1192,1543 1192,1608 204,1608" />
+                <TextLine id="r_1_12_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="426,1598 439,1603 588,1603 615,1596 615,1585 607,1585 593,1570 568,1564 541,1569 468,1559 446,1560 436,1570 426,1570" />
+                    <Baseline points="432,1595 457,1596 482,1596 507,1595 533,1595 558,1595 583,1596 609,1598" />
+                    <TextEquiv>
+                        <Unicode>MANILA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_12_1l2" custom="readingOrder {index:1;}">
+                    <Coords points="971,1619 1003,1601 1070,1607 1086,1597 1127,1610 1146,1603 1146,1565 1127,1560 1097,1561 1090,1568 1059,1560 971,1564" />
+                    <Baseline points="977,1599 1004,1597 1031,1596 1058,1595 1085,1595 1112,1596 1140,1598" />
+                    <TextEquiv>
+                        <Unicode> 2-33-50</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="1" type="paragraph" id="r_1_12_2">
+                <Coords points="1192,1543 1281,1543 1281,1608 1192,1608" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="2" orientation="0.0" type="paragraph" id="r_1_12_3">
+                <Coords points="1281,1543 2270,1543 2270,1608 1281,1608" />
+                <TextLine id="r_1_12_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1470,1586 1857,1603 1892,1586 2058,1590 2047,1555 1703,1554 1682,1569 1470,1555" />
+                    <Baseline points="1476,1586 1504,1587 1533,1587 1562,1587 1591,1588 1620,1589 1648,1589 1677,1589 1706,1589 1735,1589 1764,1589 1792,1589 1821,1589 1850,1589 1879,1589 1908,1588 1936,1587 1965,1587 1994,1587 2023,1587 2052,1587" />
+                    <TextEquiv>
+                        <Unicode>Teléfonos 2-17-63 y 2-17-64</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="0" orientation="0.0" type="paragraph" id="r_1_13_1">
+                <Coords points="204,1608 1192,1608 1192,1725 204,1725" />
+                <TextLine id="r_1_13_1l1" custom="readingOrder {index:0;}">
+                    <Coords points="821,1632 946,1635 946,1600 931,1600 921,1595 876,1600 847,1591 821,1591" />
+                    <Baseline points="827,1625 855,1626 884,1626 912,1626 941,1625" />
+                    <TextEquiv>
+                        <Unicode>TELS:</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_1l2" custom="readingOrder {index:1;}">
+                    <Coords points="206,1657 790,1656 790,1626 768,1623 333,1627 280,1612 232,1564 206,1569" />
+                    <Baseline points="212,1655 240,1653 269,1653 297,1653 326,1653 355,1652 383,1652 412,1652 441,1652 469,1652 498,1652 527,1653 555,1653 584,1653 613,1653 641,1653 670,1653 699,1653 727,1653 756,1652 785,1652" />
+                    <TextEquiv>
+                        <Unicode>SOLANA 187, INTRAMUROS</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_1l3" custom="readingOrder {index:2;}">
+                    <Coords points="957,1667 973,1674 990,1663 1079,1666 1086,1659 1095,1667 1135,1666 1149,1657 1149,1625 1099,1621 1081,1608 1070,1620 1007,1620 990,1627 977,1619 956,1631" />
+                    <Baseline points="962,1661 987,1658 1013,1655 1039,1654 1065,1653 1091,1655 1117,1655 1143,1656" />
+                    <TextEquiv>
+                        <Unicode>(2-33-59</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_1l4" custom="readingOrder {index:3;}">
+                    <Coords points="455,1731 762,1731 804,1706 833,1705 833,1688 454,1691" />
+                    <Baseline points="461,1707 487,1707 513,1706 539,1706 565,1706 591,1706 617,1704 644,1704 670,1704 696,1704 722,1703 748,1703 774,1701 800,1700 827,1698" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_1l5" custom="readingOrder {index:4;}">
+                    <Coords points="1095,1727 1099,1731 1135,1730 1140,1734 1171,1697 1164,1691 1135,1692 1129,1687" />
+                    <Baseline points="1125,1700 1146,1718" />
+                    <TextEquiv>
+                        <Unicode>E</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_1l6" custom="readingOrder {index:5;}">
+                    <Coords points="218,1731 431,1730 431,1688 400,1693 363,1684 344,1690 329,1684 219,1686" />
+                    <Baseline points="224,1703 249,1708 274,1712 299,1716 324,1718 349,1718 374,1715 399,1711 425,1706" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_1l7" custom="readingOrder {index:6;}">
+                    <Coords points="1161,1731 1191,1731 1191,1638 1186,1638 1181,1633 1169,1645 1161,1646" />
+                    <Baseline points="1167,1715 1185,1715" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_1l8" custom="readingOrder {index:7;}">
+                    <Coords points="797,1727 804,1727 807,1731 813,1731 818,1726 832,1727 835,1731 848,1731 848,1705 797,1706" />
+                    <Baseline points="803,1722 842,1722" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="1" type="paragraph" id="r_1_13_2">
+                <Coords points="1192,1608 1281,1608 1281,1725 1192,1725" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="2" orientation="0.0" type="paragraph" id="r_1_13_3">
+                <Coords points="1281,1608 2270,1608 2270,1725 1281,1725" />
+                <TextLine id="r_1_13_3l1" custom="readingOrder {index:0;}">
+                    <Coords points="1461,1654 1807,1651 1886,1667 2069,1650 2025,1612 1913,1612 1890,1635 1844,1611 1791,1637 1751,1612 1461,1625" />
+                    <Baseline points="1467,1650 1496,1650 1526,1650 1556,1650 1586,1650 1616,1650 1646,1650 1675,1650 1705,1650 1735,1652 1765,1652 1795,1652 1825,1652 1855,1652 1884,1652 1914,1652 1944,1652 1974,1652 2004,1652 2034,1650 2064,1650" />
+                    <TextEquiv>
+                        <Unicode>P. O. Box No. 745, Manila</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_3l2" custom="readingOrder {index:1;}">
+                    <Coords points="1360,1731 1634,1731 1636,1690 1601,1684 1363,1685" />
+                    <Baseline points="1368,1698 1394,1703 1420,1707 1446,1709 1472,1710 1498,1710 1524,1710 1550,1711 1576,1712 1602,1714 1629,1716" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_1_13_3l3" custom="readingOrder {index:2;}">
+                    <Coords points="1806,1731 2137,1730 2137,1689 1880,1683 1806,1692" />
+                    <Baseline points="1812,1722 1838,1717 1865,1713 1892,1711 1918,1710 1945,1710 1972,1710 1998,1712 2025,1713 2052,1713 2078,1715 2105,1715 2132,1715" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="188,1780 286,1780 286,1840 188,1840" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="214,1811 225,1809 246,1819 287,1818 277,1772 237,1771 224,1773 220,1780 208,1781" />
+                <Baseline points="219,1805 247,1796 276,1793" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="186,3140 236,3140 236,3246 186,3246" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1132,1802 1188,1802 1188,1880 1132,1880" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="280,1896 1132,1896 1132,1950 280,1950" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="288,1947 1134,1939 1134,1912 1014,1900 824,1900 801,1922 766,1900 288,1900" />
+                <Baseline points="294,1935 335,1935 377,1935 419,1937 460,1937 502,1937 544,1937 585,1937 627,1937 669,1937 711,1937 752,1937 794,1937 836,1937 877,1937 919,1937 961,1938 1002,1938 1044,1939 1086,1940 1128,1941" />
+                <TextEquiv>
+                    <Unicode>Para Pintar Mejor—Le Recomendamos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Para Pintar Mejor—Le Recomendamos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="532,2034 876,2034 876,2508 532,2508" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="278,2560 1128,2560 1128,3106 278,3106" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="375,2595 399,2611 659,2618 685,2604 721,2618 748,2591 772,2616 833,2618 998,2619 1025,2600 1025,2568 998,2563 375,2562" />
+                <Baseline points="381,2601 412,2601 444,2601 476,2601 508,2601 540,2603 572,2603 604,2603 636,2604 668,2604 700,2606 731,2606 763,2606 795,2606 827,2606 859,2606 891,2606 923,2605 955,2604 987,2603 1019,2601" />
+                <TextEquiv>
+                    <Unicode>PINTURAS y ACEITES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="527,2766 553,2783 587,2783 620,2753 652,2753 681,2780 728,2786 782,2754 818,2783 861,2787 900,2765 900,2712 869,2700 813,2700 781,2722 759,2700 677,2699 651,2721 627,2700 528,2697" />
+                <Baseline points="533,2765 558,2766 584,2768 610,2768 636,2769 661,2768 687,2768 713,2768 739,2766 765,2766 790,2766 816,2767 842,2769 868,2770 894,2774" />
+                <TextEquiv>
+                    <Unicode>Y CO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="285,2893 1095,2907 1124,2901 1125,2870 1033,2844 286,2844" />
+                <Baseline points="291,2889 332,2889 373,2890 415,2891 456,2891 498,2891 539,2891 580,2891 622,2891 663,2892 705,2892 746,2892 787,2894 829,2894 870,2894 912,2895 953,2895 994,2897 1036,2897 1077,2898 1119,2900" />
+                <TextEquiv>
+                    <Unicode>YNCHAUSTI Y COMPAÑIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l4" custom="readingOrder {index:3;}">
+                <Coords points="421,3007 981,3010 981,2992 944,2980 421,2990" />
+                <Baseline points="426,3005 453,3005 480,3006 508,3006 535,3006 563,3006 590,3006 618,3006 645,3006 673,3005 700,3005 727,3005 755,3005 782,3005 810,3005 837,3005 865,3006 892,3006 920,3006 947,3006 975,3006" />
+                <TextEquiv>
+                    <Unicode>ESTADLECIMIENTO Y FABRICA!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l5" custom="readingOrder {index:4;}">
+                <Coords points="390,3100 991,3106 1025,3081 1000,3053 390,3054" />
+                <Baseline points="396,3089 427,3089 458,3089 489,3089 520,3090 551,3090 582,3090 614,3090 645,3091 676,3092 707,3092 738,3092 769,3092 800,3092 832,3092 863,3092 894,3090 925,3090 956,3090 987,3089 1019,3087" />
+                <TextEquiv>
+                    <Unicode>348 Tanduay, Tel. 2-27-50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PINTURAS y ACEITES
+Y CO
+YNCHAUSTI Y COMPAÑIA
+ESTADLECIMIENTO Y FABRICA!
+348 Tanduay, Tel. 2-27-50</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1260,1781 2264,1781 2264,2631 1260,2631" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_9_1" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="1343,2639 2178,2639 2178,2948 1343,2948" />
+            <TextLine id="r_9_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1380,2679 1461,2681 1489,2699 1556,2674 1601,2686 1624,2672 1648,2689 1728,2674 1949,2682 1949,2660 1901,2637 1814,2650 1767,2636 1741,2654 1720,2636 1634,2654 1581,2638 1560,2657 1469,2638 1380,2647" />
+                <Baseline points="1386,2673 1413,2673 1441,2673 1469,2673 1497,2672 1525,2672 1553,2672 1580,2672 1608,2672 1636,2672 1664,2672 1692,2672 1720,2672 1748,2672 1775,2672 1803,2672 1831,2672 1859,2672 1887,2672 1915,2672 1943,2672" />
+                <TextEquiv>
+                    <Unicode>Sorbete de café con leche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1380,2735 2172,2739 2172,2699 2148,2692 1810,2692 1785,2714 1744,2692 1530,2713 1380,2697" />
+                <Baseline points="1386,2727 1425,2727 1464,2727 1503,2726 1542,2726 1581,2726 1620,2724 1659,2724 1698,2724 1737,2724 1776,2724 1815,2724 1854,2724 1893,2724 1932,2724 1971,2724 2010,2724 2049,2724 2088,2724 2127,2725 2166,2726" />
+                <TextEquiv>
+                    <Unicode>Suave, refrescante, delicioso, hecho de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1350,2788 1607,2771 2103,2794 2166,2783 2166,2754 1350,2755" />
+                <Baseline points="1356,2781 1396,2781 1436,2780 1476,2780 1516,2780 1557,2778 1597,2778 1637,2778 1677,2778 1717,2778 1758,2778 1798,2778 1838,2777 1878,2777 1918,2777 1959,2777 1999,2777 2039,2777 2079,2777 2119,2777 2160,2777" />
+                <TextEquiv>
+                    <Unicode>acuerdo con una receta casera compro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1349,2843 2184,2833 2127,2796 1456,2822 1349,2796" />
+                <Baseline points="1355,2832 1396,2832 1437,2831 1478,2831 1519,2831 1560,2829 1601,2829 1643,2829 1684,2828 1725,2828 1766,2828 1807,2828 1848,2828 1889,2828 1931,2828 1972,2829 2013,2829 2054,2830 2095,2831 2136,2831 2178,2832" />
+                <TextEquiv>
+                    <Unicode>bada y cuyos ingredientes son: Leche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1338,2887 2066,2889 2039,2844 1953,2866 1815,2844 1703,2869 1656,2845 1338,2844" />
+                <Baseline points="1344,2880 1379,2880 1415,2880 1451,2880 1487,2880 1523,2880 1558,2880 1594,2880 1630,2880 1666,2880 1702,2879 1737,2879 1773,2879 1809,2879 1845,2879 1881,2879 1916,2879 1952,2879 1988,2879 2024,2879 2060,2879" />
+                <TextEquiv>
+                    <Unicode>huevos y jarabe especial de café.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1389,2947 1686,2946 1710,2936 1767,2946 1776,2908 1738,2899 1716,2920 1639,2899 1596,2909 1521,2900 1487,2926 1440,2900 1388,2903" />
+                <Baseline points="1394,2933 1419,2934 1444,2934 1469,2934 1494,2934 1519,2934 1544,2933 1569,2933 1594,2931 1619,2931 1644,2930 1669,2930 1694,2930 1719,2930 1744,2930 1770,2931" />
+                <TextEquiv>
+                    <Unicode>Otra delicadeza de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sorbete de café con leche.
+Suave, refrescante, delicioso, hecho de
+acuerdo con una receta casera compro¬
+bada y cuyos ingredientes son: Leche,
+huevos y jarabe especial de café.
+Otra delicadeza de</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1257,2965 2254,2965 2254,3244 1257,3244" />
+        </GraphicRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="228,256 1196,256 1196,264 228,264" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="1286,256 2255,256 2255,262 1286,262" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="231,267 1188,267 1188,272 231,272" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="1288,267 2236,267 2236,273 1288,273" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="235,277 1180,277 1180,282 235,282" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="1292,277 2246,277 2246,285 1292,285" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="228,1696 1192,1696 1192,1703 228,1703" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="1289,1696 2240,1696 2240,1702 1289,1702" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="223,1707 1183,1707 1183,1714 223,1714" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="1281,1707 2243,1707 2243,1712 1281,1712" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="1277,1716 2246,1716 2246,1723 1277,1723" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="235,1718 1184,1718 1184,1725 235,1725" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="222,1783 1186,1783 1186,1791 222,1791" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="1277,1783 2233,1783 2233,1790 1277,1790" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="225,1794 1186,1794 1186,1802 225,1802" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:25;}">
+            <Coords points="229,1805 1179,1805 1179,1813 229,1813" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:26;}">
+            <Coords points="1260,1805 2235,1805 2235,1812 1260,1812" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:27;}">
+            <Coords points="614,2027 797,2027 797,2042 614,2042" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+            <Coords points="1281,3214 2227,3214 2227,3223 1281,3223" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+            <Coords points="233,3222 1172,3222 1172,3228 233,3228" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:30;}">
+            <Coords points="1278,3225 2230,3225 2230,3233 1278,3233" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:31;}">
+            <Coords points="234,3232 1177,3232 1177,3238 234,3238" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:32;}">
+            <Coords points="234,3244 1181,3244 1181,3249 234,3249" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:33;}">
+            <Coords points="202,1815 208,1815 208,3129 202,3129" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:34;}">
+            <Coords points="205,290 214,290 214,1703 205,1703" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:35;}">
+            <Coords points="213,1839 218,1839 218,3220 213,3220" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:36;}">
+            <Coords points="216,278 225,278 225,1702 216,1702" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:37;}">
+            <Coords points="223,1814 229,1814 229,3218 223,3218" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:38;}">
+            <Coords points="227,288 236,288 236,1697 227,1697" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_41" custom="readingOrder {index:39;}">
+            <Coords points="1172,1806 1180,1806 1180,3212 1172,3212" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_42" custom="readingOrder {index:40;}">
+            <Coords points="1177,1568 1180,1568 1180,1702 1177,1702" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_43" custom="readingOrder {index:41;}">
+            <Coords points="1178,281 1188,281 1188,1568 1178,1568" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_44" custom="readingOrder {index:42;}">
+            <Coords points="1183,1801 1191,1801 1191,3211 1183,3211" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_45" custom="readingOrder {index:43;}">
+            <Coords points="1187,277 1198,277 1198,1650 1187,1650" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_46" custom="readingOrder {index:44;}">
+            <Coords points="1194,1800 1202,1800 1202,3211 1194,3211" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_47" custom="readingOrder {index:45;}">
+            <Coords points="1197,275 1209,275 1209,1684 1197,1684" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_48" custom="readingOrder {index:46;}">
+            <Coords points="1259,1795 1269,1795 1269,3223 1259,3223" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_49" custom="readingOrder {index:47;}">
+            <Coords points="1264,1473 1270,1473 1270,1706 1264,1706" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_50" custom="readingOrder {index:48;}">
+            <Coords points="1265,287 1277,287 1277,1473 1265,1473" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_51" custom="readingOrder {index:49;}">
+            <Coords points="1269,1799 1279,1799 1279,3221 1269,3221" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_52" custom="readingOrder {index:50;}">
+            <Coords points="1275,271 1288,271 1288,1704 1275,1704" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_53" custom="readingOrder {index:51;}">
+            <Coords points="1285,480 1296,480 1296,1698 1285,1698" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_54" custom="readingOrder {index:52;}">
+            <Coords points="1294,287 1298,287 1298,480 1294,480" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_55" custom="readingOrder {index:53;}">
+            <Coords points="2238,271 2248,271 2248,1699 2238,1699" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_56" custom="readingOrder {index:54;}">
+            <Coords points="2248,279 2259,279 2259,1688 2248,1688" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_57" custom="readingOrder {index:55;}">
+            <Coords points="2259,279 2270,279 2270,1706 2259,1706" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_58" custom="readingOrder {index:56;}">
+            <Coords points="322,272 1151,272 1151,274 322,274" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_59" custom="readingOrder {index:57;}">
+            <Coords points="346,282 1095,282 1095,284 346,284" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_60" custom="readingOrder {index:58;}">
+            <Coords points="570,1703 1051,1703 1051,1705 570,1705" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_61" custom="readingOrder {index:59;}">
+            <Coords points="978,1718 1082,1718 1082,1727 978,1727" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_62" custom="readingOrder {index:60;}">
+            <Coords points="204,1119 206,1119 206,1483 204,1483" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_63" custom="readingOrder {index:61;}">
+            <Coords points="211,1136 212,1136 212,1289 211,1289" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_64" custom="readingOrder {index:62;}">
+            <Coords points="1270,2411 1273,2411 1273,2631 1270,2631" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

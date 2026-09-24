@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:25:07.525+02:00</Created>
+        <LastChange>2021-11-03T19:01:10.163+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781320" pageNr="433" tsid="236400413" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LYKRIGFFNHLDVMQKXDEAVGRI" xmlUrl="https://files.transkribus.eu/Get?id=MMRJTISDEJVLCFBJPBRJNQJK" imageId="17245844" />
+    </Metadata>
+    <Page imageFilename="0433_p433.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="371,950 2016,950 2016,3042 371,3042" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982515340" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="580,2693 960,2693 960,2853 580,2853" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="371,2989 1278,2989 1278,3042 371,3042" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="375,3073 419,3073 464,3073 508,3073 553,3073 597,3073 642,3074 686,3074 731,3074 775,3074 820,3074 865,3074 909,3074 954,3074 998,3074 1043,3074 1087,3074 1132,3074 1176,3074 1221,3073 1266,3073 1266,2923 1221,2923 1176,2924 1132,2924 1087,2924 1043,2924 998,2924 954,2924 909,2924 865,2924 820,2924 775,2924 731,2924 686,2924 642,2924 597,2923 553,2923 508,2923 464,2923 419,2923 375,2923" />
+                <Baseline points="375,3023 419,3023 464,3023 508,3023 553,3023 597,3023 642,3024 686,3024 731,3024 775,3024 820,3024 865,3024 909,3024 954,3024 998,3024 1043,3024 1087,3024 1132,3024 1176,3024 1221,3023 1266,3023" />
+                <TextEquiv>
+                    <Unicode>Prominente hombre de negocios de Manila.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Prominente hombre de negocios de Manila.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="769,2694 954,2694 954,2702 769,2702" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="787,2773 943,2773 943,2781 787,2781" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="2004,950 2016,950 2016,1118 2004,1118" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="953,2695 957,2695 957,2761 953,2761" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="734,2780 771,2780 771,2782 734,2782" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

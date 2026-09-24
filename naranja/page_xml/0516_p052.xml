@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:45:53.769+02:00</Created>
+        <LastChange>2021-10-29T19:15:02.749+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781402" pageNr="516" tsid="236400555" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BSHDFBPURUSVNGZSSRRMOABZ" xmlUrl="https://files.transkribus.eu/Get?id=RLFHSTTCROIMYMQWBIPMPPOP" imageId="17244329" />
+    </Metadata>
+    <Page imageFilename="0516_p052.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982535012" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="485,1312 485,1468 584,1468 584,1312" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="485,1468 518,1465 551,1462 584,1468 584,1318 551,1312 518,1315 485,1318" />
+                <Baseline points="485,1418 518,1415 551,1412 584,1418" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="419,140 419,3420 2061,3420 2061,140" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="567,204 592,206 618,206 643,207 669,207 694,207 720,207 745,207 771,207 796,207 822,206 847,206 873,206 898,206 924,206 949,206 975,207 1000,207 1026,209 1026,145 1000,143 975,143 949,142 924,142 898,142 873,142 847,142 822,142 796,143 771,143 745,143 720,143 694,143 669,143 643,143 618,142 592,142 567,140" />
+                <Baseline points="567,183 592,185 618,185 643,186 669,186 694,186 720,186 745,186 771,186 796,186 822,185 847,185 873,185 898,185 924,185 949,185 975,186 1000,186 1026,188" />
+                <TextEquiv>
+                    <Unicode>MONTE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1454,210 1480,210 1506,210 1532,210 1558,210 1585,210 1611,210 1637,209 1663,209 1689,209 1716,209 1742,209 1768,209 1794,209 1820,209 1847,210 1873,212 1899,212 1925,214 1952,216 1952,152 1925,150 1899,148 1873,148 1847,146 1820,145 1794,145 1768,145 1742,145 1716,145 1689,145 1663,145 1637,145 1611,146 1585,146 1558,146 1532,146 1506,146 1480,146 1454,146" />
+                <Baseline points="1454,189 1480,189 1506,189 1532,189 1558,189 1585,189 1611,189 1637,188 1663,188 1689,188 1716,188 1742,188 1768,188 1794,188 1820,188 1847,189 1873,191 1899,191 1925,193 1952,195" />
+                <TextEquiv>
+                    <Unicode>PIEDAD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="554,300 622,300 690,302 759,302 827,302 896,302 964,300 1033,300 1101,300 1170,300 1238,300 1306,300 1375,300 1443,300 1512,300 1580,301 1649,302 1717,303 1786,305 1854,308 1923,311 1923,247 1854,244 1786,241 1717,239 1649,238 1580,237 1512,236 1443,236 1375,236 1306,236 1238,236 1170,236 1101,236 1033,236 964,236 896,238 827,238 759,238 690,238 622,236 554,236" />
+                <Baseline points="554,279 622,279 690,281 759,281 827,281 896,281 964,279 1033,279 1101,279 1170,279 1238,279 1306,279 1375,279 1443,279 1512,279 1580,280 1649,281 1717,282 1786,284 1854,287 1923,290" />
+                <TextEquiv>
+                    <Unicode>Y CAJALU AHORROS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="950,389 980,389 1010,391 1040,391 1070,391 1100,391 1130,391 1160,391 1190,391 1220,391 1250,392 1280,392 1310,392 1340,392 1370,392 1400,392 1430,392 1460,394 1490,394 1520,395 1551,395 1551,335 1520,335 1490,334 1460,334 1430,332 1400,332 1370,332 1340,332 1310,332 1280,332 1250,332 1220,331 1190,331 1160,331 1130,331 1100,331 1070,331 1040,331 1010,331 980,329 950,329" />
+                <Baseline points="950,369 980,369 1010,371 1040,371 1070,371 1100,371 1130,371 1160,371 1190,371 1220,371 1250,372 1280,372 1310,372 1340,372 1370,372 1400,372 1430,372 1460,374 1490,374 1520,375 1551,375" />
+                <TextEquiv>
+                    <Unicode>DE MANILA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1008,472 1033,472 1058,472 1083,472 1108,472 1133,472 1158,472 1183,472 1208,472 1233,473 1259,473 1284,473 1309,475 1334,475 1359,475 1384,475 1409,475 1434,475 1459,475 1485,475 1485,415 1459,415 1434,415 1409,415 1384,415 1359,415 1334,415 1309,415 1284,413 1259,413 1233,413 1208,412 1183,412 1158,412 1133,412 1108,412 1083,412 1058,412 1033,412 1008,412" />
+                <Baseline points="1008,452 1033,452 1058,452 1083,452 1108,452 1133,452 1158,452 1183,452 1208,452 1233,453 1259,453 1284,453 1309,455 1334,455 1359,455 1384,455 1409,455 1434,455 1459,455 1485,455" />
+                <TextEquiv>
+                    <Unicode>FUNDADA EN 1882</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="548,2922 582,2925 617,2925 617,2861 582,2861 548,2858" />
+                <Baseline points="548,2901 582,2904 617,2904" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="1725,2918 1751,2922 1777,2926 1803,2927 1829,2928 1855,2928 1881,2930 1881,2866 1855,2864 1829,2864 1803,2863 1777,2862 1751,2858 1725,2854" />
+                <Baseline points="1725,2897 1751,2901 1777,2905 1803,2906 1829,2907 1855,2907 1881,2909" />
+                <TextEquiv>
+                    <Unicode>PALORNA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="419,3335 501,3335 583,3333 665,3333 747,3333 829,3333 911,3333 993,3332 1075,3332 1157,3332 1240,3332 1322,3332 1404,3332 1486,3332 1568,3333 1650,3333 1732,3333 1814,3333 1896,3333 1978,3333 2061,3333 2061,3270 1978,3270 1896,3270 1814,3270 1732,3270 1650,3270 1568,3270 1486,3269 1404,3269 1322,3269 1240,3269 1157,3269 1075,3269 993,3269 911,3270 829,3270 747,3270 665,3270 583,3270 501,3272 419,3272" />
+                <Baseline points="419,3314 501,3314 583,3312 665,3312 747,3312 829,3312 911,3312 993,3311 1075,3311 1157,3311 1240,3311 1322,3311 1404,3311 1486,3311 1568,3312 1650,3312 1732,3312 1814,3312 1896,3312 1978,3312 2061,3312" />
+                <TextEquiv>
+                    <Unicode>Inculque en sus hijos el hábito del ahorro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="575,3419 641,3419 707,3419 773,3419 839,3419 906,3419 972,3419 1038,3419 1104,3419 1170,3419 1237,3419 1303,3419 1369,3419 1435,3419 1501,3419 1568,3419 1634,3419 1700,3419 1766,3419 1832,3420 1899,3420 1899,3357 1832,3357 1766,3356 1700,3356 1634,3356 1568,3356 1501,3356 1435,3356 1369,3356 1303,3356 1237,3356 1170,3356 1104,3356 1038,3356 972,3356 906,3356 839,3356 773,3356 707,3356 641,3356 575,3356" />
+                <Baseline points="575,3398 641,3398 707,3398 773,3398 839,3398 906,3398 972,3398 1038,3398 1104,3398 1170,3398 1237,3398 1303,3398 1369,3398 1435,3398 1501,3398 1568,3398 1634,3398 1700,3398 1766,3398 1832,3399 1899,3399" />
+                <TextEquiv>
+                    <Unicode>Solicite una de nuestras alcancías.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MONTE
+PIEDAD
+Y CAJALU AHORROS
+DE MANILA
+FUNDADA EN 1882
+E
+PALORNA
+Inculque en sus hijos el hábito del ahorro.
+Solicite una de nuestras alcancías.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

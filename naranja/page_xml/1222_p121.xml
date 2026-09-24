@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:41:33.566+02:00</Created>
+        <LastChange>2021-06-08T14:36:01.114+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782169" pageNr="1222" tsid="236401461" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BQZPTTHYIWPOOSIKXHPFQVMX" xmlUrl="https://files.transkribus.eu/Get?id=TTDWKZFSQHKQJLCUGIYXWKMZ" imageId="17246813" />
+    </Metadata>
+    <Page imageFilename="1222_p121.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="194,220 2291,220 2291,3280 194,3280" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982699147" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="196,220 1383,220 1383,611 196,611" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1453,322 2291,322 2291,624 1453,624" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1495,359 2143,374 2284,363 2284,328 1495,334" />
+                <Baseline points="1500,357 1541,357 1582,356 1623,356 1664,356 1705,356 1746,356 1787,357 1828,357 1869,357 1910,357 1951,357 1992,357 2033,357 2074,357 2115,357 2156,357 2197,357 2238,357 2279,356" />
+                <TextEquiv>
+                    <Unicode>Diversos momentos de la llegada a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1458,411 2291,401 2273,373 2095,365 1939,390 1902,369 1875,388 1632,364 1606,385 1458,364" />
+                <Baseline points="1463,401 1504,401 1545,401 1586,401 1627,401 1668,401 1709,401 1751,401 1792,401 1833,401 1874,401 1915,401 1956,401 1997,401 2039,401 2080,401 2121,401 2162,401 2203,401 2244,399 2286,399" />
+                <TextEquiv>
+                    <Unicode>Manlia del "as” de la aviación germa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1462,451 2063,454 2088,434 2111,458 2279,454 2291,409 2191,434 2054,412 1928,411 1899,435 1462,421" />
+                <Baseline points="1467,444 1510,443 1553,442 1596,441 1639,441 1682,441 1725,441 1768,441 1811,441 1854,441 1898,443 1941,443 1984,443 2027,443 2070,443 2113,444 2156,443 2199,443 2242,443 2286,443" />
+                <TextEquiv>
+                    <Unicode>na, von Gronau, en el vuelo que está</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1461,495 1677,479 1824,501 1888,476 1917,497 2255,498 2293,459 1461,460" />
+                <Baseline points="1466,486 1507,486 1548,485 1589,485 1630,485 1671,485 1712,485 1753,485 1794,485 1835,485 1877,485 1918,485 1959,485 2000,486 2041,486 2082,486 2123,486 2164,486 2205,486 2246,486 2288,486" />
+                <TextEquiv>
+                    <Unicode>realizando alrededor del mundo con su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1461,540 2291,530 2231,492 1461,501" />
+                <Baseline points="1466,530 1507,528 1548,528 1589,528 1630,528 1671,528 1712,528 1753,528 1794,528 1835,528 1876,528 1917,528 1958,528 1999,528 2040,528 2081,528 2122,528 2163,527 2204,527 2245,527 2286,527" />
+                <TextEquiv>
+                    <Unicode>poderoso y trimotor hidroavión, bautiza¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1462,580 2281,575 2281,550 2175,535 1462,546" />
+                <Baseline points="1467,570 1507,570 1547,570 1588,570 1628,570 1669,570 1709,570 1750,572 1790,572 1831,572 1871,572 1911,572 1952,572 1992,572 2033,572 2073,572 2114,572 2154,572 2195,570 2235,570 2276,569" />
+                <TextEquiv>
+                    <Unicode>do con el nombre de “Ballena de Groen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1452,626 1576,626 1605,598 1613,598 1613,585 1601,581 1575,581 1565,587 1555,580 1527,580 1510,589 1453,582" />
+                <Baseline points="1458,614 1487,615 1517,614 1547,614 1577,615 1607,618" />
+                <TextEquiv>
+                    <Unicode>landia"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Diversos momentos de la llegada a
+Manlia del "as” de la aviación germa¬
+na, von Gronau, en el vuelo que está
+realizando alrededor del mundo con su
+poderoso y trimotor hidroavión, bautiza¬
+do con el nombre de “Ballena de Groen¬
+landia"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="296,811 1361,811 1361,933 296,933" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1455,664 2291,664 2291,839 1455,839" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1494,706 2294,703 2294,674 1494,669" />
+                <Baseline points="1499,699 1538,699 1578,699 1617,698 1657,698 1696,698 1736,698 1775,698 1815,698 1854,699 1894,699 1933,699 1973,699 2012,699 2052,699 2091,699 2131,699 2170,699 2210,699 2249,699 2289,699" />
+                <TextEquiv>
+                    <Unicode>Foto de la izquierda: Momento en que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1462,755 2283,743 2283,721 2182,708 1462,716" />
+                <Baseline points="1467,744 1507,743 1548,743 1588,743 1629,741 1669,741 1710,741 1750,741 1791,741 1831,741 1872,741 1912,741 1953,741 1993,743 2034,743 2074,743 2115,743 2155,743 2196,743 2236,743 2277,743" />
+                <TextEquiv>
+                    <Unicode>el hidroavión apareció en el espacio pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1462,794 2278,794 2291,755 1462,761" />
+                <Baseline points="1467,789 1510,788 1553,788 1596,786 1639,786 1682,786 1725,785 1768,785 1811,785 1854,785 1898,785 1941,785 1984,785 2027,785 2070,785 2113,785 2156,785 2199,785 2242,784 2286,783" />
+                <TextEquiv>
+                    <Unicode>ra, pocos momentos después amerizar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1458,834 1946,831 1928,805 1888,793 1779,807 1736,795 1713,812 1679,795 1592,795 1572,816 1543,795 1512,811 1458,804" />
+                <Baseline points="1463,828 1488,830 1513,830 1538,831 1563,831 1588,831 1613,831 1639,831 1664,831 1689,831 1714,830 1739,830 1764,830 1790,830 1815,830 1840,830 1865,830 1890,830 1915,831 1941,831" />
+                <TextEquiv>
+                    <Unicode>en la Bahia de Manila.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto de la izquierda: Momento en que
+el hidroavión apareció en el espacio pa¬
+ra, pocos momentos después amerizar
+en la Bahia de Manila.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="195,946 2287,946 2287,2457 195,2457" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="200,2562 978,2562 978,3139 200,3139" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="245,2610 330,2588 351,2610 395,2592 498,2610 533,2588 602,2610 983,2600 983,2571 862,2560 812,2583 704,2561 569,2562 547,2584 490,2558 245,2569" />
+                <Baseline points="251,2595 287,2595 323,2595 360,2595 396,2595 432,2595 469,2595 505,2595 541,2595 578,2595 614,2595 650,2595 687,2595 723,2594 759,2594 796,2594 832,2595 868,2595 905,2595 941,2595 978,2595" />
+                <TextEquiv>
+                    <Unicode>En el óvalo: El aviador alemán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="195,2643 977,2651 977,2615 828,2604 703,2622 656,2605 631,2629 596,2605 195,2623" />
+                <Baseline points="200,2639 238,2639 277,2639 315,2639 354,2639 393,2639 431,2639 470,2639 508,2639 547,2639 586,2639 624,2639 663,2639 701,2639 740,2640 779,2640 817,2640 856,2640 894,2640 933,2640 972,2640" />
+                <TextEquiv>
+                    <Unicode>von Gronau rodeado de periodistas a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="196,2688 240,2695 266,2685 279,2698 293,2693 318,2700 435,2693 435,2674 392,2652 368,2662 339,2662 314,2661 292,2648 262,2667 255,2660 196,2666" />
+                <Baseline points="201,2681 226,2682 251,2682 277,2684 302,2684 327,2684 353,2684 378,2684 403,2685 429,2687" />
+                <TextEquiv>
+                    <Unicode>su llegada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="234,2778 977,2784 977,2749 950,2741 234,2753" />
+                <Baseline points="239,2775 275,2775 312,2775 348,2775 385,2775 422,2775 458,2775 495,2775 532,2775 568,2775 605,2775 642,2775 678,2775 715,2775 752,2775 788,2775 825,2775 862,2774 898,2774 935,2774 972,2774" />
+                <TextEquiv>
+                    <Unicode>Foto superior: Momentos después</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l5" custom="readingOrder {index:4;}">
+                <Coords points="202,2826 951,2827 983,2796 201,2796" />
+                <Baseline points="207,2819 245,2819 284,2819 322,2819 361,2819 399,2819 438,2819 476,2819 515,2819 553,2817 592,2817 631,2817 669,2817 708,2817 746,2817 785,2816 823,2816 862,2816 900,2816 939,2816 978,2814" />
+                <TextEquiv>
+                    <Unicode>de su llegada la tripulación del hidro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l6" custom="readingOrder {index:5;}">
+                <Coords points="199,2872 935,2872 935,2842 827,2828 787,2848 685,2828 199,2838" />
+                <Baseline points="204,2861 240,2862 276,2862 312,2862 349,2862 385,2862 421,2862 458,2862 494,2862 530,2862 567,2862 603,2862 639,2861 675,2861 712,2861 748,2861 784,2861 821,2861 857,2861 893,2861 930,2861" />
+                <TextEquiv>
+                    <Unicode>avión se prepara a bajar a tierra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l7" custom="readingOrder {index:6;}">
+                <Coords points="241,2962 956,2965 980,2962 980,2932 241,2934" />
+                <Baseline points="246,2954 282,2954 318,2955 355,2955 391,2955 428,2955 464,2955 501,2955 537,2954 574,2954 610,2954 646,2954 683,2954 719,2954 756,2954 792,2954 829,2955 865,2955 902,2955 938,2955 975,2955" />
+                <TextEquiv>
+                    <Unicode>Foto de la izquierda: El hidroavión</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l8" custom="readingOrder {index:7;}">
+                <Coords points="197,3007 967,3010 984,2974 198,2975" />
+                <Baseline points="203,2997 241,2997 280,2996 319,2996 358,2996 396,2996 435,2996 474,2997 513,2997 551,2997 590,2997 629,2997 668,2997 706,2997 745,2997 784,2997 823,2999 861,2999 900,2999 939,2999 978,2999" />
+                <TextEquiv>
+                    <Unicode>anclado en nuestra bahia, durante su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l9" custom="readingOrder {index:8;}">
+                <Coords points="198,3048 721,3050 721,3024 686,3006 491,3033 436,3005 325,3031 288,3013 198,3021" />
+                <Baseline points="203,3041 228,3041 254,3041 279,3041 305,3041 331,3041 356,3041 382,3041 408,3041 433,3041 459,3041 485,3041 510,3041 536,3041 562,3041 587,3041 613,3041 639,3041 664,3041 690,3041 716,3041" />
+                <TextEquiv>
+                    <Unicode>corta estadía en Manila.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l10" custom="readingOrder {index:9;}">
+                <Coords points="312,3139 974,3139 974,3102 552,3101 527,3116 490,3100 471,3117 455,3101 312,3103" />
+                <Baseline points="317,3126 349,3128 382,3128 414,3128 447,3128 480,3128 512,3128 545,3128 577,3128 610,3128 643,3128 675,3127 708,3126 740,3126 773,3126 806,3126 838,3126 871,3126 903,3126 936,3128 969,3128" />
+                <TextEquiv>
+                    <Unicode>Fotos—W. B. ALLEN DENNISTON. INC.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En el óvalo: El aviador alemán
+von Gronau rodeado de periodistas a
+su llegada.
+Foto superior: Momentos después
+de su llegada la tripulación del hidro¬
+avión se prepara a bajar a tierra.
+Foto de la izquierda: El hidroavión
+anclado en nuestra bahia, durante su
+corta estadía en Manila.
+Fotos—W. B. ALLEN DENNISTON. INC.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1042,2553 2284,2553 2284,3280 1042,3280" />
+        </GraphicRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="196,224 1383,224 1383,235 196,235" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1046,938 2277,938 2277,953 1046,953" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="614,1045 846,1045 846,1054 614,1054" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="196,1183 1057,1183 1057,1196 196,1196" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1762,1277 2094,1277 2094,1289 1762,1289" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="196,1470 932,1470 932,1487 196,1487" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="197,1493 1364,1493 1364,1515 197,1515" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="2140,1560 2280,1560 2280,1571 2140,1571" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="315,1712 536,1712 536,1725 315,1725" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="659,2258 830,2258 830,2266 659,2266" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="862,2258 937,2258 937,2260 862,2260" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="862,2268 966,2268 966,2274 862,2274" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="501,2269 825,2269 825,2279 501,2279" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1416,2301 2204,2301 2204,2315 1416,2315" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="200,2428 1427,2428 1427,2450 200,2450" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="1458,2733 1659,2733 1659,2749 1458,2749" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="1921,2739 2094,2739 2094,2754 1921,2754" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="1043,3255 2268,3255 2268,3267 1043,3267" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="194,225 206,225 206,1195 194,1195" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="196,1474 210,1474 210,2417 196,2417" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="988,1185 1015,1185 1015,1508 988,1508" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="1019,2430 1034,2430 1034,3265 1019,3265" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="1043,2430 1057,2430 1057,3264 1043,3264" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="1044,940 1058,940 1058,1507 1044,1507" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:31;}">
+            <Coords points="1371,226 1383,226 1383,940 1371,940" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:32;}">
+            <Coords points="1389,226 1403,226 1403,933 1389,933" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:33;}">
+            <Coords points="1414,2220 1428,2220 1428,2440 1414,2440" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:34;}">
+            <Coords points="2268,2190 2283,2190 2283,3268 2268,3268" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:35;}">
+            <Coords points="2268,938 2280,938 2280,1570 2268,1570" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:36;}">
+            <Coords points="349,1718 372,1718 372,1719 349,1719" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:37;}">
+            <Coords points="591,2294 628,2294 628,2295 591,2295" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:38;}">
+            <Coords points="1545,3119 1567,3119 1567,3121 1545,3121" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:39;}">
+            <Coords points="1043,2987 1044,2987 1044,3009 1043,3009" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

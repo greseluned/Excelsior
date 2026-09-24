@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:51:33.986+02:00</Created>
+        <LastChange>2021-06-08T20:49:05.586+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782922" pageNr="2002" tsid="236402518" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FYZMLQPQKTHBCIHDKJEVQYSX" xmlUrl="https://files.transkribus.eu/Get?id=DAPHQLVCPWSVXOVZMKMAJBYH" imageId="17249223" />
+    </Metadata>
+    <Page imageFilename="2002_p901.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="458,415 2185,415 2185,3094 458,3094" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982877717" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="458,415 2185,415 2185,2061 458,2061" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="575,2459 974,2459 974,2587 575,2587" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="584,2589 656,2604 708,2575 740,2594 807,2581 824,2593 861,2583 964,2596 962,2453 900,2441 699,2458 652,2444 582,2452" />
+                <Baseline points="591,2573 617,2573 643,2573 669,2573 695,2571 721,2571 747,2570 774,2570 800,2569 826,2568 852,2568 878,2568 904,2568 930,2569 957,2570" />
+                <TextEquiv>
+                    <Unicode>Golal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Golal</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1045,2311 1913,2311 1913,2640 1045,2640" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="572,2880 1844,2880 1844,3052 572,3052" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="564,2972 1790,2971 1736,2931 1504,2951 1451,2922 564,2933" />
+                <Baseline points="572,2964 632,2964 693,2964 753,2964 814,2966 874,2966 935,2966 995,2966 1056,2966 1116,2966 1177,2966 1237,2966 1298,2966 1358,2966 1419,2967 1479,2967 1540,2967 1600,2967 1661,2969 1721,2969 1782,2970" />
+                <TextEquiv>
+                    <Unicode>Pruebe Ud. esle nuevo cigarrillo de La Insular que en gusto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="573,3043 1781,3040 1743,2996 573,3003" />
+                <Baseline points="581,3033 640,3033 700,3033 759,3033 819,3033 879,3033 938,3033 998,3033 1057,3033 1117,3033 1177,3033 1236,3033 1296,3033 1355,3033 1415,3035 1475,3035 1534,3035 1594,3035 1653,3036 1713,3036 1773,3036" />
+                <TextEquiv>
+                    <Unicode>aroma y presentación no tiene nada que envidiar al importado.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pruebe Ud. esle nuevo cigarrillo de La Insular que en gusto,
+aroma y presentación no tiene nada que envidiar al importado.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1827,419 2019,419 2019,429 1827,429" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="523,2882 1825,2882 1825,2889 523,2889" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="517,3087 1825,3087 1825,3094 517,3094" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="513,2880 518,2880 518,3087 513,3087" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1144,2462 1147,2462 1147,2548 1144,2548" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1154,2464 1156,2464 1156,2540 1154,2540" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1242,2498 1284,2498 1284,2500 1242,2500" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1242,2506 1278,2506 1278,2508 1242,2508" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1242,2510 1272,2510 1272,2514 1242,2514" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1171,2562 1226,2562 1226,2565 1171,2565" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1132,2598 1164,2598 1164,2600 1132,2600" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1154,2510 1158,2510 1158,2600 1154,2600" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1183,2464 1185,2464 1185,2540 1183,2540" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1258,2490 1261,2490 1261,2524 1258,2524" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="2172,1415 2179,1415 2179,1567 2172,1567" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

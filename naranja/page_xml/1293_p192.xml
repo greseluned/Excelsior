@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:27.972+02:00</Created>
+        <LastChange>2021-06-08T15:13:58.834+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782205" pageNr="1293" tsid="236401523" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MDMRLOOWCYWVBBSKODVQZEME" xmlUrl="https://files.transkribus.eu/Get?id=RZBVMSSRCLCIAMYMGJHFJUKR" imageId="17247139" />
+    </Metadata>
+    <Page imageFilename="1293_p192.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="193,270 2296,270 2296,3241 193,3241" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982715437" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="193,270 2296,270 2296,1610 193,1610" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="218,1614 2284,1614 2284,1751 218,1751" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="297,1656 2294,1660 2233,1611 298,1615" />
+                <Baseline points="311,1647 409,1647 508,1647 606,1647 705,1647 803,1649 902,1649 1000,1649 1099,1649 1197,1649 1296,1650 1395,1650 1493,1650 1592,1650 1690,1652 1789,1652 1887,1652 1986,1652 2084,1652 2183,1652 2282,1653" />
+                <TextEquiv>
+                    <Unicode>Boda de la Srta. Asunción P. Gatmaitan y del Sr. Gilberto P. Rómulo en la Iglesia de los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="214,1702 2293,1702 214,1653" />
+                <Baseline points="227,1691 329,1691 432,1691 534,1691 637,1692 740,1692 842,1692 945,1692 1047,1692 1150,1694 1253,1694 1355,1694 1458,1694 1560,1694 1663,1695 1766,1695 1868,1695 1971,1695 2073,1695 2176,1695 2279,1695" />
+                <TextEquiv>
+                    <Unicode>RR. FP. Paules, en San Marcelino, que fueron apadrinados por la Sra. de D. Nicolás Buendia y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1986,1743 2061,1741 2068,1733 2292,1739 2292,1703 2161,1703 2127,1713 2115,1703 2063,1710 1986,1700" />
+                <Baseline points="2000,1728 2025,1730 2050,1730 2076,1731 2101,1731 2126,1731 2152,1731 2177,1730 2202,1730 2228,1730 2253,1731 2279,1731" />
+                <TextEquiv>
+                    <Unicode>Foto - A. OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="217,1745 461,1750 479,1735 495,1750 574,1758 633,1740 682,1748 682,1709 656,1704 217,1704" />
+                <Baseline points="231,1733 256,1734 282,1734 308,1734 334,1734 359,1734 385,1734 411,1734 437,1734 462,1734 488,1734 514,1734 540,1734 565,1734 591,1734 617,1734 643,1734 669,1734" />
+                <TextEquiv>
+                    <Unicode>de Sr. César Bengzon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Boda de la Srta. Asunción P. Gatmaitan y del Sr. Gilberto P. Rómulo en la Iglesia de los
+RR. FP. Paules, en San Marcelino, que fueron apadrinados por la Sra. de D. Nicolás Buendia y
+Foto - A. OVEJAS
+de Sr. César Bengzon.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="214,1784 2296,1784 2296,3103 214,3103" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="215,3121 2266,3121 2266,3241 215,3241" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="292,3162 2271,3164 292,3116" />
+                <Baseline points="306,3152 403,3153 501,3153 598,3154 696,3155 794,3155 891,3155 989,3155 1086,3155 1184,3155 1282,3155 1379,3155 1477,3155 1574,3155 1672,3155 1770,3155 1867,3155 1965,3155 2062,3155 2160,3155 2258,3155" />
+                <TextEquiv>
+                    <Unicode>Del “Birthday party" dado en el “Wack Wack" por la Sra. del Senador Claro M. Recto con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="204,3208 2267,3166 204,3167" />
+                <Baseline points="216,3194 323,3195 430,3197 537,3197 645,3197 752,3198 859,3198 967,3198 1074,3198 1181,3198 1289,3198 1396,3198 1503,3198 1611,3197 1718,3197 1825,3197 1933,3197 2040,3195 2147,3195 2255,3195" />
+                <TextEquiv>
+                    <Unicode>motivo de su cumpleaños. En lu fotografía se ve a la festejada con algunas de sus invitadas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1965,3248 2206,3247 2268,3234 2267,3203 1965,3207" />
+                <Baseline points="1977,3230 2002,3230 2027,3230 2053,3231 2078,3231 2103,3231 2129,3231 2154,3231 2179,3230 2205,3230 2230,3229 2256,3228" />
+                <TextEquiv>
+                    <Unicode>Foto A. OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Del “Birthday party" dado en el “Wack Wack" por la Sra. del Senador Claro M. Recto con
+motivo de su cumpleaños. En lu fotografía se ve a la festejada con algunas de sus invitadas
+Foto A. OVEJAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="218,274 777,274 777,301 218,301" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1799,277 2101,277 2101,301 1799,301" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="287,2690 464,2690 464,2705 287,2705" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="746,3002 856,3002 856,3009 746,3009" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="404,2763 408,2763 408,2840 404,2840" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="426,2768 432,2768 432,2870 426,2870" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1609,2370 1620,2370 1620,2588 1609,2588" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1769,1874 1777,1874 1777,2163 1769,2163" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="2264,701 2290,701 2290,1580 2264,1580" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1206,2985 1214,2985 1214,3070 1206,3070" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1698,1927 1702,1927 1702,1970 1698,1970" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1741,2184 1746,2184 1746,2224 1741,2224" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1964,2131 1968,2131 1968,2178 1964,2178" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="214,1784 2296,1784 2296,3103 214,3103" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

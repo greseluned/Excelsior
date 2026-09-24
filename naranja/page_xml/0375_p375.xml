@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:21:47.6+02:00</Created>
+        <LastChange>2021-11-03T18:38:21.626+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781271" pageNr="375" tsid="236400351" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PVHAFTXHHOPYONIXHVFKNFGE" xmlUrl="https://files.transkribus.eu/Get?id=GBMGJRFPLFCQFTSSFTDZDMKX" imageId="17245406" />
+    </Metadata>
+    <Page imageFilename="0375_p375.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="298,572 2191,572 2191,3081 298,3081" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982501930" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="322,727 340,727 340,759 322,759" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1002,709 1461,709 1461,765 1002,765" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1007,802 1032,802 1058,803 1084,803 1110,803 1136,805 1162,805 1188,806 1214,806 1240,807 1266,808 1292,808 1318,808 1344,808 1370,808 1396,806 1422,806 1448,805 1448,655 1422,656 1396,656 1370,658 1344,658 1318,658 1292,658 1266,658 1240,657 1214,656 1188,656 1162,655 1136,655 1110,653 1084,653 1058,653 1032,652 1007,652" />
+                <Baseline points="1007,752 1032,752 1058,753 1084,753 1110,753 1136,755 1162,755 1188,756 1214,756 1240,757 1266,758 1292,758 1318,758 1344,758 1370,758 1396,756 1422,756 1448,755" />
+                <TextEquiv>
+                    <Unicode>SKIGUEL FLETA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SKIGUEL FLETA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="298,753 576,753 576,901 298,901" />
+        </GraphicRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1882,711 2176,711 2176,911 1882,911" />
+        </GraphicRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="331,978 2191,978 2191,2770 331,2770" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="301,2814 1211,2814 1211,3081 301,3081" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="354,2857 396,2857 438,2857 481,2856 523,2856 566,2856 608,2856 651,2856 693,2856 736,2857 778,2857 820,2857 863,2857 905,2857 948,2859 990,2859 1033,2859 1075,2859 1118,2860 1160,2860 1203,2860 1203,2821 1160,2821 1118,2821 1075,2820 1033,2820 990,2820 948,2820 905,2818 863,2818 820,2818 778,2818 736,2818 693,2817 651,2817 608,2817 566,2817 523,2817 481,2817 438,2818 396,2818 354,2818" />
+                <Baseline points="354,2844 396,2844 438,2844 481,2843 523,2843 566,2843 608,2843 651,2843 693,2843 736,2844 778,2844 820,2844 863,2844 905,2844 948,2846 990,2846 1033,2846 1075,2846 1118,2847 1160,2847 1203,2847" />
+                <TextEquiv>
+                    <Unicode>Hemos tenido con Miguel Fleta una charla lí¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="312,2914 356,2914 400,2913 445,2912 489,2911 534,2911 578,2911 622,2911 667,2911 711,2911 756,2911 800,2911 844,2913 889,2913 933,2913 978,2913 1022,2914 1066,2914 1111,2914 1155,2914 1200,2914 1200,2875 1155,2875 1111,2875 1066,2875 1022,2875 978,2874 933,2874 889,2874 844,2874 800,2872 756,2872 711,2872 667,2872 622,2872 578,2872 534,2872 489,2872 445,2873 400,2874 356,2875 312,2875" />
+                <Baseline points="312,2901 356,2901 400,2900 445,2899 489,2898 534,2898 578,2898 622,2898 667,2898 711,2898 756,2898 800,2898 844,2900 889,2900 933,2900 978,2900 1022,2901 1066,2901 1111,2901 1155,2901 1200,2901" />
+                <TextEquiv>
+                    <Unicode>rica. El gran tenor español nos ha abierto su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="305,2968 349,2967 394,2967 439,2967 484,2965 528,2965 573,2965 618,2965 663,2965 707,2965 752,2965 797,2965 842,2965 886,2965 931,2967 976,2967 1021,2967 1065,2967 1110,2968 1155,2968 1200,2970 1200,2931 1155,2929 1110,2929 1065,2928 1021,2928 976,2928 931,2928 886,2926 842,2926 797,2926 752,2926 707,2926 663,2926 618,2926 573,2926 528,2926 484,2926 439,2928 394,2928 349,2928 305,2929" />
+                <Baseline points="305,2955 349,2954 394,2954 439,2954 484,2952 528,2952 573,2952 618,2952 663,2952 707,2952 752,2952 797,2952 842,2952 886,2952 931,2954 976,2954 1021,2954 1065,2954 1110,2955 1155,2955 1200,2957" />
+                <TextEquiv>
+                    <Unicode>alma musical, hecha de ruiseñores y canarios,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="314,3021 358,3021 403,3021 448,3020 493,3020 537,3020 582,3020 627,3020 672,3020 716,3020 761,3020 806,3020 851,3020 895,3021 940,3021 985,3021 1030,3021 1074,3021 1119,3021 1164,3023 1209,3023 1209,2986 1164,2986 1119,2984 1074,2984 1030,2984 985,2984 940,2984 895,2984 851,2983 806,2983 761,2983 716,2983 672,2983 627,2983 582,2983 537,2983 493,2983 448,2983 403,2984 358,2984 314,2984" />
+                <Baseline points="314,3009 358,3009 403,3009 448,3008 493,3008 537,3008 582,3008 627,3008 672,3008 716,3008 761,3008 806,3008 851,3008 895,3009 940,3009 985,3009 1030,3009 1074,3009 1119,3009 1164,3011 1209,3011" />
+                <TextEquiv>
+                    <Unicode>pentágrama latente sobre el que rien todas las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l5" custom="readingOrder {index:4;}">
+                <Coords points="305,3075 349,3075 394,3075 439,3075 483,3074 528,3074 573,3074 617,3074 662,3074 707,3074 752,3075 796,3075 841,3075 886,3075 930,3075 975,3075 1020,3075 1064,3075 1109,3075 1154,3074 1199,3074 1199,3037 1154,3037 1109,3038 1064,3038 1020,3038 975,3038 930,3038 886,3038 841,3038 796,3038 752,3038 707,3037 662,3037 617,3037 573,3037 528,3037 483,3037 439,3038 394,3038 349,3038 305,3038" />
+                <Baseline points="305,3063 349,3063 394,3063 439,3063 483,3062 528,3062 573,3062 617,3062 662,3062 707,3062 752,3063 796,3063 841,3063 886,3063 930,3063 975,3063 1020,3063 1064,3063 1109,3063 1154,3062 1199,3062" />
+                <TextEquiv>
+                    <Unicode>notas y triunfan todos los ritmos. Fleta es ara¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hemos tenido con Miguel Fleta una charla lí¬
+rica. El gran tenor español nos ha abierto su
+alma musical, hecha de ruiseñores y canarios,
+pentágrama latente sobre el que rien todas las
+notas y triunfan todos los ritmos. Fleta es ara¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="1249,2816 2162,2816 2162,3081 1249,3081" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1262,2861 1306,2859 1351,2859 1396,2859 1441,2859 1486,2859 1531,2859 1575,2859 1620,2858 1665,2858 1710,2858 1755,2858 1800,2858 1845,2858 1889,2858 1934,2858 1979,2858 2024,2858 2069,2858 2114,2858 2159,2858 2159,2821 2114,2821 2069,2821 2024,2821 1979,2821 1934,2821 1889,2821 1845,2821 1800,2821 1755,2821 1710,2821 1665,2821 1620,2821 1575,2822 1531,2822 1486,2822 1441,2822 1396,2822 1351,2822 1306,2822 1262,2824" />
+                <Baseline points="1262,2849 1306,2847 1351,2847 1396,2847 1441,2847 1486,2847 1531,2847 1575,2847 1620,2846 1665,2846 1710,2846 1755,2846 1800,2846 1845,2846 1889,2846 1934,2846 1979,2846 2024,2846 2069,2846 2114,2846 2159,2846" />
+                <TextEquiv>
+                    <Unicode>gonés, y además de aragonés y de su edad—31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1253,2912 1298,2912 1343,2913 1388,2913 1433,2913 1478,2913 1523,2913 1568,2913 1613,2913 1658,2913 1703,2913 1748,2912 1793,2912 1838,2912 1883,2912 1928,2912 1973,2912 2018,2913 2063,2913 2108,2913 2154,2915 2154,2878 2108,2876 2063,2876 2018,2876 1973,2875 1928,2875 1883,2875 1838,2875 1793,2875 1748,2875 1703,2876 1658,2876 1613,2876 1568,2876 1523,2876 1478,2876 1433,2876 1388,2876 1343,2876 1298,2875 1253,2875" />
+                <Baseline points="1253,2900 1298,2900 1343,2901 1388,2901 1433,2901 1478,2901 1523,2901 1568,2901 1613,2901 1658,2901 1703,2901 1748,2900 1793,2900 1838,2900 1883,2900 1928,2900 1973,2900 2018,2901 2063,2901 2108,2901 2154,2903" />
+                <TextEquiv>
+                    <Unicode>años—es un gran niño grande. Se acerca uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1256,2967 1301,2967 1346,2967 1391,2967 1436,2967 1481,2966 1526,2966 1571,2966 1616,2966 1661,2966 1706,2966 1751,2966 1796,2966 1841,2966 1886,2966 1931,2966 1976,2966 2021,2966 2066,2966 2111,2966 2157,2966 2157,2929 2111,2929 2066,2929 2021,2929 1976,2929 1931,2929 1886,2929 1841,2929 1796,2929 1751,2929 1706,2929 1661,2929 1616,2929 1571,2929 1526,2929 1481,2929 1436,2930 1391,2930 1346,2930 1301,2930 1256,2930" />
+                <Baseline points="1256,2955 1301,2955 1346,2955 1391,2955 1436,2955 1481,2954 1526,2954 1571,2954 1616,2954 1661,2954 1706,2954 1751,2954 1796,2954 1841,2954 1886,2954 1931,2954 1976,2954 2021,2954 2066,2954 2111,2954 2157,2954" />
+                <TextEquiv>
+                    <Unicode>a él creyendo habérselas con un arrogante atle¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1260,3021 1304,3021 1349,3021 1394,3021 1438,3021 1483,3021 1528,3021 1572,3021 1617,3021 1662,3021 1707,3021 1751,3021 1796,3021 1841,3021 1885,3021 1930,3021 1975,3021 2019,3021 2064,3021 2109,3021 2154,3021 2154,2984 2109,2984 2064,2984 2019,2984 1975,2984 1930,2984 1885,2984 1841,2984 1796,2984 1751,2984 1707,2984 1662,2984 1617,2984 1572,2984 1528,2984 1483,2984 1438,2984 1394,2984 1349,2984 1304,2984 1260,2984" />
+                <Baseline points="1260,3009 1304,3009 1349,3009 1394,3009 1438,3009 1483,3009 1528,3009 1572,3009 1617,3009 1662,3009 1707,3009 1751,3009 1796,3009 1841,3009 1885,3009 1930,3009 1975,3009 2019,3009 2064,3009 2109,3009 2154,3009" />
+                <TextEquiv>
+                    <Unicode>ta y asombran sus maneras suaves sus palabras</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1260,3075 1304,3075 1349,3075 1394,3075 1438,3075 1483,3075 1528,3075 1572,3075 1617,3075 1662,3075 1707,3075 1751,3075 1796,3075 1841,3075 1885,3074 1930,3074 1975,3074 2019,3074 2064,3074 2109,3074 2154,3074 2154,3037 2109,3037 2064,3037 2019,3037 1975,3037 1930,3037 1885,3037 1841,3038 1796,3038 1751,3038 1707,3038 1662,3038 1617,3038 1572,3038 1528,3038 1483,3038 1438,3038 1394,3038 1349,3038 1304,3038 1260,3038" />
+                <Baseline points="1260,3063 1304,3063 1349,3063 1394,3063 1438,3063 1483,3063 1528,3063 1572,3063 1617,3063 1662,3063 1707,3063 1751,3063 1796,3063 1841,3063 1885,3062 1930,3062 1975,3062 2019,3062 2064,3062 2109,3062 2154,3062" />
+                <TextEquiv>
+                    <Unicode>leves, sus gestos de encantadora timidez. Orgu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gonés, y además de aragonés y de su edad—31
+años—es un gran niño grande. Se acerca uno
+a él creyendo habérselas con un arrogante atle¬
+ta y asombran sus maneras suaves sus palabras
+leves, sus gestos de encantadora timidez. Orgu¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="546,808 943,808 943,816 546,816" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1527,813 1904,813 1904,823 1527,823" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="381,833 527,833 527,841 381,841" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="592,833 950,833 950,844 592,844" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1549,838 1863,838 1863,847 1549,847" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="567,857 930,857 930,866 567,866" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1528,862 1883,862 1883,871 1528,871" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1129,983 1336,983 1336,993 1129,993" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1110,995 1339,995 1339,1016 1110,1016" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="582,1476 774,1476 774,1488 582,1488" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1083,2734 1367,2734 1367,2753 1083,2753" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1143,2753 1370,2753 1370,2764 1143,2764" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="306,602 314,602 314,750 306,750" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="355,596 362,596 362,733 355,733" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="2095,1735 2111,1735 2111,2012 2095,2012" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="2114,604 2123,604 2123,767 2114,767" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="2112,1756 2124,1756 2124,2002 2112,2002" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="2153,572 2165,572 2165,835 2153,835" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="733,1465 737,1465 737,1538 733,1538" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

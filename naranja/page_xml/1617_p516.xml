@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:46:38.09+02:00</Created>
+        <LastChange>2021-06-08T17:43:40.519+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782507" pageNr="1617" tsid="236401967" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LGKORMMTZOHCYYDAYCDNUFVO" xmlUrl="https://files.transkribus.eu/Get?id=TQLKXDWAIHZRIZPTFWJUISCN" imageId="17248091" />
+    </Metadata>
+    <Page imageFilename="1617_p516.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="97,140 2354,140 2354,3377 97,3377" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982790556" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="104,1798 2343,1798 2343,3377 104,3377" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="97,140 2346,140 2346,1355 97,1355" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="109,1435 1128,1435 1128,1970 109,1970" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="150,1481 1113,1483 1127,1440 150,1446" />
+                <Baseline points="156,1473 204,1473 252,1473 300,1473 349,1473 397,1473 445,1473 493,1473 542,1473 590,1473 638,1473 686,1473 735,1472 783,1472 831,1472 879,1472 928,1472 976,1470 1024,1470 1072,1470 1121,1469" />
+                <TextEquiv>
+                    <Unicode>Fotografía de los invitados a la reunión</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="108,1536 1134,1531 1133,1501 959,1488 108,1507" />
+                <Baseline points="114,1530 164,1530 215,1530 265,1530 316,1530 367,1530 417,1530 468,1530 519,1530 569,1530 620,1530 671,1530 721,1530 772,1530 823,1529 873,1529 924,1529 975,1529 1025,1527 1076,1527 1127,1526" />
+                <TextEquiv>
+                    <Unicode>ofrecida por los señores de Jacinto (don Her¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="119,1596 1106,1595 1128,1555 119,1560" />
+                <Baseline points="125,1587 174,1587 224,1587 274,1586 324,1586 374,1586 423,1586 473,1586 523,1586 573,1586 623,1586 672,1586 722,1586 772,1586 822,1586 872,1586 921,1586 971,1586 1021,1586 1071,1584 1121,1584" />
+                <TextEquiv>
+                    <Unicode>mogenes), en su residencia en el Distrito de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="116,1651 1123,1650 1123,1612 1077,1603 900,1603 875,1628 815,1604 116,1605" />
+                <Baseline points="122,1643 171,1643 221,1643 271,1641 320,1641 370,1641 420,1641 469,1641 519,1641 569,1641 619,1641 668,1641 718,1641 768,1641 817,1641 867,1641 917,1641 966,1641 1016,1641 1066,1641 1116,1641" />
+                <TextEquiv>
+                    <Unicode>Sampaloc, con motivo del bautizo de su hijo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="119,1708 1005,1712 1131,1680 367,1660 247,1690 118,1665" />
+                <Baseline points="125,1701 175,1701 225,1701 275,1701 325,1701 375,1701 425,1700 475,1700 525,1700 575,1700 625,1700 675,1700 725,1700 775,1698 825,1698 875,1698 925,1698 975,1698 1025,1698 1075,1698 1125,1697" />
+                <TextEquiv>
+                    <Unicode>Jorge, que fué apadrinado por las Srtas. Vio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="113,1765 1127,1762 1127,1716 1042,1742 545,1716 514,1746 423,1716 376,1746 113,1716" />
+                <Baseline points="119,1757 169,1757 219,1757 269,1756 319,1755 369,1755 419,1755 469,1755 519,1755 569,1755 620,1755 670,1755 720,1755 770,1755 820,1754 870,1754 920,1754 970,1754 1020,1754 1070,1754 1121,1754" />
+                <TextEquiv>
+                    <Unicode>leta López, Srta. Mindanao y Príncesa del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="113,1820 1128,1817 1128,1782 1056,1772 523,1771 490,1801 455,1772 113,1777" />
+                <Baseline points="119,1814 169,1812 219,1812 269,1812 319,1812 369,1811 419,1811 470,1811 520,1812 570,1812 620,1812 670,1812 720,1812 770,1812 821,1812 871,1812 921,1812 971,1812 1021,1811 1071,1811 1122,1809" />
+                <TextEquiv>
+                    <Unicode>Carnaval pasado, Celerina Chua y Lucy Chua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="107,1883 1013,1884 1122,1875 1122,1840 107,1844" />
+                <Baseline points="113,1872 163,1871 213,1871 263,1869 313,1869 363,1869 413,1868 464,1868 514,1868 564,1868 614,1868 664,1868 714,1868 764,1868 815,1868 865,1868 915,1868 965,1868 1015,1868 1065,1866 1116,1866" />
+                <TextEquiv>
+                    <Unicode>y los Sres. Augusto Rivas, Marcial Noguera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="115,1942 152,1925 328,1937 364,1919 383,1935 456,1932 488,1946 540,1930 540,1899 443,1896 431,1884 389,1884 370,1900 284,1884 260,1904 215,1899 199,1883 176,1884 154,1906 115,1895" />
+                <Baseline points="122,1929 147,1929 173,1928 199,1926 224,1926 250,1925 276,1925 301,1925 327,1925 353,1925 378,1925 404,1925 430,1926 455,1926 481,1926 507,1928 533,1928" />
+                <TextEquiv>
+                    <Unicode>y Dee Kee Chong.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="795,1964 810,1972 1132,1967 1132,1938 1119,1931 990,1931 976,1945 949,1945 937,1932 795,1932" />
+                <Baseline points="801,1961 828,1962 855,1962 882,1962 909,1962 936,1962 963,1961 990,1961 1017,1961 1044,1961 1071,1962 1098,1962 1125,1964" />
+                <TextEquiv>
+                    <Unicode>Fotos—A. OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fotografía de los invitados a la reunión
+ofrecida por los señores de Jacinto (don Her¬
+mogenes), en su residencia en el Distrito de
+Sampaloc, con motivo del bautizo de su hijo
+Jorge, que fué apadrinado por las Srtas. Vio¬
+leta López, Srta. Mindanao y Príncesa del
+Carnaval pasado, Celerina Chua y Lucy Chua
+y los Sres. Augusto Rivas, Marcial Noguera
+y Dee Kee Chong.
+Fotos—A. OVEJAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1335,1140 2354,1140 2354,1661 1335,1661" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1415,1179 2349,1186 2349,1142 2263,1136 1415,1144" />
+                <Baseline points="1421,1173 1467,1173 1513,1173 1559,1174 1605,1175 1651,1175 1697,1175 1743,1175 1789,1175 1835,1175 1882,1175 1928,1175 1974,1175 2020,1175 2066,1175 2112,1175 2158,1175 2204,1175 2250,1175 2296,1175 2343,1175" />
+                <TextEquiv>
+                    <Unicode>De la aristocrática fiesta—una verbena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1331,1235 2302,1250 2355,1242 2355,1194 2215,1219 2041,1194 2010,1224 1910,1194 1331,1209" />
+                <Baseline points="1337,1232 1387,1232 1438,1232 1488,1232 1539,1232 1590,1232 1640,1233 1691,1233 1741,1233 1792,1233 1843,1233 1893,1233 1944,1233 1994,1233 2045,1233 2096,1233 2146,1233 2197,1233 2247,1233 2298,1233 2349,1233" />
+                <TextEquiv>
+                    <Unicode>madrileña—con que la Srta. Matildle Zobel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1333,1301 2346,1307 2346,1267 2303,1253 2265,1280 2187,1255 1333,1263" />
+                <Baseline points="1340,1292 1390,1292 1440,1292 1490,1292 1540,1292 1590,1293 1640,1293 1690,1293 1740,1293 1790,1293 1840,1293 1890,1293 1940,1295 1990,1295 2040,1295 2090,1295 2140,1295 2190,1295 2240,1295 2290,1295 2340,1295" />
+                <TextEquiv>
+                    <Unicode>despidió en la residencia de sus padres, los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1328,1360 2313,1370 2345,1317 1328,1326" />
+                <Baseline points="1334,1352 1384,1352 1434,1352 1484,1352 1535,1352 1585,1352 1635,1353 1685,1353 1736,1353 1786,1353 1836,1353 1886,1355 1937,1355 1987,1355 2037,1355 2087,1355 2138,1355 2188,1355 2238,1355 2288,1355 2339,1353" />
+                <TextEquiv>
+                    <Unicode>Sres. de Zobel (D. Enrique), a la Srta. Syi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1336,1419 2354,1411 2266,1380 1336,1384" />
+                <Baseline points="1343,1410 1393,1411 1443,1412 1493,1412 1544,1412 1594,1413 1644,1413 1694,1413 1745,1413 1795,1413 1845,1413 1895,1413 1946,1412 1996,1412 2046,1412 2096,1412 2147,1412 2197,1412 2247,1412 2297,1413 2348,1413" />
+                <TextEquiv>
+                    <Unicode>via Melián, hija de los Sres. Condes de Pera¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1331,1478 2348,1483 2333,1436 2301,1461 2269,1436 1331,1445" />
+                <Baseline points="1337,1467 1387,1469 1437,1470 1487,1470 1538,1472 1588,1472 1638,1472 1688,1473 1739,1473 1789,1473 1839,1472 1889,1472 1940,1472 1990,1472 2040,1472 2090,1472 2141,1472 2191,1472 2241,1473 2291,1473 2342,1475" />
+                <TextEquiv>
+                    <Unicode>camps, por su próximo marcha a Europd. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1340,1538 2345,1530 2327,1499 1545,1519 1340,1491" />
+                <Baseline points="1346,1529 1395,1529 1445,1529 1494,1530 1544,1530 1594,1530 1643,1530 1693,1531 1743,1532 1792,1532 1842,1532 1892,1532 1941,1532 1991,1532 2041,1532 2090,1532 2140,1532 2190,1532 2239,1532 2289,1530 2339,1530" />
+                <TextEquiv>
+                    <Unicode>la fiesta, amena y singular, asistió un esco¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1337,1604 2351,1601 2351,1565 2259,1552 1337,1562" />
+                <Baseline points="1343,1590 1393,1589 1443,1589 1493,1589 1543,1589 1593,1589 1643,1589 1693,1589 1743,1590 1793,1590 1844,1590 1894,1590 1944,1592 1994,1592 2044,1592 2094,1592 2144,1592 2194,1593 2244,1593 2294,1593 2345,1592" />
+                <TextEquiv>
+                    <Unicode>gido y selecto grupo de señoritas y caballeros</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1337,1654 1380,1657 1403,1643 1416,1656 1565,1660 1586,1649 1770,1667 1788,1662 1789,1616 1337,1618" />
+                <Baseline points="1343,1644 1368,1646 1394,1646 1420,1646 1446,1646 1472,1646 1497,1646 1523,1646 1549,1646 1575,1646 1601,1647 1627,1647 1652,1647 1678,1647 1704,1648 1730,1649 1756,1650 1782,1652" />
+                <TextEquiv>
+                    <Unicode>de nuestra sociedad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De la aristocrática fiesta—una verbena
+madrileña—con que la Srta. Matildle Zobel
+despidió en la residencia de sus padres, los
+Sres. de Zobel (D. Enrique), a la Srta. Syi¬
+via Melián, hija de los Sres. Condes de Pera¬
+camps, por su próximo marcha a Europd. A
+la fiesta, amena y singular, asistió un esco¬
+gido y selecto grupo de señoritas y caballeros
+de nuestra sociedad.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="901,1284 1223,1284 1223,1297 901,1297" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="762,1315 1222,1315 1222,1343 762,1343" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1206,1794 1779,1794 1779,1831 1206,1831" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1316,1842 1541,1842 1541,1853 1316,1853" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="222,2061 606,2061 606,2084 222,2084" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="2060,3114 2184,3114 2184,3122 2060,3122" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="587,3354 1834,3354 1834,3372 587,3372" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="108,2247 123,2247 123,2620 108,2620" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1191,1239 1223,1239 1223,1977 1191,1977" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

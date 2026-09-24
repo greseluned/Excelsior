@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:10.664+02:00</Created>
+        <LastChange>2021-10-29T19:34:28.202+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781456" pageNr="567" tsid="236400600" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MFSELTOGDKVWWVVLXEZKVIPB" xmlUrl="https://files.transkribus.eu/Get?id=IFQMGKPTPOVEMWEDSZYFOQOR" imageId="17244621" />
+    </Metadata>
+    <Page imageFilename="0567_p103.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982546847" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="230,348 230,3195 2253,3195 2253,348" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="309,426 401,426 494,426 587,425 679,425 772,423 865,422 957,420 1050,419 1143,417 1236,416 1328,415 1421,414 1514,413 1606,411 1699,411 1792,411 1884,411 1977,411 2070,413 2163,414 2163,351 2070,350 1977,348 1884,348 1792,348 1699,348 1606,348 1514,350 1421,351 1328,352 1236,353 1143,354 1050,356 957,357 865,359 772,360 679,362 587,362 494,363 401,363 309,363" />
+                <Baseline points="309,405 401,405 494,405 587,404 679,404 772,402 865,401 957,399 1050,398 1143,396 1236,395 1328,394 1421,393 1514,392 1606,390 1699,390 1792,390 1884,390 1977,390 2070,392 2163,393" />
+                <TextEquiv>
+                    <Unicode>RIALTO—DESDE EL 15 DE ENERO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="467,535 545,535 623,534 701,533 779,533 857,532 935,532 1014,532 1092,531 1170,530 1248,530 1326,530 1404,529 1482,529 1561,529 1639,529 1717,529 1795,529 1873,529 1951,529 2030,529 2030,468 1951,468 1873,468 1795,468 1717,468 1639,468 1561,468 1482,468 1404,468 1326,469 1248,469 1170,469 1092,470 1014,471 935,471 857,471 779,472 701,472 623,473 545,474 467,474" />
+                <Baseline points="467,515 545,515 623,514 701,513 779,513 857,512 935,512 1014,512 1092,511 1170,510 1248,510 1326,510 1404,509 1482,509 1561,509 1639,509 1717,509 1795,509 1873,509 1951,509 2030,509" />
+                <TextEquiv>
+                    <Unicode>LA PRIMERA PELICULA PARLANTE ESPAÑOLA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="722,617 776,616 831,616 886,616 940,616 995,616 1050,616 1104,616 1159,616 1214,616 1268,616 1323,616 1378,616 1432,616 1487,614 1542,614 1596,614 1651,614 1706,614 1761,613 1761,552 1706,553 1651,553 1596,553 1542,553 1487,553 1432,555 1378,555 1323,555 1268,555 1214,555 1159,555 1104,555 1050,555 995,555 940,555 886,555 831,555 776,555 722,556" />
+                <Baseline points="722,597 776,596 831,596 886,596 940,596 995,596 1050,596 1104,596 1159,596 1214,596 1268,596 1323,596 1378,596 1432,596 1487,594 1542,594 1596,594 1651,594 1706,594 1761,593" />
+                <TextEquiv>
+                    <Unicode>con un Reparto total de Artistas Españoles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="464,696 545,698 626,699 707,699 788,701 869,701 950,701 1031,702 1112,702 1193,702 1274,702 1355,702 1436,702 1517,701 1598,701 1679,701 1760,701 1841,699 1922,699 2003,699 2003,636 1922,636 1841,636 1760,638 1679,638 1598,638 1517,638 1436,639 1355,639 1274,639 1193,639 1112,639 1031,639 950,638 869,638 788,638 707,636 626,636 545,635 464,633" />
+                <Baseline points="464,675 545,677 626,678 707,678 788,680 869,680 950,680 1031,681 1112,681 1193,681 1274,681 1355,681 1436,681 1517,680 1598,680 1679,680 1760,680 1841,678 1922,678 2003,678" />
+                <TextEquiv>
+                    <Unicode>"LA VOLUNTAD DEL MUERTO"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1206,783 1232,779 1259,782 1286,782 1286,719 1259,719 1232,716 1206,720" />
+                <Baseline points="1206,762 1232,758 1259,761 1286,761" />
+                <TextEquiv>
+                    <Unicode>con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="269,852 366,851 463,851 561,851 658,851 756,852 853,852 950,852 1048,852 1145,852 1243,852 1340,854 1437,854 1535,854 1632,855 1730,855 1827,855 1924,855 2022,857 2119,857 2217,857 2217,794 2119,794 2022,794 1924,792 1827,792 1730,792 1632,792 1535,791 1437,791 1340,791 1243,789 1145,789 1048,789 950,789 853,789 756,789 658,788 561,788 463,788 366,788 269,789" />
+                <Baseline points="269,831 366,830 463,830 561,830 658,830 756,831 853,831 950,831 1048,831 1145,831 1243,831 1340,833 1437,833 1535,833 1632,834 1730,834 1827,834 1924,834 2022,836 2119,836 2217,836" />
+                <TextEquiv>
+                    <Unicode>ANTONIO MORENO, LUPITA TOVAR, ANDRES SEGUROLA y otros muchos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="818,956 859,956 901,957 943,957 984,959 1026,959 1068,959 1109,959 1151,959 1193,959 1235,959 1276,959 1318,959 1360,957 1401,957 1443,957 1485,957 1526,957 1568,959 1610,959 1652,959 1652,896 1610,896 1568,896 1526,894 1485,894 1443,894 1401,894 1360,894 1318,896 1276,896 1235,896 1193,896 1151,896 1109,896 1068,896 1026,896 984,896 943,894 901,894 859,893 818,893" />
+                <Baseline points="818,935 859,935 901,936 943,936 984,938 1026,938 1068,938 1109,938 1151,938 1193,938 1235,938 1276,938 1318,938 1360,936 1401,936 1443,936 1485,936 1526,936 1568,938 1610,938 1652,938" />
+                <TextEquiv>
+                    <Unicode>TODA ELLA EN ESPAÑOL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="317,3008 413,3008 510,3007 607,3007 704,3007 801,3007 897,3007 994,3007 1091,3007 1188,3007 1285,3007 1381,3005 1478,3005 1575,3005 1672,3005 1769,3005 1865,3005 1962,3005 2059,3005 2156,3005 2253,3005 2253,2962 2156,2962 2059,2962 1962,2962 1865,2962 1769,2962 1672,2962 1575,2962 1478,2962 1381,2962 1285,2964 1188,2964 1091,2964 994,2964 897,2964 801,2964 704,2964 607,2964 510,2964 413,2965 317,2965" />
+                <Baseline points="317,2994 413,2994 510,2993 607,2993 704,2993 801,2993 897,2993 994,2993 1091,2993 1188,2993 1285,2993 1381,2991 1478,2991 1575,2991 1672,2991 1769,2991 1865,2991 1962,2991 2059,2991 2156,2991 2253,2991" />
+                <TextEquiv>
+                    <Unicode>Animada fiesta en la residencia de los Sres de Uy Yet, en la calle Benavides, Trozo, en la que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="230,3073 336,3071 442,3070 548,3068 655,3068 761,3068 867,3067 973,3067 1080,3067 1186,3067 1292,3067 1398,3067 1505,3068 1611,3068 1717,3068 1823,3068 1930,3068 2036,3068 2142,3068 2249,3068 2249,3025 2142,3025 2036,3025 1930,3025 1823,3025 1717,3025 1611,3025 1505,3025 1398,3024 1292,3024 1186,3024 1080,3024 973,3024 867,3024 761,3025 655,3025 548,3025 442,3027 336,3028 230,3030" />
+                <Baseline points="230,3059 336,3057 442,3056 548,3054 655,3054 761,3054 867,3053 973,3053 1080,3053 1186,3053 1292,3053 1398,3053 1505,3054 1611,3054 1717,3054 1823,3054 1930,3054 2036,3054 2142,3054 2249,3054" />
+                <TextEquiv>
+                    <Unicode>se obsequi á los invitados con un suculento «lauriat» con motivo del cumpleaños del Sr. Uy Yet, en¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="236,3133 336,3132 436,3131 537,3130 637,3130 738,3128 838,3128 938,3128 1039,3128 1139,3128 1240,3128 1340,3128 1440,3128 1541,3128 1641,3128 1742,3128 1842,3128 1942,3128 2043,3130 2143,3130 2244,3130 2244,3088 2143,3088 2043,3088 1942,3086 1842,3086 1742,3086 1641,3086 1541,3086 1440,3086 1340,3086 1240,3086 1139,3086 1039,3086 938,3086 838,3086 738,3086 637,3088 537,3088 436,3089 336,3090 236,3091" />
+                <Baseline points="236,3119 336,3118 436,3117 537,3116 637,3116 738,3114 838,3114 938,3114 1039,3114 1139,3114 1240,3114 1340,3114 1440,3114 1541,3114 1641,3114 1742,3114 1842,3114 1942,3114 2043,3116 2143,3116 2244,3116" />
+                <TextEquiv>
+                    <Unicode>tre los cuales figuraban conspicuos' y prominentes personajes del gobierno, del comercio y de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="1821,3192 1846,3192 1872,3192 1898,3192 1924,3192 1950,3192 1976,3191 2002,3191 2028,3191 2054,3191 2080,3191 2106,3192 2132,3192 2158,3194 2184,3194 2210,3195 2210,3149 2184,3148 2158,3148 2132,3146 2106,3146 2080,3145 2054,3145 2028,3145 2002,3145 1976,3145 1950,3146 1924,3146 1898,3146 1872,3146 1846,3146 1821,3146" />
+                <Baseline points="1821,3177 1846,3177 1872,3177 1898,3177 1924,3177 1950,3177 1976,3176 2002,3176 2028,3176 2054,3176 2080,3176 2106,3177 2132,3177 2158,3179 2184,3179 2210,3180" />
+                <TextEquiv>
+                    <Unicode>Foto—EXCELSIOR (Ovejas)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="233,3191 263,3194 293,3194 323,3193 353,3194 353,3151 323,3150 293,3151 263,3151 233,3148" />
+                <Baseline points="233,3177 263,3180 293,3180 323,3179 353,3180" />
+                <TextEquiv>
+                    <Unicode>banca.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RIALTO—DESDE EL 15 DE ENERO
+LA PRIMERA PELICULA PARLANTE ESPAÑOLA
+con un Reparto total de Artistas Españoles
+"LA VOLUNTAD DEL MUERTO"
+con
+ANTONIO MORENO, LUPITA TOVAR, ANDRES SEGUROLA y otros muchos,
+TODA ELLA EN ESPAÑOL
+Animada fiesta en la residencia de los Sres de Uy Yet, en la calle Benavides, Trozo, en la que
+se obsequi á los invitados con un suculento «lauriat» con motivo del cumpleaños del Sr. Uy Yet, en¬
+tre los cuales figuraban conspicuos' y prominentes personajes del gobierno, del comercio y de la
+Foto—EXCELSIOR (Ovejas)
+banca.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

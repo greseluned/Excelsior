@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:08.082+02:00</Created>
+        <LastChange>2021-06-08T14:58:41.338+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782187" pageNr="1267" tsid="236401506" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=SYISXRTYNGTOQPWWTSICTKQM" xmlUrl="https://files.transkribus.eu/Get?id=LVLHKAIAQVNXEVGNPZNHWFDT" imageId="17247031" />
+    </Metadata>
+    <Page imageFilename="1267_p166.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="204,253 2273,253 2273,3237 204,3237" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982709549" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="580,2296 1867,2296 1867,3190 580,3190" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="246,257 2272,257 2272,1729 246,1729" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="486,1784 2022,1784 2022,2188 486,2188" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="562,1828 2028,1826 1849,1786 562,1793" />
+                <Baseline points="572,1821 644,1820 716,1820 788,1820 861,1818 933,1818 1005,1818 1078,1818 1150,1817 1222,1817 1295,1817 1367,1817 1439,1817 1511,1818 1584,1818 1656,1818 1728,1818 1801,1820 1873,1820 1945,1820 2018,1821" />
+                <TextEquiv>
+                    <Unicode>Dos notas gráficas de la corta estadia en nuestro puerbo del crucero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="481,1876 628,1877 659,1855 690,1877 831,1869 872,1849 872,1833 480,1830" />
+                <Baseline points="491,1865 517,1866 544,1866 570,1866 597,1865 623,1865 650,1863 677,1863 703,1862 730,1861 756,1860 783,1860 809,1860 836,1860 863,1862" />
+                <TextEquiv>
+                    <Unicode>italiano “Espero"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="566,1930 2022,1917 566,1880" />
+                <Baseline points="576,1917 647,1916 719,1916 791,1914 863,1914 935,1914 1007,1914 1078,1914 1150,1914 1222,1916 1294,1916 1366,1916 1438,1916 1510,1916 1581,1917 1653,1917 1725,1917 1797,1917 1869,1916 1941,1916 2013,1916" />
+                <TextEquiv>
+                    <Unicode>Foto superior: El Comandante del buque Sr. Luigi Corsi que acom¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="486,1975 2031,1966 1898,1920 486,1931" />
+                <Baseline points="495,1961 571,1961 647,1959 724,1959 800,1959 876,1959 953,1958 1029,1958 1105,1958 1182,1958 1258,1958 1334,1958 1411,1958 1487,1958 1563,1958 1640,1959 1716,1959 1792,1959 1869,1959 1945,1959 2022,1959" />
+                <TextEquiv>
+                    <Unicode>pañado del Cónsul General de Ralia en Manila Sr. Staurenghi y del Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="481,2011 1992,2013 2023,1966 481,1980" />
+                <Baseline points="491,2004 567,2003 643,2003 719,2001 795,2001 871,2001 947,2000 1023,2000 1099,2000 1175,2000 1252,2000 1328,2000 1404,2000 1480,2000 1556,2001 1632,2001 1708,2001 1784,2001 1860,2001 1936,2001 2013,2001" />
+                <TextEquiv>
+                    <Unicode>Lamoglia hizo una visita al ilustre Presidente del Senado Hon. Manuel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="476,2051 513,2053 522,2061 721,2055 721,2030 696,2019 602,2021 557,2011 538,2030 518,2011 476,2017" />
+                <Baseline points="486,2046 511,2047 536,2046 561,2046 586,2046 611,2046 636,2045 661,2046 686,2046 711,2048" />
+                <TextEquiv>
+                    <Unicode>L. Quezon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="579,2111 1757,2117 2000,2109 2022,2071 578,2066" />
+                <Baseline points="588,2099 659,2100 730,2100 801,2100 873,2100 944,2100 1015,2100 1086,2100 1158,2100 1229,2100 1300,2099 1371,2099 1443,2099 1514,2099 1585,2099 1656,2099 1728,2098 1799,2097 1870,2097 1941,2099 2013,2099" />
+                <TextEquiv>
+                    <Unicode>Foto inferior: El Comandante Sr. Corsi al ser recibido por el Gene¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="484,2157 1515,2155 1515,2121 1418,2106 484,2115" />
+                <Baseline points="494,2144 544,2144 595,2144 645,2144 696,2144 747,2145 797,2145 848,2145 898,2145 949,2145 1000,2145 1050,2145 1101,2145 1151,2145 1202,2145 1253,2145 1303,2145 1354,2145 1404,2145 1455,2144 1506,2144" />
+                <TextEquiv>
+                    <Unicode>ral Booth en la visita oficial que hizo al másmo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1703,2180 1722,2190 1879,2181 1888,2189 2020,2187 2020,2141 1972,2141 1955,2130 1878,2157 1856,2147 1835,2155 1703,2148" />
+                <Baseline points="1713,2177 1740,2178 1767,2178 1794,2178 1821,2178 1848,2178 1875,2178 1902,2177 1929,2177 1956,2177 1983,2177 2010,2177" />
+                <TextEquiv>
+                    <Unicode>Fotos— F. SANTOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dos notas gráficas de la corta estadia en nuestro puerbo del crucero
+italiano “Espero"
+Foto superior: El Comandante del buque Sr. Luigi Corsi que acom¬
+pañado del Cónsul General de Ralia en Manila Sr. Staurenghi y del Sr.
+Lamoglia hizo una visita al ilustre Presidente del Senado Hon. Manuel
+L. Quezon.
+Foto inferior: El Comandante Sr. Corsi al ser recibido por el Gene¬
+ral Booth en la visita oficial que hizo al másmo.
+Fotos— F. SANTOS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="352,1740 2142,1740 2142,1755 352,1755" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="361,2240 2141,2240 2141,2257 361,2257" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="1904,2313 2143,2313 2143,2324 1904,2324" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="359,2314 550,2314 550,2327 359,2327" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="1904,2390 2271,2390 2271,2403 1904,2403" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="207,2391 551,2391 551,2404 207,2404" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="209,2408 551,2408 551,2423 209,2423" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="1904,2410 2270,2410 2270,2423 1904,2423" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="209,2430 551,2430 551,2443 209,2443" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="1904,2434 2271,2434 2271,2447 1904,2447" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="208,2450 551,2450 551,2463 208,2463" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="1904,2454 2271,2454 2271,2466 1904,2466" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="1905,2918 2265,2918 2265,2932 1905,2932" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="212,2929 551,2929 551,2942 212,2942" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="1906,2944 2266,2944 2266,2956 1906,2956" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="209,2951 551,2951 551,2962 209,2962" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="1906,2967 2266,2967 2266,2979 1906,2979" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="212,2973 545,2973 545,2986 212,2986" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="1905,2993 2265,2993 2265,3005 1905,3005" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="212,2996 552,2996 552,3008 212,3008" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="366,3115 551,3115 551,3129 366,3129" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="1904,3120 2139,3120 2139,3133 1904,3133" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:25;}">
+            <Coords points="251,821 257,821 257,992 251,992" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:26;}">
+            <Coords points="359,1741 369,1741 369,2256 359,2256" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:27;}">
+            <Coords points="380,1741 393,1741 393,2245 380,2245" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+            <Coords points="400,1736 412,1736 412,2257 400,2257" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+            <Coords points="420,1741 433,1741 433,2257 420,2257" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:30;}">
+            <Coords points="538,2247 552,2247 552,3235 538,3235" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:31;}">
+            <Coords points="1902,2242 1916,2242 1916,3235 1902,3235" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:32;}">
+            <Coords points="2068,1745 2081,1745 2081,2250 2068,2250" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:33;}">
+            <Coords points="2089,1745 2104,1745 2104,2250 2089,2250" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:34;}">
+            <Coords points="2110,1746 2123,1746 2123,2250 2110,2250" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:35;}">
+            <Coords points="2129,1746 2142,1746 2142,2250 2129,2250" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:36;}">
+            <Coords points="366,3013 378,3013 378,3126 366,3126" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:37;}">
+            <Coords points="2128,3010 2140,3010 2140,3133 2128,3133" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:38;}">
+            <Coords points="612,663 617,663 617,708 612,708" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_41" custom="readingOrder {index:39;}">
+            <Coords points="767,667 771,667 771,694 767,694" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_42" custom="readingOrder {index:40;}">
+            <Coords points="1860,2539 1862,2539 1862,2585 1860,2585" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

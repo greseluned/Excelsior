@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:45:39.679+02:00</Created>
+        <LastChange>2021-06-08T17:05:36.186+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782493" pageNr="1541" tsid="236401847" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RPOJGLXOKSDFFVFSBNYBDEMB" xmlUrl="https://files.transkribus.eu/Get?id=ZTUMUGJJGDHVJCTMSWZCXCSS" imageId="17247937" />
+    </Metadata>
+    <Page imageFilename="1541_p440.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="416,343 2052,343 2052,3168 416,3168" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982773179" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="1100,343 1687,343 1687,625 1100,625" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="774,658 2052,658 2052,2857 774,2857" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="416,2945 1115,2945 1115,3063 416,3063" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="481,2994 553,2994 599,2969 625,2995 923,3003 1055,2985 1031,2957 975,2951 552,2956 481,2941" />
+                <Baseline points="486,2981 514,2981 542,2981 570,2982 598,2982 627,2982 655,2982 683,2984 711,2984 739,2985 768,2985 796,2985 824,2985 852,2987 880,2987 909,2987 937,2987 965,2986 993,2985 1021,2985 1050,2984" />
+                <TextEquiv>
+                    <Unicode>HCn PIERRE PASQUIER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="415,3059 1115,3059 1099,3029 1054,3021 415,3020" />
+                <Baseline points="420,3050 454,3051 489,3051 523,3051 558,3051 592,3051 627,3051 661,3051 696,3051 730,3051 765,3051 799,3051 834,3051 868,3051 903,3051 937,3051 972,3051 1006,3051 1041,3051 1075,3051 1110,3051" />
+                <TextEquiv>
+                    <Unicode>Gobern or General de Indochina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>HCn PIERRE PASQUIER
+Gobern or General de Indochina.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="978,3122 1266,3122 1266,3168 978,3168" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="978,3170 1057,3155 1072,3162 1259,3164 1259,3129 1245,3125 1138,3126 1121,3109 1065,3130 978,3122" />
+                <Baseline points="983,3156 1010,3155 1037,3155 1064,3154 1091,3153 1118,3153 1145,3152 1172,3152 1199,3153 1226,3153 1254,3155" />
+                <TextEquiv>
+                    <Unicode>Bor ESTEBAN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bor ESTEBAN.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1289,527 1562,527 1562,547 1289,547" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1267,1307 1466,1307 1466,1322 1267,1322" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1199,1355 1498,1355 1498,1378 1199,1378" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1178,1391 1531,1391 1531,1414 1178,1414" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="967,2762 1497,2762 1497,2783 967,2783" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1151,2398 1175,2398 1175,2758 1151,2758" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1156,2310 1187,2310 1187,2736 1156,2736" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1781,1227 1798,1227 1798,1470 1781,1470" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

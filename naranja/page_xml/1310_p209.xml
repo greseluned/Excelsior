@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:41.147+02:00</Created>
+        <LastChange>2021-06-08T15:21:17.668+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782233" pageNr="1310" tsid="236401551" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FPJDKCOESYLMFXWMCRYEILNW" xmlUrl="https://files.transkribus.eu/Get?id=WNEEGHNLEDEILPCMHXHERRWJ" imageId="17247209" />
+    </Metadata>
+    <Page imageFilename="1310_p209.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="173,233 2292,233 2292,3252 173,3252" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982719120" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="173,233 2292,233 2292,3252 173,3252" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1866,336 2105,336 2105,388 1866,388" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1861,380 1872,387 1976,390 2105,386 2106,353 2079,337 2008,342 1862,334" />
+                <Baseline points="1866,374 1892,375 1918,377 1944,377 1970,377 1996,377 2022,377 2048,378 2074,378 2100,380" />
+                <TextEquiv>
+                    <Unicode>DECENA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DECENA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1786,255 2175,255 2175,307 1786,307" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1782,303 2176,306 2177,265 2159,252 2084,263 2070,253 1927,253 1914,264 1901,253 1783,256" />
+                <Baseline points="1788,293 1813,293 1839,294 1864,294 1890,294 1916,294 1941,296 1967,296 1992,296 2018,296 2044,297 2069,297 2095,297 2120,297 2146,297 2172,297" />
+                <TextEquiv>
+                    <Unicode>BODAS DE LA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BODAS DE LA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1604,538 2286,538 2286,1516 1604,1516" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1719,574 1875,567 1900,594 2019,569 2038,586 2291,581 2291,552 2231,541 2113,539 2095,557 2060,539 1824,541 1804,560 1759,539 1719,547" />
+                <Baseline points="1724,572 1752,572 1780,572 1808,572 1836,573 1864,573 1892,573 1920,573 1948,573 1976,573 2005,573 2033,574 2061,575 2089,575 2117,575 2145,575 2173,576 2201,576 2229,578 2257,578 2286,579" />
+                <TextEquiv>
+                    <Unicode>En la iglesia de Lourdes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1692,634 1752,618 1768,634 2008,642 2101,615 2120,634 2243,641 2273,634 2273,595 2212,590 2186,616 2057,592 1692,597" />
+                <Baseline points="1697,624 1725,624 1754,626 1782,626 1811,626 1839,626 1868,626 1896,626 1925,626 1953,626 1982,626 2011,626 2039,626 2068,626 2096,626 2125,627 2153,627 2182,628 2210,629 2239,630 2268,630" />
+                <TextEquiv>
+                    <Unicode>en Intramuros, de los RR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1626,670 2164,699 2278,690 2279,652 1764,659 1690,644 1627,595" />
+                <Baseline points="1631,669 1663,672 1695,674 1727,675 1759,677 1791,677 1823,678 1855,678 1887,678 1919,678 1952,678 1984,678 2016,678 2048,678 2080,678 2112,678 2144,678 2176,680 2208,680 2240,681 2273,683" />
+                <TextEquiv>
+                    <Unicode>PP. Capuchinos se verificó el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1692,740 2281,738 2281,715 2239,701 2151,716 2069,695 1979,711 1762,709 1736,693 1692,709" />
+                <Baseline points="1697,729 1727,729 1757,728 1788,728 1818,728 1849,728 1879,728 1910,729 1940,729 1971,730 2001,731 2032,732 2062,732 2093,732 2123,734 2154,734 2184,734 2215,734 2245,734 2276,732" />
+                <TextEquiv>
+                    <Unicode>enlace matrimonial de la be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1683,794 1748,779 1926,802 2051,782 2291,788 2291,766 2224,749 2171,776 2096,749 2052,770 2007,748 1832,749 1809,765 1683,749" />
+                <Baseline points="1688,782 1717,782 1747,782 1777,782 1807,782 1837,782 1867,782 1897,783 1927,783 1957,783 1987,783 2016,783 2046,783 2076,783 2106,785 2136,785 2166,785 2196,785 2226,786 2256,786 2286,788" />
+                <TextEquiv>
+                    <Unicode>lla y distinguida Srta. Ana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1689,843 1869,831 2278,850 2289,822 2227,804 2205,819 1999,803 1959,820 1690,798" />
+                <Baseline points="1695,833 1724,833 1753,834 1783,834 1812,834 1842,834 1871,834 1900,836 1930,836 1959,836 1989,836 2018,836 2047,836 2077,837 2106,837 2136,837 2165,839 2194,839 2224,840 2253,840 2283,842" />
+                <TextEquiv>
+                    <Unicode>Castañer con el caballero Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1688,892 2265,899 2272,869 2129,860 2077,882 1980,852 1948,872 1915,852 1860,871 1824,853 1689,853" />
+                <Baseline points="1694,884 1722,884 1751,884 1779,884 1808,885 1837,885 1865,886 1894,887 1923,888 1951,888 1980,889 2009,890 2037,890 2066,891 2095,891 2123,891 2152,891 2181,891 2209,890 2238,890 2267,888" />
+                <TextEquiv>
+                    <Unicode>Gonzalo del Amor. Los no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1674,936 1863,947 1887,932 1914,947 1980,933 2006,955 2281,946 2280,927 2239,909 2191,933 2111,907 1869,921 1720,901 1674,916" />
+                <Baseline points="1679,939 1708,939 1738,938 1768,938 1798,938 1828,938 1858,938 1887,939 1917,939 1947,939 1977,941 2007,941 2037,941 2067,942 2096,942 2126,943 2156,944 2186,944 2216,944 2246,945 2276,945" />
+                <TextEquiv>
+                    <Unicode>vios con sus padrinos Da.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1675,991 2155,1010 2288,997 2240,965 2170,958 2136,980 2094,958 2066,985 1996,956 1915,971 1707,952 1675,970" />
+                <Baseline points="1680,989 1710,989 1740,990 1770,990 1800,990 1830,990 1860,992 1891,992 1921,992 1951,993 1981,993 2011,994 2041,995 2071,995 2102,995 2132,996 2162,996 2192,996 2222,996 2252,996 2283,995" />
+                <TextEquiv>
+                    <Unicode>Emilia Riuz Vda. de Casta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1686,1049 2285,1058 2286,1029 2185,1012 2158,1035 2126,1013 2033,1012 1772,1034 1687,1008" />
+                <Baseline points="1691,1040 1720,1040 1749,1040 1779,1041 1808,1041 1838,1041 1867,1043 1897,1043 1926,1044 1956,1044 1985,1044 2014,1046 2044,1046 2073,1047 2103,1047 2132,1049 2162,1049 2191,1049 2221,1050 2250,1050 2280,1050" />
+                <TextEquiv>
+                    <Unicode>ner, en representación de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1674,1094 1908,1114 2278,1107 2278,1086 2236,1069 2168,1084 2131,1068 2008,1080 1983,1061 1942,1078 1876,1060 1674,1071" />
+                <Baseline points="1679,1092 1708,1094 1738,1094 1768,1094 1797,1094 1827,1095 1857,1095 1886,1097 1916,1097 1946,1098 1976,1098 2005,1100 2035,1100 2065,1100 2094,1101 2124,1101 2154,1101 2183,1101 2213,1101 2243,1100 2273,1100" />
+                <TextEquiv>
+                    <Unicode>madre del novio y el Sr. Cán¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1680,1154 1932,1162 2007,1140 2032,1162 2195,1163 2213,1147 2278,1162 2279,1129 1816,1116 1782,1139 1751,1109 1681,1119" />
+                <Baseline points="1685,1145 1714,1145 1743,1146 1773,1147 1802,1148 1832,1148 1861,1149 1890,1149 1920,1149 1949,1151 1979,1151 2008,1151 2037,1152 2067,1152 2096,1152 2126,1152 2155,1154 2184,1154 2214,1154 2243,1154 2273,1155" />
+                <TextEquiv>
+                    <Unicode>dido Castañer hermano de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1690,1210 2290,1213 2290,1187 2221,1172 2201,1187 2127,1169 1984,1182 1933,1165 1867,1187 1832,1165 1691,1165" />
+                <Baseline points="1695,1199 1724,1199 1754,1200 1783,1200 1813,1200 1842,1200 1872,1202 1901,1202 1931,1202 1960,1202 1990,1203 2019,1203 2049,1203 2078,1205 2108,1205 2137,1205 2167,1206 2196,1206 2226,1207 2255,1208 2285,1209" />
+                <TextEquiv>
+                    <Unicode>la novia.—Foto inferior: Los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1683,1258 2162,1267 2211,1252 2254,1267 2279,1266 2280,1235 2157,1223 2123,1250 2067,1220 1935,1221 1912,1243 1684,1225" />
+                <Baseline points="1688,1250 1717,1250 1746,1250 1775,1250 1805,1250 1834,1251 1863,1251 1893,1251 1922,1253 1951,1254 1981,1254 2010,1256 2039,1256 2068,1257 2098,1258 2127,1259 2156,1259 2186,1260 2215,1260 2244,1260 2274,1260" />
+                <TextEquiv>
+                    <Unicode>numerosos invitados de los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1683,1314 1833,1302 1893,1322 2003,1304 2025,1322 2272,1322 2286,1277 2218,1276 2197,1296 2164,1276 2137,1291 1683,1277" />
+                <Baseline points="1688,1304 1717,1304 1747,1304 1776,1304 1806,1304 1836,1304 1865,1305 1895,1305 1924,1306 1954,1307 1984,1308 2013,1308 2043,1310 2072,1310 2102,1311 2132,1311 2161,1311 2191,1313 2220,1313 2250,1313 2280,1313" />
+                <TextEquiv>
+                    <Unicode>nuevos esposos Sres. de Del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1674,1354 2278,1375 2278,1342 2247,1329 2200,1328 2167,1354 2126,1333 2016,1341 1990,1325 1960,1342 1942,1325 1674,1340" />
+                <Baseline points="1679,1355 1708,1355 1738,1355 1768,1356 1797,1356 1827,1356 1857,1358 1886,1359 1916,1359 1946,1359 1976,1361 2005,1361 2035,1362 2065,1362 2094,1362 2124,1364 2154,1364 2183,1364 2213,1364 2243,1365 2273,1365" />
+                <TextEquiv>
+                    <Unicode>Amor en el banquete dado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1602,1448 1738,1407 2270,1426 2281,1392 2100,1381 1998,1399 1965,1375 1929,1390 1848,1373 1820,1392 1691,1381 1602,1403" />
+                <Baseline points="1607,1446 1640,1434 1673,1424 1707,1417 1740,1411 1774,1407 1807,1405 1841,1404 1874,1406 1908,1406 1941,1409 1974,1410 2008,1413 2041,1415 2075,1418 2108,1419 2142,1421 2175,1421 2209,1419 2242,1417 2276,1412" />
+                <TextEquiv>
+                    <Unicode>n en su obsequio en el Manila</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1677,1468 1763,1468 1771,1474 1800,1474 1813,1466 1813,1448 1808,1448 1789,1428 1775,1437 1766,1437 1759,1429 1744,1429 1733,1437 1719,1429 1678,1430" />
+                <Baseline points="1682,1458 1707,1460 1732,1461 1757,1461 1782,1462 1808,1464" />
+                <TextEquiv>
+                    <Unicode>Hotel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1974,1507 2041,1513 2068,1503 2120,1514 2133,1503 2152,1515 2263,1516 2278,1513 2279,1473 2245,1473 2235,1482 2145,1476 2135,1485 2108,1477 1974,1479" />
+                <Baseline points="1979,1500 2005,1500 2032,1500 2059,1500 2085,1502 2112,1502 2139,1503 2166,1503 2192,1505 2219,1505 2246,1506 2273,1506" />
+                <TextEquiv>
+                    <Unicode>Fotos--A. OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En la iglesia de Lourdes.
+en Intramuros, de los RR
+PP. Capuchinos se verificó el
+enlace matrimonial de la be¬
+lla y distinguida Srta. Ana
+Castañer con el caballero Sr.
+Gonzalo del Amor. Los no
+vios con sus padrinos Da.
+Emilia Riuz Vda. de Casta¬
+ner, en representación de la
+madre del novio y el Sr. Cán¬
+dido Castañer hermano de
+la novia.—Foto inferior: Los
+numerosos invitados de los
+nuevos esposos Sres. de Del
+Amor en el banquete dado
+n en su obsequio en el Manila
+Hotel.
+Fotos--A. OVEJAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="387,241 1504,241 1504,253 387,253" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1643,1684 2023,1684 2023,1715 1643,1715" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="317,1767 1563,1767 1563,1775 317,1775" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="308,1778 1576,1778 1576,1787 308,1787" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1033,3216 2150,3216 2150,3231 1033,3231" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="478,3221 1033,3221 1033,3237 478,3237" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1028,3231 2150,3231 2150,3243 1028,3243" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="187,1794 200,1794 200,3145 187,3145" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="193,1060 204,1060 204,1626 193,1626" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="200,398 214,398 214,1193 200,1193" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="204,1193 213,1193 213,1600 204,1600" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1600,454 1619,454 1619,1445 1600,1445" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1612,866 1621,866 1621,1096 1612,1096" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1617,1096 1628,1096 1628,1446 1617,1446" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1625,340 1633,340 1633,493 1625,493" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="1626,512 1635,512 1635,665 1626,665" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1637,253 1644,253 1644,589 1637,589" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="2267,1728 2287,1728 2287,3092 2267,3092" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="936,1843 948,1843 948,2140 936,2140" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="849,321 965,321 965,462 849,462" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

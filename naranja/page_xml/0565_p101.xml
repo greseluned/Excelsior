@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:10.016+02:00</Created>
+        <LastChange>2021-10-29T19:34:13.336+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781455" pageNr="565" tsid="236400599" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KXNXPZDMFMLUXEXFHHXIQIOH" xmlUrl="https://files.transkribus.eu/Get?id=GDMQUSVSWDMFGCCPZGJSLHYB" imageId="17244608" />
+    </Metadata>
+    <Page imageFilename="0565_p101.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982546276" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="234,267 234,3244 2264,3244 2264,267" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="545,326 614,327 684,327 754,327 824,327 893,327 963,326 1033,326 1103,326 1172,326 1242,326 1312,324 1382,324 1451,324 1521,323 1591,323 1661,323 1730,323 1800,321 1870,321 1940,321 1940,267 1870,267 1800,267 1730,269 1661,269 1591,269 1521,269 1451,270 1382,270 1312,270 1242,272 1172,272 1103,272 1033,272 963,272 893,273 824,273 754,273 684,273 614,273 545,272" />
+                <Baseline points="545,308 614,309 684,309 754,309 824,309 893,309 963,308 1033,308 1103,308 1172,308 1242,308 1312,306 1382,306 1451,306 1521,305 1591,305 1661,305 1730,305 1800,303 1870,303 1940,303" />
+                <TextEquiv>
+                    <Unicode>DE LAS VARIAS FIESTAS DE DESPEDIDA DE AÑO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1325,2340 1350,2345 1375,2349 1400,2349 1425,2351 1450,2349 1475,2348 1500,2346 1525,2344 1550,2341 1575,2339 1600,2339 1625,2337 1650,2338 1676,2339 1676,2285 1650,2284 1625,2283 1600,2285 1575,2285 1550,2287 1525,2290 1500,2292 1475,2294 1450,2295 1425,2297 1400,2295 1375,2295 1350,2291 1325,2286" />
+                <Baseline points="1325,2322 1350,2327 1375,2331 1400,2331 1425,2333 1450,2331 1475,2330 1500,2328 1525,2326 1550,2323 1575,2321 1600,2321 1625,2319 1650,2320 1676,2321" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1818,2489 1857,2492 1857,2438 1818,2435" />
+                <Baseline points="1818,2471 1857,2474" />
+                <TextEquiv>
+                    <Unicode>N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1437,2519 1465,2519 1494,2519 1494,2465 1465,2465 1437,2465" />
+                <Baseline points="1437,2501 1465,2501 1494,2501" />
+                <TextEquiv>
+                    <Unicode>ng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="324,3076 420,3078 517,3078 614,3079 711,3079 808,3079 905,3079 1002,3079 1099,3079 1196,3079 1293,3079 1389,3079 1486,3079 1583,3078 1680,3078 1777,3078 1874,3078 1971,3078 2068,3076 2165,3076 2262,3076 2262,3046 2165,3046 2068,3046 1971,3048 1874,3048 1777,3048 1680,3048 1583,3048 1486,3049 1389,3049 1293,3049 1196,3049 1099,3049 1002,3049 905,3049 808,3049 711,3049 614,3049 517,3048 420,3048 324,3046" />
+                <Baseline points="324,3066 420,3068 517,3068 614,3069 711,3069 808,3069 905,3069 1002,3069 1099,3069 1196,3069 1293,3069 1389,3069 1486,3069 1583,3068 1680,3068 1777,3068 1874,3068 1971,3068 2068,3066 2165,3066 2262,3066" />
+                <TextEquiv>
+                    <Unicode>Futogrutin sotpertor Alonre punimado gruyo de lu colomin sunto de estu capital, que celobao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="335,3118 427,3118 520,3118 613,3118 706,3118 798,3118 891,3118 984,3118 1077,3118 1169,3118 1262,3118 1355,3118 1448,3118 1540,3118 1633,3118 1726,3118 1819,3118 1911,3117 2004,3117 2097,3117 2190,3115 2190,3085 2097,3087 2004,3087 1911,3087 1819,3088 1726,3088 1633,3088 1540,3088 1448,3088 1355,3088 1262,3088 1169,3088 1077,3088 984,3088 891,3088 798,3088 706,3088 613,3088 520,3088 427,3088 335,3088" />
+                <Baseline points="335,3108 427,3108 520,3108 613,3108 706,3108 798,3108 891,3108 984,3108 1077,3108 1169,3108 1262,3108 1355,3108 1448,3108 1540,3108 1633,3108 1726,3108 1819,3108 1911,3107 2004,3107 2097,3107 2190,3105" />
+                <TextEquiv>
+                    <Unicode>an natmando lmiste on so cusa cluth, to ontrutot de amn on lat mowhe deladodickembre puisitdo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="234,3128 264,3126 294,3128 294,3074 264,3072 234,3074" />
+                <Baseline points="234,3110 264,3108 294,3110" />
+                <TextEquiv>
+                    <Unicode>MLg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="339,3160 434,3160 530,3160 625,3160 721,3160 816,3160 912,3160 1007,3160 1103,3160 1198,3160 1294,3160 1390,3160 1485,3160 1581,3160 1676,3160 1772,3160 1867,3160 1963,3159 2058,3159 2154,3157 2250,3157 2250,3127 2154,3127 2058,3129 1963,3129 1867,3130 1772,3130 1676,3130 1581,3130 1485,3130 1390,3130 1294,3130 1198,3130 1103,3130 1007,3130 912,3130 816,3130 721,3130 625,3130 530,3130 434,3130 339,3130" />
+                <Baseline points="339,3150 434,3150 530,3150 625,3150 721,3150 816,3150 912,3150 1007,3150 1103,3150 1198,3150 1294,3150 1390,3150 1485,3150 1581,3150 1676,3150 1772,3150 1867,3150 1963,3149 2058,3149 2154,3147 2250,3147" />
+                <TextEquiv>
+                    <Unicode>Entomantu intortor Promimntos ptmias da lu culopin nlo matno de Mapila, gue on ln pag'ig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="330,3202 426,3202 523,3201 620,3201 716,3201 813,3201 910,3201 1006,3201 1103,3201 1200,3201 1297,3201 1393,3201 1490,3201 1587,3201 1683,3201 1780,3201 1877,3201 1973,3201 2070,3199 2167,3198 2264,3198 2264,3168 2167,3168 2070,3169 1973,3171 1877,3171 1780,3171 1683,3171 1587,3171 1490,3171 1393,3171 1297,3171 1200,3171 1103,3171 1006,3171 910,3171 813,3171 716,3171 620,3171 523,3171 426,3172 330,3172" />
+                <Baseline points="330,3192 426,3192 523,3191 620,3191 716,3191 813,3191 910,3191 1006,3191 1103,3191 1200,3191 1297,3191 1393,3191 1490,3191 1587,3191 1683,3191 1780,3191 1877,3191 1973,3191 2070,3189 2167,3188 2264,3188" />
+                <TextEquiv>
+                    <Unicode>tdirtombro, celobyoron on sa cusu clah ngo tiosn de despodido de ago, aae resalto nmomet¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="248,3202 278,3202 278,3171 248,3171" />
+                <Baseline points="248,3192 278,3192" />
+                <TextEquiv>
+                    <Unicode>deJ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="245,3244 334,3244 424,3244 514,3244 604,3244 694,3244 784,3244 874,3244 964,3244 1054,3244 1144,3244 1233,3244 1323,3244 1413,3244 1503,3244 1593,3243 1683,3243 1773,3243 1863,3243 1953,3243 2043,3243 2043,3213 1953,3213 1863,3213 1773,3213 1683,3213 1593,3213 1503,3214 1413,3214 1323,3214 1233,3214 1144,3214 1054,3214 964,3214 874,3214 784,3214 694,3214 604,3214 514,3214 424,3214 334,3214 245,3214" />
+                <Baseline points="245,3234 334,3234 424,3234 514,3234 604,3234 694,3234 784,3234 874,3234 964,3234 1054,3234 1144,3234 1233,3234 1323,3234 1413,3234 1503,3234 1593,3233 1683,3233 1773,3233 1863,3233 1953,3233 2043,3233" />
+                <TextEquiv>
+                    <Unicode>disimo d on la que si rindyo culto a Tepsicord, hasto las palmenas huros d la madrugadit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DE LAS VARIAS FIESTAS DE DESPEDIDA DE AÑO
+
+N
+ng
+Futogrutin sotpertor Alonre punimado gruyo de lu colomin sunto de estu capital, que celobao
+an natmando lmiste on so cusa cluth, to ontrutot de amn on lat mowhe deladodickembre puisitdo,
+MLg
+Entomantu intortor Promimntos ptmias da lu culopin nlo matno de Mapila, gue on ln pag'ig
+tdirtombro, celobyoron on sa cusu clah ngo tiosn de despodido de ago, aae resalto nmomet¬
+deJ
+disimo d on la que si rindyo culto a Tepsicord, hasto las palmenas huros d la madrugadit,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

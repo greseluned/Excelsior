@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:04:13.153+02:00</Created>
+        <LastChange>2021-11-03T16:25:02.329+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93780885" pageNr="45" tsid="236399882" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=SSTEESFCOZBPMOKTXXVAIQKN" xmlUrl="https://files.transkribus.eu/Get?id=DHSEGEMDBGYDBGQKXVYAQYYU" imageId="17243787" />
+    </Metadata>
+    <Page imageFilename="0045_p045.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="163,82 2302,82 2302,3251 163,3251" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982425710" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="163,82 2302,82 2302,3177 163,3177" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="182,2825 705,2825 705,3011 182,3011" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="228,2866 253,2867 279,2867 305,2867 331,2868 356,2869 382,2869 408,2870 434,2870 460,2871 485,2872 511,2873 537,2873 563,2873 588,2874 614,2875 640,2875 666,2875 692,2873 692,2840 666,2842 640,2842 614,2842 588,2841 563,2840 537,2840 511,2840 485,2839 460,2838 434,2837 408,2837 382,2836 356,2836 331,2835 305,2834 279,2834 253,2834 228,2833" />
+                <Baseline points="228,2855 253,2856 279,2856 305,2856 331,2857 356,2858 382,2858 408,2859 434,2859 460,2860 485,2861 511,2862 537,2862 563,2862 588,2863 614,2864 640,2864 666,2864 692,2862" />
+                <TextEquiv>
+                    <Unicode>El Gobernador Gene¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="188,2911 214,2913 240,2914 266,2914 292,2916 319,2916 345,2916 371,2917 397,2917 423,2917 450,2917 476,2917 502,2917 528,2917 554,2917 581,2918 607,2919 633,2919 659,2920 686,2920 686,2889 659,2889 633,2888 607,2888 581,2887 554,2886 528,2886 502,2886 476,2886 450,2886 423,2886 397,2886 371,2886 345,2885 319,2885 292,2885 266,2883 240,2883 214,2882 188,2880" />
+                <Baseline points="188,2901 214,2903 240,2904 266,2904 292,2906 319,2906 345,2906 371,2907 397,2907 423,2907 450,2907 476,2907 502,2907 528,2907 554,2907 581,2908 607,2909 633,2909 659,2910 686,2910" />
+                <TextEquiv>
+                    <Unicode>ral, Sr. Stimson, despi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="191,2956 216,2958 241,2958 266,2958 292,2959 317,2960 342,2961 367,2961 393,2962 418,2962 443,2962 468,2964 494,2964 519,2964 544,2965 569,2965 595,2965 620,2965 645,2965 670,2965 696,2964 696,2933 670,2934 645,2934 620,2934 595,2934 569,2934 544,2934 519,2933 494,2933 468,2933 443,2931 418,2931 393,2931 367,2930 342,2930 317,2929 292,2928 266,2927 241,2927 216,2927 191,2925" />
+                <Baseline points="191,2946 216,2948 241,2948 266,2948 292,2949 317,2950 342,2951 367,2951 393,2952 418,2952 443,2952 468,2954 494,2954 519,2954 544,2955 569,2955 595,2955 620,2955 645,2955 670,2955 696,2954" />
+                <TextEquiv>
+                    <Unicode>diéndose del Gobernador</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="183,3007 209,3007 235,3008 261,3008 287,3008 313,3008 339,3009 365,3010 391,3010 418,3010 444,3010 470,3010 496,3011 522,3011 548,3011 574,3013 600,3013 627,3013 627,2980 600,2980 574,2980 548,2978 522,2978 496,2978 470,2977 444,2977 418,2977 391,2977 365,2977 339,2976 313,2975 287,2975 261,2975 235,2975 209,2974 183,2974" />
+                <Baseline points="183,2996 209,2996 235,2997 261,2997 287,2997 313,2997 339,2998 365,2999 391,2999 418,2999 444,2999 470,2999 496,3000 522,3000 548,3000 574,3002 600,3002 627,3002" />
+                <TextEquiv>
+                    <Unicode>interino Sr. Gilmore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>El Gobernador Gene¬
+ral, Sr. Stimson, despi¬
+diéndose del Gobernador
+interino Sr. Gilmore.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1199,1691 2289,1691 2289,1926 1199,1926" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1254,1735 1305,1735 1356,1735 1407,1736 1459,1736 1510,1736 1561,1736 1612,1736 1664,1736 1715,1738 1766,1738 1817,1738 1869,1738 1920,1738 1971,1739 2022,1739 2074,1739 2125,1739 2176,1739 2227,1739 2279,1739 2279,1706 2227,1706 2176,1706 2125,1706 2074,1706 2022,1706 1971,1706 1920,1705 1869,1705 1817,1705 1766,1705 1715,1705 1664,1703 1612,1703 1561,1703 1510,1703 1459,1703 1407,1703 1356,1702 1305,1702 1254,1702" />
+                <Baseline points="1254,1724 1305,1724 1356,1724 1407,1725 1459,1725 1510,1725 1561,1725 1612,1725 1664,1725 1715,1727 1766,1727 1817,1727 1869,1727 1920,1727 1971,1728 2022,1728 2074,1728 2125,1728 2176,1728 2227,1728 2279,1728" />
+                <TextEquiv>
+                    <Unicode>El Gobernador con su Señora y el Capt. Reigner,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1200,1783 1253,1783 1307,1784 1361,1784 1415,1784 1469,1784 1523,1784 1576,1783 1630,1783 1684,1783 1738,1783 1792,1783 1846,1783 1900,1783 1953,1783 2007,1784 2061,1784 2115,1784 2169,1786 2223,1786 2277,1787 2277,1754 2223,1753 2169,1753 2115,1751 2061,1751 2007,1751 1953,1750 1900,1750 1846,1750 1792,1750 1738,1750 1684,1750 1630,1750 1576,1750 1523,1751 1469,1751 1415,1751 1361,1751 1307,1751 1253,1750 1200,1750" />
+                <Baseline points="1200,1772 1253,1772 1307,1773 1361,1773 1415,1773 1469,1773 1523,1773 1576,1772 1630,1772 1684,1772 1738,1772 1792,1772 1846,1772 1900,1772 1953,1772 2007,1773 2061,1773 2115,1773 2169,1775 2223,1775 2277,1776" />
+                <TextEquiv>
+                    <Unicode>bajo el artístico arco adornado con flores naturales,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1208,1829 1261,1829 1315,1829 1369,1829 1423,1831 1477,1831 1531,1831 1584,1831 1638,1831 1692,1831 1746,1831 1800,1831 1854,1831 1908,1831 1961,1831 2015,1831 2069,1832 2123,1832 2177,1832 2231,1832 2285,1832 2285,1799 2231,1799 2177,1799 2123,1799 2069,1799 2015,1798 1961,1798 1908,1798 1854,1798 1800,1798 1746,1798 1692,1798 1638,1798 1584,1798 1531,1798 1477,1798 1423,1798 1369,1796 1315,1796 1261,1796 1208,1796" />
+                <Baseline points="1208,1818 1261,1818 1315,1818 1369,1818 1423,1820 1477,1820 1531,1820 1584,1820 1638,1820 1692,1820 1746,1820 1800,1820 1854,1820 1908,1820 1961,1820 2015,1820 2069,1821 2123,1821 2177,1821 2231,1821 2285,1821" />
+                <TextEquiv>
+                    <Unicode>donde se leía el indispensable “Bon Boyage” último</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1205,1874 1258,1875 1312,1876 1366,1876 1420,1876 1474,1876 1528,1877 1582,1877 1636,1877 1690,1877 1744,1878 1797,1879 1851,1879 1905,1879 1959,1879 2013,1879 2067,1879 2121,1880 2175,1880 2229,1880 2283,1880 2283,1847 2229,1847 2175,1847 2121,1847 2067,1846 2013,1846 1959,1846 1905,1846 1851,1846 1797,1846 1744,1845 1690,1844 1636,1844 1582,1844 1528,1844 1474,1843 1420,1843 1366,1843 1312,1843 1258,1842 1205,1841" />
+                <Baseline points="1205,1863 1258,1864 1312,1865 1366,1865 1420,1865 1474,1865 1528,1866 1582,1866 1636,1866 1690,1866 1744,1867 1797,1868 1851,1868 1905,1868 1959,1868 2013,1868 2067,1868 2121,1869 2175,1869 2229,1869 2283,1869" />
+                <TextEquiv>
+                    <Unicode>homenaje de simpatía con que el pueblo despid'ó al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1205,1922 1230,1922 1256,1922 1282,1922 1308,1922 1334,1922 1360,1922 1386,1922 1412,1925 1412,1892 1386,1889 1360,1889 1334,1889 1308,1889 1282,1889 1256,1889 1230,1889 1205,1889" />
+                <Baseline points="1205,1911 1230,1911 1256,1911 1282,1911 1308,1911 1334,1911 1360,1911 1386,1911 1412,1914" />
+                <TextEquiv>
+                    <Unicode>Ejecutivo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>El Gobernador con su Señora y el Capt. Reigner,
+bajo el artístico arco adornado con flores naturales,
+donde se leía el indispensable “Bon Boyage” último
+homenaje de simpatía con que el pueblo despid'ó al
+Ejecutivo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1200,1396 2290,1396 2290,1586 1200,1586" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1247,1441 1298,1441 1350,1441 1401,1441 1453,1441 1505,1441 1556,1442 1608,1442 1659,1442 1711,1442 1763,1442 1814,1444 1866,1444 1917,1444 1969,1444 2021,1444 2072,1444 2124,1442 2175,1442 2227,1442 2279,1441 2279,1408 2227,1409 2175,1409 2124,1409 2072,1411 2021,1411 1969,1411 1917,1411 1866,1411 1814,1411 1763,1409 1711,1409 1659,1409 1608,1409 1556,1409 1505,1408 1453,1408 1401,1408 1350,1408 1298,1408 1247,1408" />
+                <Baseline points="1247,1430 1298,1430 1350,1430 1401,1430 1453,1430 1505,1430 1556,1431 1608,1431 1659,1431 1711,1431 1763,1431 1814,1433 1866,1433 1917,1433 1969,1433 2021,1433 2072,1433 2124,1431 2175,1431 2227,1431 2279,1430" />
+                <TextEquiv>
+                    <Unicode>El Gobernador General, Sr. Stimson y Señora, el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1209,1487 1262,1487 1316,1487 1370,1489 1424,1489 1478,1489 1532,1489 1585,1489 1639,1489 1693,1489 1747,1489 1801,1489 1855,1489 1909,1489 1962,1489 2016,1489 2070,1489 2124,1489 2178,1487 2232,1487 2286,1487 2286,1454 2232,1454 2178,1454 2124,1456 2070,1456 2016,1456 1962,1456 1909,1456 1855,1456 1801,1456 1747,1456 1693,1456 1639,1456 1585,1456 1532,1456 1478,1456 1424,1456 1370,1456 1316,1454 1262,1454 1209,1454" />
+                <Baseline points="1209,1476 1262,1476 1316,1476 1370,1478 1424,1478 1478,1478 1532,1478 1585,1478 1639,1478 1693,1478 1747,1478 1801,1478 1855,1478 1909,1478 1962,1478 2016,1478 2070,1478 2124,1478 2178,1476 2232,1476 2286,1476" />
+                <TextEquiv>
+                    <Unicode>Presidente Quezon y el “Speaker” Sr. Roxas, des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1202,1535 1255,1535 1309,1535 1363,1535 1416,1535 1470,1535 1524,1535 1577,1535 1631,1535 1685,1535 1739,1535 1792,1535 1846,1535 1900,1535 1953,1535 2007,1535 2061,1535 2114,1535 2168,1535 2222,1534 2276,1534 2276,1501 2222,1501 2168,1502 2114,1502 2061,1502 2007,1502 1953,1502 1900,1502 1846,1502 1792,1502 1739,1502 1685,1502 1631,1502 1577,1502 1524,1502 1470,1502 1416,1502 1363,1502 1309,1502 1255,1502 1202,1502" />
+                <Baseline points="1202,1524 1255,1524 1309,1524 1363,1524 1416,1524 1470,1524 1524,1524 1577,1524 1631,1524 1685,1524 1739,1524 1792,1524 1846,1524 1900,1524 1953,1524 2007,1524 2061,1524 2114,1524 2168,1524 2222,1523 2276,1523" />
+                <TextEquiv>
+                    <Unicode>plegando la bandera, filipina, que le ha regalado el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1221,1582 1259,1582 1297,1582 1335,1580 1374,1580 1412,1580 1450,1581 1488,1582 1527,1582 1565,1582 1603,1582 1641,1582 1680,1582 1718,1583 1756,1583 1794,1583 1833,1583 1871,1583 1909,1583 1947,1583 1986,1583 1986,1550 1947,1550 1909,1550 1871,1550 1833,1550 1794,1550 1756,1550 1718,1550 1680,1549 1641,1549 1603,1549 1565,1549 1527,1549 1488,1549 1450,1548 1412,1547 1374,1547 1335,1547 1297,1549 1259,1549 1221,1549" />
+                <Baseline points="1221,1571 1259,1571 1297,1571 1335,1569 1374,1569 1412,1569 1450,1570 1488,1571 1527,1571 1565,1571 1603,1571 1641,1571 1680,1571 1718,1572 1756,1572 1794,1572 1833,1572 1871,1572 1909,1572 1947,1572 1986,1572" />
+                <TextEquiv>
+                    <Unicode>"Speaker” con motivo de su marcha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>El Gobernador General, Sr. Stimson y Señora, el
+Presidente Quezon y el “Speaker” Sr. Roxas, des¬
+plegando la bandera, filipina, que le ha regalado el
+"Speaker” con motivo de su marcha</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1327,1269 2159,1269 2159,1364 1327,1364" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1334,1314 1374,1314 1415,1314 1455,1314 1496,1314 1536,1314 1577,1316 1617,1316 1658,1316 1698,1316 1739,1316 1780,1316 1820,1317 1861,1317 1901,1316 1942,1316 1982,1316 2023,1316 2063,1314 2104,1313 2145,1313 2145,1277 2104,1277 2063,1278 2023,1280 1982,1280 1942,1280 1901,1280 1861,1281 1820,1281 1780,1280 1739,1280 1698,1280 1658,1280 1617,1280 1577,1280 1536,1278 1496,1278 1455,1278 1415,1278 1374,1278 1334,1278" />
+                <Baseline points="1334,1302 1374,1302 1415,1302 1455,1302 1496,1302 1536,1302 1577,1304 1617,1304 1658,1304 1698,1304 1739,1304 1780,1304 1820,1305 1861,1305 1901,1304 1942,1304 1982,1304 2023,1304 2063,1302 2104,1301 2145,1301" />
+                <TextEquiv>
+                    <Unicode>LA DESPEDIDA AL GOBERNADOR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1614,1367 1641,1367 1669,1367 1697,1367 1724,1367 1752,1367 1780,1367 1807,1367 1835,1368 1863,1367 1863,1331 1835,1332 1807,1331 1780,1331 1752,1331 1724,1331 1697,1331 1669,1331 1641,1331 1614,1331" />
+                <Baseline points="1614,1355 1641,1355 1669,1355 1697,1355 1724,1355 1752,1355 1780,1355 1807,1355 1835,1356 1863,1355" />
+                <TextEquiv>
+                    <Unicode>GENERAL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LA DESPEDIDA AL GOBERNADOR
+GENERAL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="2028,3219 2110,3219 2110,3251 2028,3251" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="2040,3292 2073,3293 2106,3293 2106,3143 2073,3143 2040,3142" />
+                <Baseline points="2040,3242 2073,3243 2106,3243" />
+                <TextEquiv>
+                    <Unicode>mo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="2151,3217 2248,3217 2248,3250 2151,3250" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="2160,3293 2189,3292 2218,3292 2247,3293 2247,3143 2218,3142 2189,3142 2160,3143" />
+                <Baseline points="2160,3243 2189,3242 2218,3242 2247,3243" />
+                <TextEquiv>
+                    <Unicode>T-V.T</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>T-V.T</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1441,717 1560,717 1560,723 1441,723" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="463,1232 659,1232 659,1246 463,1246" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1073,2203 1106,2203 1106,2206 1073,2206" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="793,2564 814,2564 814,2566 793,2566" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1786,954 1838,954 1838,1078 1786,1078" />
+        </GraphicRegion>
+        <GraphicRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="568,242 604,242 604,326 568,326" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

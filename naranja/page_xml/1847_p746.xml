@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:49:28.092+02:00</Created>
+        <LastChange>2021-06-08T19:34:19.115+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782799" pageNr="1847" tsid="236402278" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AGOZJNTZWQNPRXPHAMIODBBH" xmlUrl="https://files.transkribus.eu/Get?id=TLKQVRGNGIJBAPJHNWOKSYWT" imageId="17248782" />
+    </Metadata>
+    <Page imageFilename="1847_p746.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="124,142 2350,142 2350,3341 124,3341" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982842006" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="146,2171 2343,2171 2343,3071 146,3071" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="124,142 2346,142 2346,1461 124,1461" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="143,1484 2350,1484 2350,1650 143,1650" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="224,1540 2359,1539 2359,1478 224,1494" />
+                <Baseline points="239,1532 344,1532 449,1532 555,1531 660,1530 765,1530 871,1529 976,1529 1081,1527 1187,1527 1292,1527 1397,1526 1503,1526 1608,1524 1713,1524 1819,1524 1924,1524 2029,1524 2135,1524 2240,1524 2346,1524" />
+                <TextEquiv>
+                    <Unicode>La Srta. Francisca Manas y el Sr. Antonio G. Santos, con sus padrinos, Da. Carmen N. del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="136,1590 2359,1578 136,1535" />
+                <Baseline points="149,1578 258,1578 368,1578 478,1577 588,1577 698,1575 808,1575 917,1574 1027,1574 1137,1572 1247,1572 1357,1572 1467,1571 1577,1571 1686,1571 1796,1571 1906,1569 2016,1569 2126,1569 2236,1571 2346,1571" />
+                <TextEquiv>
+                    <Unicode>Rosario y D. Francisco Alfonso, momentos después de ta ceremonia de su enlace en la lglesia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="2033,1631 2173,1630 2195,1621 2261,1631 2360,1628 2360,1586 2033,1587" />
+                <Baseline points="2046,1617 2073,1617 2100,1617 2127,1617 2154,1617 2181,1617 2209,1617 2236,1617 2263,1616 2290,1616 2317,1614 2345,1613" />
+                <TextEquiv>
+                    <Unicode>Foto—A. OVEIAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="142,1639 1090,1632 1089,1588 996,1580 142,1590" />
+                <Baseline points="156,1626 202,1626 248,1625 294,1625 340,1625 386,1624 432,1623 478,1623 524,1623 570,1623 616,1622 662,1622 708,1622 754,1622 800,1622 846,1620 892,1620 938,1620 984,1619 1030,1619 1076,1619" />
+                <TextEquiv>
+                    <Unicode>de los RR. PP. Paules, en San Marcelino.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La Srta. Francisca Manas y el Sr. Antonio G. Santos, con sus padrinos, Da. Carmen N. del
+Rosario y D. Francisco Alfonso, momentos después de ta ceremonia de su enlace en la lglesia
+Foto—A. OVEIAS
+de los RR. PP. Paules, en San Marcelino.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="149,3091 2344,3091 2344,3341 149,3341" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="225,3145 2305,3139 2349,3090 225,3098" />
+                <Baseline points="239,3134 343,3135 448,3135 553,3135 658,3135 762,3135 867,3135 972,3134 1077,3134 1181,3134 1286,3132 1391,3132 1496,3132 1600,3131 1705,3129 1810,3129 1915,3128 2019,3128 2124,3126 2229,3125 2334,3125" />
+                <TextEquiv>
+                    <Unicode>Par primera vez el vecindario de Manila dis frutó en los días 21 y 22 del actual el curioso es¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="140,3203 2338,3138 140,3153" />
+                <Baseline points="155,3185 263,3183 371,3183 480,3182 588,3182 697,3182 805,3180 914,3180 1022,3179 1131,3179 1239,3179 1347,3177 1456,3177 1564,3176 1673,3175 1781,3174 1890,3173 1998,3172 2107,3171 2215,3170 2324,3168" />
+                <TextEquiv>
+                    <Unicode>pectáculo del hombre que se pasó veinticuatro horas sentado en una silla amarrada al asta que r</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="146,3247 2311,3237 2344,3179 146,3205" />
+                <Baseline points="161,3230 269,3229 377,3228 486,3228 594,3227 703,3227 811,3227 920,3227 1028,3225 1137,3225 1245,3225 1353,3224 1462,3224 1570,3222 1679,3222 1787,3221 1896,3219 2004,3218 2113,3216 2221,3214 2330,3212" />
+                <TextEquiv>
+                    <Unicode>mata la torre del edificio de “El Hogar Filipino", uno de los más altos de la capital. Este "Fisg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="144,3299 2353,3237 144,3247" />
+                <Baseline points="158,3278 267,3276 376,3275 485,3275 594,3274 703,3273 812,3273 921,3273 1030,3272 1139,3272 1248,3272 1357,3270 1466,3270 1575,3269 1684,3269 1793,3267 1902,3266 2011,3264 2120,3263 2229,3261 2339,3260" />
+                <TextEquiv>
+                    <Unicode>pole sitter" como se denomána en los Estados Unidos a los que practican este singular ejcrcicis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1990,3326 2157,3324 2185,3310 2199,3321 2325,3325 2344,3322 2344,3278 2209,3274 2044,3290 1989,3282" />
+                <Baseline points="2004,3312 2029,3311 2054,3311 2079,3311 2104,3309 2129,3309 2154,3309 2180,3308 2205,3308 2230,3308 2255,3308 2280,3308 2305,3308 2331,3309" />
+                <TextEquiv>
+                    <Unicode>Foto——SUN &amp; TDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="142,3343 1450,3334 1474,3287 142,3299" />
+                <Baseline points="156,3324 221,3323 286,3323 351,3321 417,3321 482,3321 547,3321 612,3321 678,3321 743,3321 808,3321 873,3321 939,3321 1004,3321 1069,3321 1134,3320 1200,3320 1265,3320 1330,3319 1395,3318 1461,3317" />
+                <TextEquiv>
+                    <Unicode>alega tener el "record” de una prueba de 77 días seguidos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Par primera vez el vecindario de Manila dis frutó en los días 21 y 22 del actual el curioso es¬
+pectáculo del hombre que se pasó veinticuatro horas sentado en una silla amarrada al asta que r
+mata la torre del edificio de “El Hogar Filipino", uno de los más altos de la capital. Este "Fisg¬
+pole sitter" como se denomána en los Estados Unidos a los que practican este singular ejcrcicis
+Foto——SUN &amp; TDIO
+alega tener el "record” de una prueba de 77 días seguidos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="968,2805 1175,2805 1175,2821 968,2821" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1011,2870 1183,2870 1183,2884 1011,2884" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="720,3048 1063,3048 1063,3063 720,3063" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="600,1213 618,1213 618,1443 600,1443" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="705,1291 717,1291 717,1446 705,1446" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="995,2569 1003,2569 1003,2717 995,2717" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1128,2536 1136,2536 1136,2660 1128,2660" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1239,1724 1256,1724 1256,2160 1239,2160" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1262,2206 1274,2206 1274,2472 1262,2472" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1361,2470 1367,2470 1367,2623 1361,2623" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="744,1193 750,1193 750,1262 744,1262" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1861,861 1863,861 1863,884 1861,884" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

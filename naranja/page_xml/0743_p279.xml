@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:47:08.482+02:00</Created>
+        <LastChange>2021-10-29T20:37:32.731+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781692" pageNr="743" tsid="236400893" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=OCXCEIEYVOHMVAADAENUIRCD" xmlUrl="https://files.transkribus.eu/Get?id=USOASEGVTEPZLYCKNZPKJCWN" imageId="17245814" />
+    </Metadata>
+    <Page imageFilename="0743_p279.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982588627" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="68,0 68,3360 2430,3360 2430,0" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1670,39 1708,38 1746,38 1784,36 1822,38 1860,38 1898,38 1936,39 1974,39 2012,41 2050,42 2088,44 2126,45 2164,46 2202,48 2240,50 2278,50 2316,51 2354,53 2392,53 2430,54 2430,9 2392,8 2354,8 2316,6 2278,5 2240,5 2202,3 2164,1 2126,0 2088,0 2050,0 2012,0 1974,0 1936,0 1898,0 1860,0 1822,0 1784,0 1746,0 1708,0 1670,0" />
+                <Baseline points="1670,24 1708,23 1746,23 1784,21 1822,23 1860,23 1898,23 1936,24 1974,24 2012,26 2050,27 2088,29 2126,30 2164,31 2202,33 2240,35 2278,35 2316,36 2354,38 2392,38 2430,39" />
+                <TextEquiv>
+                    <Unicode>AVPUVERSILY OF THE PEHLIBRIR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="68,55 95,55 122,53 150,50 150,0 122,1 95,3 68,3" />
+                <Baseline points="68,38 95,38 122,36 150,33" />
+                <TextEquiv>
+                    <Unicode>ER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1979,111 2006,108 2033,107 2060,105 2087,105 2114,107 2141,109 2168,111 2196,116 2196,71 2168,66 2141,64 2114,62 2087,60 2060,60 2033,62 2006,63 1979,66" />
+                <Baseline points="1979,96 2006,93 2033,92 2060,90 2087,90 2114,92 2141,94 2168,96 2196,101" />
+                <TextEquiv>
+                    <Unicode>ABRARY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="78,125 103,127 128,128 153,128 179,128 204,128 229,128 255,127 280,127 305,125 330,125 356,124 381,124 406,124 432,124 432,72 406,72 381,72 356,72 330,73 305,73 280,75 255,75 229,76 204,76 179,76 153,76 128,76 103,75 78,73" />
+                <Baseline points="78,108 103,110 128,111 153,111 179,111 204,111 229,111 255,110 280,110 305,108 330,108 356,107 381,107 406,107 432,107" />
+                <TextEquiv>
+                    <Unicode>EE </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="389,294 483,301 578,305 673,309 767,311 862,311 957,311 1051,309 1146,306 1241,303 1336,300 1430,297 1525,294 1620,290 1714,287 1809,285 1904,284 1998,282 2093,282 2188,284 2283,287 2283,224 2188,221 2093,219 1998,219 1904,221 1809,222 1714,224 1620,227 1525,231 1430,234 1336,237 1241,240 1146,243 1051,246 957,248 862,248 767,248 673,246 578,242 483,238 389,231" />
+                <Baseline points="389,273 483,280 578,284 673,288 767,290 862,290 957,290 1051,288 1146,285 1241,282 1336,279 1430,276 1525,273 1620,269 1714,266 1809,264 1904,263 1998,261 2093,261 2188,263 2283,266" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1994,3356 2024,3360 2054,3357 2084,3349 2114,3341 2114,3278 2084,3286 2054,3294 2024,3297 1994,3293" />
+                <Baseline points="1994,3335 2024,3339 2054,3336 2084,3328 2114,3320" />
+                <TextEquiv>
+                    <Unicode>EN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AVPUVERSILY OF THE PEHLIBRIR
+ER
+ABRARY
+EE 
+
+EN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

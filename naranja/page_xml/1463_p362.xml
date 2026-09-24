@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:44:39.136+02:00</Created>
+        <LastChange>2021-06-08T16:30:53.988+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782391" pageNr="1463" tsid="236401786" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WFMSSUWEPWECEOJPWTXEGMJM" xmlUrl="https://files.transkribus.eu/Get?id=JJZPQNUWJCMUUCNRKISYOHLF" imageId="17247785" />
+    </Metadata>
+    <Page imageFilename="1463_p362.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="343,480 2124,480 2124,3011 343,3011" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982755324" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="343,533 2124,533 2124,2961 343,2961" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="941,651 1002,651 1002,675 941,675" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="711,1559 1743,1559 1743,1941 711,1941" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="750,1595 1725,1601 1725,1570 1591,1558 750,1564" />
+                <Baseline points="756,1589 804,1589 852,1589 900,1589 948,1589 996,1589 1044,1589 1093,1589 1141,1590 1189,1590 1237,1590 1285,1590 1333,1590 1381,1591 1430,1592 1478,1592 1526,1592 1574,1592 1622,1592 1670,1592 1719,1592" />
+                <TextEquiv>
+                    <Unicode>Foto superior: La Semana de Niños. Los niios que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="716,1643 1731,1651 1704,1604 716,1611" />
+                <Baseline points="722,1634 772,1634 822,1634 872,1634 922,1634 972,1635 1022,1635 1073,1635 1123,1635 1173,1635 1223,1635 1273,1635 1323,1635 1373,1635 1424,1635 1474,1635 1524,1635 1574,1637 1624,1637 1674,1637 1725,1638" />
+                <TextEquiv>
+                    <Unicode>desempeñaron de mentirijillas los puestos de Alcalde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="713,1686 1736,1682 1612,1652 713,1652" />
+                <Baseline points="719,1679 769,1679 820,1679 870,1679 921,1679 971,1679 1022,1679 1072,1679 1123,1679 1173,1679 1224,1679 1275,1679 1325,1679 1376,1679 1426,1679 1477,1679 1527,1680 1578,1680 1628,1680 1679,1680 1730,1680" />
+                <TextEquiv>
+                    <Unicode>Fiscal y de Jefes gubernamentales en el momento de pres¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="713,1727 1730,1731 1730,1704 1644,1694 713,1704" />
+                <Baseline points="719,1724 769,1724 819,1724 869,1724 920,1724 970,1725 1020,1725 1070,1725 1121,1725 1171,1725 1221,1725 1271,1725 1322,1725 1372,1725 1422,1724 1472,1724 1523,1724 1573,1724 1623,1724 1673,1725 1724,1725" />
+                <TextEquiv>
+                    <Unicode>tar, muy serios y convencidos, en el despacho del Alca!¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="719,1779 1731,1780 1731,1750 1686,1740 719,1748" />
+                <Baseline points="726,1769 778,1769 831,1770 883,1770 936,1770 988,1770 1041,1770 1094,1770 1146,1770 1199,1769 1251,1769 1304,1769 1356,1769 1409,1769 1462,1770 1514,1770 1567,1770 1619,1770 1672,1770 1725,1770" />
+                <TextEquiv>
+                    <Unicode>de de la ciudad Sr. Earnshaw los juramentos de rúbrica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="795,1851 1731,1851 1731,1814 1694,1812 795,1811" />
+                <Baseline points="801,1839 847,1839 893,1839 939,1841 985,1841 1032,1841 1078,1841 1124,1841 1170,1841 1216,1841 1263,1841 1309,1842 1355,1842 1401,1842 1447,1842 1494,1842 1540,1842 1586,1842 1632,1844 1678,1844 1725,1845" />
+                <TextEquiv>
+                    <Unicode>Foto inferior: Del animado “Tea party" dado en los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="721,1893 1604,1900 1656,1876 721,1859" />
+                <Baseline points="728,1884 774,1886 820,1886 866,1886 912,1887 958,1887 1004,1887 1050,1887 1096,1887 1142,1887 1189,1887 1235,1887 1281,1887 1327,1887 1373,1887 1419,1887 1465,1887 1511,1887 1557,1887 1603,1887 1650,1887" />
+                <TextEquiv>
+                    <Unicode>salones del Club Filipino por la sociedad "Yuhum"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1472,1946 1514,1940 1586,1946 1601,1932 1663,1945 1738,1931 1738,1915 1720,1907 1515,1916 1472,1908" />
+                <Baseline points="1478,1932 1503,1934 1528,1935 1553,1935 1579,1935 1604,1935 1629,1934 1655,1934 1680,1934 1705,1935 1731,1937" />
+                <TextEquiv>
+                    <Unicode>Fotos-—F. SANTOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto superior: La Semana de Niños. Los niios que
+desempeñaron de mentirijillas los puestos de Alcalde
+Fiscal y de Jefes gubernamentales en el momento de pres¬
+tar, muy serios y convencidos, en el despacho del Alca!¬
+de de la ciudad Sr. Earnshaw los juramentos de rúbrica.
+Foto inferior: Del animado “Tea party" dado en los
+salones del Club Filipino por la sociedad "Yuhum"
+Fotos-—F. SANTOS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2025,2973 2121,2973 2121,3011 2025,3011" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="355,480 2123,480 2123,497 355,497" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="774,626 937,626 937,634 774,634" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="561,640 847,640 847,662 561,662" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="543,664 1192,664 1192,683 543,683" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="1219,671 1574,671 1574,679 1219,679" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="527,761 665,761 665,767 527,767" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="465,789 629,789 629,794 465,794" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="836,1225 977,1225 977,1231 836,1231" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="810,1232 990,1232 990,1241 810,1241" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="349,1763 665,1763 665,1774 349,1774" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="1776,1776 2116,1776 2116,1786 1776,1786" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="349,1783 669,1783 669,1792 349,1792" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="1776,1793 2116,1793 2116,1806 1776,1806" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="378,1797 671,1797 671,1806 378,1806" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="349,1820 670,1820 670,1832 349,1832" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="1776,1831 2116,1831 2116,1842 1776,1842" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="1180,2960 2106,2960 2106,2971 1180,2971" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="562,2961 700,2961 700,2969 562,2969" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="1343,2974 2071,2974 2071,2983 1343,2983" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="1177,2975 1293,2975 1293,2982 1177,2982" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="1163,2997 1329,2997 1329,3007 1163,3007" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:25;}">
+            <Coords points="1347,2997 2104,2997 2104,3008 1347,3008" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:26;}">
+            <Coords points="349,480 364,480 364,1828 349,1828" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:27;}">
+            <Coords points="411,743 427,743 427,1092 411,1092" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+            <Coords points="2109,489 2123,489 2123,1769 2109,1769" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+            <Coords points="1321,628 1503,628 1503,636 1321,636" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:30;}">
+            <Coords points="516,788 557,788 557,793 516,793" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

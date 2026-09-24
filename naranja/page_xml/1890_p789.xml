@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:03.124+02:00</Created>
+        <LastChange>2021-06-08T19:56:22.138+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782842" pageNr="1890" tsid="236402321" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=OWJRPGBZCOXVONPBHXLKTVHH" xmlUrl="https://files.transkribus.eu/Get?id=AJGUTOOGGLMXZOGGNJBBYDJR" imageId="17248865" />
+    </Metadata>
+    <Page imageFilename="1890_p789.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="166,163 2319,163 2319,3326 166,3326" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982852184" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="208,163 2319,163 2319,500 208,500" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="198,630 531,630 531,677 198,677" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="199,675 519,678 530,674 530,628 279,629 261,646 243,632 199,630" />
+                <Baseline points="204,668 230,669 257,669 284,669 311,668 337,668 364,668 391,668 418,668 444,668 471,668 498,669 525,671" />
+                <TextEquiv>
+                    <Unicode>35 CENTIMOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>35 CENTIMOS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1647,632 2270,632 2270,684 1647,684" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1657,678 2232,681 2266,678 2266,631 2065,646 2037,629 1905,629 1879,653 1840,629 1657,633" />
+                <Baseline points="1662,668 1693,669 1725,669 1756,669 1788,669 1819,670 1851,671 1882,671 1914,671 1945,671 1977,672 2008,672 2040,672 2071,672 2103,672 2134,672 2166,672 2197,672 2229,672 2261,672" />
+                <TextEquiv>
+                    <Unicode>MANILA—JUNIO 30, 1932</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MANILA—JUNIO 30, 1932</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="166,819 2307,819 2307,3248 166,3248" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1089,3287 1398,3287 1398,3326 1089,3326" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1083,3333 1375,3329 1402,3320 1401,3289 1387,3285 1082,3291" />
+                <Baseline points="1088,3318 1113,3318 1139,3318 1165,3318 1191,3318 1216,3317 1242,3317 1268,3317 1294,3317 1319,3316 1345,3315 1371,3315 1397,3314" />
+                <TextEquiv>
+                    <Unicode>LEILA HYAMS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LEILA HYAMS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="193,566 2267,566 2267,582 193,582" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="193,731 2269,731 2269,745 193,745" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="699,1848 782,1848 782,1974 699,1974" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:08:04.868+02:00</Created>
+        <LastChange>2021-11-03T16:52:50.224+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781001" pageNr="121" tsid="236399963" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=RYQMXLTIAZFZVORCRCWDFQHB" xmlUrl="https://files.transkribus.eu/Get?id=CYXVFKKDBZVZABZATPAPICEM" imageId="17243934" />
+    </Metadata>
+    <Page imageFilename="0121_p121.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="59,61 2425,61 2425,3450 59,3450" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982443101" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="59,61 2423,61 2423,3387 59,3387" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1116,3411 1474,3411 1474,3450 1116,3450" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1140,3491 1166,3491 1192,3491 1219,3491 1245,3490 1272,3490 1298,3489 1324,3488 1351,3488 1377,3487 1404,3487 1430,3487 1457,3487 1457,3337 1430,3337 1404,3337 1377,3337 1351,3338 1324,3338 1298,3339 1272,3340 1245,3340 1219,3341 1192,3341 1166,3341 1140,3341" />
+                <Baseline points="1140,3441 1166,3441 1192,3441 1219,3441 1245,3440 1272,3440 1298,3439 1324,3438 1351,3438 1377,3437 1404,3437 1430,3437 1457,3437" />
+                <TextEquiv>
+                    <Unicode>CARMEN SABATER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CARMEN SABATER</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="2077,3393 2425,3393 2425,3449 2077,3449" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="222,3376 328,3376 328,3379 222,3379" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="61,73 65,73 65,382 61,382" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="61,1398 66,1398 66,1504 61,1504" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="59,61 2423,61 2423,3382 59,3382" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:30:13.955+02:00</Created>
+        <LastChange>2021-06-08T18:57:36.390+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782706" pageNr="1775" tsid="236402145" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BQJIVEWZLEMUQLSQHUHKJAQM" xmlUrl="https://files.transkribus.eu/Get?id=PQZMRGBUDFRWLGLFCLJJRUKO" imageId="17248587" />
+    </Metadata>
+    <Page imageFilename="1775_p674.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="187,277 2274,277 2274,3229 187,3229" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982825630" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="187,391 2274,391 2274,3172 187,3172" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="912,1454 1658,1454 1658,1802 912,1802" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="907,1489 1649,1489 1649,1449 1613,1445 1440,1445 1420,1465 1357,1445 1254,1445 1234,1465 907,1449" />
+                <Baseline points="912,1485 948,1484 985,1484 1021,1484 1058,1484 1095,1484 1131,1483 1168,1482 1204,1482 1241,1482 1278,1482 1314,1482 1351,1482 1387,1481 1424,1481 1461,1481 1497,1481 1534,1480 1570,1479 1607,1479 1644,1479" />
+                <TextEquiv>
+                    <Unicode>Bodas de plata del Hon. Rafael Con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="919,1564 1648,1554 1648,1517 919,1525" />
+                <Baseline points="924,1548 961,1547 999,1546 1037,1545 1075,1545 1113,1544 1151,1544 1188,1544 1226,1544 1264,1544 1302,1544 1340,1544 1378,1544 1415,1544 1453,1544 1491,1544 1529,1544 1567,1542 1605,1542 1643,1541" />
+                <TextEquiv>
+                    <Unicode>pus. Una de las mesas a la que se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="922,1618 1631,1614 1649,1580 1515,1573 1473,1595 1440,1573 1388,1592 1367,1573 1218,1573 1190,1596 1159,1573 1119,1597 922,1581" />
+                <Baseline points="927,1608 962,1608 998,1607 1034,1607 1070,1607 1106,1606 1142,1605 1177,1605 1213,1605 1249,1605 1285,1605 1321,1605 1357,1605 1393,1605 1428,1605 1464,1604 1500,1604 1536,1604 1572,1604 1608,1604 1644,1602" />
+                <TextEquiv>
+                    <Unicode>sentaron el General Dn. Emilio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="930,1673 1484,1663 1583,1682 1654,1666 1654,1643 930,1651" />
+                <Baseline points="935,1673 970,1671 1006,1670 1042,1670 1077,1668 1113,1668 1149,1668 1184,1667 1220,1667 1256,1667 1292,1667 1327,1667 1363,1667 1399,1667 1434,1667 1470,1668 1506,1668 1541,1668 1577,1668 1613,1668 1649,1668" />
+                <TextEquiv>
+                    <Unicode>Aguinaldo, el Sr. Arsenio Luz, el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="942,1729 1519,1746 1624,1738 1649,1706 1415,1699 1324,1720 1255,1693 1080,1693 942,1711" />
+                <Baseline points="947,1731 981,1731 1016,1731 1051,1730 1086,1730 1121,1730 1156,1730 1190,1730 1225,1730 1260,1730 1295,1730 1330,1730 1365,1730 1400,1730 1434,1730 1469,1730 1504,1729 1539,1728 1574,1727 1609,1727 1644,1725" />
+                <TextEquiv>
+                    <Unicode>Presidente Palma y otras promi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1063,1802 1203,1798 1231,1810 1523,1794 1502,1765 1467,1757 1063,1767" />
+                <Baseline points="1068,1790 1093,1791 1118,1791 1143,1791 1168,1791 1193,1791 1218,1791 1243,1791 1268,1790 1293,1790 1318,1790 1343,1790 1368,1790 1393,1790 1418,1790 1443,1791 1468,1791 1493,1791 1518,1791" />
+                <TextEquiv>
+                    <Unicode>nentes personalidades.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bodas de plata del Hon. Rafael Con
+pus. Una de las mesas a la que se
+sentaron el General Dn. Emilio
+Aguinaldo, el Sr. Arsenio Luz, el
+Presidente Palma y otras promi¬
+nentes personalidades.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="982,1932 1608,1932 1608,2146 982,2146" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="987,1970 1601,1970 1601,1935 1481,1925 1439,1941 1390,1925 1365,1947 1263,1924 1237,1944 1116,1933 1067,1949 987,1926" />
+                <Baseline points="992,1962 1022,1961 1052,1961 1082,1960 1112,1959 1143,1959 1173,1959 1203,1959 1233,1959 1263,1959 1294,1959 1324,1959 1354,1959 1384,1959 1414,1959 1445,1959 1475,1959 1505,1959 1535,1959 1565,1959 1596,1959" />
+                <TextEquiv>
+                    <Unicode>Los esposos Sres. de Corpus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="979,2031 1254,2030 1281,2014 1528,2034 1607,2018 1607,1996 1536,1981 1503,2006 1440,1981 1189,2007 1136,1989 979,1996" />
+                <Baseline points="984,2022 1014,2022 1045,2021 1076,2020 1107,2019 1138,2019 1169,2019 1200,2019 1231,2019 1262,2019 1293,2019 1323,2019 1354,2019 1385,2019 1416,2019 1447,2019 1478,2019 1509,2019 1540,2018 1571,2018 1602,2016" />
+                <TextEquiv>
+                    <Unicode>con todos sus invi'ados, foto¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="984,2099 1257,2080 1353,2099 1582,2091 1606,2060 1560,2045 1532,2070 1428,2045 1343,2069 1272,2045 1185,2071 1135,2045 1102,2059 1063,2045 984,2061" />
+                <Baseline points="989,2087 1019,2085 1050,2084 1080,2084 1111,2082 1142,2082 1172,2082 1203,2081 1233,2081 1264,2081 1295,2081 1325,2081 1356,2081 1386,2081 1417,2081 1448,2081 1478,2081 1509,2081 1539,2079 1570,2079 1601,2078" />
+                <TextEquiv>
+                    <Unicode>grafiados en los jardines de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1170,2153 1223,2154 1238,2144 1249,2154 1344,2154 1351,2147 1391,2154 1409,2146 1409,2130 1367,2105 1345,2115 1241,2117 1235,2123 1183,2117 1170,2124" />
+                <Baseline points="1175,2142 1200,2142 1225,2142 1251,2142 1276,2142 1302,2141 1327,2141 1353,2141 1378,2142 1404,2144" />
+                <TextEquiv>
+                    <Unicode>su morada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Los esposos Sres. de Corpus,
+con todos sus invi'ados, foto¬
+grafiados en los jardines de
+su morada.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1318,2200 1594,2200 1594,2222 1318,2222" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1320,2225 1585,2226 1585,2189 1497,2187 1464,2201 1432,2192 1396,2201 1320,2190" />
+                <Baseline points="1325,2217 1350,2217 1376,2217 1401,2217 1427,2217 1452,2217 1478,2216 1503,2216 1529,2216 1554,2217 1580,2217" />
+                <TextEquiv>
+                    <Unicode>Fotos—A. OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fotos—A. OVEJAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="214,3130 322,3130 322,3168 214,3168" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="222,3193 269,3193 276,3197 301,3194 307,3130 274,3133 269,3129 256,3133 248,3129 243,3132 227,3130" />
+                <Baseline points="230,3153 264,3156 299,3159" />
+                <TextEquiv>
+                    <Unicode>EVIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EVIN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="188,277 2258,277 2258,294 188,294" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="210,300 2259,300 2259,315 210,315" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="208,378 1831,378 1831,388 208,388" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="779,1215 1774,1215 1774,1233 779,1233" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1201,1865 1379,1865 1379,1871 1201,1871" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="720,1906 886,1906 886,1914 720,1914" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="228,1908 698,1908 698,1917 228,1917" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="284,3136 2150,3136 2150,3165 284,3165" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="334,3211 2258,3211 2258,3229 334,3229" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="2257,2713 2269,2713 2269,2896 2257,2896" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="2081,1543 2123,1543 2123,1546 2081,1546" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="197,1367 200,1367 200,1388 197,1388" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

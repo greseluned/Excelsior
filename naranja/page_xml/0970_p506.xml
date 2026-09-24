@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:48:26.455+02:00</Created>
+        <LastChange>2021-10-29T22:09:10.477+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781907" pageNr="970" tsid="236401153" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CQXWGXAYTDPUPFLFSXRPHLGE" xmlUrl="https://files.transkribus.eu/Get?id=JRTTJMVXBJVIGWXGDZBZNFRX" imageId="17247179" />
+    </Metadata>
+    <Page imageFilename="0970_p506.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982642334" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="186,228 186,3235 2271,3235 2271,228" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="812,286 838,286 864,288 890,293 917,297 943,300 969,299 996,294 996,236 969,241 943,242 917,239 890,235 864,230 838,228 812,228" />
+                <Baseline points="812,267 838,267 864,269 890,274 917,278 943,281 969,280 996,275" />
+                <TextEquiv>
+                    <Unicode>EEI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="618,295 657,303 657,273 618,265" />
+                <Baseline points="618,285 657,293" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="489,340 518,335 547,330 576,325 605,322 634,320 663,319 663,289 634,290 605,292 576,295 547,300 518,305 489,310" />
+                <Baseline points="489,330 518,325 547,320 576,315 605,312 634,310 663,309" />
+                <TextEquiv>
+                    <Unicode>V</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2115,345 2130,345 2130,287 2115,287" />
+                <Baseline points="2115,326 2130,326" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="465,378 491,376 518,376 544,376 571,377 598,378 624,379 651,381 678,383 704,387 731,390 758,396 758,366 731,360 704,357 678,353 651,351 624,349 598,348 571,347 544,346 518,346 491,346 465,348" />
+                <Baseline points="465,368 491,366 518,366 544,366 571,367 598,368 624,369 651,371 678,373 704,377 731,380 758,386" />
+                <TextEquiv>
+                    <Unicode>SLe S PA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1569,445 1601,441 1634,438 1666,435 1699,433 1732,432 1764,431 1797,430 1830,432 1862,432 1895,432 1928,433 1960,434 1993,435 2026,436 2058,436 2091,436 2124,436 2156,436 2189,435 2222,433 2222,375 2189,377 2156,378 2124,378 2091,378 2058,378 2026,378 1993,377 1960,376 1928,375 1895,374 1862,374 1830,374 1797,372 1764,373 1732,374 1699,375 1666,377 1634,380 1601,383 1569,387" />
+                <Baseline points="1569,426 1601,422 1634,419 1666,416 1699,414 1732,413 1764,412 1797,411 1830,413 1862,413 1895,413 1928,414 1960,415 1993,416 2026,417 2058,417 2091,417 2124,417 2156,417 2189,416 2222,414" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="242,437 286,436 331,436 376,436 421,436 466,436 511,436 555,436 600,436 645,437 690,437 735,437 780,439 825,439 869,439 914,439 959,439 1004,437 1049,436 1094,436 1139,434 1139,401 1094,403 1049,403 1004,404 959,406 914,406 869,406 825,406 780,406 735,404 690,404 645,404 600,403 555,403 511,403 466,403 421,403 376,403 331,403 286,403 242,404" />
+                <Baseline points="242,426 286,425 331,425 376,425 421,425 466,425 511,425 555,425 600,425 645,426 690,426 735,426 780,428 825,428 869,428 914,428 959,428 1004,426 1049,425 1094,425 1139,423" />
+                <TextEquiv>
+                    <Unicode>PIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="348,1581 373,1582 399,1584 425,1588 451,1592 477,1596 477,1538 451,1534 425,1530 399,1526 373,1524 348,1523" />
+                <Baseline points="348,1562 373,1563 399,1565 425,1569 451,1573 477,1577" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="560,1662 588,1663 616,1665 644,1667 672,1669 701,1671 701,1626 672,1624 644,1622 616,1620 588,1618 560,1617" />
+                <Baseline points="560,1647 588,1648 616,1650 644,1652 672,1654 701,1656" />
+                <TextEquiv>
+                    <Unicode>TA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1286,1704 1311,1704 1337,1704 1363,1702 1388,1702 1414,1701 1440,1701 1465,1701 1491,1703 1517,1705 1517,1647 1491,1645 1465,1643 1440,1643 1414,1643 1388,1644 1363,1644 1337,1646 1311,1646 1286,1646" />
+                <Baseline points="1286,1685 1311,1685 1337,1685 1363,1683 1388,1683 1414,1682 1440,1682 1465,1682 1491,1684 1517,1686" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="944,1699 975,1701 1006,1702 1037,1704 1068,1707 1068,1649 1037,1646 1006,1644 975,1643 944,1641" />
+                <Baseline points="944,1680 975,1682 1006,1683 1037,1685 1068,1688" />
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="213,1707 238,1704 264,1701 290,1701 316,1701 342,1701 368,1703 394,1706 420,1708 446,1711 472,1714 498,1718 524,1720 550,1722 576,1725 602,1727 602,1682 576,1680 550,1677 524,1675 498,1673 472,1669 446,1666 420,1663 394,1661 368,1658 342,1656 316,1656 290,1656 264,1656 238,1659 213,1662" />
+                <Baseline points="213,1692 238,1689 264,1686 290,1686 316,1686 342,1686 368,1688 394,1691 420,1693 446,1696 472,1699 498,1703 524,1705 550,1707 576,1710 602,1712" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="705,1734 753,1746 753,1688 705,1676" />
+                <Baseline points="705,1715 753,1727" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="2196,1761 2232,1761 2268,1761 2268,1703 2232,1703 2196,1703" />
+                <Baseline points="2196,1742 2232,1742 2268,1742" />
+                <TextEquiv>
+                    <Unicode>AA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="303,1836 401,1836 499,1836 598,1836 696,1836 795,1836 893,1837 991,1837 1090,1837 1188,1837 1287,1837 1385,1837 1483,1837 1582,1836 1680,1836 1779,1836 1877,1836 1975,1834 2074,1834 2172,1833 2271,1833 2271,1794 2172,1794 2074,1795 1975,1795 1877,1797 1779,1797 1680,1797 1582,1797 1483,1798 1385,1798 1287,1798 1188,1798 1090,1798 991,1798 893,1798 795,1797 696,1797 598,1797 499,1797 401,1797 303,1797" />
+                <Baseline points="303,1823 401,1823 499,1823 598,1823 696,1823 795,1823 893,1824 991,1824 1090,1824 1188,1824 1287,1824 1385,1824 1483,1824 1582,1823 1680,1823 1779,1823 1877,1823 1975,1821 2074,1821 2172,1820 2271,1820" />
+                <TextEquiv>
+                    <Unicode>Fiesta infantil por el cumpleaños del niño Je sús Villareal, hijo del conocido «sportman» Fer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="218,1887 281,1888 344,1890 407,1890 470,1891 533,1891 596,1891 660,1891 723,1891 786,1891 849,1891 912,1891 975,1891 1038,1891 1102,1890 1165,1890 1228,1890 1291,1890 1354,1890 1417,1890 1481,1890 1481,1851 1417,1851 1354,1851 1291,1851 1228,1851 1165,1851 1102,1851 1038,1852 975,1852 912,1852 849,1852 786,1852 723,1852 660,1852 596,1852 533,1852 470,1852 407,1851 344,1851 281,1849 218,1848" />
+                <Baseline points="218,1874 281,1875 344,1877 407,1877 470,1878 533,1878 596,1878 660,1878 723,1878 786,1878 849,1878 912,1878 975,1878 1038,1878 1102,1877 1165,1877 1228,1877 1291,1877 1354,1877 1417,1877 1481,1877" />
+                <TextEquiv>
+                    <Unicode>nando Villareal, que aparece en el centro de la fotografía.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="186,3109 213,3106 240,3105 267,3106 267,3048 240,3047 213,3048 186,3051" />
+                <Baseline points="186,3090 213,3087 240,3086 267,3087" />
+                <TextEquiv>
+                    <Unicode>Mo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="296,3179 393,3179 491,3179 589,3179 687,3179 785,3180 882,3180 980,3180 1078,3180 1176,3180 1274,3180 1371,3180 1469,3180 1567,3180 1665,3180 1763,3180 1860,3180 1958,3180 2056,3180 2154,3180 2252,3180 2252,3143 2154,3143 2056,3143 1958,3143 1860,3143 1763,3143 1665,3143 1567,3143 1469,3143 1371,3143 1274,3143 1176,3143 1078,3143 980,3143 882,3143 785,3143 687,3142 589,3142 491,3142 393,3142 296,3142" />
+                <Baseline points="296,3167 393,3167 491,3167 589,3167 687,3167 785,3168 882,3168 980,3168 1078,3168 1176,3168 1274,3168 1371,3168 1469,3168 1567,3168 1665,3168 1763,3168 1860,3168 1958,3168 2056,3168 2154,3168 2252,3168" />
+                <TextEquiv>
+                    <Unicode>Otro animado “party” de gente menuda en casa del capitán Matias Garcia, hijo; con motivo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="203,3232 302,3232 401,3234 500,3234 599,3235 698,3235 797,3235 896,3235 995,3235 1094,3235 1193,3235 1292,3235 1391,3235 1490,3235 1589,3234 1688,3234 1787,3234 1886,3234 1985,3234 2084,3232 2184,3232 2184,3193 2084,3193 1985,3195 1886,3195 1787,3195 1688,3195 1589,3195 1490,3196 1391,3196 1292,3196 1193,3196 1094,3196 995,3196 896,3196 797,3196 698,3196 599,3196 500,3195 401,3195 302,3193 203,3193" />
+                <Baseline points="203,3219 302,3219 401,3221 500,3221 599,3222 698,3222 797,3222 896,3222 995,3222 1094,3222 1193,3222 1292,3222 1391,3222 1490,3222 1589,3221 1688,3221 1787,3221 1886,3221 1985,3221 2084,3219 2184,3219" />
+                <TextEquiv>
+                    <Unicode>del cumpleaños de su hija Mitas, que en la fotografía aparcce rodeada de sus pequeños invitados.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>EEI
+2
+V
+E
+SLe S PA
+A
+PIA
+A
+TA
+
+a
+
+
+AA
+Fiesta infantil por el cumpleaños del niño Je sús Villareal, hijo del conocido «sportman» Fer¬
+nando Villareal, que aparece en el centro de la fotografía.
+Mo
+Otro animado “party” de gente menuda en casa del capitán Matias Garcia, hijo; con motivo
+del cumpleaños de su hija Mitas, que en la fotografía aparcce rodeada de sus pequeños invitados.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2259,188 2259,379 2277,379 2277,188" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2259,338 2265,361 2277,379 2277,229 2265,211 2259,188" />
+                <Baseline points="2259,288 2265,311 2277,329" />
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

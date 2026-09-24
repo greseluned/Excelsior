@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:41:39.681+02:00</Created>
+        <LastChange>2021-06-08T14:40:47.378+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782156" pageNr="1230" tsid="236400940" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QOYPGGTLTXLIWUWIILOLWZDQ" xmlUrl="https://files.transkribus.eu/Get?id=OWXOTPIJRJRHJGUPHROKRBDI" imageId="17246870" />
+    </Metadata>
+    <Page imageFilename="1230_p129.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="218,260 2267,260 2267,3245 218,3245" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982700876" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="218,260 1529,260 1529,328 218,328" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="328,440 1536,440 1536,1422 328,1422" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="329,538 758,539 822,566 1058,529 1058,470 1007,435 909,477 681,467 644,502 533,436 465,480 367,443 329,455" />
+                <Baseline points="336,530 371,530 407,531 443,531 478,531 514,531 550,531 585,531 621,531 657,531 693,531 728,531 764,531 800,531 835,531 871,531 907,533 942,533 978,533 1014,534 1050,534" />
+                <TextEquiv>
+                    <Unicode>todo aquel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="407,717 448,740 593,724 634,688 679,722 825,708 885,740 924,713 1278,710 1278,666 1175,612 1077,653 864,640 828,676 778,640 657,664 407,643" />
+                <Baseline points="414,714 456,713 499,713 542,711 585,711 628,711 671,710 713,710 756,710 799,710 842,710 885,710 928,708 971,708 1013,708 1056,708 1099,708 1142,708 1185,708 1228,708 1271,708" />
+                <TextEquiv>
+                    <Unicode>que se precia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="389,728 432,741 439,717 421,711 418,704 415,702 408,706 397,701" />
+                <Baseline points="399,717 429,726" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="421,885 967,891 1013,850 1054,890 1358,899 1531,873 1531,835 1186,829 1101,787 1034,831 871,824 816,789 622,859 503,787 421,850" />
+                <Baseline points="428,884 482,882 537,881 592,881 647,881 702,881 756,881 811,881 866,882 921,882 976,883 1030,884 1085,884 1140,884 1195,884 1250,882 1304,881 1359,879 1414,877 1469,873 1524,869" />
+                <TextEquiv>
+                    <Unicode>de saber fumar¬¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="488,1055 623,1076 657,1049 725,1091 854,1060 1324,1061 1324,1029 1272,992 1067,999 1022,964 940,1024 896,993 705,997 671,1031 626,993 488,1017" />
+                <Baseline points="495,1059 536,1059 577,1060 618,1061 659,1061 700,1061 741,1061 782,1060 823,1059 864,1059 906,1059 947,1059 988,1059 1029,1058 1070,1058 1111,1058 1152,1059 1193,1059 1234,1059 1275,1061 1317,1062" />
+                <TextEquiv>
+                    <Unicode>es que fuma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="549,1235 661,1242 688,1268 954,1233 1220,1252 1261,1236 1260,1185 1229,1164 1124,1170 1094,1140 976,1140 948,1169 823,1178 734,1155 685,1181 583,1171 548,1197" />
+                <Baseline points="555,1236 591,1237 628,1238 665,1238 702,1238 738,1238 775,1236 812,1236 849,1235 886,1235 922,1233 959,1233 996,1232 1033,1232 1070,1232 1106,1232 1143,1232 1180,1232 1217,1233 1254,1235" />
+                <TextEquiv>
+                    <Unicode>cigarrillos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="607,1422 1279,1426 1328,1389 1153,1387 1097,1341 975,1350 904,1315 801,1361 703,1318 607,1329" />
+                <Baseline points="614,1412 649,1412 684,1410 719,1410 755,1409 790,1409 825,1409 861,1409 896,1409 931,1409 967,1409 1002,1409 1037,1410 1072,1410 1108,1411 1143,1412 1178,1412 1214,1413 1249,1415 1284,1416 1320,1416" />
+                <TextEquiv>
+                    <Unicode>Rositas....</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>todo aquel
+que se precia
+
+de saber fumar¬¬
+es que fuma
+cigarrillos
+Rositas....</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="684,1529 1823,1529 1823,1596 684,1596" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="677,1587 1816,1587 1816,1538 1727,1524 677,1534" />
+                <Baseline points="684,1578 740,1578 796,1578 852,1577 909,1577 965,1577 1021,1577 1077,1578 1134,1578 1190,1578 1246,1578 1302,1578 1359,1578 1415,1578 1471,1578 1527,1578 1584,1578 1640,1578 1696,1577 1752,1577 1809,1575" />
+                <TextEquiv>
+                    <Unicode>HAY un Buen Cigarrillo Filipino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>HAY un Buen Cigarrillo Filipino</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="805,1694 1855,1694 1855,1888 805,1888" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="812,1888 1816,1890 1855,1875 1856,1748 1784,1731 1711,1790 1660,1739 1584,1764 1227,1738 1166,1777 1121,1740 1018,1761 934,1692 813,1694" />
+                <Baseline points="819,1871 870,1872 921,1872 973,1872 1024,1872 1076,1872 1127,1872 1179,1872 1230,1872 1282,1872 1333,1872 1384,1872 1436,1872 1487,1872 1539,1872 1590,1872 1642,1874 1693,1874 1745,1874 1796,1875 1848,1877" />
+                <TextEquiv>
+                    <Unicode>ROSITAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ROSITAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="902,2007 1478,2007 1478,2068 902,2068" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="906,2059 1460,2060 1476,2058 1477,2013 907,2008" />
+                <Baseline points="914,2049 941,2049 969,2051 997,2051 1025,2051 1052,2051 1080,2052 1108,2052 1136,2052 1163,2052 1191,2052 1219,2052 1247,2052 1274,2051 1302,2051 1330,2051 1358,2051 1385,2051 1413,2051 1441,2051 1469,2052" />
+                <TextEquiv>
+                    <Unicode>Fabricados por la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fabricados por la</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="961,2117 1447,2117 1447,2168 961,2168" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="964,2171 1443,2170 1443,2126 1422,2115 1397,2126 965,2115" />
+                <Baseline points="971,2157 996,2157 1022,2157 1048,2157 1074,2157 1100,2157 1126,2157 1151,2157 1177,2157 1203,2159 1229,2159 1255,2159 1281,2159 1306,2159 1332,2159 1358,2159 1384,2159 1410,2159 1436,2159" />
+                <TextEquiv>
+                    <Unicode>TABACALERA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>TABACALERA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="934,2243 2267,2243 2267,3245 934,3245" />
+        </GraphicRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1203,2820 1215,2820 1215,2999 1203,2999" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

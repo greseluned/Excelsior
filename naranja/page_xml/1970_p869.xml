@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:51:07.971+02:00</Created>
+        <LastChange>2021-06-08T20:35:29.687+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782903" pageNr="1970" tsid="236402471" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BRJNJTSPSRBKHVVRFXMJTWDR" xmlUrl="https://files.transkribus.eu/Get?id=TVHEWSKMUPADPPSUUCIGBLGF" imageId="17249102" />
+    </Metadata>
+    <Page imageFilename="1970_p869.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="397,654 2027,654 2027,2850 397,2850" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982870289" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="745,654 2027,654 2027,2679 745,2679" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="484,2690 1058,2690 1058,2740 484,2740" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="480,2739 1045,2738 1045,2698 1024,2694 850,2685 810,2704 776,2687 746,2704 626,2687 593,2710 480,2686" />
+                <Baseline points="485,2727 512,2727 540,2727 568,2727 596,2727 623,2727 651,2727 679,2727 707,2727 734,2727 762,2727 790,2727 818,2727 845,2727 873,2727 901,2727 929,2727 956,2727 984,2727 1012,2727 1040,2727" />
+                <TextEquiv>
+                    <Unicode>Hon. JOHN C. HOLLIDAY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hon. JOHN C. HOLLIDAY</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="397,2749 1145,2749 1145,2800 397,2800" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="405,2795 686,2794 706,2774 728,2794 1141,2793 1141,2757 1080,2749 700,2766 405,2749" />
+                <Baseline points="410,2783 446,2783 482,2783 518,2781 555,2781 591,2781 627,2781 664,2781 700,2782 736,2783 773,2783 809,2783 845,2783 881,2783 918,2783 954,2781 990,2781 1027,2781 1063,2781 1099,2781 1136,2781" />
+                <TextEquiv>
+                    <Unicode>Vicegobernador General de Filipinas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vicegobernador General de Filipinas</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="824,2816 1129,2816 1129,2850 824,2850" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="829,2850 1127,2850 1127,2812 891,2812 879,2821 829,2813" />
+                <Baseline points="834,2838 860,2840 886,2840 912,2841 938,2841 964,2840 991,2840 1017,2840 1043,2840 1069,2840 1095,2840 1122,2841" />
+                <TextEquiv>
+                    <Unicode>Por LUIS ESTEBAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Por LUIS ESTEBAN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1262,1730 1436,1730 1436,1742 1262,1742" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1405,1742 1424,1742 1424,2052 1405,2052" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

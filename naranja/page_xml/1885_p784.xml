@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:49:58.919+02:00</Created>
+        <LastChange>2021-06-08T19:54:13.371+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782839" pageNr="1885" tsid="236402318" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MMCHUMFBAJIXZAVDZJGCCDRP" xmlUrl="https://files.transkribus.eu/Get?id=PCZPYPTGCRBNGUGMGOWAJLAF" imageId="17248855" />
+    </Metadata>
+    <Page imageFilename="1885_p784.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="208,276 2252,276 2252,3210 208,3210" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982851073" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="208,276 2249,276 2249,1733 208,1733" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1127,301 2175,301 2175,652 1127,652" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1160,349 2153,351 2178,349 2178,298 1160,304" />
+                <Baseline points="1173,338 1222,338 1272,338 1321,338 1371,338 1421,337 1470,336 1520,336 1569,336 1619,336 1669,336 1718,336 1768,336 1817,336 1867,336 1917,336 1966,336 2016,336 2065,336 2115,335 2165,335" />
+                <TextEquiv>
+                    <Unicode>De las tradicionales y este año más numerosas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1117,406 2176,388 2175,350 1117,359" />
+                <Baseline points="1130,390 1181,390 1233,390 1284,389 1336,389 1388,389 1439,387 1491,387 1542,387 1594,387 1646,387 1697,387 1749,387 1800,387 1852,387 1904,387 1955,387 2007,387 2058,387 2110,387 2162,386" />
+                <TextEquiv>
+                    <Unicode>fiestas de la Santa Cruz de Mayo. Grupo de ni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1116,450 2124,453 2184,445 2184,402 1116,407" />
+                <Baseline points="1128,444 1180,443 1232,443 1284,441 1336,441 1389,441 1441,441 1493,440 1545,440 1597,440 1650,440 1702,440 1754,440 1806,440 1858,440 1911,440 1963,440 2015,438 2067,438 2119,437 2172,437" />
+                <TextEquiv>
+                    <Unicode>ños que tomaron parte en la procesión del arrabal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1121,511 1184,503 1425,507 1425,472 1357,454 1307,465 1286,455 1251,465 1196,455 1183,468 1158,455 1121,458" />
+                <Baseline points="1133,494 1158,495 1183,495 1209,495 1234,495 1259,494 1285,494 1310,494 1335,494 1361,494 1386,494 1412,494" />
+                <TextEquiv>
+                    <Unicode>de la Ermita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1158,554 2121,559 2166,549 2166,506 1158,512" />
+                <Baseline points="1170,545 1219,545 1268,545 1317,545 1366,546 1415,546 1464,546 1514,546 1563,546 1612,546 1661,546 1710,545 1759,545 1808,545 1858,545 1907,545 1956,543 2005,543 2054,543 2103,542 2153,542" />
+                <TextEquiv>
+                    <Unicode>En el inserto la hermosa joven Srta. Carmen Re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1122,616 2182,613 2182,568 1121,568" />
+                <Baseline points="1134,600 1185,600 1237,599 1289,599 1341,599 1392,599 1444,599 1496,597 1548,597 1599,597 1651,597 1703,597 1755,597 1806,597 1858,597 1910,597 1962,596 2013,596 2065,596 2117,594 2169,594" />
+                <TextEquiv>
+                    <Unicode>yes que personificó en dicha procesión a Sta. Elena,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1856,646 1882,655 2128,650 2145,645 2145,607 1855,611" />
+                <Baseline points="1868,644 1894,642 1920,642 1947,641 1973,641 2000,639 2026,639 2052,639 2079,639 2105,638 2132,638" />
+                <TextEquiv>
+                    <Unicode>Foto—NAVARRO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De las tradicionales y este año más numerosas
+fiestas de la Santa Cruz de Mayo. Grupo de ni¬
+ños que tomaron parte en la procesión del arrabal
+de la Ermita.
+En el inserto la hermosa joven Srta. Carmen Re
+yes que personificó en dicha procesión a Sta. Elena,
+Foto—NAVARRO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="255,1807 2224,1807 2224,2979 255,2979" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="233,3009 2248,3009 2248,3194 233,3194" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="303,3058 2206,3060 2256,3002 303,3015" />
+                <Baseline points="317,3048 413,3048 509,3048 606,3050 702,3048 798,3048 895,3048 991,3048 1087,3047 1184,3047 1280,3045 1376,3045 1473,3044 1569,3044 1665,3042 1762,3042 1858,3041 1954,3041 2051,3041 2147,3040 2244,3039" />
+                <TextEquiv>
+                    <Unicode>Del entierro, que constituyó una verdade a manifestación de duelo nacional, del Rey del "Balag¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="232,3108 2153,3102 2251,3056 232,3058" />
+                <Baseline points="245,3090 344,3090 444,3092 543,3092 643,3092 743,3092 842,3092 942,3090 1041,3090 1141,3089 1241,3089 1340,3087 1440,3086 1539,3086 1639,3084 1739,3084 1838,3083 1938,3083 2037,3083 2137,3081 2237,3083" />
+                <TextEquiv>
+                    <Unicode>tasan" en idioma vernácula, José Corazón de Jesús, fallecido recientemente en está capitul y eu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="223,3153 2259,3094 223,3108" />
+                <Baseline points="236,3135 336,3135 437,3135 537,3135 638,3134 738,3134 839,3134 939,3132 1040,3132 1140,3131 1241,3131 1341,3129 1442,3128 1542,3128 1643,3126 1743,3126 1844,3125 1944,3125 2045,3125 2145,3123 2246,3123" />
+                <TextEquiv>
+                    <Unicode>ya muerte ha sido muy sentida por sus hermanos de letras tagalas y castellanes, pues fué en piaa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="227,3189 1868,3188 1868,3140 226,3156" />
+                <Baseline points="239,3176 319,3176 400,3177 481,3177 562,3177 643,3177 724,3176 804,3176 885,3176 966,3175 1047,3174 1128,3174 1209,3173 1290,3173 1370,3171 1451,3171 1532,3170 1613,3170 1694,3168 1775,3168 1856,3167" />
+                <TextEquiv>
+                    <Unicode>un notable e inspirado poeta en el dialecto vernácula y en el idioma castellan..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1944,3212 2037,3206 2078,3231 2113,3208 2226,3212 2253,3204 2253,3164 2014,3169 1994,3177 1944,3167" />
+                <Baseline points="1956,3201 1981,3201 2007,3200 2033,3198 2059,3198 2085,3197 2110,3197 2136,3197 2162,3197 2188,3197 2214,3198 2240,3200" />
+                <TextEquiv>
+                    <Unicode>Foto—SU'Y STUDi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Del entierro, que constituyó una verdade a manifestación de duelo nacional, del Rey del "Balag¬
+tasan" en idioma vernácula, José Corazón de Jesús, fallecido recientemente en esta capitul y eu
+ya muerte ha sido muy sentida por sus hermanos de letras tagalas y castellanes, pues fué en piaa
+un notable e inspirado poeta en el dialecto vernácula y en el idioma castellan..
+Foto—SU'Y STUDi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1953,3176 2247,3176 2247,3210 1953,3210" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="471,281 862,281 862,295 471,295" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1040,712 2136,712 2136,731 1040,731" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="378,1812 2217,1812 2217,1835 378,1835" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="403,1969 651,1969 651,1990 403,1990" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="213,1059 228,1059 228,1727 213,1727" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="313,512 325,512 325,997 313,997" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="328,512 342,512 342,1004 328,1004" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="344,520 360,520 360,1008 344,1008" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1035,438 1051,438 1051,730 1035,730" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1225,1943 1231,1943 1231,2133 1225,2133" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1667,1575 1676,1575 1676,1722 1667,1722" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1755,2574 1769,2574 1769,2748 1755,2748" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="2193,1813 2219,1813 2219,2446 2193,2446" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="2230,797 2252,797 2252,1720 2230,1720" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="998,1538 1020,1538 1020,1541 998,1541" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1177,2672 1264,2672 1264,2682 1177,2682" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="1504,2635 1639,2635 1639,2733 1504,2733" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

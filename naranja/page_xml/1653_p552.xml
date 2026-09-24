@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:47:21.012+02:00</Created>
+        <LastChange>2021-06-08T18:02:42.869+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782604" pageNr="1653" tsid="236402040" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QXHXFWORFQJURJAWDJDRNQNN" xmlUrl="https://files.transkribus.eu/Get?id=LWJKONNFDPKOEKZVWJHNGMOW" imageId="17248202" />
+    </Metadata>
+    <Page imageFilename="1653_p552.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="54,38 2474,38 2474,3444 54,3444" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982798761" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1634,38 2474,38 2474,282 1634,282" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1731,90 1998,85 2019,106 2081,90 2135,114 2169,98 2449,131 2452,80 1733,43" />
+                <Baseline points="1736,86 1771,86 1806,86 1842,87 1877,88 1913,89 1948,91 1983,92 2019,95 2054,96 2090,99 2125,102 2160,103 2196,106 2231,108 2267,111 2302,114 2337,117 2373,119 2408,121 2444,125" />
+                <TextEquiv>
+                    <Unicode>UNIVERSITY OF TH- PHILIPPINES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1987,150 2000,158 2055,155 2072,162 2163,164 2170,171 2199,152 2201,126 2129,125 2121,118 2102,125 2096,117 2031,118 2023,109 1990,119" />
+                <Baseline points="1992,149 2017,150 2042,150 2067,152 2092,152 2117,154 2142,157 2167,160 2193,164" />
+                <TextEquiv>
+                    <Unicode>LIBRARY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1916,290 1968,258 2012,282 2090,257 2291,261 2392,287 2428,269 2415,221 2310,213 2256,249 2215,205 2178,217 2160,197 2071,194 2046,208 1998,157 1966,156 1919,194" />
+                <Baseline points="1922,264 1947,263 1972,261 1997,260 2022,260 2047,260 2072,260 2097,260 2122,260 2147,261 2172,262 2197,264 2222,265 2247,267 2272,268 2297,269 2322,271 2347,272 2372,273 2397,275 2423,275" />
+                <TextEquiv>
+                    <Unicode>ar 1 1949</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>UNIVERSITY OF TH- PHILIPPINES
+LIBRARY
+ar 1 1949</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="104,515 459,515 459,563 104,563" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="99,562 173,553 182,562 454,563 454,515 207,515 175,526 159,515 99,519" />
+                <Baseline points="104,552 130,554 157,554 183,554 210,555 236,555 263,555 289,555 316,554 342,554 369,554 395,554 422,554 449,555" />
+                <TextEquiv>
+                    <Unicode>35 CENTIMOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>35 CENTIMOS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1661,515 2340,515 2340,568 1661,568" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1660,562 2336,569 2337,519 2238,517 2210,536 2192,517 1935,517 1890,537 1871,517 1661,514" />
+                <Baseline points="1665,554 1698,554 1731,555 1764,557 1798,557 1831,557 1864,558 1898,558 1931,558 1964,558 1998,558 2031,558 2064,558 2097,558 2131,558 2164,558 2197,560 2231,560 2264,560 2297,561 2331,563" />
+                <TextEquiv>
+                    <Unicode>MANILA—MARZO 10. 1932</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MANILA—MARZO 10. 1932</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="54,691 2367,691 2367,3399 54,3399" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="942,3411 1091,3411 1091,3442 942,3442" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1212,3412 1333,3412 1333,3443 1212,3443" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1209,3441 1224,3442 1228,3438 1235,3438 1235,3413 1209,3413" />
+                <Baseline points="1214,3431 1230,3431" />
+                <TextEquiv>
+                    <Unicode>P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1285,3445 1325,3441 1322,3410 1315,3413 1312,3412 1310,3414 1305,3412 1294,3413 1288,3421 1282,3422" />
+                <Baseline points="1289,3438 1320,3435" />
+                <TextEquiv>
+                    <Unicode>PI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P
+PI</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="1418,3412 1698,3412 1698,3444 1418,3444" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1417,3446 1539,3447 1552,3434 1576,3446 1691,3446 1691,3413 1640,3412 1631,3421 1619,3413 1417,3413" />
+                <Baseline points="1422,3431 1448,3432 1474,3432 1501,3432 1527,3434 1554,3434 1580,3435 1606,3435 1633,3435 1659,3435 1686,3434" />
+                <TextEquiv>
+                    <Unicode>HNAVAI DE 1932</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>HNAVAI DE 1932</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="95,443 2336,443 2336,453 95,453" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="94,453 1000,453 1000,458 94,458" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1016,453 1162,453 1162,456 1016,456" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1309,455 1405,455 1405,457 1309,457" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1481,455 2336,455 2336,463 1481,463" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="95,622 2337,622 2337,641 95,641" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

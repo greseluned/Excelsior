@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:48:01.932+02:00</Created>
+        <LastChange>2021-10-29T21:36:36.733+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781831" pageNr="899" tsid="236401092" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZTKKDTHMUAMLDUERWNONQBWB" xmlUrl="https://files.transkribus.eu/Get?id=ZJXYAJSEHLVPIDITFSWUZOJJ" imageId="17246920" />
+    </Metadata>
+    <Page imageFilename="0899_p435.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982625976" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+                <RegionRefIndexed index="3" regionRef="r4" />
+                <RegionRefIndexed index="4" regionRef="r5" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="233,1506 233,2178 636,2178 636,1506" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="417,1537 442,1537 467,1536 492,1536 517,1536 542,1536 567,1537 592,1537 618,1536 618,1506 592,1507 567,1507 542,1506 517,1506 492,1506 467,1506 442,1507 417,1507" />
+                <Baseline points="417,1527 442,1527 467,1526 492,1526 517,1526 542,1526 567,1527 592,1527 618,1526" />
+                <TextEquiv>
+                    <Unicode>Gobernadon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="303,1537 333,1537 333,1507 303,1507" />
+                <Baseline points="303,1527 333,1527" />
+                <TextEquiv>
+                    <Unicode>EL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="246,1575 272,1575 299,1576 325,1576 352,1576 378,1576 405,1576 432,1576 458,1576 485,1576 511,1576 538,1576 564,1578 591,1578 618,1579 618,1549 591,1548 564,1548 538,1546 511,1546 485,1546 458,1546 432,1546 405,1546 378,1546 352,1546 325,1546 299,1546 272,1545 246,1545" />
+                <Baseline points="246,1565 272,1565 299,1566 325,1566 352,1566 378,1566 405,1566 432,1566 458,1566 485,1566 511,1566 538,1566 564,1568 591,1568 618,1569" />
+                <TextEquiv>
+                    <Unicode>General Sr. Davis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="237,1615 282,1615 282,1585 237,1585" />
+                <Baseline points="237,1605 282,1605" />
+                <TextEquiv>
+                    <Unicode>con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="317,1615 342,1616 367,1617 392,1617 417,1617 442,1617 467,1615 492,1615 517,1615 542,1615 567,1617 592,1617 617,1618 617,1588 592,1587 567,1587 542,1585 517,1585 492,1585 467,1585 442,1587 417,1587 392,1587 367,1587 342,1586 317,1585" />
+                <Baseline points="317,1605 342,1606 367,1607 392,1607 417,1607 442,1607 467,1605 492,1605 517,1605 542,1605 567,1607 592,1607 617,1608" />
+                <TextEquiv>
+                    <Unicode>el Secretarie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="234,1650 267,1653 300,1653 300,1623 267,1623 234,1620" />
+                <Baseline points="234,1640 267,1643 300,1643" />
+                <TextEquiv>
+                    <Unicode>Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="314,1651 339,1653 365,1653 390,1654 416,1654 441,1654 467,1653 492,1653 518,1653 543,1654 569,1654 594,1656 620,1657 620,1627 594,1626 569,1624 543,1624 518,1623 492,1623 467,1623 441,1624 416,1624 390,1624 365,1623 339,1623 314,1621" />
+                <Baseline points="314,1641 339,1643 365,1643 390,1644 416,1644 441,1644 467,1643 492,1643 518,1643 543,1644 569,1644 594,1646 620,1647" />
+                <TextEquiv>
+                    <Unicode>Filemón Feréz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="312,1692 338,1693 365,1693 392,1693 419,1693 446,1692 473,1692 500,1692 527,1692 554,1693 581,1693 608,1695 635,1696 635,1666 608,1665 581,1663 554,1663 527,1662 500,1662 473,1662 446,1662 419,1663 392,1663 365,1663 338,1663 312,1662" />
+                <Baseline points="312,1682 338,1683 365,1683 392,1683 419,1683 446,1682 473,1682 500,1682 527,1682 554,1683 581,1683 608,1685 635,1686" />
+                <TextEquiv>
+                    <Unicode>derrotaron en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="242,1693 269,1693 297,1695 297,1665 269,1663 242,1663" />
+                <Baseline points="242,1683 269,1683 297,1685" />
+                <TextEquiv>
+                    <Unicode>que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="239,1731 264,1731 289,1731 315,1731 340,1732 366,1732 391,1732 416,1732 442,1732 467,1732 493,1731 518,1731 543,1731 569,1731 594,1732 620,1732 620,1702 594,1702 569,1701 543,1701 518,1701 493,1701 467,1702 442,1702 416,1702 391,1702 366,1702 340,1702 315,1701 289,1701 264,1701 239,1701" />
+                <Baseline points="239,1721 264,1721 289,1721 315,1721 340,1722 366,1722 391,1722 416,1722 442,1722 467,1722 493,1721 518,1721 543,1721 569,1721 594,1722 620,1722" />
+                <TextEquiv>
+                    <Unicode>los partidos de te¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="239,1771 265,1771 291,1771 317,1771 343,1771 369,1771 395,1771 421,1771 447,1771 473,1771 499,1771 525,1771 551,1771 577,1771 603,1771 629,1773 629,1743 603,1741 577,1741 551,1741 525,1741 499,1741 473,1741 447,1741 421,1741 395,1741 369,1741 343,1741 317,1741 291,1741 265,1741 239,1741" />
+                <Baseline points="239,1761 265,1761 291,1761 317,1761 343,1761 369,1761 395,1761 421,1761 447,1761 473,1761 499,1761 525,1761 551,1761 577,1761 603,1761 629,1763" />
+                <TextEquiv>
+                    <Unicode>nís por parejas, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="300,1813 325,1811 351,1809 377,1808 403,1807 429,1807 455,1807 480,1809 506,1809 532,1810 558,1810 584,1810 610,1810 636,1810 636,1780 610,1780 584,1780 558,1780 532,1780 506,1779 480,1779 455,1777 429,1777 403,1777 377,1778 351,1779 325,1781 300,1783" />
+                <Baseline points="300,1803 325,1801 351,1799 377,1798 403,1797 429,1797 455,1797 480,1799 506,1799 532,1800 558,1800 584,1800 610,1800 636,1800" />
+                <TextEquiv>
+                    <Unicode>Representantes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="245,1810 276,1810 276,1780 245,1780" />
+                <Baseline points="245,1800 276,1800" />
+                <TextEquiv>
+                    <Unicode>los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="242,1846 267,1846 293,1846 319,1846 345,1848 371,1848 397,1848 423,1849 448,1849 474,1849 500,1849 526,1849 552,1849 578,1849 604,1849 630,1848 630,1818 604,1819 578,1819 552,1819 526,1819 500,1819 474,1819 448,1819 423,1819 397,1818 371,1818 345,1818 319,1816 293,1816 267,1816 242,1816" />
+                <Baseline points="242,1836 267,1836 293,1836 319,1836 345,1838 371,1838 397,1838 423,1839 448,1839 474,1839 500,1839 526,1839 552,1839 578,1839 604,1839 630,1838" />
+                <TextEquiv>
+                    <Unicode>Sres. Moldero y Ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="237,1890 262,1888 288,1887 314,1887 340,1888 365,1888 391,1888 417,1890 443,1890 468,1890 494,1890 520,1889 546,1888 546,1858 520,1859 494,1860 468,1860 443,1860 417,1860 391,1858 365,1858 340,1858 314,1857 288,1857 262,1858 237,1860" />
+                <Baseline points="237,1880 262,1878 288,1877 314,1877 340,1878 365,1878 391,1878 417,1880 443,1880 468,1880 494,1880 520,1879 546,1878" />
+                <TextEquiv>
+                    <Unicode>pomuceno. En</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="605,1888 636,1890 636,1860 605,1858" />
+                <Baseline points="605,1878 636,1880" />
+                <TextEquiv>
+                    <Unicode>la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="240,1930 266,1930 292,1930 319,1929 345,1929 372,1929 398,1929 424,1929 451,1929 477,1929 504,1929 530,1929 556,1930 583,1930 609,1930 636,1930 636,1900 609,1900 583,1900 556,1900 530,1899 504,1899 477,1899 451,1899 424,1899 398,1899 372,1899 345,1899 319,1899 292,1900 266,1900 240,1900" />
+                <Baseline points="240,1920 266,1920 292,1920 319,1919 345,1919 372,1919 398,1919 424,1919 451,1919 477,1919 504,1919 530,1919 556,1920 583,1920 609,1920 636,1920" />
+                <TextEquiv>
+                    <Unicode>fotografía también</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="233,1971 259,1969 285,1969 311,1968 337,1968 364,1968 390,1969 416,1969 442,1969 468,1970 495,1971 521,1971 547,1971 573,1972 599,1972 626,1972 626,1942 599,1942 573,1942 547,1941 521,1941 495,1941 468,1940 442,1939 416,1939 390,1939 364,1938 337,1938 311,1938 285,1939 259,1939 233,1941" />
+                <Baseline points="233,1961 259,1959 285,1959 311,1958 337,1958 364,1958 390,1959 416,1959 442,1959 468,1960 495,1961 521,1961 547,1961 573,1962 599,1962 626,1962" />
+                <TextEquiv>
+                    <Unicode>aparece el Sr Ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="233,2011 258,2011 284,2010 310,2010 336,2010 362,2010 387,2010 413,2010 439,2010 465,2010 491,2011 516,2011 542,2011 568,2011 594,2011 620,2011 620,1981 594,1981 568,1981 542,1981 516,1981 491,1981 465,1980 439,1980 413,1980 387,1980 362,1980 336,1980 310,1980 284,1980 258,1981 233,1981" />
+                <Baseline points="233,2001 258,2001 284,2000 310,2000 336,2000 362,2000 387,2000 413,2000 439,2000 465,2000 491,2001 516,2001 542,2001 568,2001 594,2001 620,2001" />
+                <TextEquiv>
+                    <Unicode>nuel Iriarte, omga¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="245,2050 271,2050 298,2050 324,2050 351,2050 378,2051 404,2052 431,2052 458,2052 484,2052 511,2053 538,2053 564,2053 591,2053 618,2052 618,2022 591,2023 564,2023 538,2023 511,2023 484,2022 458,2022 431,2022 404,2022 378,2021 351,2020 324,2020 298,2020 271,2020 245,2020" />
+                <Baseline points="245,2040 271,2040 298,2040 324,2040 351,2040 378,2041 404,2042 431,2042 458,2042 484,2042 511,2043 538,2043 564,2043 591,2043 618,2042" />
+                <TextEquiv>
+                    <Unicode>nizador del progra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="233,2094 258,2094 283,2094 308,2094 333,2092 358,2092 383,2092 408,2092 434,2092 459,2092 484,2092 509,2094 534,2094 559,2094 584,2094 609,2095 635,2095 635,2065 609,2065 584,2064 559,2064 534,2064 509,2064 484,2062 459,2062 434,2062 408,2062 383,2062 358,2062 333,2062 308,2064 283,2064 258,2064 233,2064" />
+                <Baseline points="233,2084 258,2084 283,2084 308,2084 333,2082 358,2082 383,2082 408,2082 434,2082 459,2082 484,2082 509,2084 534,2084 559,2084 584,2084 609,2085 635,2085" />
+                <TextEquiv>
+                    <Unicode>ma deportivo por el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="243,2133 268,2133 293,2133 318,2133 343,2133 369,2134 394,2134 419,2134 444,2134 469,2135 495,2136 520,2136 545,2136 570,2136 595,2136 621,2136 621,2106 595,2106 570,2106 545,2106 520,2106 495,2106 469,2105 444,2104 419,2104 394,2104 369,2104 343,2103 318,2103 293,2103 268,2103 243,2103" />
+                <Baseline points="243,2123 268,2123 293,2123 318,2123 343,2123 369,2124 394,2124 419,2124 444,2124 469,2125 495,2126 520,2126 545,2126 570,2126 595,2126 621,2126" />
+                <TextEquiv>
+                    <Unicode>239 aniversario de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="246,2175 271,2177 296,2178 322,2178 347,2178 372,2178 398,2178 423,2177 448,2176 474,2176 499,2177 525,2178 525,2148 499,2147 474,2146 448,2146 423,2147 398,2148 372,2148 347,2148 322,2148 296,2148 271,2147 246,2145" />
+                <Baseline points="246,2165 271,2167 296,2168 322,2168 347,2168 372,2168 398,2168 423,2167 448,2166 474,2166 499,2167 525,2168" />
+                <TextEquiv>
+                    <Unicode>a Legislatura.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gobernadon
+EL
+General Sr. Davis,
+con
+el Secretarie
+Sr.
+Filemón Feréz,
+derrotaron en
+que
+los partidos de te¬
+nís por parejas, a
+Representantes
+los
+Sres. Moldero y Ne¬
+pomuceno. En
+la
+fotografía también
+aparece el Sr Ma¬
+nuel Iriarte, omga¬
+nizador del progra
+ma deportivo por el
+239 aniversario de
+a Legislatura.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="633,3088 633,3239 1154,3239 1154,3088" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="633,3238 659,3238 685,3238 711,3238 737,3238 763,3238 789,3238 815,3238 841,3238 867,3238 893,3238 919,3238 945,3238 971,3238 997,3238 1023,3239 1049,3239 1075,3239 1101,3239 1127,3239 1154,3239 1154,3089 1127,3089 1101,3089 1075,3089 1049,3089 1023,3089 997,3088 971,3088 945,3088 919,3088 893,3088 867,3088 841,3088 815,3088 789,3088 763,3088 737,3088 711,3088 685,3088 659,3088 633,3088" />
+                <Baseline points="633,3188 659,3188 685,3188 711,3188 737,3188 763,3188 789,3188 815,3188 841,3188 867,3188 893,3188 919,3188 945,3188 971,3188 997,3188 1023,3189 1049,3189 1075,3189 1101,3189 1127,3189 1154,3189" />
+                <TextEquiv>
+                    <Unicode>AS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1304,3085 1304,3238 1640,3238 1640,3085" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1304,3236 1329,3236 1355,3236 1381,3235 1407,3235 1433,3235 1459,3235 1484,3235 1510,3235 1536,3236 1562,3236 1588,3236 1614,3236 1640,3238 1640,3088 1614,3086 1588,3086 1562,3086 1536,3086 1510,3085 1484,3085 1459,3085 1433,3085 1407,3085 1381,3085 1355,3086 1329,3086 1304,3086" />
+                <Baseline points="1304,3186 1329,3186 1355,3186 1381,3185 1407,3185 1433,3185 1459,3185 1484,3185 1510,3185 1536,3186 1562,3186 1588,3186 1614,3186 1640,3188" />
+                <TextEquiv>
+                    <Unicode>ATR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ATR</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="1814,3082 1814,3235 1869,3235 1869,3082" />
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1814,3235 1841,3234 1869,3232 1869,3082 1841,3084 1814,3085" />
+                <Baseline points="1814,3185 1841,3184 1869,3182" />
+                <TextEquiv>
+                    <Unicode>PE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:4;}">
+            <Coords points="1896,2349 1896,3190 2234,3190 2234,2349" />
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="2199,2380 2232,2380 2232,2350 2199,2350" />
+                <Baseline points="2199,2370 2232,2370" />
+                <TextEquiv>
+                    <Unicode>de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="2001,2383 2026,2383 2051,2383 2077,2382 2102,2381 2127,2379 2153,2379 2153,2349 2127,2349 2102,2351 2077,2352 2051,2353 2026,2353 2001,2353" />
+                <Baseline points="2001,2373 2026,2373 2051,2373 2077,2372 2102,2371 2127,2369 2153,2369" />
+                <TextEquiv>
+                    <Unicode>Speaken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="1947,2383 1980,2383 1980,2353 1947,2353" />
+                <Baseline points="1947,2373 1980,2373" />
+                <TextEquiv>
+                    <Unicode>El</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="2196,2424 2226,2424 2226,2394 2196,2394" />
+                <Baseline points="2196,2414 2226,2414" />
+                <TextEquiv>
+                    <Unicode>de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="1901,2430 1927,2431 1953,2431 1979,2430 2005,2430 2031,2428 2057,2427 2083,2425 2109,2425 2135,2427 2135,2397 2109,2395 2083,2395 2057,2397 2031,2398 2005,2400 1979,2400 1953,2401 1927,2401 1901,2400" />
+                <Baseline points="1901,2420 1927,2421 1953,2421 1979,2420 2005,2420 2031,2418 2057,2417 2083,2415 2109,2415 2135,2417" />
+                <TextEquiv>
+                    <Unicode>la Cámara</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="1902,2476 1929,2475 1956,2475 1983,2475 2010,2473 2037,2473 2064,2472 2091,2470 2118,2470 2145,2469 2172,2468 2199,2467 2226,2467 2226,2437 2199,2437 2172,2438 2145,2439 2118,2440 2091,2440 2064,2442 2037,2443 2010,2443 1983,2445 1956,2445 1929,2445 1902,2446" />
+                <Baseline points="1902,2466 1929,2465 1956,2465 1983,2465 2010,2463 2037,2463 2064,2462 2091,2460 2118,2460 2145,2459 2172,2458 2199,2457 2226,2457" />
+                <TextEquiv>
+                    <Unicode>Repr es en¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:6;}">
+                <Coords points="1907,2520 1932,2520 1957,2518 1982,2518 2007,2517 2032,2517 2057,2515 2082,2515 2107,2515 2132,2514 2157,2514 2182,2513 2207,2512 2232,2512 2232,2482 2207,2482 2182,2483 2157,2484 2132,2484 2107,2485 2082,2485 2057,2485 2032,2487 2007,2487 1982,2488 1957,2488 1932,2490 1907,2490" />
+                <Baseline points="1907,2510 1932,2510 1957,2508 1982,2508 2007,2507 2032,2507 2057,2505 2082,2505 2107,2505 2132,2504 2157,2504 2182,2503 2207,2502 2232,2502" />
+                <TextEquiv>
+                    <Unicode>antSr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:7;}">
+                <Coords points="2081,2559 2109,2557 2138,2557 2167,2559 2196,2557 2225,2556 2225,2526 2196,2527 2167,2529 2138,2527 2109,2527 2081,2529" />
+                <Baseline points="2081,2549 2109,2547 2138,2547 2167,2549 2196,2547 2225,2546" />
+                <TextEquiv>
+                    <Unicode>con el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:8;}">
+                <Coords points="1902,2565 1929,2563 1956,2563 1983,2563 2010,2563 2037,2562 2064,2560 2064,2530 2037,2532 2010,2533 1983,2533 1956,2533 1929,2533 1902,2535" />
+                <Baseline points="1902,2555 1929,2553 1956,2553 1983,2553 2010,2553 2037,2552 2064,2550" />
+                <TextEquiv>
+                    <Unicode>Roxas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:9;}">
+                <Coords points="1901,2607 1926,2605 1951,2605 1976,2604 2001,2604 2027,2602 2052,2602 2077,2602 2102,2601 2128,2600 2153,2599 2178,2599 2203,2598 2229,2596 2229,2566 2203,2568 2178,2569 2153,2569 2128,2570 2102,2571 2077,2572 2052,2572 2027,2572 2001,2574 1976,2574 1951,2575 1926,2575 1901,2577" />
+                <Baseline points="1901,2597 1926,2595 1951,2595 1976,2594 2001,2594 2027,2592 2052,2592 2077,2592 2102,2591 2128,2590 2153,2589 2178,2589 2203,2588 2229,2586" />
+                <TextEquiv>
+                    <Unicode>Presidente d e l</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:10;}">
+                <Coords points="1908,2647 1934,2646 1960,2646 1986,2644 2012,2644 2038,2643 2064,2643 2090,2643 2116,2642 2142,2641 2168,2640 2194,2638 2220,2637 2220,2607 2194,2608 2168,2610 2142,2611 2116,2612 2090,2613 2064,2613 2038,2613 2012,2614 1986,2614 1960,2616 1934,2616 1908,2617" />
+                <Baseline points="1908,2637 1934,2636 1960,2636 1986,2634 2012,2634 2038,2633 2064,2633 2090,2633 2116,2632 2142,2631 2168,2630 2194,2628 2220,2627" />
+                <TextEquiv>
+                    <Unicode>Senado, Sr. Os¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:11;}">
+                <Coords points="1902,2689 1927,2688 1952,2686 1977,2686 2003,2685 2028,2685 2053,2683 2079,2683 2104,2683 2129,2682 2155,2681 2180,2680 2205,2678 2231,2676 2231,2646 2205,2648 2180,2650 2155,2651 2129,2652 2104,2653 2079,2653 2053,2653 2028,2655 2003,2655 1977,2656 1952,2656 1927,2658 1902,2659" />
+                <Baseline points="1902,2679 1927,2678 1952,2676 1977,2676 2003,2675 2028,2675 2053,2673 2079,2673 2104,2673 2129,2672 2155,2671 2180,2670 2205,2668 2231,2666" />
+                <TextEquiv>
+                    <Unicode>meña, en el mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:12;}">
+                <Coords points="1908,2728 1934,2728 1961,2727 1987,2727 2014,2726 2040,2725 2067,2725 2093,2724 2120,2723 2146,2722 2173,2721 2199,2720 2226,2719 2226,2689 2199,2690 2173,2691 2146,2692 2120,2693 2093,2694 2067,2695 2040,2695 2014,2696 1987,2697 1961,2697 1934,2698 1908,2698" />
+                <Baseline points="1908,2718 1934,2718 1961,2717 1987,2717 2014,2716 2040,2715 2067,2715 2093,2714 2120,2713 2146,2712 2173,2711 2199,2710 2226,2709" />
+                <TextEquiv>
+                    <Unicode>mento de inician</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:13;}">
+                <Coords points="1908,2770 1935,2769 1962,2767 1989,2766 2016,2766 2043,2764 2070,2764 2097,2764 2124,2763 2151,2763 2178,2761 2205,2760 2232,2758 2232,2728 2205,2730 2178,2731 2151,2733 2124,2733 2097,2734 2070,2734 2043,2734 2016,2736 1989,2736 1962,2737 1935,2739 1908,2740" />
+                <Baseline points="1908,2760 1935,2759 1962,2757 1989,2756 2016,2756 2043,2754 2070,2754 2097,2754 2124,2753 2151,2753 2178,2751 2205,2750 2232,2748" />
+                <TextEquiv>
+                    <Unicode>el partido de bo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:14;}">
+                <Coords points="1908,2812 1933,2810 1958,2809 1983,2808 2008,2808 2033,2807 2058,2806 2083,2806 2108,2806 2133,2805 2158,2804 2183,2802 2208,2802 2234,2799 2234,2769 2208,2772 2183,2772 2158,2774 2133,2775 2108,2776 2083,2776 2058,2776 2033,2777 2008,2778 1983,2778 1958,2779 1933,2780 1908,2782" />
+                <Baseline points="1908,2802 1933,2800 1958,2799 1983,2798 2008,2798 2033,2797 2058,2796 2083,2796 2108,2796 2133,2795 2158,2794 2183,2792 2208,2792 2234,2789" />
+                <TextEquiv>
+                    <Unicode>los entre el equi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:15;}">
+                <Coords points="1908,2854 1934,2852 1960,2851 1987,2850 2013,2850 2040,2848 2066,2848 2092,2847 2119,2847 2145,2845 2172,2844 2198,2842 2225,2841 2225,2811 2198,2812 2172,2814 2145,2815 2119,2817 2092,2817 2066,2818 2040,2818 2013,2820 1987,2820 1960,2821 1934,2822 1908,2824" />
+                <Baseline points="1908,2844 1934,2842 1960,2841 1987,2840 2013,2840 2040,2838 2066,2838 2092,2837 2119,2837 2145,2835 2172,2834 2198,2832 2225,2831" />
+                <TextEquiv>
+                    <Unicode>po de la Cámaro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:16;}">
+                <Coords points="1899,2896 1924,2894 1950,2893 1975,2891 2001,2890 2027,2889 2052,2889 2078,2887 2103,2887 2129,2887 2155,2886 2180,2886 2206,2886 2232,2887 2232,2857 2206,2856 2180,2856 2155,2856 2129,2857 2103,2857 2078,2857 2052,2859 2027,2859 2001,2860 1975,2861 1950,2863 1924,2864 1899,2866" />
+                <Baseline points="1899,2886 1924,2884 1950,2883 1975,2881 2001,2880 2027,2879 2052,2879 2078,2877 2103,2877 2129,2877 2155,2876 2180,2876 2206,2876 2232,2877" />
+                <TextEquiv>
+                    <Unicode>y el del Senado.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l18" custom="readingOrder {index:17;}">
+                <Coords points="1956,2932 1982,2931 2008,2929 2034,2928 2061,2928 2087,2928 2113,2928 2140,2928 2166,2926 2192,2926 2219,2925 2219,2895 2192,2896 2166,2896 2140,2898 2113,2898 2087,2898 2061,2898 2034,2898 2008,2899 1982,2901 1956,2902" />
+                <Baseline points="1956,2922 1982,2921 2008,2919 2034,2918 2061,2918 2087,2918 2113,2918 2140,2918 2166,2916 2192,2916 2219,2915" />
+                <TextEquiv>
+                    <Unicode>Los dos equi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:18;}">
+                <Coords points="1901,2976 1926,2974 1951,2973 1977,2972 2002,2971 2028,2971 2053,2970 2079,2969 2104,2968 2130,2968 2155,2967 2181,2967 2206,2967 2232,2965 2232,2935 2206,2937 2181,2937 2155,2937 2130,2938 2104,2938 2079,2939 2053,2940 2028,2941 2002,2941 1977,2942 1951,2943 1926,2944 1901,2946" />
+                <Baseline points="1901,2966 1926,2964 1951,2963 1977,2962 2002,2961 2028,2961 2053,2960 2079,2959 2104,2958 2130,2958 2155,2957 2181,2957 2206,2957 2232,2955" />
+                <TextEquiv>
+                    <Unicode>pos de bolos del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:19;}">
+                <Coords points="1898,3015 1923,3015 1948,3013 1973,3013 1998,3013 2023,3013 2048,3013 2074,3013 2099,3013 2124,3013 2149,3013 2174,3012 2199,3011 2225,3009 2225,2979 2199,2981 2174,2982 2149,2983 2124,2983 2099,2983 2074,2983 2048,2983 2023,2983 1998,2983 1973,2983 1948,2983 1923,2985 1898,2985" />
+                <Baseline points="1898,3005 1923,3005 1948,3003 1973,3003 1998,3003 2023,3003 2048,3003 2074,3003 2099,3003 2124,3003 2149,3003 2174,3002 2199,3001 2225,2999" />
+                <TextEquiv>
+                    <Unicode>Senado y de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:20;}">
+                <Coords points="1898,3057 1923,3056 1948,3055 1974,3055 1999,3054 2024,3054 2050,3054 2075,3053 2101,3052 2126,3052 2151,3051 2177,3050 2202,3049 2228,3048 2228,3018 2202,3019 2177,3020 2151,3021 2126,3022 2101,3022 2075,3023 2050,3024 2024,3024 1999,3024 1974,3025 1948,3025 1923,3026 1898,3027" />
+                <Baseline points="1898,3047 1923,3046 1948,3045 1974,3045 1999,3044 2024,3044 2050,3044 2075,3043 2101,3042 2126,3042 2151,3041 2177,3040 2202,3039 2228,3038" />
+                <TextEquiv>
+                    <Unicode>Cámara, con sus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:21;}">
+                <Coords points="1896,3094 1921,3095 1947,3096 1972,3096 1998,3096 2024,3095 2049,3094 2075,3094 2100,3093 2126,3093 2152,3092 2177,3091 2203,3091 2229,3091 2229,3061 2203,3061 2177,3061 2152,3062 2126,3063 2100,3063 2075,3064 2049,3064 2024,3065 1998,3066 1972,3066 1947,3066 1921,3065 1896,3064" />
+                <Baseline points="1896,3084 1921,3085 1947,3086 1972,3086 1998,3086 2024,3085 2049,3084 2075,3084 2100,3083 2126,3083 2152,3082 2177,3081 2203,3081 2229,3081" />
+                <TextEquiv>
+                    <Unicode>nespectivos capi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:22;}">
+                <Coords points="1901,3136 1931,3136 1961,3136 1991,3136 1991,3106 1961,3106 1931,3106 1901,3106" />
+                <Baseline points="1901,3126 1931,3126 1961,3126 1991,3126" />
+                <TextEquiv>
+                    <Unicode>tanes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:23;}">
+                <Coords points="1898,3189 1924,3190 1951,3190 1978,3189 2005,3189 2032,3188 2058,3187 2085,3187 2112,3186 2139,3186 2166,3186 2193,3187 2193,3157 2166,3156 2139,3156 2112,3156 2085,3157 2058,3157 2032,3158 2005,3159 1978,3159 1951,3160 1924,3160 1898,3159" />
+                <Baseline points="1898,3179 1924,3180 1951,3180 1978,3179 2005,3179 2032,3178 2058,3177 2085,3177 2112,3176 2139,3176 2166,3176 2193,3177" />
+                <TextEquiv>
+                    <Unicode>Foto—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>de
+Speaken
+El
+de
+la Cámara
+Repr es en¬
+antSr.
+con el
+Roxas,
+Presidente d e l
+Senado, Sr. Os¬
+meña, en el mo¬
+mento de inician
+el partido de bo¬
+los entre el equi¬
+po de la Cámaro
+y el del Senado.
+Los dos equi¬
+pos de bolos del
+Senado y de la
+Cámara, con sus
+nespectivos capi¬
+tanes
+Foto—SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

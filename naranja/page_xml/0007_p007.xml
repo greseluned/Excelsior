@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:02:17.59+02:00</Created>
+        <LastChange>2021-11-03T16:12:56.287+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93780806" pageNr="7" tsid="236399466" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AKTHHIRMROYFSVDMQHILMBAK" xmlUrl="https://files.transkribus.eu/Get?id=SFCTXHUPQGXCPGCZOSMJTYHE" imageId="17243716" />
+    </Metadata>
+    <Page imageFilename="0007_p007.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="328,548 2141,548 2141,2937 328,2937" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982417022" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="534,548 2141,548 2141,2867 534,2867" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="328,2884 832,2884 832,2937 328,2937" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="339,2978 364,2978 389,2977 415,2976 440,2975 465,2975 491,2975 516,2975 541,2975 567,2975 592,2974 618,2974 643,2974 668,2974 694,2974 719,2975 744,2975 770,2975 795,2975 821,2974 821,2824 795,2825 770,2825 744,2825 719,2825 694,2824 668,2824 643,2824 618,2824 592,2824 567,2825 541,2825 516,2825 491,2825 465,2825 440,2825 415,2826 389,2827 364,2828 339,2828" />
+                <Baseline points="339,2928 364,2928 389,2927 415,2926 440,2925 465,2925 491,2925 516,2925 541,2925 567,2925 592,2924 618,2924 643,2924 668,2924 694,2924 719,2925 744,2925 770,2925 795,2925 821,2924" />
+                <TextEquiv>
+                    <Unicode>Un conocido General</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Un conocido General</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1375,550 1384,550 1384,683 1375,683" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1393,610 1401,610 1401,726 1393,726" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1404,552 1413,552 1413,725 1404,725" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1413,554 1423,554 1423,726 1413,726" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1554,1494 1563,1494 1563,1648 1554,1648" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

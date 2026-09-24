@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:31.867+02:00</Created>
+        <LastChange>2021-10-29T19:56:08.943+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781508" pageNr="631" tsid="236400729" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BNEIBGGQTXNZNEQBVOVNRKUE" xmlUrl="https://files.transkribus.eu/Get?id=MFBLNQINAZMRJJSRCTTIDHJB" imageId="17244971" />
+    </Metadata>
+    <Page imageFilename="0631_p167.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982562518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="158,425 158,2191 1019,2191 1019,425" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="506,456 539,459 572,462 605,459 605,428 572,431 539,428 506,425" />
+                <Baseline points="506,446 539,449 572,452 605,449" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="624,583 650,586 676,588 703,589 729,589 755,589 782,588 808,587 834,586 861,585 887,585 913,583 940,583 966,583 992,584 1019,586 1019,555 992,553 966,552 940,552 913,552 887,554 861,554 834,555 808,556 782,557 755,558 729,558 703,558 676,557 650,555 624,552" />
+                <Baseline points="624,573 650,576 676,578 703,579 729,579 755,579 782,578 808,577 834,576 861,575 887,575 913,573 940,573 966,573 992,574 1019,576" />
+                <TextEquiv>
+                    <Unicode>RX</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="164,1507 195,1507 227,1507 259,1507 291,1506 323,1506 354,1506 386,1506 418,1506 450,1506 482,1506 513,1506 545,1506 577,1506 609,1506 641,1506 672,1506 704,1506 736,1506 768,1507 800,1507 800,1476 768,1476 736,1475 704,1475 672,1475 641,1475 609,1475 577,1475 545,1475 513,1475 482,1475 450,1475 418,1475 386,1475 354,1475 323,1475 291,1475 259,1476 227,1476 195,1476 164,1476" />
+                <Baseline points="164,1497 195,1497 227,1497 259,1497 291,1496 323,1496 354,1496 386,1496 418,1496 450,1496 482,1496 513,1496 545,1496 577,1496 609,1496 641,1496 672,1496 704,1496 736,1496 768,1497 800,1497" />
+                <TextEquiv>
+                    <Unicode>DE LA CONVENCION DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="195,1551 223,1551 251,1551 279,1552 307,1552 336,1552 364,1552 392,1552 420,1552 448,1552 477,1551 505,1551 533,1551 561,1551 589,1551 618,1551 646,1551 674,1551 702,1551 730,1551 759,1549 759,1519 730,1521 702,1521 674,1521 646,1521 618,1521 589,1521 561,1521 533,1521 505,1521 477,1521 448,1522 420,1522 392,1522 364,1522 336,1522 307,1522 279,1522 251,1521 223,1521 195,1521" />
+                <Baseline points="195,1541 223,1541 251,1541 279,1542 307,1542 336,1542 364,1542 392,1542 420,1542 448,1542 477,1541 505,1541 533,1541 561,1541 589,1541 618,1541 646,1541 674,1541 702,1541 730,1541 759,1539" />
+                <TextEquiv>
+                    <Unicode>ESTUDIANTES CATOLI-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="174,1596 204,1596 234,1596 264,1596 294,1596 324,1596 354,1596 384,1596 414,1596 444,1594 475,1594 505,1594 535,1594 565,1593 595,1593 625,1593 655,1594 685,1594 715,1594 745,1596 776,1597 776,1567 745,1566 715,1564 685,1564 655,1564 625,1563 595,1563 565,1563 535,1564 505,1564 475,1564 444,1564 414,1566 384,1566 354,1566 324,1566 294,1566 264,1566 234,1566 204,1566 174,1566" />
+                <Baseline points="174,1586 204,1586 234,1586 264,1586 294,1586 324,1586 354,1586 384,1586 414,1586 444,1584 475,1584 505,1584 535,1584 565,1583 595,1583 625,1583 655,1584 685,1584 715,1584 745,1586 776,1587" />
+                <TextEquiv>
+                    <Unicode>COS DE SAN FERNANDO,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="354,1638 381,1639 409,1639 436,1638 464,1638 491,1636 519,1636 546,1636 574,1638 602,1639 602,1609 574,1608 546,1606 519,1606 491,1606 464,1608 436,1608 409,1609 381,1609 354,1608" />
+                <Baseline points="354,1628 381,1629 409,1629 436,1628 464,1628 491,1626 519,1626 546,1626 574,1628 602,1629" />
+                <TextEquiv>
+                    <Unicode>LA UNION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="216,1705 244,1705 272,1704 301,1704 329,1704 357,1704 386,1703 414,1702 442,1702 471,1702 499,1702 527,1702 556,1702 584,1702 612,1702 641,1702 669,1702 697,1702 726,1702 754,1702 783,1702 783,1671 754,1671 726,1671 697,1671 669,1671 641,1671 612,1671 584,1671 556,1671 527,1671 499,1671 471,1671 442,1671 414,1671 386,1672 357,1673 329,1673 301,1673 272,1673 244,1674 216,1674" />
+                <Baseline points="216,1695 244,1695 272,1694 301,1694 329,1694 357,1694 386,1693 414,1692 442,1692 471,1692 499,1692 527,1692 556,1692 584,1692 612,1692 641,1692 669,1692 697,1692 726,1692 754,1692 783,1692" />
+                <TextEquiv>
+                    <Unicode>Grupo de las Asociaciones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="171,1750 201,1749 232,1749 263,1749 293,1747 324,1747 355,1747 385,1747 416,1747 447,1747 478,1747 508,1747 539,1747 570,1747 600,1747 631,1747 662,1747 692,1747 723,1747 754,1747 785,1746 785,1716 754,1717 723,1717 692,1717 662,1717 631,1717 600,1717 570,1717 539,1717 508,1717 478,1717 447,1717 416,1717 385,1717 355,1717 324,1717 293,1717 263,1719 232,1719 201,1719 171,1720" />
+                <Baseline points="171,1740 201,1739 232,1739 263,1739 293,1737 324,1737 355,1737 385,1737 416,1737 447,1737 478,1737 508,1737 539,1737 570,1737 600,1737 631,1737 662,1737 692,1737 723,1737 754,1737 785,1736" />
+                <TextEquiv>
+                    <Unicode>de la Inmaculada y Sta. Tere¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="171,1792 202,1792 233,1792 265,1792 296,1792 327,1792 359,1792 390,1792 421,1792 453,1792 484,1792 515,1792 547,1792 578,1792 609,1792 641,1792 672,1791 703,1791 735,1791 766,1791 798,1789 798,1759 766,1761 735,1761 703,1761 672,1761 641,1762 609,1762 578,1762 547,1762 515,1762 484,1762 453,1762 421,1762 390,1762 359,1762 327,1762 296,1762 265,1762 233,1762 202,1762 171,1762" />
+                <Baseline points="171,1782 202,1782 233,1782 265,1782 296,1782 327,1782 359,1782 390,1782 421,1782 453,1782 484,1782 515,1782 547,1782 578,1782 609,1782 641,1782 672,1781 703,1781 735,1781 766,1781 798,1779" />
+                <TextEquiv>
+                    <Unicode>sita, y delegadas de los dormi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="168,1837 199,1837 231,1836 262,1836 294,1836 326,1836 357,1836 389,1836 421,1836 452,1837 484,1837 516,1837 547,1837 579,1837 611,1837 642,1836 674,1836 706,1836 737,1834 769,1834 801,1833 801,1802 769,1803 737,1803 706,1805 674,1805 642,1805 611,1806 579,1806 547,1806 516,1806 484,1806 452,1806 421,1805 389,1805 357,1805 326,1805 294,1805 262,1805 231,1805 199,1806 168,1806" />
+                <Baseline points="168,1827 199,1827 231,1826 262,1826 294,1826 326,1826 357,1826 389,1826 421,1826 452,1827 484,1827 516,1827 547,1827 579,1827 611,1827 642,1826 674,1826 706,1826 737,1824 769,1824 801,1823" />
+                <TextEquiv>
+                    <Unicode>torios de Lingayén y San Fer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="167,1882 192,1880 217,1879 243,1881 268,1882 294,1881 294,1850 268,1851 243,1850 217,1848 192,1849 167,1851" />
+                <Baseline points="167,1872 192,1870 217,1869 243,1871 268,1872 294,1871" />
+                <TextEquiv>
+                    <Unicode>nando.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="212,1947 240,1947 269,1947 298,1947 326,1947 355,1947 384,1947 412,1945 441,1945 470,1945 499,1945 527,1945 556,1945 585,1945 613,1945 642,1944 671,1944 699,1944 728,1944 757,1944 786,1944 786,1913 757,1913 728,1913 699,1913 671,1913 642,1913 613,1914 585,1914 556,1914 527,1914 499,1914 470,1914 441,1914 412,1914 384,1916 355,1916 326,1916 298,1916 269,1916 240,1916 212,1916" />
+                <Baseline points="212,1937 240,1937 269,1937 298,1937 326,1937 355,1937 384,1937 412,1935 441,1935 470,1935 499,1935 527,1935 556,1935 585,1935 613,1935 642,1934 671,1934 699,1934 728,1934 757,1934 786,1934" />
+                <TextEquiv>
+                    <Unicode>Mesa presidencial de la Con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="167,1990 192,1990 217,1989 242,1989 267,1990 292,1991 317,1993 317,1963 292,1961 267,1960 242,1959 217,1959 192,1960 167,1960" />
+                <Baseline points="167,1980 192,1980 217,1979 242,1979 267,1980 292,1981 317,1983" />
+                <TextEquiv>
+                    <Unicode>vención.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="846,2019 861,2019 861,1988 846,1988" />
+                <Baseline points="846,2009 861,2009" />
+                <TextEquiv>
+                    <Unicode>Va.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="216,2055 244,2056 272,2056 301,2056 329,2056 358,2056 386,2056 415,2055 443,2055 472,2055 500,2055 528,2055 557,2053 585,2053 614,2053 642,2053 671,2053 699,2052 728,2052 756,2052 785,2053 785,2022 756,2021 728,2021 699,2021 671,2022 642,2022 614,2022 585,2022 557,2022 528,2024 500,2024 472,2024 443,2024 415,2024 386,2025 358,2025 329,2025 301,2025 272,2025 244,2025 216,2024" />
+                <Baseline points="216,2045 244,2046 272,2046 301,2046 329,2046 358,2046 386,2046 415,2045 443,2045 472,2045 500,2045 528,2045 557,2043 585,2043 614,2043 642,2043 671,2043 699,2042 728,2042 756,2042 785,2043" />
+                <TextEquiv>
+                    <Unicode>Grupo general de los dele¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="158,2106 190,2104 222,2103 254,2103 286,2101 318,2101 350,2100 382,2100 414,2100 446,2098 479,2098 511,2098 543,2098 575,2098 607,2098 639,2098 671,2098 703,2098 735,2098 767,2098 800,2098 800,2068 767,2068 735,2068 703,2068 671,2068 639,2068 607,2068 575,2068 543,2068 511,2068 479,2068 446,2068 414,2070 382,2070 350,2070 318,2071 286,2071 254,2073 222,2073 190,2074 158,2076" />
+                <Baseline points="158,2096 190,2094 222,2093 254,2093 286,2091 318,2091 350,2090 382,2090 414,2090 446,2088 479,2088 511,2088 543,2088 575,2088 607,2088 639,2088 671,2088 703,2088 735,2088 767,2088 800,2088" />
+                <TextEquiv>
+                    <Unicode>gados de la convención, de las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="161,2145 192,2145 224,2145 255,2144 287,2143 319,2143 350,2143 382,2143 414,2143 445,2143 477,2143 509,2143 540,2143 572,2143 604,2143 635,2143 667,2145 699,2145 730,2145 762,2146 794,2146 794,2116 762,2116 730,2115 699,2115 667,2115 635,2113 604,2113 572,2113 540,2113 509,2113 477,2113 445,2113 414,2113 382,2113 350,2113 319,2113 287,2113 255,2114 224,2115 192,2115 161,2115" />
+                <Baseline points="161,2135 192,2135 224,2135 255,2134 287,2133 319,2133 350,2133 382,2133 414,2133 445,2133 477,2133 509,2133 540,2133 572,2133 604,2133 635,2133 667,2135 699,2135 730,2135 762,2136 794,2136" />
+                <TextEquiv>
+                    <Unicode>provincias de La Unión y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="159,2191 184,2190 209,2190 234,2190 259,2190 284,2188 309,2188 334,2188 359,2188 384,2187 410,2187 410,2156 384,2156 359,2157 334,2157 309,2157 284,2157 259,2159 234,2159 209,2159 184,2159 159,2160" />
+                <Baseline points="159,2181 184,2180 209,2180 234,2180 259,2180 284,2178 309,2178 334,2178 359,2178 384,2177 410,2177" />
+                <TextEquiv>
+                    <Unicode>Pungasinán.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+RX
+DE LA CONVENCION DE
+ESTUDIANTES CATOLI-
+COS DE SAN FERNANDO,
+LA UNION
+Grupo de las Asociaciones
+de la Inmaculada y Sta. Tere¬
+sita, y delegadas de los dormi¬
+torios de Lingayén y San Fer¬
+nando.
+Mesa presidencial de la Con¬
+vención.
+Va.
+Grupo general de los dele¬
+gados de la convención, de las
+provincias de La Unión y
+Pungasinán.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1290,334 1290,496 1353,496 1353,334" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1290,484 1321,487 1353,496 1353,346 1321,337 1290,334" />
+                <Baseline points="1290,434 1321,437 1353,446" />
+                <TextEquiv>
+                    <Unicode>AN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1581,1915 1581,2071 1620,2071 1620,1915" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1581,2065 1620,2071 1620,1921 1581,1915" />
+                <Baseline points="1581,2015 1620,2021" />
+                <TextEquiv>
+                    <Unicode>P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

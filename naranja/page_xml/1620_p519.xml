@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:46:40.393+02:00</Created>
+        <LastChange>2021-06-08T17:44:43.950+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782568" pageNr="1620" tsid="236401884" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=TKDRIFCCELIUDUILPUBETXMB" xmlUrl="https://files.transkribus.eu/Get?id=GGMYMFNUKLQXFUWRXLQYQELH" imageId="17248100" />
+    </Metadata>
+    <Page imageFilename="1620_p519.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="361,515 1950,515 1950,2925 361,2925" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982791126" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="939,515 1950,515 1950,2633 939,2633" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="361,2763 1266,2763 1266,2925 361,2925" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="360,2815 1259,2822 1259,2758 1127,2765 1101,2791 519,2757 478,2789 360,2760" />
+                <Baseline points="365,2802 409,2804 453,2804 498,2804 542,2804 587,2804 631,2804 675,2804 720,2804 764,2804 809,2804 853,2804 897,2804 942,2804 986,2804 1031,2804 1075,2804 1119,2805 1164,2805 1208,2807 1253,2808" />
+                <TextEquiv>
+                    <Unicode>Hon. THeoDORE RoosEvELT, (hijo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="379,2874 1261,2866 1261,2845 1167,2828 379,2832" />
+                <Baseline points="384,2865 427,2864 471,2864 514,2864 558,2862 602,2862 645,2862 689,2862 732,2862 776,2862 820,2862 863,2862 907,2864 950,2864 994,2864 1038,2864 1081,2864 1125,2864 1168,2864 1212,2864 1256,2864" />
+                <TextEquiv>
+                    <Unicode>Nuevo Gobernador General de Filipinas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="589,2916 608,2926 654,2924 664,2914 688,2926 839,2929 853,2922 853,2894 830,2888 711,2886 645,2899 608,2888 589,2898" />
+                <Baseline points="594,2913 619,2914 644,2915 670,2915 695,2915 721,2913 746,2913 771,2912 797,2913 822,2914 848,2915" />
+                <TextEquiv>
+                    <Unicode>Por ESTEBAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hon. THeoDORE RoosEvELT, (hijo)
+Nuevo Gobernador General de Filipinas.
+Por ESTEBAN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1247,1715 1262,1715 1262,2625 1247,2625" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1503,1692 1518,1692 1518,2630 1503,2630" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

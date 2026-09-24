@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:43:51.161+02:00</Created>
+        <LastChange>2021-06-08T16:02:06.360+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782338" pageNr="1401" tsid="236401576" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CBRPFEHUUSTUDZQPAFIHXKJY" xmlUrl="https://files.transkribus.eu/Get?id=RVTMMHKUCDBLSXNIORMVZTYG" imageId="17247585" />
+    </Metadata>
+    <Page imageFilename="1401_p300.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="238,293 2260,293 2260,3204 238,3204" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982740042" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="263,325 2260,325 2260,3177 263,3177" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="266,1808 979,1808 979,2270 266,2270" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="270,1850 973,1844 973,1825 929,1812 336,1820 271,1804" />
+                <Baseline points="276,1838 310,1838 345,1839 379,1839 414,1839 449,1839 483,1840 518,1841 552,1841 587,1841 622,1841 656,1841 691,1842 725,1842 760,1842 795,1842 829,1842 864,1844 898,1844 933,1844 968,1845" />
+                <TextEquiv>
+                    <Unicode>San Pedro, se ha reproducido ha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="264,1890 508,1878 660,1899 826,1874 974,1898 974,1862 943,1852 863,1853 841,1875 768,1852 707,1851 671,1876 632,1853 264,1860" />
+                <Baseline points="269,1881 305,1881 342,1881 379,1881 416,1881 452,1881 489,1881 526,1883 563,1883 600,1883 636,1883 673,1884 710,1884 747,1884 784,1886 820,1886 857,1886 894,1886 931,1887 968,1887" />
+                <TextEquiv>
+                    <Unicode>ce poco en Aquila, Italia. Dicho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="265,1930 983,1930 983,1908 912,1892 666,1893 645,1914 548,1892 390,1916 265,1895" />
+                <Baseline points="270,1922 305,1922 340,1922 376,1923 411,1923 446,1923 482,1923 517,1923 552,1923 588,1923 623,1924 658,1925 694,1925 729,1925 764,1925 800,1925 835,1926 870,1926 906,1926 941,1926 977,1928" />
+                <TextEquiv>
+                    <Unicode>Papa renunció a la Tiara cinco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="264,1972 392,1963 475,1987 568,1962 584,1979 832,1969 860,1986 884,1965 980,1966 948,1940 264,1941" />
+                <Baseline points="269,1964 304,1964 339,1964 374,1964 410,1964 445,1964 480,1964 515,1965 551,1965 586,1965 621,1966 656,1967 692,1967 727,1967 762,1968 797,1968 833,1968 868,1968 903,1968 938,1968 974,1968" />
+                <TextEquiv>
+                    <Unicode>meses después de ceñírsela y este</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="264,2017 982,2014 943,1981 879,1976 849,1998 815,1976 725,2000 663,1976 264,1989" />
+                <Baseline points="269,2007 304,2007 339,2007 375,2006 410,2006 446,2006 481,2006 516,2007 552,2007 587,2007 623,2007 658,2008 693,2009 729,2009 764,2009 800,2009 835,2010 870,2010 906,2010 941,2009 977,2009" />
+                <TextEquiv>
+                    <Unicode>acto, que es conocido en la histo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="265,2058 435,2063 463,2041 501,2062 540,2042 568,2068 675,2048 728,2068 939,2066 974,2061 974,2022 870,2045 801,2020 265,2027" />
+                <Baseline points="270,2048 304,2048 339,2049 374,2049 409,2049 444,2049 479,2051 514,2051 549,2051 584,2051 619,2052 653,2052 688,2052 723,2052 758,2052 793,2052 828,2052 863,2052 898,2052 933,2052 968,2052" />
+                <TextEquiv>
+                    <Unicode>ría como la "gran negativa, dió</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="265,2102 982,2106 966,2068 265,2068" />
+                <Baseline points="270,2090 305,2091 340,2091 376,2091 411,2091 446,2091 482,2091 517,2091 552,2093 588,2093 623,2093 658,2093 694,2093 729,2093 764,2094 800,2094 835,2094 870,2095 906,2096 941,2096 977,2097" />
+                <TextEquiv>
+                    <Unicode>motivo a Dante para colocar en su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="276,2143 837,2135 925,2156 979,2141 980,2114 656,2100 590,2123 553,2098 276,2101" />
+                <Baseline points="281,2133 315,2133 350,2133 384,2133 419,2133 454,2133 488,2133 523,2133 558,2134 592,2135 627,2135 662,2135 696,2135 731,2136 766,2136 800,2136 835,2138 870,2138 904,2138 939,2138 974,2139" />
+                <TextEquiv>
+                    <Unicode>Divina Comedia a Clemente V, que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="279,2187 879,2195 974,2178 961,2156 827,2145 746,2164 679,2146 279,2145" />
+                <Baseline points="284,2175 318,2175 352,2175 386,2174 420,2174 455,2175 489,2175 523,2175 557,2175 591,2177 626,2177 660,2177 694,2178 728,2178 762,2178 797,2178 831,2178 865,2178 899,2178 933,2177 968,2177" />
+                <TextEquiv>
+                    <Unicode>fué canonizado en 1313, en la puer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="270,2228 980,2221 972,2197 270,2194" />
+                <Baseline points="275,2217 310,2219 345,2219 380,2219 415,2219 450,2219 485,2220 520,2220 555,2220 590,2220 625,2220 660,2220 695,2220 730,2220 765,2220 800,2220 835,2220 870,2220 905,2220 940,2222 975,2222" />
+                <TextEquiv>
+                    <Unicode>ta del Infierno, prisionero por su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="269,2268 431,2266 432,2243 413,2235 270,2236" />
+                <Baseline points="275,2259 300,2258 325,2259 350,2259 375,2261 400,2261 426,2264" />
+                <TextEquiv>
+                    <Unicode>sucesor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>San Pedro, se ha reproducido ha¬
+ce poco en Aquila, Italia. Dicho
+Papa renunció a la Tiara cinco
+meses después de ceñírsela y este
+acto, que es conocido en la histo¬
+ría como la "gran negativa, dió
+motivo a Dante para colocar en su
+Divina Comedia a Clemente V, que
+fué canonizado en 1313, en la puer¬
+ta del Infierno, prisionero por su
+sucesor.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1351,2629 2231,2629 2231,3134 1351,3134" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1389,2670 2182,2675 2229,2666 2229,2640 1388,2640" />
+                <Baseline points="1394,2663 1435,2664 1476,2664 1518,2664 1559,2664 1601,2664 1642,2664 1684,2664 1725,2663 1767,2663 1808,2663 1849,2663 1891,2661 1932,2661 1974,2661 2015,2661 2057,2660 2098,2660 2140,2660 2181,2660 2223,2660" />
+                <TextEquiv>
+                    <Unicode>Como es sabido, el famoso Museo de Me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1347,2713 2129,2720 2228,2706 2228,2682 1347,2686" />
+                <Baseline points="1353,2706 1396,2706 1440,2706 1483,2706 1527,2706 1570,2706 1614,2706 1657,2705 1701,2705 1744,2705 1788,2705 1831,2705 1875,2705 1918,2703 1962,2703 2005,2703 2049,2703 2092,2703 2136,2702 2179,2702 2223,2702" />
+                <TextEquiv>
+                    <Unicode>dame Tussaud, en Londres, contiene, ve¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1350,2767 2214,2755 2228,2715 1349,2726" />
+                <Baseline points="1355,2751 1398,2750 1441,2750 1485,2748 1528,2747 1571,2747 1615,2747 1658,2745 1701,2745 1745,2745 1788,2745 1831,2745 1875,2745 1918,2745 1961,2745 2005,2745 2048,2745 2091,2745 2135,2745 2178,2744 2222,2744" />
+                <TextEquiv>
+                    <Unicode>producidas admirablemente en cera, las fi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1359,2805 2229,2793 2202,2755 1359,2765" />
+                <Baseline points="1364,2793 1409,2792 1454,2790 1499,2789 1544,2789 1590,2787 1635,2787 1680,2787 1725,2787 1770,2787 1816,2787 1861,2787 1906,2787 1951,2787 1996,2786 2042,2786 2087,2786 2132,2786 2177,2786 2223,2786" />
+                <TextEquiv>
+                    <Unicode>guras de los personajes más celebres en la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1359,2843 2225,2834 2224,2804 2126,2793 2098,2820 1910,2794 1359,2805" />
+                <Baseline points="1365,2832 1407,2832 1450,2831 1493,2831 1535,2831 1578,2831 1621,2829 1663,2829 1706,2829 1749,2829 1792,2829 1834,2829 1877,2829 1920,2829 1962,2828 2005,2828 2048,2828 2090,2828 2133,2828 2176,2828 2219,2828" />
+                <TextEquiv>
+                    <Unicode>historia y en los anales del crimen. Estas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1356,2882 1968,2868 2048,2889 2173,2859 2228,2874 2228,2835 1896,2836 1838,2861 1708,2837 1356,2847" />
+                <Baseline points="1362,2874 1405,2873 1448,2873 1491,2871 1534,2871 1577,2871 1620,2870 1663,2870 1706,2870 1749,2870 1792,2870 1835,2870 1878,2870 1921,2870 1964,2870 2007,2870 2050,2870 2093,2870 2136,2868 2179,2868 2222,2867" />
+                <TextEquiv>
+                    <Unicode>dos alegres sirvientas están fregando el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1348,2922 1559,2902 1627,2930 1872,2905 2208,2923 2230,2884 1347,2895" />
+                <Baseline points="1353,2916 1396,2915 1440,2915 1483,2913 1527,2912 1571,2912 1614,2912 1658,2912 1701,2912 1745,2912 1789,2912 1832,2912 1876,2912 1919,2912 1963,2912 2007,2912 2050,2912 2094,2910 2137,2910 2181,2910 2225,2909" />
+                <TextEquiv>
+                    <Unicode>suelo del “departamento" donde se hallan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1350,2969 2228,2971 2228,2930 2184,2920 1350,2927" />
+                <Baseline points="1355,2955 1398,2955 1441,2955 1485,2955 1528,2955 1572,2955 1615,2955 1658,2954 1702,2954 1745,2954 1789,2954 1832,2954 1875,2954 1919,2952 1962,2952 2006,2952 2049,2952 2092,2952 2136,2952 2179,2952 2223,2952" />
+                <TextEquiv>
+                    <Unicode>las figuras de Ramsay MeDonald, Baldwin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1350,3005 1979,2989 2003,3011 2119,2985 2203,3002 2219,2972 1349,2973" />
+                <Baseline points="1355,2997 1400,2997 1445,2997 1490,2997 1535,2996 1581,2996 1626,2996 1671,2996 1716,2996 1761,2996 1807,2994 1852,2994 1897,2994 1942,2994 1987,2994 2033,2994 2078,2994 2123,2993 2168,2993 2214,2993" />
+                <TextEquiv>
+                    <Unicode>Chamberlain, Sir John Simon y Sir Her¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1352,3050 2235,3037 2206,3005 2128,3000 1706,3024 1666,3004 1626,3029 1596,3004 1352,3008" />
+                <Baseline points="1358,3039 1401,3038 1445,3038 1488,3038 1532,3038 1575,3038 1619,3038 1662,3036 1706,3036 1749,3036 1793,3036 1837,3036 1880,3036 1924,3036 1967,3035 2011,3035 2054,3035 2098,3035 2141,3035 2185,3035 2229,3035" />
+                <TextEquiv>
+                    <Unicode>bert Samuel, sin importarles un ardite la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1354,3090 2223,3074 2196,3042 1354,3061" />
+                <Baseline points="1359,3081 1401,3080 1444,3080 1487,3080 1530,3080 1573,3080 1616,3079 1659,3078 1702,3078 1745,3078 1788,3078 1830,3078 1873,3078 1916,3078 1959,3078 2002,3077 2045,3077 2088,3075 2131,3075 2174,3074 2217,3072" />
+                <TextEquiv>
+                    <Unicode>calidad de los personajes, que parecen ab¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1356,3134 1524,3120 1861,3130 1861,3099 1356,3101" />
+                <Baseline points="1361,3122 1387,3122 1413,3123 1439,3123 1465,3123 1491,3123 1517,3123 1543,3123 1569,3122 1595,3122 1621,3122 1647,3121 1673,3120 1699,3120 1725,3120 1751,3120 1777,3120 1803,3120 1829,3120 1856,3120" />
+                <TextEquiv>
+                    <Unicode>servales con ceño adusto,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Como es sabido, el famoso Museo de Me¬
+dame Tussaud, en Londres, contiene, ve¬
+producidas admirablemente en cera, las fi¬
+guras de los personajes más celebres en la
+historia y en los anales del crimen. Estas
+dos alegres sirvientas están fregando el
+suelo del “departamento" donde se hallan
+las figuras de Ramsay MeDonald, Baldwin,
+Chamberlain, Sir John Simon y Sir Her¬
+bert Samuel, sin importarles un ardite la
+calidad de los personajes, que parecen ab¬
+servales con ceño adusto,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1402,298 2228,298 2228,1058 1402,1058" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1449,338 2230,339 2230,307 2200,300 2071,320 2039,300 1955,320 1915,300 1516,318 1449,300" />
+                <Baseline points="1454,330 1492,330 1531,329 1569,329 1608,329 1646,329 1685,330 1723,330 1762,331 1800,332 1839,332 1878,333 1916,334 1955,335 1993,335 2032,336 2070,336 2109,336 2147,336 2186,336 2225,336" />
+                <TextEquiv>
+                    <Unicode>La aurora boreal es sin duda uno de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1397,375 2218,381 2218,354 1963,340 1398,343" />
+                <Baseline points="1403,372 1443,372 1484,371 1524,371 1565,371 1605,372 1646,372 1686,372 1727,372 1767,374 1808,374 1848,375 1889,375 1929,375 1970,377 2010,377 2051,377 2091,378 2132,378 2172,378 2213,378" />
+                <TextEquiv>
+                    <Unicode>los fenómenos más esplindidos y mara¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1403,419 2230,418 2190,388 2140,407 1403,389" />
+                <Baseline points="1409,414 1449,413 1490,413 1531,414 1572,414 1613,414 1653,414 1694,416 1735,416 1776,416 1817,417 1857,417 1898,418 1939,419 1980,419 2021,419 2061,419 2102,419 2143,419 2184,419 2225,417" />
+                <TextEquiv>
+                    <Unicode>villosos que nos ofrece la naturaleza. Re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1405,467 2229,459 2193,426 2052,449 1919,427 1405,436" />
+                <Baseline points="1410,458 1450,458 1491,456 1531,456 1572,458 1613,458 1653,458 1694,458 1735,458 1775,458 1816,458 1857,459 1897,459 1938,459 1979,459 2019,461 2060,461 2101,461 2141,461 2182,461 2223,461" />
+                <TextEquiv>
+                    <Unicode>cientemente se ha tomado una série de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1404,506 2230,506 2230,478 2103,468 1404,473" />
+                <Baseline points="1410,497 1450,498 1491,498 1532,498 1573,499 1613,500 1654,500 1695,500 1736,500 1776,501 1817,501 1858,501 1899,501 1939,501 1980,501 2021,502 2062,503 2102,503 2143,503 2184,503 2225,503" />
+                <TextEquiv>
+                    <Unicode>interesantes fotografías del curioso y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1403,548 1574,537 1649,563 1848,540 2055,562 2203,554 2219,528 1403,516" />
+                <Baseline points="1409,540 1449,540 1489,540 1529,540 1569,540 1610,540 1650,540 1690,541 1730,542 1770,542 1811,542 1851,543 1891,543 1931,543 1971,544 2012,545 2052,545 2092,545 2132,545 2172,545 2213,545" />
+                <TextEquiv>
+                    <Unicode>siempre sorprendente fenómeno, así co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1398,593 2227,588 2207,563 2070,555 1398,558" />
+                <Baseline points="1404,584 1444,584 1485,584 1526,584 1567,584 1608,584 1649,584 1690,585 1731,585 1772,585 1813,585 1853,585 1894,585 1935,585 1976,585 2017,585 2058,585 2099,585 2140,585 2181,585 2222,585" />
+                <TextEquiv>
+                    <Unicode>mo también varias películas que lo mues¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1410,635 2225,628 2190,596 2099,617 2015,597 1992,619 1952,595 1691,617 1410,596" />
+                <Baseline points="1415,624 1455,624 1495,626 1535,626 1575,626 1616,626 1656,626 1696,626 1736,627 1776,627 1817,627 1857,627 1897,627 1937,628 1977,629 2018,629 2058,629 2098,629 2138,629 2178,629 2219,627" />
+                <TextEquiv>
+                    <Unicode>tran en toda su magnitud. Las conti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1402,676 2205,681 2226,643 1402,644" />
+                <Baseline points="1407,665 1447,666 1488,666 1528,668 1569,668 1610,668 1650,668 1691,668 1732,668 1772,669 1813,669 1854,669 1894,669 1935,669 1976,669 2016,669 2057,669 2098,669 2138,669 2179,669 2220,671" />
+                <TextEquiv>
+                    <Unicode>nuas fases de la aurora boreal, en sus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1400,723 2221,723 2221,685 1400,689" />
+                <Baseline points="1406,708 1446,708 1487,710 1527,710 1568,710 1608,710 1649,710 1689,710 1730,710 1770,711 1811,711 1851,711 1892,711 1932,711 1973,711 2013,711 2054,711 2094,711 2135,711 2175,711 2216,710" />
+                <TextEquiv>
+                    <Unicode>diversos cambiantes de fantásticas luces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1404,763 2222,755 2117,717 1684,716 1631,745 1525,717 1469,744 1404,731" />
+                <Baseline points="1409,752 1449,752 1489,752 1530,752 1570,752 1611,752 1651,752 1691,752 1732,752 1772,752 1813,752 1853,752 1893,753 1934,753 1974,753 2015,753 2055,753 2095,753 2136,752 2176,752 2217,752" />
+                <TextEquiv>
+                    <Unicode>de colores, afectan las formas más ex¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1407,803 2219,799 2219,772 1549,786 1407,765" />
+                <Baseline points="1413,794 1453,794 1493,794 1533,794 1573,795 1613,795 1653,795 1693,795 1733,795 1773,795 1813,795 1853,795 1893,795 1933,795 1973,794 2013,794 2053,794 2093,794 2133,794 2173,794 2214,794" />
+                <TextEquiv>
+                    <Unicode>trañas, que unas veces parecen una enor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1398,839 2229,843 2229,811 2150,805 1398,815" />
+                <Baseline points="1404,836 1447,836 1490,836 1533,837 1576,837 1619,837 1662,837 1705,836 1748,836 1791,836 1835,836 1878,836 1921,836 1964,836 2007,836 2050,836 2093,837 2136,837 2179,837 2223,839" />
+                <TextEquiv>
+                    <Unicode>me corona, otras un monstruo alado y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1410,891 2231,881 2231,861 2110,846 1410,853" />
+                <Baseline points="1416,876 1456,878 1497,878 1537,878 1578,878 1618,878 1659,878 1699,879 1740,879 1780,879 1821,879 1861,879 1902,879 1942,879 1983,879 2023,878 2064,878 2104,878 2145,878 2185,876 2226,876" />
+                <TextEquiv>
+                    <Unicode>en ocasiones una inmensa serpiente, co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1407,930 2231,922 2231,901 2152,885 2122,906 2088,885 1995,906 1407,892" />
+                <Baseline points="1413,920 1453,920 1494,920 1534,920 1575,920 1616,920 1656,920 1697,920 1738,920 1778,920 1819,921 1860,921 1900,921 1941,921 1982,921 2022,921 2063,920 2104,920 2144,920 2185,918 2226,918" />
+                <TextEquiv>
+                    <Unicode>mo la que se ve claramente en la foto¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1407,979 1976,954 2008,979 2228,970 2228,936 1920,934 1880,955 1831,931 1407,939" />
+                <Baseline points="1412,963 1452,962 1493,962 1533,962 1574,962 1614,962 1655,962 1695,962 1736,962 1776,962 1817,962 1858,963 1898,963 1939,963 1979,963 2020,963 2060,963 2101,962 2141,962 2182,961 2223,960" />
+                <TextEquiv>
+                    <Unicode>grafía, desarrollando sus gigantesces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1403,1013 2195,1011 2223,1009 2223,978 1403,980" />
+                <Baseline points="1409,1002 1449,1002 1489,1004 1530,1004 1570,1004 1611,1004 1651,1004 1691,1004 1732,1004 1772,1004 1813,1004 1853,1005 1893,1005 1934,1005 1974,1005 2015,1005 2055,1005 2095,1005 2136,1005 2176,1004 2217,1004" />
+                <TextEquiv>
+                    <Unicode>anillos sobre los picos de las nevadas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1397,1047 1442,1052 1448,1059 1490,1059 1497,1052 1539,1059 1569,1052 1575,1059 1607,1060 1620,1053 1620,1038 1597,1021 1564,1020 1556,1013 1535,1012 1519,1022 1500,1013 1487,1021 1398,1022" />
+                <Baseline points="1403,1044 1429,1047 1455,1047 1482,1047 1508,1046 1534,1046 1561,1047 1587,1048 1614,1052" />
+                <TextEquiv>
+                    <Unicode>montañas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La aurora boreal es sin duda uno de
+los fenómenos más esplindidos y mara¬
+villosos que nos ofrece la naturaleza. Re¬
+cientemente se ha tomado una série de
+interesantes fotografías del curioso y
+siempre sorprendente fenómeno, así co¬
+mo también varias películas que lo mues¬
+tran en toda su magnitud. Las conti¬
+nuas fases de la aurora boreal, en sus
+diversos cambiantes de fantásticas luces
+de colores, afectan las formas más ex¬
+trañas, que unas veces parecen una enor¬
+me corona, otras un monstruo alado y
+en ocasiones una inmensa serpiente, co¬
+mo la que se ve claramente en la foto¬
+grafía, desarrollando sus gigantesces
+anillos sobre los picos de las nevadas
+montañas.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1406,1141 2227,1141 2227,1275 1406,1275" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1453,1186 1614,1195 1712,1169 1745,1187 1778,1166 1816,1188 2034,1168 2214,1184 2232,1150 1646,1140 1544,1164 1452,1141" />
+                <Baseline points="1458,1176 1496,1176 1534,1176 1573,1176 1611,1176 1650,1176 1688,1175 1726,1175 1765,1175 1803,1173 1842,1173 1880,1173 1918,1173 1957,1172 1995,1172 2034,1172 2072,1172 2110,1172 2149,1172 2187,1173 2226,1173" />
+                <TextEquiv>
+                    <Unicode>Una página de la Historia rediviva:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1413,1227 1840,1236 2139,1208 2174,1235 2231,1216 2231,1190 2109,1180 1472,1204 1413,1181" />
+                <Baseline points="1418,1217 1458,1217 1498,1218 1539,1218 1579,1218 1620,1217 1660,1217 1700,1217 1741,1217 1781,1217 1822,1217 1862,1217 1902,1217 1943,1217 1983,1217 2024,1217 2064,1215 2104,1215 2145,1215 2185,1215 2226,1215" />
+                <TextEquiv>
+                    <Unicode>La coronación del Papa Celestino V que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1413,1270 2227,1265 2205,1222 1413,1236" />
+                <Baseline points="1419,1260 1459,1261 1499,1262 1539,1262 1579,1262 1619,1262 1659,1262 1700,1262 1740,1260 1780,1260 1820,1259 1860,1259 1900,1258 1940,1257 1981,1257 2021,1257 2061,1256 2101,1256 2141,1257 2181,1257 2222,1257" />
+                <TextEquiv>
+                    <Unicode>ocupó durante cinco meses la Silla de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Una página de la Historia rediviva:
+La coronación del Papa Celestino V que
+ocupó durante cinco meses la Silla de</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="239,295 1349,295 1349,310 239,310" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1752,1082 1883,1082 1883,1086 1752,1086" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1536,1305 1725,1305 1725,1319 1536,1319" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1926,1388 2254,1388 2254,1399 1926,1399" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1964,1405 2253,1405 2253,1416 1964,1416" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="2045,1463 2254,1463 2254,1474 2045,1474" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="239,1724 1041,1724 1041,1740 239,1740" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="240,2338 1173,2338 1173,2349 240,2349" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="2015,2397 2256,2397 2256,2408 2015,2408" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1979,2424 2255,2424 2255,2437 1979,2437" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="276,3149 823,3149 823,3173 276,3173" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1030,3158 1223,3158 1223,3174 1030,3174" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="245,3190 1303,3190 1303,3204 245,3204" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="238,293 254,293 254,1740 238,1740" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="242,2341 257,2341 257,3200 242,3200" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1129,1581 1140,1581 1140,1842 1129,1842" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="1293,2445 1305,2445 1305,3203 1293,3203" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="1340,299 1356,299 1356,1380 1340,1380" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="1846,1499 1859,1499 1859,1703 1846,1703" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:30:14.796+02:00</Created>
+        <LastChange>2021-06-08T18:57:44.865+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782727" pageNr="1776" tsid="236402164" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WVKTCRITLDCHTBCPLBSPBIAH" xmlUrl="https://files.transkribus.eu/Get?id=SXYNPCDLRPZUPVQNWJNOBIEW" imageId="17248589" />
+    </Metadata>
+    <Page imageFilename="1776_p675.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="208,257 2281,257 2281,3247 208,3247" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982825842" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+                <RegionRefIndexed index="8" regionRef="r_9_1" />
+                <RegionRefIndexed index="10" regionRef="r_11_1" />
+                <RegionRefIndexed index="12" regionRef="r_13_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="502,598 677,598 677,677 502,677" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="515,720 1200,720 1200,1190 515,1190" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1531,543 2050,543 2050,878 1531,878" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1524,660 1582,661 1603,640 1687,668 1761,653 1782,668 1861,655 1990,668 2040,653 2040,618 1988,578 1953,576 1917,539 1844,588 1755,574 1702,588 1652,575 1617,539 1526,537" />
+                <Baseline points="1533,650 1559,650 1585,651 1611,651 1637,651 1664,651 1690,651 1716,651 1742,651 1768,653 1795,653 1821,653 1847,653 1873,654 1899,654 1926,656 1952,656 1978,657 2004,658 2031,659" />
+                <TextEquiv>
+                    <Unicode>Para la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1539,872 2055,874 2055,810 2022,786 1990,788 1957,754 1898,792 1843,799 1831,786 1657,787 1596,747 1540,765" />
+                <Baseline points="1548,863 1574,863 1600,863 1626,864 1652,864 1679,864 1705,865 1731,866 1757,866 1783,866 1810,866 1836,866 1862,866 1888,866 1914,867 1941,867 1967,867 1993,867 2019,867 2046,867" />
+                <TextEquiv>
+                    <Unicode>Comida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Para la
+Comida</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1621,1080 2035,1080 2035,1153 1621,1153" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1614,1156 1721,1155 1737,1142 1753,1156 1869,1146 1935,1157 1954,1145 2042,1155 2042,1101 1970,1081 1949,1094 1876,1094 1844,1113 1820,1092 1707,1095 1690,1081 1614,1075" />
+                <Baseline points="1623,1142 1648,1142 1674,1142 1700,1142 1725,1142 1751,1142 1777,1142 1802,1142 1828,1142 1854,1143 1879,1143 1905,1143 1931,1143 1956,1143 1982,1143 2008,1142 2034,1142" />
+                <TextEquiv>
+                    <Unicode>Sirva está</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sirva esta</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1565,1226 2089,1226 2089,1308 1565,1308" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1561,1309 2091,1307 2091,1251 1966,1250 1943,1231 1917,1248 1710,1251 1684,1234 1635,1248 1612,1227 1561,1230" />
+                <Baseline points="1569,1295 1594,1296 1620,1296 1645,1298 1671,1298 1697,1298 1722,1298 1748,1299 1774,1299 1799,1299 1825,1299 1851,1299 1876,1299 1902,1298 1928,1298 1953,1298 1979,1298 2005,1298 2030,1298 2056,1298 2082,1298" />
+                <TextEquiv>
+                    <Unicode>Substanciosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Substanciosa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="542,1419 679,1419 679,1494 542,1494" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="509,1557 1932,1557 1932,1696 509,1696" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="581,1606 607,1604 613,1597 621,1602 655,1595 678,1597 667,1450 614,1465 599,1477 571,1482" />
+                <Baseline points="588,1599 615,1595 642,1593 669,1593" />
+                <TextEquiv>
+                    <Unicode>"2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="539,1715 581,1706 616,1667 623,1668 633,1657 643,1660 688,1642 685,1596 654,1594 588,1609 556,1581 543,1592 532,1593" />
+                <Baseline points="545,1653 572,1651 599,1649 626,1647 653,1646 680,1646" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="914,1666 1091,1701 1244,1665 1938,1669 1938,1606 1848,1578 1592,1598 1557,1564 1470,1563 1417,1610 1322,1563 1257,1625 1008,1571 914,1590" />
+                <Baseline points="923,1665 973,1665 1023,1665 1073,1665 1124,1665 1174,1664 1224,1664 1275,1664 1325,1662 1375,1662 1426,1662 1476,1662 1526,1662 1576,1661 1627,1662 1677,1662 1727,1662 1778,1662 1828,1664 1878,1665 1929,1665" />
+                <TextEquiv>
+                    <Unicode>Sopa de Tomate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>"2
+
+Sopa de Tomate</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="505,1665 691,1665 691,1769 505,1769" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_9_1" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="647,1897 1946,1897 1946,1969 647,1969" />
+            <TextLine id="r_9_1l1" custom="readingOrder {index:0;}">
+                <Coords points="648,1958 1953,1947 1918,1890 1732,1922 648,1898" />
+                <Baseline points="657,1947 721,1947 785,1946 850,1946 914,1946 978,1946 1043,1946 1107,1946 1171,1944 1236,1944 1300,1944 1364,1944 1429,1944 1493,1944 1557,1944 1622,1943 1686,1943 1750,1943 1815,1943 1879,1941 1944,1941" />
+                <TextEquiv>
+                    <Unicode>OPA de Tomate Campbell’s—saludable, nutriti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OPA de Tomate Campbell’s—saludable, nutriti¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="543,1917 638,1917 638,2031 543,2031" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_11_1" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="534,1975 1948,1975 1948,2427 534,2427" />
+            <TextLine id="r_11_1l1" custom="readingOrder {index:0;}">
+                <Coords points="527,2022 1947,2036 1947,1986 1888,1971 755,2006 614,1908 527,1922" />
+                <Baseline points="536,2021 606,2021 676,2022 746,2022 816,2024 886,2024 956,2024 1026,2024 1096,2024 1166,2024 1237,2024 1307,2024 1377,2024 1447,2022 1517,2022 1587,2022 1657,2022 1727,2022 1797,2022 1867,2022 1938,2024" />
+                <TextEquiv>
+                    <Unicode>S va y apetitosa—es siempre recibida por todos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l2" custom="readingOrder {index:1;}">
+                <Coords points="525,2115 1905,2115 1940,2066 525,2075" />
+                <Baseline points="534,2102 603,2102 673,2102 743,2102 813,2102 883,2102 953,2102 1023,2102 1093,2102 1163,2102 1233,2102 1302,2102 1372,2102 1442,2102 1512,2102 1582,2102 1652,2102 1722,2102 1792,2102 1862,2102 1932,2100" />
+                <TextEquiv>
+                    <Unicode>con visibles muestras de complacencia en la comida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l3" custom="readingOrder {index:2;}">
+                <Coords points="528,2193 1943,2193 1943,2142 528,2144" />
+                <Baseline points="537,2180 606,2180 676,2181 746,2181 816,2181 886,2181 956,2181 1026,2180 1096,2180 1166,2180 1236,2180 1305,2180 1375,2180 1445,2180 1515,2178 1585,2178 1655,2178 1725,2178 1795,2178 1865,2178 1935,2178" />
+                <TextEquiv>
+                    <Unicode>del mediodía. Económica también. Esta delicada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l4" custom="readingOrder {index:3;}">
+                <Coords points="538,2270 1945,2267 1945,2221 538,2227" />
+                <Baseline points="546,2258 615,2258 684,2259 754,2259 823,2259 893,2259 962,2258 1032,2258 1101,2258 1171,2258 1240,2256 1309,2256 1379,2256 1448,2256 1518,2255 1587,2255 1657,2255 1726,2255 1796,2256 1865,2256 1935,2258" />
+                <TextEquiv>
+                    <Unicode>sopa o cualquiera de las diferentes 21 variedades de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l5" custom="readingOrder {index:4;}">
+                <Coords points="538,2350 1944,2349 1944,2300 1872,2291 538,2290" />
+                <Baseline points="546,2337 615,2337 684,2337 754,2337 823,2336 893,2336 962,2336 1032,2336 1101,2336 1171,2336 1240,2336 1309,2336 1379,2336 1448,2336 1518,2336 1587,2336 1657,2336 1726,2336 1796,2336 1865,2336 1935,2337" />
+                <TextEquiv>
+                    <Unicode>Campbell’s le ayudarán a economizar en sus cuentas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l6" custom="readingOrder {index:5;}">
+                <Coords points="536,2429 899,2426 899,2398 815,2371 711,2380 652,2370 615,2390 568,2371 536,2374" />
+                <Baseline points="545,2417 571,2418 598,2418 624,2418 651,2417 678,2417 704,2417 731,2415 757,2415 784,2415 811,2415 837,2415 864,2417 891,2418" />
+                <TextEquiv>
+                    <Unicode>de alimentos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S va y apetitosa—es siempre recibida por todos
+con visibles muestras de complacencia en la comida
+del mediodía. Económica también. Esta delicada
+sopa o cualquiera de las diferentes 21 variedades de
+Campbell’s le ayudarán a economizar en sus cuentas
+de alimentos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="715,2582 1770,2582 1770,2833 715,2833" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_13_1" custom="readingOrder {index:12;} structure {type:paragraph;}">
+            <Coords points="852,2903 1620,2903 1620,3070 852,3070" />
+            <TextLine id="r_13_1l1" custom="readingOrder {index:0;}">
+                <Coords points="915,2946 943,2964 1222,2963 1239,2947 1266,2965 1529,2964 1544,2899 1136,2902 1116,2921 959,2900 915,2916" />
+                <Baseline points="923,2948 953,2949 984,2949 1014,2949 1045,2949 1076,2949 1106,2949 1137,2949 1167,2949 1198,2949 1229,2949 1259,2949 1290,2948 1320,2948 1351,2948 1382,2948 1412,2948 1443,2948 1473,2948 1504,2948 1535,2948" />
+                <TextEquiv>
+                    <Unicode>SOPA DE TOMATE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_13_1l2" custom="readingOrder {index:1;}">
+                <Coords points="854,3071 1626,3067 1626,3032 1545,3007 1421,3008 1400,3029 1177,3011 1154,3034 854,3011" />
+                <Baseline points="864,3057 901,3057 939,3057 976,3057 1014,3057 1052,3057 1089,3057 1127,3057 1165,3056 1202,3057 1240,3057 1278,3057 1315,3057 1353,3057 1391,3057 1428,3057 1466,3057 1504,3057 1541,3057 1579,3057 1617,3056" />
+                <TextEquiv>
+                    <Unicode>Véndese en todas las tiendas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SOPA DE TOMATE
+Véndese en todas las tiendas.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="221,257 2261,257 2261,269 221,269" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="212,286 2264,286 2264,299 212,299" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="377,488 623,488 623,501 377,501" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1104,905 1377,905 1377,916 1104,916" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="638,947 800,947 800,958 638,958" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="620,1226 779,1226 779,1238 620,1238" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="1017,2685 1149,2685 1149,2692 1017,2692" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="223,3200 2207,3200 2207,3215 223,3215" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="225,3227 2178,3227 2178,3244 225,3244" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="208,269 222,269 222,3247 208,3247" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="2260,961 2276,961 2276,3230 2260,3230" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="2269,264 2281,264 2281,952 2269,952" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

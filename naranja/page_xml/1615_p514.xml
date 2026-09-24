@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:46:36.483+02:00</Created>
+        <LastChange>2021-06-08T17:42:38.600+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782506" pageNr="1615" tsid="236401966" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QEUVYCPWULMGIDDRDAMBOFHK" xmlUrl="https://files.transkribus.eu/Get?id=GEJXNJRJAKCHIWMRKQKBMUEB" imageId="17248084" />
+    </Metadata>
+    <Page imageFilename="1615_p514.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="226,1347 2256,1347 2256,2158 226,2158" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982790121" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="226,1347 2256,1347 2256,2158 226,2158" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1583,1601 1654,1602 1705,1563 1777,1610 1860,1610 1870,1351 1766,1349 1701,1398 1654,1349 1593,1360" />
+                <Baseline points="1589,1592 1615,1588 1642,1585 1669,1584 1695,1586 1722,1586 1749,1589 1775,1592 1802,1594 1829,1596 1856,1596" />
+                <TextEquiv>
+                    <Unicode>IG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="560,1597 599,1603 650,1361 633,1352 612,1354" />
+                <Baseline points="567,1587 596,1593" />
+                <TextEquiv>
+                    <Unicode>P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;}">
+                <Coords points="783,1594 1089,1610 1144,1572 1194,1610 1321,1578 1354,1604 1481,1602 1482,1349 1435,1377 1366,1349 1330,1383 1296,1349 1232,1345 1160,1388 1087,1345 1024,1349 984,1385 945,1349 872,1375 784,1349" />
+                <Baseline points="788,1587 822,1589 856,1590 891,1592 925,1592 960,1593 994,1593 1028,1593 1063,1593 1097,1593 1132,1593 1166,1593 1200,1592 1235,1592 1269,1592 1304,1592 1338,1592 1372,1592 1407,1592 1441,1593 1476,1593" />
+                <TextEquiv>
+                    <Unicode>HISSII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1594,2106 1648,2105 1681,2073 1742,2106 1839,2105 1886,2077 1926,2106 2064,2106 2086,2084 2201,2106 2251,2077 2252,1868 2217,1845 2136,1846 2095,1877 2057,1846 1927,1845 1890,1879 1836,1845 1752,1845 1624,1949 1595,1927" />
+                <Baseline points="1599,2093 1631,2090 1663,2089 1696,2088 1728,2085 1760,2085 1793,2085 1825,2085 1857,2085 1890,2087 1922,2087 1954,2088 1987,2088 2019,2090 2051,2090 2084,2090 2116,2090 2148,2090 2181,2090 2213,2088 2246,2087" />
+                <TextEquiv>
+                    <Unicode>AGES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l5" custom="readingOrder {index:4;}">
+                <Coords points="574,2107 632,2106 670,2081 729,2107 807,2107 869,2077 908,2106 1013,2101 1013,1853 909,1848 875,1881 817,1846 735,1845 609,1948 574,1922" />
+                <Baseline points="579,2091 604,2091 629,2090 654,2090 679,2090 705,2088 730,2088 755,2088 780,2088 806,2088 831,2088 856,2088 881,2088 907,2090 932,2090 957,2090 982,2091 1008,2093" />
+                <TextEquiv>
+                    <Unicode>GE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>IG
+P
+HISSII
+AGES
+GE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

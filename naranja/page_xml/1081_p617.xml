@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:49:06.467+02:00</Created>
+        <LastChange>2021-10-29T22:48:28.972+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93782002" pageNr="1081" tsid="236401271" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KQKKRDMPKQHNZJKOBRTUOOEV" xmlUrl="https://files.transkribus.eu/Get?id=PATPWZVQXKHJAWGTNDJHLYMH" imageId="17247587" />
+    </Metadata>
+    <Page imageFilename="1081_p617.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982666167" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="108,178 108,3356 2387,3356 2387,178" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1757,233 1786,234 1815,234 1844,234 1874,236 1903,236 1932,236 1961,236 1991,236 2020,237 2049,237 2078,237 2108,236 2137,236 2166,236 2195,236 2225,236 2254,234 2283,234 2312,233 2342,233 2342,178 2312,178 2283,179 2254,179 2225,181 2195,181 2166,181 2137,181 2108,181 2078,182 2049,182 2020,182 1991,181 1961,181 1932,181 1903,181 1874,181 1844,179 1815,179 1786,179 1757,178" />
+                <Baseline points="1757,215 1786,216 1815,216 1844,216 1874,218 1903,218 1932,218 1961,218 1991,218 2020,219 2049,219 2078,219 2108,218 2137,218 2166,218 2195,218 2225,218 2254,216 2283,216 2312,215 2342,215" />
+                <TextEquiv>
+                    <Unicode>INTERPRETES DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="960,315 1031,314 1102,314 1174,314 1245,314 1316,314 1388,312 1459,312 1530,312 1602,314 1673,314 1744,314 1816,314 1887,314 1958,315 2030,315 2101,315 2172,317 2244,317 2315,318 2387,318 2387,263 2315,263 2244,262 2172,262 2101,260 2030,260 1958,260 1887,259 1816,259 1744,259 1673,259 1602,259 1530,257 1459,257 1388,257 1316,259 1245,259 1174,259 1102,259 1031,259 960,260" />
+                <Baseline points="960,297 1031,296 1102,296 1174,296 1245,296 1316,296 1388,294 1459,294 1530,294 1602,296 1673,296 1744,296 1816,296 1887,296 1958,297 2030,297 2101,297 2172,299 2244,299 2315,300 2387,300" />
+                <TextEquiv>
+                    <Unicode>AMA RELIGIOSO PUESTO EN FUNCION DE GALA CON MOTI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1976,3150 2007,3156 2039,3156 2039,3101 2007,3101 1976,3095" />
+                <Baseline points="1976,3132 2007,3138 2039,3138" />
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="990,3180 1021,3180 1053,3180 1053,3125 1021,3125 990,3125" />
+                <Baseline points="990,3162 1021,3162 1053,3162" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="230,3265 336,3263 442,3262 548,3260 655,3259 761,3259 867,3257 973,3257 1080,3256 1186,3256 1292,3254 1398,3254 1505,3254 1611,3254 1717,3253 1823,3253 1930,3253 2036,3253 2142,3253 2248,3251 2355,3251 2355,3218 2248,3218 2142,3220 2036,3220 1930,3220 1823,3220 1717,3220 1611,3221 1505,3221 1398,3221 1292,3221 1186,3223 1080,3223 973,3224 867,3224 761,3226 655,3226 548,3227 442,3229 336,3230 230,3232" />
+                <Baseline points="230,3254 336,3252 442,3251 548,3249 655,3248 761,3248 867,3246 973,3246 1080,3245 1186,3245 1292,3243 1398,3243 1505,3243 1611,3243 1717,3242 1823,3242 1930,3242 2036,3242 2142,3242 2248,3240 2355,3240" />
+                <TextEquiv>
+                    <Unicode>Sr. Ramón Catalá, Roman.—2. Sr. Miguel García Collado, Mariscal.—3. Sr. Luciano Andía, Caballero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="191,3272 207,3273 207,3218 191,3217" />
+                <Baseline points="191,3254 207,3255" />
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="110,3310 220,3310 331,3308 442,3308 553,3307 663,3307 774,3305 885,3304 996,3304 1106,3302 1217,3302 1328,3301 1439,3301 1549,3299 1660,3299 1771,3299 1882,3299 1992,3299 2103,3298 2214,3299 2325,3299 2325,3266 2214,3266 2103,3265 1992,3266 1882,3266 1771,3266 1660,3266 1549,3266 1439,3268 1328,3268 1217,3269 1106,3269 996,3271 885,3271 774,3272 663,3274 553,3274 442,3275 331,3275 220,3277 110,3277" />
+                <Baseline points="110,3299 220,3299 331,3297 442,3297 553,3296 663,3296 774,3294 885,3293 996,3293 1106,3291 1217,3291 1328,3290 1439,3290 1549,3288 1660,3288 1771,3288 1882,3288 1992,3288 2103,3287 2214,3288 2325,3288" />
+                <TextEquiv>
+                    <Unicode>mez, Raquel.—7. Srta. Margarita Zaragoza, Reina María.—8. Srta. Celia Canseco, Gracia.—9. Srta. Delfina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="108,3356 220,3355 332,3355 444,3353 556,3353 668,3352 780,3352 892,3352 1004,3350 1116,3350 1228,3349 1340,3349 1452,3349 1564,3347 1676,3347 1788,3347 1900,3346 2012,3346 2124,3346 2236,3346 2348,3344 2348,3311 2236,3313 2124,3313 2012,3313 1900,3313 1788,3314 1676,3314 1564,3314 1452,3316 1340,3316 1228,3316 1116,3317 1004,3317 892,3319 780,3319 668,3319 556,3320 444,3320 332,3322 220,3322 108,3323" />
+                <Baseline points="108,3345 220,3344 332,3344 444,3342 556,3342 668,3341 780,3341 892,3341 1004,3339 1116,3339 1228,3338 1340,3338 1452,3338 1564,3336 1676,3336 1788,3336 1900,3335 2012,3335 2124,3335 2236,3335 2348,3333" />
+                <TextEquiv>
+                    <Unicode>bania.—12. Sr. Javier Crame, Barón Midas.—13. Escena final del segundo acto.—14. Apoteóss del tercer acto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>INTERPRETES DE
+AMA RELIGIOSO PUESTO EN FUNCION DE GALA CON MOTI
+13
+A
+Sr. Ramón Catalá, Roman.—2. Sr. Miguel García Collado, Mariscal.—3. Sr. Luciano Andía, Caballero
+1.
+mez, Raquel.—7. Srta. Margarita Zaragoza, Reina María.—8. Srta. Celia Canseco, Gracia.—9. Srta. Delfina
+bania.—12. Sr. Javier Crame, Barón Midas.—13. Escena final del segundo acto.—14. Apoteóss del tercer acto</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

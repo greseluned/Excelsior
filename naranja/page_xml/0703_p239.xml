@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:55.367+02:00</Created>
+        <LastChange>2021-10-29T20:23:30.580+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781655" pageNr="703" tsid="236400808" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=SDEADKUOAYYDJVTJFGXZTQRT" xmlUrl="https://files.transkribus.eu/Get?id=BSYRVLFUEPZERYHSTGJGDQJO" imageId="17245502" />
+    </Metadata>
+    <Page imageFilename="0703_p239.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982578998" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="120,70 120,3446 2379,3446 2379,70" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1581,107 1618,107 1656,107 1693,107 1731,108 1768,108 1806,108 1843,108 1881,108 1918,108 1956,110 1993,110 2031,111 2068,111 2106,113 2143,113 2181,114 2218,116 2256,117 2293,119 2331,120 2331,83 2293,82 2256,80 2218,79 2181,77 2143,76 2106,76 2068,74 2031,74 1993,73 1956,73 1918,71 1881,71 1843,71 1806,71 1768,71 1731,71 1693,70 1656,70 1618,70 1581,70" />
+                <Baseline points="1581,95 1618,95 1656,95 1693,95 1731,96 1768,96 1806,96 1843,96 1881,96 1918,96 1956,98 1993,98 2031,99 2068,99 2106,101 2143,101 2181,102 2218,104 2256,105 2293,107 2331,108" />
+                <TextEquiv>
+                    <Unicode>UNIVERSITY OF THE PHILIPPINES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1848,161 1875,162 1902,162 1930,161 1957,161 1985,161 2012,162 2040,164 2040,127 2012,125 1985,124 1957,124 1930,124 1902,125 1875,125 1848,124" />
+                <Baseline points="1848,149 1875,150 1902,150 1930,149 1957,149 1985,149 2012,150 2040,152" />
+                <TextEquiv>
+                    <Unicode>LIBRARY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="146,170 176,170 206,170 236,172 266,173 266,130 236,129 206,127 176,127 146,127" />
+                <Baseline points="146,156 176,156 206,156 236,158 266,159" />
+                <TextEquiv>
+                    <Unicode>AR¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="155,230 180,230 205,234 230,236 230,193 205,191 180,187 155,187" />
+                <Baseline points="155,216 180,216 205,220 230,222" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1953,295 1978,291 2004,289 2029,286 2055,284 2080,281 2106,280 2131,277 2157,275 2182,273 2208,272 2233,271 2259,269 2284,269 2310,269 2335,269 2361,269 2361,199 2335,199 2310,199 2284,199 2259,199 2233,201 2208,202 2182,203 2157,205 2131,207 2106,210 2080,211 2055,214 2029,216 2004,219 1978,221 1953,225" />
+                <Baseline points="1953,272 1978,268 2004,266 2029,263 2055,261 2080,258 2106,257 2131,254 2157,252 2182,250 2208,249 2233,248 2259,246 2284,246 2310,246 2335,246 2361,246" />
+                <TextEquiv>
+                    <Unicode>Ap.1 1949</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="150,293 177,294 205,297 232,300 260,303 260,258 232,255 205,252 177,249 150,248" />
+                <Baseline points="150,278 177,279 205,282 232,285 260,288" />
+                <TextEquiv>
+                    <Unicode>V.2.9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="137,379 235,389 333,398 431,405 530,410 628,414 726,416 824,418 923,418 1021,418 1119,416 1217,415 1316,413 1414,412 1512,410 1610,409 1709,407 1807,407 1905,408 2003,410 2102,413 2102,352 2003,349 1905,347 1807,346 1709,346 1610,348 1512,349 1414,351 1316,352 1217,354 1119,355 1021,357 923,357 824,357 726,355 628,353 530,349 431,344 333,337 235,328 137,318" />
+                <Baseline points="137,359 235,369 333,378 431,385 530,390 628,394 726,396 824,398 923,398 1021,398 1119,396 1217,395 1316,393 1414,392 1512,390 1610,389 1709,387 1807,387 1905,388 2003,390 2102,393" />
+                <TextEquiv>
+                    <Unicode>Cellde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="120,595 145,596 171,596 197,596 223,596 249,596 275,595 301,595 327,595 353,595 379,595 405,596 431,596 457,597 483,598 483,528 457,527 431,526 405,526 379,525 353,525 327,525 301,525 275,525 249,526 223,526 197,526 171,526 145,526 120,525" />
+                <Baseline points="120,572 145,573 171,573 197,573 223,573 249,573 275,572 301,572 327,572 353,572 379,572 405,573 431,573 457,574 483,575" />
+                <TextEquiv>
+                    <Unicode>35 CENTIMOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1572,592 1612,593 1652,593 1693,595 1733,595 1773,595 1814,595 1854,595 1894,596 1935,596 1975,596 2015,596 2056,596 2096,596 2136,598 2177,598 2217,598 2257,598 2298,599 2338,599 2379,599 2379,529 2338,529 2298,529 2257,528 2217,528 2177,528 2136,528 2096,526 2056,526 2015,526 1975,526 1935,526 1894,526 1854,525 1814,525 1773,525 1733,525 1693,525 1652,523 1612,523 1572,522" />
+                <Baseline points="1572,569 1612,570 1652,570 1693,572 1733,572 1773,572 1814,572 1854,572 1894,573 1935,573 1975,573 2015,573 2056,573 2096,573 2136,575 2177,575 2217,575 2257,575 2298,576 2338,576 2379,576" />
+                <TextEquiv>
+                    <Unicode>MANILA—DICIEMBRE 10, 1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="599,3443 663,3442 727,3442 791,3442 855,3442 919,3443 983,3443 1047,3443 1111,3443 1175,3444 1240,3445 1304,3445 1368,3445 1432,3445 1496,3445 1560,3446 1624,3446 1688,3445 1752,3445 1816,3445 1881,3445 1881,3375 1816,3375 1752,3375 1688,3375 1624,3376 1560,3376 1496,3375 1432,3375 1368,3375 1304,3375 1240,3375 1175,3374 1111,3373 1047,3373 983,3373 919,3373 855,3372 791,3372 727,3372 663,3372 599,3373" />
+                <Baseline points="599,3420 663,3419 727,3419 791,3419 855,3419 919,3420 983,3420 1047,3420 1111,3420 1175,3421 1240,3422 1304,3422 1368,3422 1432,3422 1496,3422 1560,3423 1624,3423 1688,3422 1752,3422 1816,3422 1881,3422" />
+                <TextEquiv>
+                    <Unicode>UN RINCON PINTORESCO DEL PARQUE DE ZAMBOANGA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>UNIVERSITY OF THE PHILIPPINES
+LIBRARY
+AR¬
+2
+Ap.1 1949
+V.2.9
+Cellde
+35 CENTIMOS
+MANILA—DICIEMBRE 10, 1931
+UN RINCON PINTORESCO DEL PARQUE DE ZAMBOANGA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2256,3311 2256,3461 2307,3461 2307,3311" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2256,3461 2281,3461 2307,3461 2307,3311 2281,3311 2256,3311" />
+                <Baseline points="2256,3411 2281,3411 2307,3411" />
+                <TextEquiv>
+                    <Unicode>o —sI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>o —sI</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:53.872+02:00</Created>
+        <LastChange>2021-06-08T20:29:39.206+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782895" pageNr="1953" tsid="236402423" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YYDXXOAPJJVKENAMEZKCCHYS" xmlUrl="https://files.transkribus.eu/Get?id=PIPAHTFIZGRPUGBNRVZAKNFO" imageId="17249048" />
+    </Metadata>
+    <Page imageFilename="1953_p852.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="196,234 2264,234 2264,3228 196,3228" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982866402" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="196,340 396,340 396,490 196,490" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="316,390 2152,390 2152,508 316,508" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="238,484 2157,494 2134,418 1686,398 1624,443 1487,398 239,431" />
+                <Baseline points="251,471 345,473 440,474 535,476 629,476 724,477 819,477 913,479 1008,479 1103,479 1198,479 1292,479 1387,479 1482,479 1576,477 1671,477 1766,477 1860,477 1955,477 2050,477 2145,477" />
+                <TextEquiv>
+                    <Unicode> Dos Incencios y IIna recha tilemorabie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> Dos Incencios y IIna recha tilemorabie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="2188,393 2260,393 2260,526 2188,526" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="200,626 1211,626 1211,3228 200,3228" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="230,662 967,673 1019,648 1196,684 1197,622 230,619" />
+                <Baseline points="242,657 289,657 336,657 383,657 430,657 477,657 524,657 572,657 619,657 666,657 713,657 760,657 807,657 854,659 902,659 949,659 996,659 1043,659 1090,659 1137,659 1185,660" />
+                <TextEquiv>
+                    <Unicode>Intramuros, que podríamos llamar “capital"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="201,721 1212,725 1213,677 201,676" />
+                <Baseline points="212,713 261,713 310,711 360,711 409,710 459,710 508,710 557,710 607,711 656,711 706,711 755,711 804,713 854,713 903,713 953,713 1002,714 1051,714 1101,714 1150,714 1200,714" />
+                <TextEquiv>
+                    <Unicode>de la capital del Archipiélago, porque antaño se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="203,772 1217,774 1217,736 1155,728 203,727" />
+                <Baseline points="215,764 264,764 314,764 363,764 413,764 462,764 512,764 561,764 611,764 660,764 710,764 759,764 809,764 858,764 908,764 957,764 1007,765 1056,765 1106,765 1155,765 1205,765" />
+                <TextEquiv>
+                    <Unicode>le denominaba por antonomasia con el nombre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="210,830 1217,819 1186,784 1030,776 907,799 210,778" />
+                <Baseline points="222,816 271,816 320,815 369,815 418,815 468,815 517,815 566,815 615,815 664,816 714,816 763,816 812,816 861,816 910,816 960,818 1009,818 1058,818 1107,818 1156,818 1206,819" />
+                <TextEquiv>
+                    <Unicode>de Manila, cuenta en su historia con dos gran¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="210,880 1219,872 1219,839 1179,836 210,832" />
+                <Baseline points="222,867 271,867 320,866 369,866 418,866 468,866 517,866 566,867 615,867 664,867 714,867 763,867 812,869 861,869 910,869 960,869 1009,869 1058,869 1107,869 1156,869 1206,869" />
+                <TextEquiv>
+                    <Unicode>des incendios, acaecidos el primero en una no¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="198,929 1178,935 1211,933 1211,878 198,891" />
+                <Baseline points="209,920 258,920 308,920 357,920 407,918 456,918 506,918 555,920 605,920 654,920 704,920 754,920 803,920 853,920 902,921 952,921 1001,921 1051,921 1100,920 1150,920 1200,920" />
+                <TextEquiv>
+                    <Unicode>che de no recordamos que mes del año de 1897</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="198,991 255,965 1091,989 1202,982 1203,942 198,943" />
+                <Baseline points="210,972 259,972 308,972 357,971 406,971 455,971 504,971 553,971 602,971 651,971 700,972 749,972 798,972 847,972 896,972 945,974 994,974 1043,974 1092,974 1141,974 1191,974" />
+                <TextEquiv>
+                    <Unicode>y el segundo en la del 13 del actual, dán¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="193,1036 1221,1033 1185,985 193,993" />
+                <Baseline points="204,1023 254,1023 304,1023 354,1023 405,1023 455,1023 505,1023 555,1023 606,1023 656,1023 706,1023 756,1023 807,1023 857,1025 907,1025 957,1025 1008,1025 1058,1026 1108,1026 1158,1026 1209,1028" />
+                <TextEquiv>
+                    <Unicode>dose en ambos la coincidencia de haber resultado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="203,1093 1210,1093 1210,1048 203,1040" />
+                <Baseline points="216,1076 265,1076 314,1076 363,1076 412,1076 461,1076 510,1076 560,1076 609,1076 658,1076 707,1076 756,1076 805,1076 854,1076 904,1077 953,1077 1002,1077 1051,1077 1100,1079 1149,1079 1199,1080" />
+                <TextEquiv>
+                    <Unicode>ineficaces los medios que se emplearon para su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="199,1143 1213,1149 1213,1113 1109,1089 199,1098" />
+                <Baseline points="210,1127 259,1127 309,1128 358,1128 408,1128 457,1128 507,1130 556,1130 606,1130 655,1130 705,1130 754,1130 804,1130 853,1130 903,1130 952,1130 1002,1130 1051,1131 1101,1131 1150,1131 1200,1133" />
+                <TextEquiv>
+                    <Unicode>extinción, alcanzando así enormes proporciones,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="192,1190 1204,1196 1182,1144 192,1150" />
+                <Baseline points="204,1182 253,1181 302,1181 352,1181 401,1181 450,1181 500,1181 549,1181 598,1181 648,1181 697,1182 746,1182 796,1182 845,1182 894,1184 944,1184 993,1184 1042,1184 1092,1184 1141,1184 1191,1182" />
+                <TextEquiv>
+                    <Unicode>con la única diferencia de que si en el primero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="201,1247 1217,1244 1203,1197 201,1197" />
+                <Baseline points="212,1233 261,1233 311,1232 360,1232 410,1232 460,1232 509,1232 559,1232 609,1232 658,1233 708,1233 758,1233 807,1233 857,1233 907,1235 956,1235 1006,1235 1056,1235 1105,1236 1155,1236 1205,1236" />
+                <TextEquiv>
+                    <Unicode>las perdidas materiales fueron sensibles, en el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="191,1299 992,1279 1217,1306 1195,1261 1072,1249 191,1258" />
+                <Baseline points="203,1286 253,1286 303,1286 353,1286 403,1286 453,1286 503,1286 554,1286 604,1286 654,1286 704,1286 754,1286 804,1286 854,1287 905,1287 955,1287 1005,1287 1055,1287 1105,1288 1155,1289 1206,1289" />
+                <TextEquiv>
+                    <Unicode>segundo, aparte de ser también dolorosas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="193,1348 1219,1349 1219,1306 193,1310" />
+                <Baseline points="204,1340 254,1340 304,1338 354,1338 404,1337 454,1337 504,1337 554,1337 604,1337 654,1338 705,1338 755,1338 805,1338 855,1340 905,1340 955,1340 1005,1340 1055,1340 1105,1340 1155,1340 1206,1340" />
+                <TextEquiv>
+                    <Unicode>son sencillamente incalculables. Otra circuns¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="203,1406 478,1383 1217,1405 1217,1362 1153,1352 959,1375 203,1353" />
+                <Baseline points="215,1389 264,1389 314,1389 363,1389 413,1389 462,1389 512,1389 561,1389 611,1389 660,1390 710,1391 759,1391 809,1391 858,1391 908,1391 957,1392 1007,1392 1056,1392 1106,1392 1155,1392 1205,1391" />
+                <TextEquiv>
+                    <Unicode>tancia hace asimismo semejantes a las dos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="197,1459 1213,1457 1213,1407 197,1417" />
+                <Baseline points="209,1443 258,1443 308,1443 357,1443 407,1443 456,1443 506,1443 555,1443 605,1443 654,1443 704,1443 754,1443 803,1443 853,1443 902,1443 952,1443 1001,1443 1051,1443 1100,1443 1150,1443 1200,1443" />
+                <TextEquiv>
+                    <Unicode>conflagraciones, pues en la de 1897 se quemó el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="203,1509 1172,1517 1212,1507 1212,1462 203,1466" />
+                <Baseline points="216,1496 265,1496 314,1496 363,1496 412,1496 462,1496 511,1496 560,1496 609,1496 658,1496 708,1496 757,1496 806,1496 855,1496 904,1497 954,1497 1003,1497 1052,1496 1101,1496 1150,1496 1200,1496" />
+                <TextEquiv>
+                    <Unicode>colegio del Santo Angel de la Guarda,—en cuyo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="191,1559 1207,1554 1207,1521 1167,1512 191,1521" />
+                <Baseline points="203,1550 252,1548 302,1548 351,1547 401,1547 451,1547 500,1547 550,1547 600,1547 649,1547 699,1547 749,1547 798,1548 848,1548 898,1548 947,1548 997,1548 1047,1548 1096,1548 1146,1548 1196,1547" />
+                <TextEquiv>
+                    <Unicode>piso superior se hallaba establecida la Acade¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l19" custom="readingOrder {index:18;}">
+                <Coords points="203,1614 1217,1609 1217,1571 1153,1563 203,1569" />
+                <Baseline points="215,1601 264,1599 314,1599 363,1599 413,1598 462,1598 512,1599 561,1599 611,1599 660,1599 710,1601 759,1601 809,1601 858,1601 908,1601 957,1601 1007,1601 1056,1601 1106,1601 1155,1599 1205,1598" />
+                <TextEquiv>
+                    <Unicode>mia Preparatoria Militar, de la que era Director</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l20" custom="readingOrder {index:19;}">
+                <Coords points="200,1668 1219,1668 1219,1626 1157,1616 200,1625" />
+                <Baseline points="212,1652 261,1652 311,1652 361,1652 410,1652 460,1653 510,1653 559,1653 609,1653 659,1652 709,1652 758,1652 808,1652 858,1652 907,1652 957,1652 1007,1653 1056,1653 1106,1653 1156,1653 1206,1653" />
+                <TextEquiv>
+                    <Unicode>el coronel de Artilleria del Ejército español don</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l21" custom="readingOrder {index:20;}">
+                <Coords points="191,1713 1188,1721 1215,1676 191,1675" />
+                <Baseline points="204,1704 256,1704 309,1703 361,1703 414,1703 466,1703 519,1703 572,1703 624,1703 677,1703 729,1703 782,1704 834,1704 887,1704 940,1704 992,1705 1045,1706 1097,1706 1150,1706 1203,1707" />
+                <TextEquiv>
+                    <Unicode>Joaquín Perteguer—y en la del presente año se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l22" custom="readingOrder {index:21;}">
+                <Coords points="203,1766 1212,1770 1212,1718 1175,1715 203,1721" />
+                <Baseline points="215,1755 264,1755 313,1755 362,1754 412,1754 461,1754 510,1754 559,1754 609,1754 658,1755 707,1755 756,1755 806,1755 855,1757 904,1757 953,1757 1003,1757 1052,1757 1101,1758 1150,1758 1200,1758" />
+                <TextEquiv>
+                    <Unicode>ha quemado totalmente el secular Colegio del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l23" custom="readingOrder {index:22;}">
+                <Coords points="203,1818 1212,1819 1212,1783 1094,1768 203,1773" />
+                <Baseline points="216,1805 265,1806 314,1806 363,1806 412,1808 462,1808 511,1808 560,1808 609,1808 658,1808 708,1808 757,1808 806,1808 855,1809 904,1809 954,1809 1003,1809 1052,1811 1101,1811 1150,1812 1200,1812" />
+                <TextEquiv>
+                    <Unicode>Ateneo de Manila, de los RR. PP. Jesuítas, y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l24" custom="readingOrder {index:23;}">
+                <Coords points="195,1879 1209,1877 1186,1824 196,1834" />
+                <Baseline points="207,1862 256,1860 306,1860 355,1859 405,1859 454,1859 504,1859 553,1859 603,1859 652,1859 702,1860 751,1860 801,1860 850,1862 900,1862 949,1862 999,1863 1048,1863 1098,1863 1147,1863 1197,1863" />
+                <TextEquiv>
+                    <Unicode>parcialmente el no menos secular también Real</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l25" custom="readingOrder {index:24;}">
+                <Coords points="193,1919 307,1934 359,1917 719,1928 719,1885 693,1873 579,1873 563,1890 473,1875 193,1884" />
+                <Baseline points="204,1910 229,1910 254,1911 279,1911 304,1911 330,1911 355,1910 380,1910 405,1910 430,1910 456,1910 481,1910 506,1910 531,1910 556,1910 582,1910 607,1911 632,1911 657,1912 682,1913 708,1914" />
+                <TextEquiv>
+                    <Unicode>Colegio de Santa Isabel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l26" custom="readingOrder {index:25;}">
+                <Coords points="239,1978 1208,1978 1208,1931 239,1929" />
+                <Baseline points="252,1964 299,1964 346,1964 393,1962 441,1962 488,1964 535,1964 582,1964 630,1964 677,1964 724,1964 771,1965 819,1965 866,1965 913,1965 960,1965 1008,1965 1055,1965 1102,1965 1149,1965 1197,1965" />
+                <TextEquiv>
+                    <Unicode>El incendio de 1897 comenzó, si no estamos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l27" custom="readingOrder {index:26;}">
+                <Coords points="187,2026 1166,2038 1211,2029 1211,1979 187,1991" />
+                <Baseline points="200,2013 252,2013 305,2015 357,2015 410,2015 462,2015 515,2015 568,2016 620,2016 673,2016 725,2016 778,2016 830,2016 883,2018 936,2018 988,2018 1041,2018 1093,2018 1146,2018 1199,2016" />
+                <TextEquiv>
+                    <Unicode>trascordados, en la calle Magallanes, destruyó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l28" custom="readingOrder {index:27;}">
+                <Coords points="192,2080 1190,2086 1211,2032 192,2038" />
+                <Baseline points="203,2067 252,2067 302,2067 352,2066 402,2066 452,2066 502,2066 551,2066 601,2066 651,2067 701,2067 751,2067 801,2067 851,2067 900,2067 950,2069 1000,2069 1050,2069 1100,2069 1150,2069 1200,2069" />
+                <TextEquiv>
+                    <Unicode>todas las casas de ambos lados de la misma en el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l29" custom="readingOrder {index:28;}">
+                <Coords points="203,2133 1203,2127 1203,2091 1113,2079 203,2088" />
+                <Baseline points="215,2118 263,2118 312,2118 361,2118 410,2118 458,2118 507,2118 556,2118 605,2120 653,2120 702,2120 751,2120 800,2121 848,2121 897,2121 946,2121 995,2121 1043,2121 1092,2120 1141,2120 1190,2120" />
+                <TextEquiv>
+                    <Unicode>trozo comprendido entre las calles Real y Reco¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l30" custom="readingOrder {index:29;}">
+                <Coords points="200,2182 1214,2180 1181,2135 1063,2158 201,2135" />
+                <Baseline points="213,2171 262,2171 312,2171 361,2172 411,2172 460,2172 510,2172 559,2172 609,2172 658,2172 708,2172 757,2173 807,2174 856,2174 906,2174 955,2174 1005,2174 1054,2174 1104,2173 1153,2172 1203,2172" />
+                <TextEquiv>
+                    <Unicode>letos, saltó a la calle Santa Potenciana, en di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l31" custom="readingOrder {index:30;}">
+                <Coords points="190,2233 1204,2231 1176,2192 190,2195" />
+                <Baseline points="203,2223 252,2223 302,2222 351,2222 401,2222 450,2223 500,2223 549,2223 599,2223 648,2225 698,2225 747,2225 797,2226 846,2226 896,2226 945,2228 995,2228 1044,2228 1094,2228 1143,2228 1193,2226" />
+                <TextEquiv>
+                    <Unicode>rección a la de Solana, y al llegar a está se co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l32" custom="readingOrder {index:31;}">
+                <Coords points="190,2282 1152,2300 1213,2291 1214,2251 190,2244" />
+                <Baseline points="203,2274 255,2274 308,2276 360,2276 413,2276 465,2276 518,2276 571,2277 623,2277 676,2277 728,2277 781,2277 833,2277 886,2277 939,2279 991,2279 1044,2279 1096,2280 1149,2281 1202,2282" />
+                <TextEquiv>
+                    <Unicode>rrió por un lado hacia la calle Victoria y por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l33" custom="readingOrder {index:32;}">
+                <Coords points="203,2340 689,2340 689,2307 660,2290 632,2302 601,2288 561,2300 506,2290 452,2312 423,2290 388,2305 253,2305 236,2288 203,2290" />
+                <Baseline points="216,2327 241,2327 267,2328 293,2328 318,2328 344,2328 370,2327 395,2327 421,2327 447,2327 472,2327 498,2327 524,2327 549,2327 575,2327 601,2327 626,2327 652,2328 678,2328" />
+                <TextEquiv>
+                    <Unicode>el otro a la calle Real.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l34" custom="readingOrder {index:33;}">
+                <Coords points="239,2394 1208,2403 1208,2356 1158,2344 239,2342" />
+                <Baseline points="252,2378 299,2378 346,2378 393,2378 441,2378 488,2378 535,2379 582,2379 630,2379 677,2379 724,2379 771,2380 819,2381 866,2381 913,2381 960,2382 1008,2382 1055,2382 1102,2384 1149,2384 1197,2384" />
+                <TextEquiv>
+                    <Unicode>El incendio estalló entre diez a once de la noche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l35" custom="readingOrder {index:34;}">
+                <Coords points="189,2452 1200,2444 1160,2399 189,2407" />
+                <Baseline points="201,2433 250,2432 299,2432 349,2432 398,2432 447,2432 497,2432 546,2432 595,2432 645,2432 694,2432 743,2432 793,2432 842,2433 891,2433 941,2433 990,2433 1039,2433 1089,2433 1138,2433 1188,2433" />
+                <TextEquiv>
+                    <Unicode>propagándose con rapidez verdaderamente ate¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l36" custom="readingOrder {index:35;}">
+                <Coords points="195,2493 1202,2492 1202,2462 1088,2449 195,2457" />
+                <Baseline points="206,2483 255,2483 304,2483 353,2483 402,2483 452,2483 501,2483 550,2484 599,2484 648,2484 698,2484 747,2486 796,2486 845,2486 894,2486 944,2486 993,2486 1042,2486 1091,2486 1140,2486 1190,2486" />
+                <TextEquiv>
+                    <Unicode>rradora. La confusión era indescriptible y la co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l37" custom="readingOrder {index:36;}">
+                <Coords points="204,2547 1204,2544 1204,2518 1090,2498 204,2509" />
+                <Baseline points="216,2537 264,2535 313,2535 362,2535 411,2534 459,2535 508,2535 557,2535 606,2535 654,2537 703,2537 752,2537 801,2538 849,2538 898,2538 947,2538 996,2538 1044,2538 1093,2538 1142,2537 1191,2535" />
+                <TextEquiv>
+                    <Unicode>rriente de los que, como nosotros, huian del incen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l38" custom="readingOrder {index:37;}">
+                <Coords points="196,2601 1212,2595 1151,2559 196,2554" />
+                <Baseline points="207,2588 256,2588 306,2588 355,2588 405,2588 455,2588 504,2588 554,2588 604,2588 653,2588 703,2589 753,2589 802,2589 852,2589 902,2589 951,2589 1001,2589 1051,2589 1100,2589 1150,2588 1200,2588" />
+                <TextEquiv>
+                    <Unicode>dio, chocaba violentamente con la no menos nu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l39" custom="readingOrder {index:38;}">
+                <Coords points="202,2654 1183,2658 1209,2604 202,2609" />
+                <Baseline points="213,2637 262,2639 311,2639 360,2639 409,2639 458,2639 507,2639 557,2639 606,2639 655,2640 704,2640 753,2640 802,2640 851,2640 901,2640 950,2641 999,2642 1048,2642 1097,2642 1146,2642 1196,2643" />
+                <TextEquiv>
+                    <Unicode>merosa de los que por simple curiosidad o por el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l40" custom="readingOrder {index:39;}">
+                <Coords points="195,2708 1206,2708 1206,2665 1173,2653 195,2663" />
+                <Baseline points="206,2691 255,2691 304,2691 354,2690 403,2690 453,2690 502,2691 551,2691 601,2691 650,2691 700,2691 749,2692 798,2693 848,2693 897,2693 947,2693 996,2693 1045,2694 1095,2694 1144,2694 1194,2693" />
+                <TextEquiv>
+                    <Unicode>noble propósito de prestar su ayuda allí donde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l41" custom="readingOrder {index:40;}">
+                <Coords points="192,2758 1210,2753 1163,2705 1075,2729 192,2713" />
+                <Baseline points="204,2741 253,2741 303,2742 353,2742 403,2742 452,2742 502,2742 552,2744 602,2744 651,2744 701,2744 751,2744 801,2744 850,2744 900,2745 950,2745 1000,2745 1049,2745 1099,2745 1149,2745 1199,2745" />
+                <TextEquiv>
+                    <Unicode>fuera necesaria, acudian de todas partes de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l42" custom="readingOrder {index:41;}">
+                <Coords points="195,2810 1208,2812 1208,2774 1171,2760 195,2772" />
+                <Baseline points="206,2796 255,2796 305,2795 354,2795 404,2795 453,2795 503,2795 552,2795 602,2795 651,2795 701,2795 751,2796 800,2796 850,2796 899,2796 949,2796 998,2796 1048,2796 1097,2798 1147,2798 1197,2798" />
+                <TextEquiv>
+                    <Unicode>ciudad a la zona del siniestro. La obscuridad,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l43" custom="readingOrder {index:42;}">
+                <Coords points="205,2862 1207,2860 1207,2820 1167,2808 205,2815" />
+                <Baseline points="216,2846 264,2846 313,2847 362,2847 411,2847 460,2847 509,2847 558,2847 607,2847 656,2847 705,2847 753,2847 802,2847 851,2847 900,2847 949,2847 998,2849 1047,2849 1096,2849 1145,2850 1194,2850" />
+                <TextEquiv>
+                    <Unicode>unida al rumor insistentemente propalado de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l44" custom="readingOrder {index:43;}">
+                <Coords points="198,2917 1178,2916 1198,2875 198,2869" />
+                <Baseline points="210,2900 258,2898 307,2898 356,2898 405,2898 453,2898 502,2898 551,2898 600,2899 648,2900 697,2900 746,2900 795,2900 843,2901 892,2901 941,2901 990,2901 1038,2901 1087,2901 1136,2900 1185,2900" />
+                <TextEquiv>
+                    <Unicode>que Intramuros iba a arder por los cuatro cos¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l45" custom="readingOrder {index:44;}">
+                <Coords points="200,2966 1200,2962 1200,2924 1162,2914 200,2916" />
+                <Baseline points="212,2949 260,2949 309,2949 358,2949 407,2949 455,2951 504,2951 553,2951 602,2951 650,2951 699,2951 748,2951 797,2952 845,2952 894,2952 943,2952 992,2952 1040,2951 1089,2951 1138,2951 1187,2951" />
+                <TextEquiv>
+                    <Unicode>tados—entonces la revolución había estallado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l46" custom="readingOrder {index:45;}">
+                <Coords points="199,3013 1201,3015 1201,2975 1051,2967 199,2968" />
+                <Baseline points="210,3002 258,3002 307,3003 356,3003 405,3003 454,3003 503,3003 552,3003 601,3002 650,3002 699,3002 747,3002 796,3002 845,3002 894,3002 943,3003 992,3003 1041,3003 1090,3005 1139,3005 1188,3006" />
+                <TextEquiv>
+                    <Unicode>en todas las provincias de Filipinas—vinieron a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l47" custom="readingOrder {index:46;}">
+                <Coords points="192,3068 1088,3072 1088,3030 1055,3025 193,3019" />
+                <Baseline points="204,3053 247,3053 291,3054 334,3054 378,3054 422,3054 465,3054 509,3054 553,3054 596,3054 640,3054 684,3054 727,3054 771,3056 815,3056 858,3056 902,3056 946,3056 989,3057 1033,3057 1077,3057" />
+                <TextEquiv>
+                    <Unicode>hacer más angustioso el trágico momento.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l48" custom="readingOrder {index:47;}">
+                <Coords points="226,3109 1209,3120 1209,3084 1150,3072 226,3071" />
+                <Baseline points="237,3105 285,3105 333,3105 381,3105 429,3105 477,3105 525,3105 573,3105 621,3105 669,3105 717,3107 765,3107 813,3107 861,3107 909,3108 957,3108 1005,3108 1053,3108 1101,3110 1149,3110 1197,3110" />
+                <TextEquiv>
+                    <Unicode>Todas las esperanzas estaban puestas en las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l49" custom="readingOrder {index:48;}">
+                <Coords points="198,3173 1205,3181 1205,3132 1169,3122 198,3123" />
+                <Baseline points="210,3156 259,3158 308,3158 357,3158 406,3158 456,3159 505,3159 554,3159 603,3159 652,3159 702,3159 751,3159 800,3159 849,3159 898,3159 948,3159 997,3160 1046,3161 1095,3161 1144,3162 1194,3164" />
+                <TextEquiv>
+                    <Unicode>dos únicas bombas de vapor que entonces había</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l50" custom="readingOrder {index:49;}">
+                <Coords points="199,3222 1206,3216 1159,3175 199,3182" />
+                <Baseline points="212,3209 261,3210 310,3210 359,3210 408,3212 457,3212 506,3212 555,3212 604,3213 653,3213 703,3213 752,3213 801,3213 850,3213 899,3213 948,3213 997,3213 1046,3213 1095,3213 1144,3212 1194,3212" />
+                <TextEquiv>
+                    <Unicode>en Manila, la de Yangco y la llamada d Co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Intramuros, que podríamos llamar “capital"
+de la capital del Archipiélago, porque antaño se
+le denominaba por antonomasia con el nombre
+de Manila, cuenta en su historia con dos gran¬
+des incendios, acaecidos el primero en una no¬
+che de no recordamos que mes del año de 1897
+y el segundo en la del 13 del actual, dán¬
+dose en ambos la coincidencia de haber resultado
+ineficaces los medios que se emplearon para su
+extinción, alcanzando así enormes proporciones,
+con la única diferencia de que si en el primero
+las perdidas materiales fueron sensibles, en el
+segundo, aparte de ser también dolorosas,
+son sencillamente incalculables. Otra circuns¬
+tancia hace asimismo semejantes a las dos
+conflagraciones, pues en la de 1897 se quemó el
+colegio del Santo Angel de la Guarda,—en cuyo
+piso superior se hallaba establecida la Acade¬
+mia Preparatoria Militar, de la que era Director
+el coronel de Artilleria del Ejército español don
+Joaquín Perteguer—y en la del presente año se
+ha quemado totalmente el secular Colegio del
+Ateneo de Manila, de los RR. PP. Jesuítas, y
+parcialmente el no menos secular también Real
+Colegio de Santa Isabel.
+El incendio de 1897 comenzó, si no estamos
+trascordados, en la calle Magallanes, destruyó
+todas las casas de ambos lados de la misma en el
+trozo comprendido entre las calles Real y Reco¬
+letos, saltó a la calle Santa Potenciana, en di¬
+rección a la de Solana, y al llegar a esta se co¬
+rrió por un lado hacia la calle Victoria y por
+el otro a la calle Real.
+El incendio estalló entre diez a once de la noche,
+propagándose con rapidez verdaderamente ate¬
+rradora. La confusión era indescriptible y la co¬
+rriente de los que, como nosotros, huian del incen¬
+dio, chocaba violentamente con la no menos nu¬
+merosa de los que por simple curiosidad o por el
+noble propósito de prestar su ayuda allí donde
+fuera necesaria, acudian de todas partes de la
+ciudad a la zona del siniestro. La obscuridad,
+unida al rumor insistentemente propalado de
+que Intramuros iba a arder por los cuatro cos¬
+tados—entonces la revolución había estallado
+en todas las provincias de Filipinas—vinieron a
+hacer mas angustioso el trágico momento.
+Todas las esperanzas estaban puestas en las
+dos únicas bombas de vapor que entonces había
+en Manila, la de Yangco y la llamada d Co¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1248,626 2264,626 2264,3222 1248,3222" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1253,669 2270,675 2270,632 2241,625 1254,627" />
+                <Baseline points="1265,660 1314,660 1364,660 1414,660 1463,660 1513,662 1563,662 1612,662 1662,662 1712,662 1762,662 1811,662 1861,662 1911,662 1960,662 2010,662 2060,662 2109,663 2159,663 2209,663 2259,663" />
+                <TextEquiv>
+                    <Unicode>mercio, porque era de la propiedad particular de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1260,724 2274,716 2274,685 2203,673 1260,682" />
+                <Baseline points="1272,713 1321,713 1371,713 1420,713 1470,713 1519,713 1569,713 1618,713 1668,713 1717,714 1767,714 1816,714 1866,714 1915,716 1965,716 2014,716 2064,716 2113,716 2163,716 2212,714 2262,714" />
+                <TextEquiv>
+                    <Unicode>varias casas comerciales inglesas, ya que se des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1260,777 2253,781 2272,736 1260,737" />
+                <Baseline points="1271,764 1320,764 1369,764 1419,765 1468,765 1518,765 1567,765 1616,765 1666,765 1715,765 1765,765 1814,765 1863,765 1913,764 1962,764 2012,764 2061,764 2110,764 2160,765 2209,765 2259,765" />
+                <TextEquiv>
+                    <Unicode>cartaban, por inservibles, las bomkas de mano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1259,831 2256,837 2271,790 1259,781" />
+                <Baseline points="1271,816 1320,818 1369,818 1419,818 1468,819 1518,819 1567,819 1616,819 1666,819 1715,818 1765,818 1814,818 1863,818 1913,818 1962,818 2012,818 2061,818 2110,819 2160,819 2209,821 2259,821" />
+                <TextEquiv>
+                    <Unicode>del Parque de Bomberos; pero todo fué inútil,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1254,881 2263,883 2239,833 1254,836" />
+                <Baseline points="1265,867 1314,869 1363,869 1412,869 1462,869 1511,870 1560,870 1609,870 1659,870 1708,870 1757,870 1806,869 1856,869 1905,869 1954,869 2003,870 2053,870 2102,870 2151,870 2200,872 2250,872" />
+                <TextEquiv>
+                    <Unicode>el fuego se hizo más voraz por momentos y solo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1244,929 2263,933 2239,888 2087,881 1244,891" />
+                <Baseline points="1256,920 1305,920 1355,920 1405,921 1454,921 1504,921 1554,921 1603,921 1653,921 1703,921 1753,921 1802,921 1852,921 1902,921 1951,921 2001,921 2051,921 2100,921 2150,923 2200,923 2250,923" />
+                <TextEquiv>
+                    <Unicode>cuando los bomberos, ayudados por varios regi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1260,988 2262,981 2262,950 2198,936 1260,945" />
+                <Baseline points="1271,974 1322,974 1374,974 1425,974 1477,974 1528,974 1580,974 1631,974 1683,974 1734,974 1786,974 1837,974 1889,974 1940,974 1992,974 2043,974 2095,974 2146,974 2198,974 2250,974" />
+                <TextEquiv>
+                    <Unicode>mientos de Ingenieros, trabajando todos heroica¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1261,1037 2261,1039 2261,999 2138,1012 2083,986 1261,997" />
+                <Baseline points="1272,1025 1320,1025 1369,1025 1418,1025 1467,1025 1516,1025 1565,1025 1613,1025 1662,1025 1711,1025 1760,1025 1809,1026 1858,1026 1907,1026 1955,1026 2004,1026 2053,1026 2102,1028 2151,1028 2200,1029 2249,1029" />
+                <TextEquiv>
+                    <Unicode>mente, comenzaron a derribar balconajes, para</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1256,1091 2267,1086 2267,1055 2215,1039 1256,1046" />
+                <Baseline points="1269,1076 1318,1077 1367,1077 1417,1077 1466,1079 1515,1079 1565,1079 1614,1079 1663,1078 1713,1077 1762,1077 1811,1077 1861,1077 1910,1076 1959,1076 2009,1076 2058,1076 2107,1077 2157,1077 2206,1079 2256,1080" />
+                <TextEquiv>
+                    <Unicode>aislar el fuego, se consiguió dominarlo y extin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1251,1146 2118,1139 2118,1111 2066,1099 1251,1101" />
+                <Baseline points="1262,1133 1304,1131 1346,1131 1388,1131 1430,1130 1472,1130 1514,1130 1557,1130 1599,1130 1641,1130 1683,1130 1725,1130 1767,1130 1809,1130 1852,1130 1894,1130 1936,1130 1978,1130 2020,1130 2062,1128 2105,1128" />
+                <TextEquiv>
+                    <Unicode>guirlo cuando ya comenzaba a amanecer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1284,1196 2262,1193 2262,1158 2158,1139 1843,1164 1284,1144" />
+                <Baseline points="1296,1181 1343,1181 1391,1182 1439,1182 1486,1182 1534,1182 1582,1182 1629,1182 1677,1182 1725,1182 1773,1182 1820,1182 1868,1182 1916,1182 1963,1182 2011,1182 2059,1182 2106,1182 2154,1184 2202,1184 2250,1184" />
+                <TextEquiv>
+                    <Unicode>El clamor fué unánime: Si Manila hubiera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1256,1246 2267,1236 2267,1208 2210,1194 1256,1205" />
+                <Baseline points="1268,1235 1317,1235 1366,1235 1416,1235 1465,1235 1515,1235 1564,1235 1613,1235 1663,1235 1712,1234 1762,1233 1811,1233 1860,1233 1910,1233 1959,1233 2009,1233 2058,1233 2107,1233 2157,1233 2206,1235 2256,1235" />
+                <TextEquiv>
+                    <Unicode>contado con un Parque de Bomberos mejor do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1254,1302 2275,1289 2275,1253 2192,1248 1254,1252" />
+                <Baseline points="1266,1286 1315,1286 1365,1286 1415,1286 1465,1286 1515,1286 1564,1286 1614,1286 1664,1286 1714,1286 1764,1286 1813,1286 1863,1286 1913,1286 1963,1286 2013,1286 2062,1287 2112,1287 2162,1287 2212,1287 2262,1287" />
+                <TextEquiv>
+                    <Unicode>tado—afirmaban todos—el incendio no hubiera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1251,1350 2208,1357 2267,1342 2267,1302 1251,1310" />
+                <Baseline points="1263,1338 1312,1338 1362,1338 1411,1338 1461,1338 1511,1338 1560,1338 1610,1338 1660,1338 1709,1338 1759,1338 1809,1338 1858,1338 1908,1338 1958,1340 2007,1340 2057,1340 2107,1340 2156,1340 2206,1338 2256,1338" />
+                <TextEquiv>
+                    <Unicode>alcanzado la considerable extensión que adqui¬¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1247,1404 1344,1405 1347,1379 1335,1378 1313,1352 1275,1352 1262,1363 1250,1362" />
+                <Baseline points="1259,1392 1284,1391 1309,1393 1334,1398" />
+                <TextEquiv>
+                    <Unicode>rió.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1289,1457 2236,1454 2258,1400 1289,1419" />
+                <Baseline points="1301,1443 1348,1443 1395,1443 1442,1443 1490,1443 1537,1443 1584,1442 1631,1442 1679,1442 1726,1443 1773,1443 1820,1443 1868,1443 1915,1443 1962,1443 2009,1443 2057,1443 2104,1443 2151,1443 2198,1442 2246,1442" />
+                <TextEquiv>
+                    <Unicode>A la vuelta de treinta y cinco años, hemos oí¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1254,1508 2266,1505 2266,1464 2204,1457 1254,1456" />
+                <Baseline points="1265,1494 1314,1496 1363,1496 1413,1496 1462,1496 1512,1496 1561,1496 1610,1496 1660,1496 1709,1496 1759,1496 1808,1496 1857,1496 1907,1494 1956,1494 2006,1494 2055,1494 2104,1496 2154,1496 2203,1496 2253,1496" />
+                <TextEquiv>
+                    <Unicode>do otra vez un comentario condenatorio similar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1244,1556 2263,1555 2263,1527 2201,1506 1244,1520" />
+                <Baseline points="1257,1548 1306,1548 1356,1547 1405,1547 1455,1547 1505,1547 1554,1547 1604,1547 1654,1547 1703,1547 1753,1547 1803,1547 1852,1547 1902,1547 1952,1547 2001,1547 2051,1547 2101,1547 2150,1547 2200,1547 2250,1547" />
+                <TextEquiv>
+                    <Unicode>contra el Departamento de Bomberos de la ciu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1255,1613 1311,1615 1344,1600 1363,1615 1399,1615 1408,1605 1487,1617 1574,1614 1598,1605 1598,1586 1574,1586 1546,1564 1425,1560 1401,1577 1380,1560 1349,1574 1330,1560 1254,1560" />
+                <Baseline points="1266,1601 1292,1602 1319,1602 1346,1602 1373,1601 1399,1601 1426,1601 1453,1601 1480,1601 1506,1601 1533,1601 1560,1601 1587,1602" />
+                <TextEquiv>
+                    <Unicode>dad de Manila.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l20" custom="readingOrder {index:19;}">
+                <Coords points="1293,1663 2262,1661 2262,1621 2124,1614 1293,1616" />
+                <Baseline points="1304,1652 1351,1652 1398,1652 1445,1652 1493,1652 1540,1652 1587,1652 1635,1652 1682,1653 1729,1653 1777,1653 1824,1653 1871,1653 1918,1653 1966,1653 2013,1652 2060,1652 2108,1652 2155,1652 2202,1652 2250,1652" />
+                <TextEquiv>
+                    <Unicode>Con las necesarias variaciones operadas en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l21" custom="readingOrder {index:20;}">
+                <Coords points="1243,1716 2250,1717 2250,1677 2143,1665 1243,1676" />
+                <Baseline points="1256,1703 1305,1703 1354,1704 1403,1704 1452,1704 1501,1704 1550,1704 1599,1704 1648,1704 1697,1704 1746,1704 1795,1704 1844,1703 1893,1703 1942,1703 1991,1703 2040,1703 2089,1703 2138,1703 2187,1703 2237,1703" />
+                <TextEquiv>
+                    <Unicode>ese lapso de tiempo en la fisonomía de está ca¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l22" custom="readingOrder {index:21;}">
+                <Coords points="1254,1780 2246,1770 2265,1730 1253,1733" />
+                <Baseline points="1265,1758 1314,1758 1363,1757 1413,1757 1462,1757 1511,1755 1561,1755 1610,1755 1659,1755 1709,1755 1758,1755 1807,1755 1857,1755 1906,1755 1955,1755 2005,1755 2054,1755 2103,1755 2153,1755 2202,1754 2252,1754" />
+                <TextEquiv>
+                    <Unicode>pital, la escena que presenciaramos en 1887 se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l23" custom="readingOrder {index:22;}">
+                <Coords points="1252,1826 2258,1811 2235,1775 2059,1768 1252,1781" />
+                <Baseline points="1263,1809 1312,1808 1361,1808 1410,1808 1459,1808 1509,1808 1558,1808 1607,1808 1656,1808 1705,1808 1755,1808 1804,1809 1853,1809 1902,1809 1951,1809 2001,1809 2050,1808 2099,1808 2148,1808 2197,1806 2247,1806" />
+                <TextEquiv>
+                    <Unicode>reproduce casi exactamete en está de la que so¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l24" custom="readingOrder {index:23;}">
+                <Coords points="1255,1874 2190,1878 2256,1864 2256,1833 1254,1832" />
+                <Baseline points="1266,1862 1314,1862 1363,1862 1412,1862 1461,1860 1510,1860 1559,1860 1608,1860 1657,1860 1706,1860 1755,1860 1803,1860 1852,1860 1901,1860 1950,1860 1999,1859 2048,1859 2097,1859 2146,1859 2195,1859 2244,1857" />
+                <TextEquiv>
+                    <Unicode>mos también testigos en la noche del 13 de agos¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l25" custom="readingOrder {index:24;}">
+                <Coords points="1251,1927 2231,1927 2262,1889 1250,1882" />
+                <Baseline points="1263,1914 1312,1914 1361,1914 1411,1914 1460,1913 1509,1913 1559,1913 1608,1913 1657,1913 1707,1911 1756,1911 1805,1911 1855,1911 1904,1911 1953,1911 2003,1910 2052,1910 2101,1910 2151,1910 2200,1910 2250,1911" />
+                <TextEquiv>
+                    <Unicode>to de 1932. Las llamas, cubriendo una dilata¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l26" custom="readingOrder {index:25;}">
+                <Coords points="1254,1982 2256,1972 2256,1943 2201,1922 1254,1927" />
+                <Baseline points="1265,1964 1316,1965 1368,1965 1419,1965 1471,1965 1522,1964 1574,1964 1625,1964 1677,1964 1728,1964 1780,1964 1831,1964 1883,1964 1934,1962 1986,1962 2037,1962 2089,1962 2140,1962 2192,1964 2244,1964" />
+                <TextEquiv>
+                    <Unicode>da extensión y alcanzando enorme altura, pin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l27" custom="readingOrder {index:26;}">
+                <Coords points="1256,2029 2272,2024 2272,1996 2217,1979 1256,1982" />
+                <Baseline points="1268,2018 1317,2018 1367,2018 1416,2017 1466,2016 1515,2016 1565,2016 1614,2016 1664,2015 1713,2015 1763,2015 1813,2015 1862,2015 1912,2015 1961,2015 2011,2015 2060,2015 2110,2015 2159,2015 2209,2016 2259,2016" />
+                <TextEquiv>
+                    <Unicode>tan de rojo el cielo con sus lenguas voraces. La</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l28" custom="readingOrder {index:27;}">
+                <Coords points="1251,2084 2158,2084 2262,2077 2262,2032 1251,2041" />
+                <Baseline points="1263,2070 1312,2069 1361,2069 1411,2067 1460,2067 1509,2067 1559,2067 1608,2067 1657,2067 1707,2066 1756,2067 1805,2067 1855,2067 1904,2067 1953,2067 2003,2067 2052,2067 2101,2066 2151,2066 2200,2066 2250,2066" />
+                <TextEquiv>
+                    <Unicode>confusión es igualmente indescriptible, entre los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l29" custom="readingOrder {index:28;}">
+                <Coords points="1249,2137 2258,2131 2237,2088 1249,2092" />
+                <Baseline points="1260,2121 1309,2121 1358,2121 1407,2121 1457,2121 1506,2121 1555,2121 1605,2121 1654,2121 1703,2121 1753,2121 1802,2121 1851,2121 1900,2120 1950,2120 1999,2120 2048,2120 2098,2120 2147,2120 2196,2120 2246,2120" />
+                <TextEquiv>
+                    <Unicode>que huyen de la quema y los que se acercan a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l30" custom="readingOrder {index:29;}">
+                <Coords points="1252,2185 1285,2190 1302,2186 1323,2190 1333,2183 1335,2186 1356,2187 1358,2159 1344,2160 1330,2145 1309,2144 1293,2133 1288,2138 1279,2137 1266,2148 1254,2147" />
+                <Baseline points="1265,2172 1291,2172 1317,2174 1344,2177" />
+                <TextEquiv>
+                    <Unicode>ella.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l31" custom="readingOrder {index:30;}">
+                <Coords points="1282,2229 2263,2228 2232,2183 1282,2189" />
+                <Baseline points="1295,2225 1342,2225 1390,2225 1438,2225 1486,2225 1533,2225 1581,2223 1629,2223 1677,2223 1724,2223 1772,2223 1820,2223 1868,2223 1915,2222 1963,2222 2011,2222 2059,2222 2106,2222 2154,2222 2202,2223 2250,2223" />
+                <TextEquiv>
+                    <Unicode>El incendio, iniciado en los bajos del edificio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l32" custom="readingOrder {index:31;}">
+                <Coords points="1249,2297 2241,2286 2260,2241 1248,2247" />
+                <Baseline points="1260,2279 1309,2279 1358,2277 1408,2277 1457,2277 1506,2277 1556,2276 1605,2276 1654,2276 1704,2276 1753,2276 1802,2274 1852,2274 1901,2274 1950,2274 2000,2274 2049,2274 2098,2274 2148,2274 2197,2276 2247,2276" />
+                <TextEquiv>
+                    <Unicode>que forma una de las esquinas de las calles Real</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l33" custom="readingOrder {index:32;}">
+                <Coords points="1238,2349 2230,2340 2256,2302 1238,2304" />
+                <Baseline points="1250,2334 1299,2333 1349,2331 1399,2330 1448,2330 1498,2328 1548,2328 1597,2327 1647,2327 1697,2327 1747,2327 1796,2327 1846,2325 1896,2325 1945,2325 1995,2325 2045,2325 2094,2325 2144,2327 2194,2327 2244,2327" />
+                <TextEquiv>
+                    <Unicode>y Cabildo y en cuyos altos se hallaba la Ofi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l34" custom="readingOrder {index:33;}">
+                <Coords points="1239,2397 2232,2390 2253,2338 1239,2352" />
+                <Baseline points="1251,2381 1300,2381 1350,2381 1399,2379 1449,2379 1498,2379 1548,2379 1597,2379 1647,2379 1696,2379 1746,2378 1795,2379 1845,2379 1894,2379 1944,2379 1993,2379 2043,2379 2092,2378 2142,2378 2191,2378 2241,2378" />
+                <TextEquiv>
+                    <Unicode>cina del Registro de Terrenos, ha saltado al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l35" custom="readingOrder {index:34;}">
+                <Coords points="1242,2445 2254,2444 2254,2401 2223,2392 1242,2400" />
+                <Baseline points="1254,2432 1303,2432 1352,2432 1402,2432 1451,2432 1501,2432 1550,2432 1600,2432 1649,2432 1699,2432 1748,2432 1797,2432 1847,2430 1896,2430 1946,2430 1995,2430 2045,2430 2094,2430 2144,2430 2193,2429 2243,2429" />
+                <TextEquiv>
+                    <Unicode>Colegio de Santa Isabel y de allí, cruzando la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l36" custom="readingOrder {index:35;}">
+                <Coords points="1241,2503 2120,2499 2260,2486 2260,2458 1241,2460" />
+                <Baseline points="1254,2484 1303,2484 1353,2484 1402,2484 1452,2484 1502,2484 1551,2483 1601,2483 1651,2483 1700,2483 1750,2483 1800,2481 1849,2481 1899,2481 1949,2481 1998,2481 2048,2481 2098,2481 2147,2480 2197,2480 2247,2481" />
+                <TextEquiv>
+                    <Unicode>calle Arzobispo, a los edificios contiguos del Bu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l37" custom="readingOrder {index:36;}">
+                <Coords points="1234,2542 2239,2549 2239,2506 2201,2497 1234,2508" />
+                <Baseline points="1247,2537 1296,2536 1345,2535 1394,2535 1443,2535 1492,2535 1541,2535 1590,2535 1639,2534 1688,2534 1737,2534 1786,2534 1835,2534 1884,2534 1933,2534 1982,2534 2031,2534 2080,2534 2129,2534 2178,2534 2228,2534" />
+                <TextEquiv>
+                    <Unicode>ró de Obras Públicas y del Ateneo de Manila.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l38" custom="readingOrder {index:37;}">
+                <Coords points="1236,2604 2174,2605 2250,2598 2250,2555 1236,2559" />
+                <Baseline points="1247,2589 1296,2589 1346,2589 1395,2588 1445,2588 1494,2588 1544,2588 1593,2588 1643,2586 1692,2586 1742,2586 1792,2586 1841,2586 1891,2586 1940,2586 1990,2586 2039,2586 2089,2586 2138,2586 2188,2586 2238,2586" />
+                <TextEquiv>
+                    <Unicode>Tres de las bombas, flamantes unas, antiguas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l39" custom="readingOrder {index:38;}">
+                <Coords points="1246,2653 2246,2653 2251,2607 1246,2611" />
+                <Baseline points="1259,2642 1308,2642 1357,2641 1406,2640 1455,2640 1504,2640 1553,2640 1602,2640 1651,2639 1700,2639 1749,2639 1798,2639 1847,2637 1896,2637 1945,2637 1994,2637 2043,2637 2092,2637 2141,2637 2190,2637 2240,2637" />
+                <TextEquiv>
+                    <Unicode>otras, potentes todas ellas, de los distintos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l40" custom="readingOrder {index:39;}">
+                <Coords points="1242,2714 2251,2710 2251,2660 1242,2669" />
+                <Baseline points="1253,2694 1302,2694 1351,2693 1401,2693 1450,2693 1499,2691 1549,2691 1598,2691 1647,2690 1697,2690 1746,2689 1795,2688 1845,2688 1894,2688 1943,2688 1993,2688 2042,2688 2091,2688 2141,2688 2190,2689 2240,2690" />
+                <TextEquiv>
+                    <Unicode>parques de bomberos de la ciudad, no funcionan,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l41" custom="readingOrder {index:40;}">
+                <Coords points="1241,2763 2134,2758 2248,2747 2248,2712 1241,2718" />
+                <Baseline points="1253,2748 1302,2747 1351,2745 1400,2745 1449,2744 1499,2744 1548,2744 1597,2742 1646,2742 1695,2742 1745,2741 1794,2741 1843,2741 1892,2741 1941,2741 1991,2741 2040,2739 2089,2739 2138,2739 2187,2738 2237,2738" />
+                <TextEquiv>
+                    <Unicode>y las restantes resultan impotentes para con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l42" custom="readingOrder {index:41;}">
+                <Coords points="1241,2811 2260,2798 2260,2767 1992,2754 1241,2764" />
+                <Baseline points="1253,2795 1302,2795 1352,2795 1402,2795 1451,2795 1501,2795 1551,2795 1600,2795 1650,2793 1700,2793 1750,2793 1799,2792 1849,2792 1899,2792 1948,2792 1998,2792 2048,2792 2097,2792 2147,2792 2197,2792 2247,2793" />
+                <TextEquiv>
+                    <Unicode>tener y extinguir el fuego que, avivado por un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l43" custom="readingOrder {index:42;}">
+                <Coords points="1247,2864 2189,2862 2256,2852 2256,2826 1246,2812" />
+                <Baseline points="1259,2847 1308,2847 1357,2847 1406,2847 1456,2847 1505,2846 1554,2846 1603,2846 1653,2846 1702,2844 1751,2844 1800,2844 1850,2844 1899,2844 1948,2843 1997,2843 2047,2843 2096,2843 2145,2843 2194,2843 2244,2844" />
+                <TextEquiv>
+                    <Unicode>fuerte viento, sigue su curso inalterable, dete¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l44" custom="readingOrder {index:43;}">
+                <Coords points="1248,2916 2253,2908 2252,2870 2172,2856 1248,2873" />
+                <Baseline points="1259,2900 1308,2900 1357,2900 1406,2900 1455,2900 1504,2900 1553,2898 1602,2898 1651,2898 1700,2897 1750,2897 1799,2897 1848,2895 1897,2895 1946,2895 1995,2895 2044,2895 2093,2895 2142,2896 2191,2897 2241,2898" />
+                <TextEquiv>
+                    <Unicode>niéndose tan solo al llegar al Convento de San</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l45" custom="readingOrder {index:44;}">
+                <Coords points="1234,2962 2142,2967 2253,2955 2253,2917 1234,2936" />
+                <Baseline points="1247,2955 1296,2954 1346,2952 1396,2952 1445,2951 1495,2951 1545,2951 1594,2949 1644,2949 1694,2949 1744,2949 1793,2949 1843,2948 1893,2948 1942,2948 1992,2948 2042,2949 2091,2949 2141,2949 2191,2949 2241,2949" />
+                <TextEquiv>
+                    <Unicode>Agustín, una de cuyas alas, la que da frente a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l46" custom="readingOrder {index:45;}">
+                <Coords points="1243,3019 2226,3014 2254,2975 1242,2969" />
+                <Baseline points="1254,3003 1303,3003 1352,3003 1402,3003 1451,3003 1501,3002 1550,3002 1600,3002 1649,3002 1699,3002 1748,3002 1797,3000 1847,3000 1896,3000 1946,3000 1995,3000 2045,2999 2094,2999 2144,2999 2193,2999 2243,2999" />
+                <TextEquiv>
+                    <Unicode>la calle Real, semi consumió, y encontrarse des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l47" custom="readingOrder {index:46;}">
+                <Coords points="1237,3076 1730,3064 1730,3038 1642,3015 1609,3028 1448,3017 1237,3031" />
+                <Baseline points="1250,3059 1276,3057 1302,3057 1328,3056 1354,3056 1380,3054 1406,3054 1432,3054 1458,3054 1484,3053 1510,3053 1536,3053 1562,3053 1588,3053 1614,3053 1640,3053 1666,3054 1692,3054 1718,3054" />
+                <TextEquiv>
+                    <Unicode>pués con las murallas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l48" custom="readingOrder {index:47;}">
+                <Coords points="1286,3117 2255,3103 2224,3066 1286,3074" />
+                <Baseline points="1299,3108 1346,3107 1393,3107 1440,3105 1488,3105 1535,3105 1582,3105 1629,3104 1677,3104 1724,3104 1771,3104 1818,3104 1866,3104 1913,3104 1960,3104 2007,3104 2055,3102 2102,3102 2149,3101 2196,3101 2244,3099" />
+                <TextEquiv>
+                    <Unicode>Si en 1897 fué decisivo el auxilio de los sol¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l49" custom="readingOrder {index:48;}">
+                <Coords points="1237,3167 2232,3168 2265,3125 1237,3131" />
+                <Baseline points="1248,3158 1298,3158 1348,3158 1398,3158 1449,3158 1499,3158 1549,3158 1599,3158 1650,3158 1700,3158 1750,3156 1800,3156 1851,3156 1901,3155 1951,3155 2001,3155 2052,3155 2102,3153 2152,3153 2202,3153 2253,3153" />
+                <TextEquiv>
+                    <Unicode>dados del Cuerpo de Ingenieros, hogaño no fué</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l50" custom="readingOrder {index:49;}">
+                <Coords points="1245,3222 2095,3236 2228,3219 2256,3178 1244,3184" />
+                <Baseline points="1257,3210 1306,3210 1355,3210 1405,3210 1454,3210 1503,3210 1553,3209 1602,3209 1651,3209 1701,3209 1750,3207 1799,3207 1849,3207 1898,3207 1947,3207 1997,3206 2046,3206 2095,3206 2145,3206 2194,3206 2244,3206" />
+                <TextEquiv>
+                    <Unicode>menor la de los soldados norteamericanos del re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mercio, porque era de la propiedad particular de
+varias casas comerciales inglesas, ya que se des¬
+cartaban, por inservibles, las bomkas de mano
+del Parque de Bomberos; pero todo fué inútil,
+el fuego se hizo más voraz por momentos y solo
+cuando los bomberos, ayudados por varios regi¬
+mientos de Ingenieros, trabajando todos heroica¬
+mente, comenzaron a derribar balconajes, para
+aislar el fuego, se consiguió dominarlo y extin¬
+guirlo cuando ya comenzaba a amanecer.
+El clamor fué unánime: Si Manila hubiera
+contado con un Parque de Bomberos mejor do¬
+tado—afirmaban todos—el incendio no hubiera
+alcanzado la considerable extensión que adqui¬¬
+rió.
+A la vuelta de treinta y cinco años, hemos oí¬
+do otra vez un comentario condenatorio similar
+contra el Departamento de Bomberos de la ciu¬
+dad de Manila.
+Con las necesarias variaciones operadas en
+ese lapso de tiempo en la fisonomía de esta ca¬
+pital, la escena que presenciaramos en 1887 se
+reproduce casi exactamete en esta de la que so¬
+mos también testigos en la noche del 13 de agos¬
+to de 1932. Las llamas, cubriendo una dilata¬
+da extensión y alcanzando enorme altura, pin¬
+tan de rojo el cielo con sus lenguas voraces. La
+confusión es igualmente indescriptible, entre los
+que huyen de la quema y los que se acercan a
+ella.
+El incendio, iniciado en los bajos del edificio
+que forma una de las esquinas de las calles Real
+y Cabildo y en cuyos altos se hallaba la Ofi¬
+cina del Registro de Terrenos, ha saltado al
+Colegio de Santa Isabel y de allí, cruzando la
+calle Arzobispo, a los edificios contiguos del Bu¬
+ró de Obras Públicas y del Ateneo de Manila.
+Tres de las bombas, flamantes unas, antiguas
+otras, potentes todas ellas, de los distintos
+parques de bomberos de la ciudad, no funcionan,
+y las restantes resultan impotentes para con¬
+tener y extinguir el fuego que, avivado por un
+fuerte viento, sigue su curso inalterable, dete¬
+niéndose tan solo al llegar al Convento de San
+Agustín, una de cuyas alas, la que da frente a
+la calle Real, semi consumió, y encontrarse des¬
+pués con las murallas.
+Si en 1897 fué decisivo el auxilio de los sol¬
+dados del Cuerpo de Ingenieros, hogaño no fué
+menor la de los soldados norteamericanos del re¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="326,234 1034,234 1034,250 326,250" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1433,237 2110,237 2110,255 1433,255" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="322,254 1018,254 1018,268 322,268" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1721,259 2111,259 2111,275 1721,275" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1389,260 1856,260 1856,276 1389,276" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="376,267 852,267 852,275 376,275" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="934,270 1054,270 1054,276 934,276" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1416,270 1614,270 1614,277 1416,277" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1026,539 1441,539 1441,550 1026,550" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1391,270 1719,270 1719,277 1391,277" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:12:32.68+02:00</Created>
+        <LastChange>2021-11-03T17:26:10.903+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781083" pageNr="208" tsid="236400027" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NUMXVZTAFRHRDBIAZNANHLRE" xmlUrl="https://files.transkribus.eu/Get?id=FKOOFNCMMONPMQMCEELGINDI" imageId="17244392" />
+    </Metadata>
+    <Page imageFilename="0208_p208.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="224,456 2244,456 2244,3281 224,3281" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982463344" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="224,456 2244,456 2244,2928 224,2928" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="478,3062 1992,3062 1992,3222 478,3222" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="932,3150 964,3152 996,3153 1028,3153 1060,3153 1092,3153 1124,3153 1156,3153 1188,3153 1220,3152 1253,3152 1285,3150 1317,3150 1349,3150 1381,3150 1413,3150 1445,3150 1477,3152 1509,3152 1541,3153 1574,3156 1574,3102 1541,3099 1509,3098 1477,3098 1445,3096 1413,3096 1381,3096 1349,3096 1317,3096 1285,3096 1253,3098 1220,3098 1188,3099 1156,3099 1124,3099 1092,3099 1060,3099 1028,3099 996,3099 964,3098 932,3096" />
+                <Baseline points="932,3132 964,3134 996,3135 1028,3135 1060,3135 1092,3135 1124,3135 1156,3135 1188,3135 1220,3134 1253,3134 1285,3132 1317,3132 1349,3132 1381,3132 1413,3132 1445,3132 1477,3134 1509,3134 1541,3135 1574,3138" />
+                <TextEquiv>
+                    <Unicode>A. GARCIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="491,3228 565,3228 640,3228 715,3228 789,3228 864,3227 939,3227 1013,3227 1088,3227 1163,3227 1238,3227 1312,3227 1387,3227 1462,3227 1536,3227 1611,3227 1686,3227 1760,3228 1835,3228 1910,3228 1985,3228 1985,3174 1910,3174 1835,3174 1760,3174 1686,3173 1611,3173 1536,3173 1462,3173 1387,3173 1312,3173 1238,3173 1163,3173 1088,3173 1013,3173 939,3173 864,3173 789,3174 715,3174 640,3174 565,3174 491,3174" />
+                <Baseline points="491,3210 565,3210 640,3210 715,3210 789,3210 864,3209 939,3209 1013,3209 1088,3209 1163,3209 1238,3209 1312,3209 1387,3209 1462,3209 1536,3209 1611,3209 1686,3209 1760,3210 1835,3210 1910,3210 1985,3210" />
+                <TextEquiv>
+                    <Unicode>GRANDES TALLERES DE FOTOGRABADO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A. GARCIA
+GRANDES TALLERES DE FOTOGRABADO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="816,3235 1647,3235 1647,3281 816,3281" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="815,3319 856,3319 898,3319 939,3319 981,3319 1022,3319 1064,3319 1105,3319 1147,3319 1188,3319 1230,3319 1272,3319 1313,3319 1355,3319 1396,3319 1438,3319 1479,3319 1521,3319 1562,3319 1604,3319 1646,3319 1646,3169 1604,3169 1562,3169 1521,3169 1479,3169 1438,3169 1396,3169 1355,3169 1313,3169 1272,3169 1230,3169 1188,3169 1147,3169 1105,3169 1064,3169 1022,3169 981,3169 939,3169 898,3169 856,3169 815,3169" />
+                <Baseline points="815,3269 856,3269 898,3269 939,3269 981,3269 1022,3269 1064,3269 1105,3269 1147,3269 1188,3269 1230,3269 1272,3269 1313,3269 1355,3269 1396,3269 1438,3269 1479,3269 1521,3269 1562,3269 1604,3269 1646,3269" />
+                <TextEquiv>
+                    <Unicode>32 STA. POTENCIANA, MANILA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>32 STA. POTENCIANA, MANILA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="454,2203 461,2203 461,2380 454,2380" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1492,2203 1643,2203 1643,2215 1492,2215" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="943,2251 1145,2251 1145,2259 943,2259" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1081,2318 1244,2318 1244,2329 1081,2329" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1061,1137 1066,1137 1066,1227 1061,1227" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1076,1137 1082,1137 1082,1246 1076,1246" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1173,495 1197,495 1197,1317 1173,1317" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="2109,493 2136,493 2136,1453 2109,1453" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="2226,2115 2231,2115 2231,2230 2226,2230" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

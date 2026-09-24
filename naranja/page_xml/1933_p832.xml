@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:37.492+02:00</Created>
+        <LastChange>2021-06-08T20:17:32.784+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782930" pageNr="1933" tsid="236402374" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LRDWXIDUIYNSMHMBBSUKTDXF" xmlUrl="https://files.transkribus.eu/Get?id=OWTDOUQTUBNZIZKGRUBNIUXP" imageId="17248990" />
+    </Metadata>
+    <Page imageFilename="1933_p832.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="201,272 2276,272 2276,3234 201,3234" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982861734" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="201,272 2274,272 2274,3234 201,3234" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1494,368 2274,368 2274,794 1494,794" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1552,410 1933,408 1998,427 2168,410 2264,432 2265,390 2216,381 1553,374" />
+                <Baseline points="1557,404 1592,405 1627,405 1662,407 1697,408 1732,408 1767,408 1802,410 1837,410 1872,410 1908,411 1943,411 1978,411 2013,413 2048,413 2083,414 2118,416 2153,417 2188,418 2223,420 2259,422" />
+                <TextEquiv>
+                    <Unicode>De la visita del cuerpo de Boy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1497,458 2266,466 2248,437 2182,429 1863,420 1825,449 1798,421 1758,440 1736,421 1644,440 1497,422" />
+                <Baseline points="1502,450 1541,451 1581,452 1621,453 1661,454 1701,455 1741,456 1781,456 1821,456 1861,456 1901,458 1941,458 1981,458 2021,459 2061,459 2101,460 2141,461 2181,462 2221,463 2261,464" />
+                <TextEquiv>
+                    <Unicode>Scouts a S. E. el Gobernador Gene¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1487,502 2122,520 2169,501 2263,523 2264,485 2215,477 2091,471 2062,498 1993,468 1488,477" />
+                <Baseline points="1493,495 1531,497 1569,497 1607,498 1646,498 1684,500 1722,500 1761,500 1799,501 1837,501 1876,503 1914,503 1952,504 1990,504 2029,506 2067,506 2105,507 2144,509 2182,510 2220,512 2259,513" />
+                <TextEquiv>
+                    <Unicode>ral.—Foto de la derecha: Los Bey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1501,555 2260,558 2248,533 2154,516 2127,540 2078,517 1670,513 1643,534 1502,508" />
+                <Baseline points="1506,545 1543,545 1580,545 1618,545 1655,545 1693,545 1730,545 1768,546 1805,546 1843,548 1880,549 1917,549 1955,551 1992,551 2030,552 2067,552 2105,553 2142,554 2180,554 2217,554 2255,554" />
+                <TextEquiv>
+                    <Unicode>Scouts formados frente a los balco.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1498,600 1829,592 1880,610 1900,593 2142,619 2172,594 2079,564 1499,565" />
+                <Baseline points="1503,590 1536,590 1569,591 1602,591 1635,592 1668,593 1701,593 1735,593 1768,594 1801,594 1834,594 1867,595 1900,596 1933,596 1967,597 2000,599 2033,599 2066,600 2099,602 2132,603 2166,605" />
+                <TextEquiv>
+                    <Unicode>nes del Palacio de Malacañang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1542,690 2058,708 2247,706 2273,687 2210,661 2000,657 1960,677 1934,653 1892,670 1871,652 1838,669 1543,652" />
+                <Baseline points="1547,684 1583,684 1619,684 1655,686 1691,686 1727,687 1763,687 1799,689 1835,689 1871,690 1907,691 1943,692 1979,693 2015,693 2051,694 2087,695 2123,695 2159,695 2195,695 2231,695 2267,695" />
+                <TextEquiv>
+                    <Unicode>Foto inferior: S. E. el Gobernador</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1491,739 2174,755 2279,736 2224,709 2135,724 2031,703 1953,727 1850,700 1492,705" />
+                <Baseline points="1496,731 1534,731 1573,732 1612,732 1651,734 1690,734 1729,735 1767,735 1806,737 1845,738 1884,738 1923,740 1962,740 2001,741 2039,741 2078,741 2117,743 2156,743 2195,744 2234,744 2273,744" />
+                <TextEquiv>
+                    <Unicode>General dirigiendo la palabra a los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1491,785 1567,795 1583,780 1727,789 1756,782 1756,774 1742,774 1704,749 1664,757 1600,747 1581,757 1539,753 1527,740 1491,745" />
+                <Baseline points="1496,777 1521,779 1547,779 1572,780 1598,780 1623,780 1649,780 1674,780 1700,780 1725,782 1751,783" />
+                <TextEquiv>
+                    <Unicode>Boy Scouts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De la visita del cuerpo de Boy
+Scouts a S. E. el Gobernador Gene¬
+ral.—Foto de la derecha: Los Bey
+Scouts formados frente a los balco.
+nes del Palacio de Malacañang.
+Foto inferior: S. E. el Gobernador
+General dirigiendo la palabra a los
+Boy Scouts.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="216,1882 716,1882 716,2084 216,2084" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="246,1913 363,1921 389,1904 410,1919 695,1918 707,1915 707,1878 669,1900 646,1877 601,1891 577,1876 540,1888 367,1877 335,1893 263,1877 246,1889" />
+                <Baseline points="251,1908 276,1907 301,1907 326,1907 351,1907 376,1907 401,1907 426,1907 451,1908 476,1908 501,1908 526,1908 551,1908 576,1910 601,1910 626,1910 651,1910 676,1910 702,1910" />
+                <TextEquiv>
+                    <Unicode>En el óvalo: S E. el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="223,1963 430,1963 455,1939 492,1963 541,1939 571,1940 593,1962 715,1954 715,1927 613,1917 540,1930 517,1917 428,1929 223,1916" />
+                <Baseline points="228,1950 253,1950 278,1949 304,1949 329,1949 354,1949 380,1949 405,1950 430,1950 456,1950 481,1950 507,1950 532,1950 557,1950 583,1950 608,1950 633,1950 659,1949 684,1948 710,1946" />
+                <TextEquiv>
+                    <Unicode>Gobernador Sr Roose¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="211,2002 285,2002 305,1981 367,2010 624,2002 637,1989 666,2007 716,2002 716,1974 675,1960 632,1971 617,1956 563,1985 525,1957 501,1973 342,1959 294,1973 270,1958 211,1973" />
+                <Baseline points="216,1991 242,1992 268,1992 294,1992 320,1991 346,1991 372,1991 398,1991 424,1991 450,1991 476,1992 502,1992 528,1992 554,1992 580,1992 606,1992 632,1992 658,1992 684,1994 711,1994" />
+                <TextEquiv>
+                    <Unicode>velt imponiendo al Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="223,2042 337,2049 367,2026 384,2043 451,2050 527,2042 546,2023 594,2048 620,2029 638,2043 707,2036 707,2012 614,2017 577,2001 558,2014 397,2001 381,2017 223,2004" />
+                <Baseline points="228,2033 254,2033 280,2033 307,2033 333,2033 359,2034 386,2034 412,2034 438,2034 465,2033 491,2033 517,2033 544,2033 570,2034 596,2033 623,2033 649,2033 675,2034 702,2033" />
+                <TextEquiv>
+                    <Unicode>Arturo Fischer la me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="223,2090 310,2090 331,2069 361,2091 471,2090 488,2072 511,2091 710,2089 710,2068 679,2071 615,2041 569,2054 521,2043 497,2058 408,2041 319,2057 223,2044" />
+                <Baseline points="228,2078 253,2078 278,2078 303,2078 328,2078 353,2077 378,2076 403,2076 428,2076 453,2076 479,2075 504,2075 529,2075 554,2075 579,2076 604,2076 629,2076 654,2078 679,2079 705,2079" />
+                <TextEquiv>
+                    <Unicode>dalla "Silver Carabao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En el óvalo: S E. el
+Gobernador Sr Roose¬
+velt imponiendo al Sr.
+Arturo Fischer la me¬
+dalla "Silver Carabao.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="216,2110 712,2110 712,2402 216,2402" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="252,2147 530,2136 710,2147 711,2116 655,2102 578,2117 552,2101 517,2129 472,2100 440,2127 395,2101 360,2127 252,2100" />
+                <Baseline points="257,2133 283,2134 309,2135 336,2135 362,2136 388,2136 415,2136 441,2138 467,2138 494,2138 520,2138 546,2138 573,2138 599,2138 625,2138 652,2138 678,2138 705,2138" />
+                <TextEquiv>
+                    <Unicode>Foto de la derecha:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="210,2186 598,2188 632,2169 649,2187 709,2187 710,2158 509,2146 440,2171 413,2148 312,2149 287,2171 263,2147 210,2148" />
+                <Baseline points="215,2180 240,2178 266,2178 292,2178 317,2178 343,2178 369,2178 395,2178 420,2178 446,2178 472,2178 498,2180 523,2180 549,2180 575,2180 601,2180 626,2180 652,2181 678,2181 704,2181" />
+                <TextEquiv>
+                    <Unicode>El Scout Master Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="220,2226 611,2235 652,2215 704,2235 704,2188 665,2201 427,2188 399,2213 352,2188 220,2189" />
+                <Baseline points="225,2219 251,2220 277,2220 304,2220 330,2220 356,2220 383,2220 409,2220 435,2220 462,2220 488,2220 514,2220 541,2220 567,2220 593,2220 620,2220 646,2220 672,2222 699,2222" />
+                <TextEquiv>
+                    <Unicode>Branble, imponiendo al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="218,2274 419,2275 458,2254 481,2275 639,2283 656,2266 706,2276 707,2243 685,2230 654,2253 629,2227 584,2242 497,2229 468,2246 404,2228 219,2229" />
+                <Baseline points="224,2262 249,2261 274,2261 299,2261 324,2261 349,2261 374,2261 399,2262 424,2262 449,2262 475,2264 500,2264 525,2264 550,2265 575,2265 600,2265 625,2265 650,2266 675,2267 701,2265" />
+                <TextEquiv>
+                    <Unicode>Gobernador Gemeral, la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="210,2316 479,2322 504,2300 521,2316 600,2307 629,2321 706,2307 706,2292 677,2285 599,2293 545,2273 517,2296 454,2272 423,2285 304,2273 210,2285" />
+                <Baseline points="215,2306 240,2306 266,2306 291,2306 317,2306 342,2307 368,2307 394,2307 419,2307 445,2307 470,2307 496,2307 521,2307 547,2307 573,2307 598,2307 624,2307 649,2306 675,2306 701,2306" />
+                <TextEquiv>
+                    <Unicode>condecoración d e n o¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="221,2354 451,2351 480,2363 508,2337 560,2362 709,2354 709,2331 659,2316 460,2328 423,2317 406,2334 283,2316 260,2334 221,2325" />
+                <Baseline points="227,2346 252,2347 277,2349 302,2349 327,2349 352,2349 377,2349 402,2349 427,2348 452,2347 478,2346 503,2345 528,2345 553,2345 578,2345 603,2345 628,2345 653,2346 678,2348 704,2351" />
+                <TextEquiv>
+                    <Unicode>m in a d a "Tender¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="210,2403 287,2402 300,2389 313,2402 407,2410 463,2376 480,2376 480,2368 441,2355 418,2366 386,2357 371,2368 322,2358 306,2374 284,2357 262,2366 231,2357 211,2362" />
+                <Baseline points="216,2393 241,2391 267,2391 293,2391 319,2391 345,2391 370,2391 396,2393 422,2393 448,2395 474,2396" />
+                <TextEquiv>
+                    <Unicode>foot Badge"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto de la derecha:
+El Scout Master Sr.
+Branble, imponiendo al
+Gobernador Gemeral, la
+condecoración d e n o¬
+m in a d a "Tender¬
+foot Badge"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1392,2882 2226,2882 2226,3136 1392,3136" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1437,2923 2209,2911 2191,2885 2111,2877 1437,2877" />
+                <Baseline points="1442,2910 1480,2910 1518,2909 1556,2909 1594,2909 1632,2910 1670,2910 1708,2910 1746,2910 1784,2910 1823,2910 1861,2910 1899,2910 1937,2910 1975,2910 2013,2910 2051,2910 2089,2910 2127,2910 2165,2910 2204,2910" />
+                <TextEquiv>
+                    <Unicode>Foto inferior: El Sr. Theodore Roose¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1392,2968 2217,2968 2187,2925 2088,2922 2065,2945 1924,2925 1894,2950 1839,2924 1778,2947 1703,2924 1392,2933" />
+                <Baseline points="1397,2957 1437,2957 1478,2957 1519,2957 1559,2957 1600,2957 1641,2957 1681,2957 1722,2957 1763,2957 1804,2957 1844,2957 1885,2957 1926,2957 1966,2957 2007,2958 2048,2958 2088,2958 2129,2958 2170,2958 2211,2958" />
+                <TextEquiv>
+                    <Unicode>velt, con los Sres. Lim, Camus, Smith.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1399,3010 1637,3016 1721,2989 1759,3016 2216,3015 2190,2972 1399,2967" />
+                <Baseline points="1404,2999 1444,3000 1484,3000 1525,3000 1565,3000 1605,3000 1646,3002 1686,3002 1726,3002 1767,3002 1807,3002 1847,3002 1888,3002 1928,3002 1968,3002 2009,3002 2049,3002 2089,3003 2130,3003 2170,3004 2211,3005" />
+                <TextEquiv>
+                    <Unicode>Unson, Stewart Tarner y Van Schaick,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1399,3059 1718,3059 1746,3038 1830,3067 1912,3043 2222,3053 2222,3030 2158,3013 2017,3033 1961,3013 1938,3034 1722,3013 1685,3038 1631,3013 1399,3021" />
+                <Baseline points="1404,3045 1444,3045 1485,3045 1525,3045 1566,3045 1607,3045 1647,3047 1688,3047 1729,3047 1769,3047 1810,3047 1851,3047 1891,3047 1932,3048 1973,3048 2013,3048 2054,3048 2095,3050 2135,3050 2176,3051 2217,3051" />
+                <TextEquiv>
+                    <Unicode>presenciando el desfile de los Boy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1392,3100 1406,3105 1419,3098 1510,3098 1518,3107 1538,3107 1538,3082 1520,3069 1511,3069 1503,3060 1489,3060 1477,3069 1438,3069 1424,3061 1393,3060" />
+                <Baseline points="1397,3090 1424,3092 1451,3092 1478,3092 1505,3092 1533,3095" />
+                <TextEquiv>
+                    <Unicode>Scouts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1873,3138 1987,3129 2008,3138 2063,3130 2074,3139 2189,3138 2210,3131 2211,3118 2167,3102 1992,3101 1967,3111 1874,3100" />
+                <Baseline points="1878,3125 1903,3126 1928,3126 1953,3126 1978,3126 2003,3126 2028,3126 2054,3126 2079,3126 2104,3126 2129,3128 2154,3129 2179,3130 2205,3132" />
+                <TextEquiv>
+                    <Unicode>Fotos—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto inferior: El Sr. Theodore Roose¬
+velt, con los Sres. Lim, Camus, Smith.
+Unson, Stewart Tarner y Van Schaick,
+presenciando el desfile de los Boy
+Scouts.
+Fotos—SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="229,275 1414,275 1414,284 229,284" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1421,864 2276,864 2276,874 1421,874" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1078,866 1324,866 1324,881 1078,881" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1416,874 2275,874 2275,885 1416,885" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="732,1057 1031,1057 1031,1065 732,1065" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="220,1059 514,1059 514,1066 220,1066" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="779,1069 1030,1069 1030,1078 779,1078" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="220,1070 480,1070 480,1079 220,1079" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="213,1798 443,1798 443,1807 213,1807" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="213,1823 492,1823 492,1832 213,1832" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="751,1825 892,1825 892,1834 751,1834" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="212,2420 705,2420 705,2427 212,2427" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="231,2430 502,2430 502,2435 231,2435" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="209,2456 723,2456 723,2463 209,2463" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="208,2465 745,2465 745,2473 208,2473" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1332,2756 2211,2756 2211,2772 1332,2772" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="1332,2777 2205,2777 2205,2784 1332,2784" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="615,3191 1324,3191 1324,3213 615,3213" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="203,3216 1339,3216 1339,3231 203,3231" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="203,2462 213,2462 213,3221 203,3221" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="220,274 234,274 234,1051 220,1051" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="220,1348 237,1348 237,1549 220,1549" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="574,2968 582,2968 582,3115 574,3115" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="753,1835 759,1835 759,2016 753,2016" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="762,1823 768,1823 768,2012 762,2012" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="772,1818 778,1818 778,2001 772,2001" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:31;}">
+            <Coords points="996,1585 1002,1585 1002,1741 996,1741" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:32;}">
+            <Coords points="999,1070 1007,1070 1007,1309 999,1309" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:33;}">
+            <Coords points="1007,1555 1014,1555 1014,1741 1007,1741" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:34;}">
+            <Coords points="1010,1070 1018,1070 1018,1342 1010,1342" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:35;}">
+            <Coords points="1018,1362 1032,1362 1032,1741 1018,1741" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:36;}">
+            <Coords points="1022,1004 1031,1004 1031,1328 1022,1328" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:37;}">
+            <Coords points="1333,2792 1338,2792 1338,3216 1333,3216" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:38;}">
+            <Coords points="1422,275 1441,275 1441,872 1422,872" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:39;}">
+            <Coords points="1760,1830 1773,1830 1773,2012 1760,2012" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_41" custom="readingOrder {index:40;}">
+            <Coords points="1773,1820 1782,1820 1782,2012 1773,2012" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_42" custom="readingOrder {index:41;}">
+            <Coords points="1785,1907 1796,1907 1796,2051 1785,2051" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_43" custom="readingOrder {index:42;}">
+            <Coords points="2255,1612 2269,1612 2269,2751 2255,2751" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_44" custom="readingOrder {index:43;}">
+            <Coords points="2263,869 2275,869 2275,1612 2263,1612" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_45" custom="readingOrder {index:44;}">
+            <Coords points="1293,2764 1304,2764 1304,2864 1293,2864" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_46" custom="readingOrder {index:45;}">
+            <Coords points="1745,1801 1750,1801 1750,1826 1745,1826" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_47" custom="readingOrder {index:46;}">
+            <Coords points="2263,1405 2264,1405 2264,1432 2263,1432" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

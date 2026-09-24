@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:48:47.195+02:00</Created>
+        <LastChange>2021-10-29T22:30:22.148+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781955" pageNr="1028" tsid="236401204" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YGKFHQVEBQNBFTPORYRERUQB" xmlUrl="https://files.transkribus.eu/Get?id=KDNHVINVZXOEAGSNHCZDCGBA" imageId="17247396" />
+    </Metadata>
+    <Page imageFilename="1028_p564.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982654377" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="222,268 222,3246 2280,3246 2280,268" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="222,319 324,319 427,319 530,319 633,319 736,319 839,319 942,320 1045,320 1148,320 1251,320 1353,320 1456,320 1559,320 1662,320 1765,322 1868,322 1971,322 2074,322 2177,322 2280,322 2280,271 2177,271 2074,271 1971,271 1868,271 1765,271 1662,269 1559,269 1456,269 1353,269 1251,269 1148,269 1045,269 942,269 839,268 736,268 633,268 530,268 427,268 324,268 222,268" />
+                <Baseline points="222,302 324,302 427,302 530,302 633,302 736,302 839,302 942,303 1045,303 1148,303 1251,303 1353,303 1456,303 1559,303 1662,303 1765,305 1868,305 1971,305 2074,305 2177,305 2280,305" />
+                <TextEquiv>
+                    <Unicode>DEL (HALLOWEEN PARTY DADO EN SU CASA SOCIAL, POR EL CLUB ALEMAN, DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="348,392 436,392 525,392 614,392 703,392 792,391 880,391 969,391 1058,391 1147,391 1236,391 1324,392 1413,392 1502,392 1591,392 1680,392 1768,392 1857,392 1946,392 2035,392 2124,392 2124,341 2035,341 1946,341 1857,341 1768,341 1680,341 1591,341 1502,341 1413,341 1324,341 1236,340 1147,340 1058,340 969,340 880,340 792,340 703,341 614,341 525,341 436,341 348,341" />
+                <Baseline points="348,375 436,375 525,375 614,375 703,375 792,374 880,374 969,374 1058,374 1147,374 1236,374 1324,375 1413,375 1502,375 1591,375 1680,375 1768,375 1857,375 1946,375 2035,375 2124,375" />
+                <TextEquiv>
+                    <Unicode>ESTA CAPITAL, A LA QUE ASISTIO UNA SELECTA CONCURRENCIA REI-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="678,463 736,463 794,463 852,463 910,464 968,464 1026,464 1084,464 1142,464 1200,465 1258,466 1316,466 1374,466 1432,466 1490,466 1548,466 1606,466 1664,466 1722,466 1780,466 1839,466 1839,414 1780,414 1722,414 1664,414 1606,414 1548,414 1490,414 1432,414 1374,414 1316,414 1258,414 1200,413 1142,412 1084,412 1026,412 968,412 910,412 852,411 794,411 736,411 678,411" />
+                <Baseline points="678,446 736,446 794,446 852,446 910,447 968,447 1026,447 1084,447 1142,447 1200,448 1258,449 1316,449 1374,449 1432,449 1490,449 1548,449 1606,449 1664,449 1722,449 1780,449 1839,449" />
+                <TextEquiv>
+                    <Unicode>NANDO EN LA FIESTA LA MAYOR ANIMACION.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2099,2831 2130,2825 2130,2762 2099,2768" />
+                <Baseline points="2099,2810 2130,2804" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="327,2969 424,2968 521,2968 618,2968 715,2966 813,2966 910,2966 1007,2965 1104,2965 1201,2965 1299,2965 1396,2963 1493,2963 1590,2963 1687,2963 1785,2963 1882,2963 1979,2963 2076,2963 2173,2963 2271,2963 2271,2912 2173,2912 2076,2912 1979,2912 1882,2912 1785,2912 1687,2912 1590,2912 1493,2912 1396,2912 1299,2914 1201,2914 1104,2914 1007,2914 910,2915 813,2915 715,2915 618,2917 521,2917 424,2917 327,2918" />
+                <Baseline points="327,2952 424,2951 521,2951 618,2951 715,2949 813,2949 910,2949 1007,2948 1104,2948 1201,2948 1299,2948 1396,2946 1493,2946 1590,2946 1687,2946 1785,2946 1882,2946 1979,2946 2076,2946 2173,2946 2271,2946" />
+                <TextEquiv>
+                    <Unicode>(Fatografía superior)—Distinguidas damas y caballeros de la colonia alemana en la cantina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="329,3040 361,3040 393,3040 425,3038 458,3038 490,3038 522,3038 555,3037 587,3037 619,3037 652,3037 684,3037 716,3037 748,3035 781,3035 813,3037 845,3037 878,3037 910,3037 942,3037 975,3038 975,2987 942,2986 910,2986 878,2986 845,2986 813,2986 781,2984 748,2984 716,2986 684,2986 652,2986 619,2986 587,2986 555,2986 522,2987 490,2987 458,2987 425,2987 393,2989 361,2989 329,2989" />
+                <Baseline points="329,3023 361,3023 393,3023 425,3021 458,3021 490,3021 522,3021 555,3020 587,3020 619,3020 652,3020 684,3020 716,3020 748,3018 781,3018 813,3020 845,3020 878,3020 910,3020 942,3020 975,3021" />
+                <TextEquiv>
+                    <Unicode>Club a la hora de los refrescos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="255,3045 300,3045 300,2982 255,2982" />
+                <Baseline points="255,3024 300,3024" />
+                <TextEquiv>
+                    <Unicode>del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="320,3110 417,3110 514,3110 611,3109 708,3109 805,3109 902,3109 999,3109 1096,3109 1193,3107 1290,3107 1387,3107 1484,3107 1581,3107 1678,3106 1775,3106 1872,3106 1969,3104 2066,3104 2163,3104 2261,3103 2261,3052 2163,3053 2066,3053 1969,3053 1872,3055 1775,3055 1678,3055 1581,3056 1484,3056 1387,3056 1290,3056 1193,3056 1096,3058 999,3058 902,3058 805,3058 708,3058 611,3058 514,3059 417,3059 320,3059" />
+                <Baseline points="320,3093 417,3093 514,3093 611,3092 708,3092 805,3092 902,3092 999,3092 1096,3092 1193,3090 1290,3090 1387,3090 1484,3090 1581,3090 1678,3089 1775,3089 1872,3089 1969,3087 2066,3087 2163,3087 2261,3086" />
+                <TextEquiv>
+                    <Unicode>(Fotografía inferior)—Grupo de bellas señoritas y distinguidos caballeros que asistieron a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="227,3185 252,3186 277,3186 302,3186 327,3185 352,3185 377,3185 402,3183 427,3183 452,3183 477,3183 502,3183 527,3185 527,3131 502,3129 477,3129 452,3129 427,3129 402,3129 377,3131 352,3131 327,3131 302,3132 277,3132 252,3132 227,3131" />
+                <Baseline points="227,3167 252,3168 277,3168 302,3168 327,3167 352,3167 377,3167 402,3165 427,3165 452,3165 477,3165 502,3165 527,3167" />
+                <TextEquiv>
+                    <Unicode>animada fiesta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1824,3246 1850,3246 1876,3245 1902,3245 1928,3245 1954,3243 1980,3243 2006,3243 2032,3243 2059,3242 2085,3242 2111,3242 2137,3242 2163,3242 2189,3242 2215,3242 2241,3242 2268,3243 2268,3180 2241,3179 2215,3179 2189,3179 2163,3179 2137,3179 2111,3179 2085,3179 2059,3179 2032,3180 2006,3180 1980,3180 1954,3180 1928,3182 1902,3182 1876,3182 1850,3183 1824,3183" />
+                <Baseline points="1824,3225 1850,3225 1876,3224 1902,3224 1928,3224 1954,3222 1980,3222 2006,3222 2032,3222 2059,3221 2085,3221 2111,3221 2137,3221 2163,3221 2189,3221 2215,3221 2241,3221 2268,3222" />
+                <TextEquiv>
+                    <Unicode>Fotos —EXCELSIOR—(Ovejas)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DEL (HALLOWEEN PARTY DADO EN SU CASA SOCIAL, POR EL CLUB ALEMAN, DE
+ESTA CAPITAL, A LA QUE ASISTIO UNA SELECTA CONCURRENCIA REI-
+NANDO EN LA FIESTA LA MAYOR ANIMACION.
+
+(Fatografía superior)—Distinguidas damas y caballeros de la colonia alemana en la cantina
+Club a la hora de los refrescos.
+del
+(Fotografía inferior)—Grupo de bellas señoritas y distinguidos caballeros que asistieron a la
+animada fiesta.
+Fotos —EXCELSIOR—(Ovejas)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

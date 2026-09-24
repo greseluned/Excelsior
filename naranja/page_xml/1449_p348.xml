@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:44:28.217+02:00</Created>
+        <LastChange>2021-06-08T16:25:12.818+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782363" pageNr="1449" tsid="236401778" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CZEJZDDAFSIBWKUOVOWRPEVY" xmlUrl="https://files.transkribus.eu/Get?id=PTYYNIIXUHIXYVIQFVIBQXWN" imageId="17247750" />
+    </Metadata>
+    <Page imageFilename="1449_p348.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="176,245 2293,245 2293,3250 176,3250" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982751566" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="239,247 1205,247 1205,1365 239,1365" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="176,1395 1212,1395 1212,3235 176,3235" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="214,1435 1217,1441 1180,1395 1080,1419 214,1403" />
+                <Baseline points="221,1428 270,1428 320,1430 369,1430 419,1430 468,1430 518,1431 567,1431 617,1431 666,1431 716,1431 765,1431 815,1431 864,1431 914,1431 963,1431 1013,1432 1062,1433 1112,1433 1161,1433 1211,1434" />
+                <TextEquiv>
+                    <Unicode>Un rompe-corazones más en el eleenco de le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="182,1492 1218,1491 1208,1451 182,1450" />
+                <Baseline points="188,1485 239,1485 290,1484 341,1484 392,1484 444,1484 495,1484 546,1485 597,1485 648,1485 700,1485 751,1485 802,1485 853,1487 904,1487 956,1487 1007,1487 1058,1487 1109,1487 1160,1487 1212,1485" />
+                <TextEquiv>
+                    <Unicode>Paramount: Charles Starrett. ¡0jo, muchachas!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="186,1611 997,1611 997,1585 943,1564 186,1572" />
+                <Baseline points="192,1598 231,1598 271,1599 311,1599 351,1599 391,1599 431,1599 471,1599 511,1599 551,1599 591,1599 630,1599 670,1599 710,1599 750,1599 790,1599 830,1599 870,1599 910,1599 950,1599 990,1599" />
+                <TextEquiv>
+                    <Unicode>a una mujer, aunque fuera en película.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="221,1675 1203,1670 1185,1636 221,1625" />
+                <Baseline points="227,1659 275,1659 323,1659 372,1659 420,1659 469,1659 517,1659 566,1659 614,1659 663,1659 711,1660 759,1661 808,1661 856,1661 905,1661 953,1662 1002,1662 1050,1662 1099,1662 1147,1662 1196,1662" />
+                <TextEquiv>
+                    <Unicode>Por este hecho este jóven se merece una con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="173,1729 1205,1731 1205,1689 173,1694" />
+                <Baseline points="179,1718 230,1718 281,1719 332,1719 383,1719 434,1719 485,1719 536,1719 587,1719 638,1719 689,1719 740,1719 791,1719 842,1719 893,1719 944,1719 995,1719 1046,1719 1097,1719 1148,1719 1199,1721" />
+                <TextEquiv>
+                    <Unicode>decoración, pues hoy día no se rechazan estas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="176,1788 1008,1776 997,1740 680,1740 644,1768 607,1741 543,1764 177,1747" />
+                <Baseline points="183,1775 226,1775 269,1775 312,1775 355,1776 398,1776 441,1776 484,1776 527,1776 570,1778 614,1778 657,1778 700,1778 743,1778 786,1778 829,1778 872,1778 915,1778 958,1778 1002,1776" />
+                <TextEquiv>
+                    <Unicode>ofertas así como así. ¿No les parece?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="636,1901 649,1901 654,1907 727,1907 742,1893 762,1893 763,1876 736,1876 727,1868 710,1868 700,1860 680,1859 664,1868 637,1868" />
+                <Baseline points="642,1892 670,1893 699,1893 727,1893 756,1895" />
+                <TextEquiv>
+                    <Unicode>-o0o—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="212,2009 1215,2018 1215,1991 1077,1972 212,1980" />
+                <Baseline points="218,2007 267,2006 317,2007 366,2007 416,2007 465,2007 515,2007 564,2007 614,2008 663,2009 713,2009 762,2009 812,2010 861,2010 911,2010 960,2010 1010,2012 1059,2012 1109,2012 1158,2012 1208,2012" />
+                <TextEquiv>
+                    <Unicode>Genevieve Tobin, apenas terminó su labor en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="179,2075 1206,2075 1206,2044 1145,2028 1069,2054 1031,2029 543,2028 516,2055 472,2028 408,2051 179,2027" />
+                <Baseline points="185,2066 235,2066 286,2066 337,2065 388,2064 438,2064 489,2064 540,2064 591,2066 641,2066 692,2066 743,2066 794,2066 844,2066 895,2067 946,2067 997,2067 1047,2067 1098,2067 1149,2067 1200,2067" />
+                <TextEquiv>
+                    <Unicode>la película "La Quimera de Hollywood"; fué a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="179,2132 1203,2129 1203,2105 1087,2085 1008,2111 179,2084" />
+                <Baseline points="186,2120 236,2120 287,2121 337,2121 388,2121 438,2121 489,2123 539,2123 590,2123 640,2123 691,2123 741,2123 792,2124 842,2124 893,2124 943,2124 994,2124 1044,2124 1095,2124 1145,2124 1196,2124" />
+                <TextEquiv>
+                    <Unicode>Nueva York y tres semanas más tarde salia pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="177,2187 1218,2188 1199,2156 1095,2147 738,2170 177,2148" />
+                <Baseline points="183,2177 234,2177 285,2178 337,2178 388,2180 440,2180 491,2180 543,2180 594,2180 646,2180 697,2180 748,2180 800,2180 851,2180 903,2181 954,2181 1006,2181 1057,2181 1109,2182 1160,2183 1212,2184" />
+                <TextEquiv>
+                    <Unicode>ra Europa en el Bremen. Figúrense ustedes su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="179,2246 1206,2237 1066,2198 771,2225 717,2201 179,2211" />
+                <Baseline points="185,2235 235,2234 286,2234 337,2234 388,2234 438,2234 489,2234 540,2234 591,2234 641,2235 692,2235 743,2235 794,2235 844,2237 895,2237 946,2237 997,2237 1047,2237 1098,2237 1149,2237 1200,2237" />
+                <TextEquiv>
+                    <Unicode>sorpresa al leer una noche en el salón de pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="169,2310 1202,2297 1160,2259 170,2267" />
+                <Baseline points="176,2289 227,2289 278,2289 329,2291 380,2291 431,2291 482,2291 533,2291 584,2291 635,2291 686,2291 737,2291 788,2291 839,2292 890,2292 941,2292 992,2292 1043,2292 1094,2294 1145,2294 1196,2295" />
+                <TextEquiv>
+                    <Unicode>yecciones del trasatlántico el título de la cin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="173,2361 1200,2354 1159,2313 993,2336 706,2314 680,2340 173,2320" />
+                <Baseline points="179,2348 229,2348 280,2349 331,2349 382,2349 432,2349 483,2349 534,2349 585,2349 635,2349 686,2349 737,2349 788,2349 838,2349 889,2349 940,2349 991,2349 1041,2349 1092,2349 1143,2349 1194,2349" />
+                <TextEquiv>
+                    <Unicode>ta que proyectaban... "La Quimera de Holly¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="173,2414 1209,2418 1209,2386 1079,2371 173,2380" />
+                <Baseline points="179,2408 230,2408 281,2408 332,2408 383,2408 434,2406 485,2406 537,2406 588,2406 639,2406 690,2406 741,2406 792,2406 843,2406 895,2406 946,2408 997,2408 1048,2409 1099,2409 1150,2411 1202,2412" />
+                <TextEquiv>
+                    <Unicode>wood”, ¡la película en que acababa de actuar y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l16" custom="readingOrder {index:15;}">
+                <Coords points="182,2482 835,2466 817,2428 182,2436" />
+                <Baseline points="189,2465 222,2465 256,2465 289,2463 323,2463 357,2463 390,2463 424,2463 458,2462 491,2462 525,2462 558,2462 592,2462 626,2462 659,2462 693,2463 727,2463 760,2463 794,2465 828,2465" />
+                <TextEquiv>
+                    <Unicode>que no había visto terminada!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l17" custom="readingOrder {index:16;}">
+                <Coords points="631,2582 642,2582 654,2594 663,2595 726,2595 739,2583 750,2583 750,2560 732,2561 726,2556 710,2556 704,2549 686,2542 669,2555 632,2560" />
+                <Baseline points="638,2579 664,2579 690,2581 716,2582 743,2579" />
+                <TextEquiv>
+                    <Unicode>-oOo—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l18" custom="readingOrder {index:17;}">
+                <Coords points="221,2710 325,2688 445,2718 1203,2714 1158,2659 776,2659 724,2686 680,2660 518,2684 221,2661" />
+                <Baseline points="228,2697 276,2697 324,2697 373,2697 421,2697 470,2697 518,2697 567,2697 615,2699 664,2699 712,2699 760,2699 809,2699 857,2699 906,2699 954,2699 1003,2700 1051,2700 1100,2700 1148,2700 1197,2700" />
+                <TextEquiv>
+                    <Unicode>Jim Thorpe, afamado atleta Indio pielroja,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l19" custom="readingOrder {index:18;}">
+                <Coords points="179,2764 1200,2769 1200,2729 1110,2724 179,2724" />
+                <Baseline points="186,2753 236,2753 286,2753 337,2754 387,2754 438,2754 488,2754 538,2754 589,2756 639,2756 690,2756 740,2756 790,2756 841,2756 891,2757 942,2757 992,2757 1042,2757 1093,2756 1143,2756 1194,2756" />
+                <TextEquiv>
+                    <Unicode>intérprete ahcra de papeles de individuos de su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l20" custom="readingOrder {index:19;}">
+                <Coords points="176,2826 1166,2826 1196,2787 176,2788" />
+                <Baseline points="183,2811 233,2811 283,2810 334,2810 384,2810 434,2810 485,2811 535,2811 585,2811 636,2811 686,2811 736,2812 787,2813 837,2813 887,2813 938,2813 988,2813 1038,2811 1089,2811 1139,2811 1190,2810" />
+                <TextEquiv>
+                    <Unicode>raza en cintas del Oeste, ha organizado una so¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l21" custom="readingOrder {index:20;}">
+                <Coords points="173,2879 1203,2883 1203,2843 173,2845" />
+                <Baseline points="179,2871 229,2870 280,2868 331,2868 382,2868 433,2867 484,2867 534,2868 585,2868 636,2868 687,2868 738,2870 789,2870 840,2870 890,2871 941,2871 992,2871 1043,2871 1094,2871 1145,2870 1196,2870" />
+                <TextEquiv>
+                    <Unicode>ciedad compuesta de legítimos pielesrojas para</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l22" custom="readingOrder {index:21;}">
+                <Coords points="180,2940 1212,2933 1192,2898 180,2894" />
+                <Baseline points="186,2928 237,2927 288,2925 339,2925 390,2925 441,2925 492,2925 543,2925 594,2925 645,2925 696,2925 747,2927 798,2927 849,2927 900,2928 951,2928 1002,2928 1053,2928 1104,2928 1155,2927 1206,2927" />
+                <TextEquiv>
+                    <Unicode>defenderse de los imposteies que se hacen pasar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l23" custom="readingOrder {index:22;}">
+                <Coords points="173,3001 1049,2992 1025,2948 752,2948 729,2972 675,2948 173,2959" />
+                <Baseline points="179,2987 222,2985 265,2984 308,2984 351,2982 395,2982 438,2982 481,2982 524,2982 567,2982 611,2982 654,2982 697,2982 740,2982 783,2982 827,2984 870,2984 913,2984 956,2984 999,2984 1043,2984" />
+                <TextEquiv>
+                    <Unicode>por tales en los estudios de Hollywood.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l24" custom="readingOrder {index:23;}">
+                <Coords points="215,3056 1211,3047 1201,3016 1072,3007 297,3033 215,3010" />
+                <Baseline points="221,3044 270,3044 319,3045 368,3045 417,3045 467,3045 516,3045 565,3045 614,3045 663,3044 713,3044 762,3044 811,3044 860,3044 909,3044 959,3044 1008,3044 1057,3044 1106,3045 1155,3045 1205,3045" />
+                <TextEquiv>
+                    <Unicode>No es la primera vez que en la pantal a nos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l25" custom="readingOrder {index:24;}">
+                <Coords points="178,3117 286,3100 310,3123 404,3104 440,3122 505,3096 632,3115 673,3084 647,3065 418,3080 287,3068 268,3088 178,3073" />
+                <Baseline points="185,3102 210,3104 235,3104 260,3105 286,3105 311,3105 336,3105 362,3104 387,3104 412,3104 438,3103 463,3102 488,3102 514,3101 539,3101 564,3101 590,3101 615,3101 640,3101 666,3101" />
+                <TextEquiv>
+                    <Unicode>dan “gato por liebre”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l26" custom="readingOrder {index:25;}">
+                <Coords points="625,3228 656,3236 704,3237 727,3234 736,3226 750,3231 756,3224 768,3224 768,3206 739,3207 728,3195 710,3195 701,3188 680,3188 672,3196 654,3197 647,3205 625,3205" />
+                <Baseline points="632,3221 657,3225 683,3225 709,3222 735,3222 761,3224" />
+                <TextEquiv>
+                    <Unicode>—o0o-—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Un rompe-corazones más en el eleenco de le
+Paramount: Charles Starrett. ¡0jo, muchachas!
+a una mujer, aunque fuera en película.
+Por este hecho este jóven se merece una con¬
+decoración, pues hoy día no se rechazan estas
+ofertas así como asi. ¿No les parece?
+-o0o—
+Genevieve Tobin, apenas terminó su labor en
+la película "La Quimera de Hollywood"; fué a
+Nueva York y tres semanas más tarde salia pa¬
+ra Europa en el Bremen. Figúrense ustedes su
+sorpresa al leer una noche en el salón de pro¬
+yecciones del trasatlántico el título de la cin¬
+ta que proyectaban... "La Quimera de Holly¬
+wood”, ¡la película en que acababa de actuar y
+que no había visto terminada!
+-oOo—
+Jim Thorpe, afamado atleta Indio pielroja,
+intérprete ahcra de papeles de individuos de su
+raza en cintas del Oeste, ha organizado una so¬
+ciedad compuesta de legítimos pielesrojas para
+defenderse de los imposteies que se hacen pasar
+por tales en los estudios de Hollywood.
+No es la primera vez que en la pantal a nos
+dan “gato por liebre”
+—o0o-—</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1257,245 2293,245 2293,1464 1257,1464" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1295,282 2294,290 2257,251 1295,243" />
+                <Baseline points="1301,276 1350,276 1399,277 1449,278 1498,278 1547,279 1597,279 1646,281 1695,281 1745,281 1794,282 1843,282 1893,282 1942,284 1991,284 2041,284 2090,284 2139,284 2189,285 2238,285 2288,285" />
+                <TextEquiv>
+                    <Unicode>Thelma Todd se ha casado con el acaudalado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1265,354 2298,347 2298,319 2158,307 1582,323 1266,296" />
+                <Baseline points="1272,336 1323,336 1374,336 1425,336 1476,336 1527,336 1578,336 1629,336 1680,336 1731,338 1782,338 1833,338 1884,339 1935,339 1986,341 2037,341 2088,342 2139,342 2190,342 2241,344 2292,344" />
+                <TextEquiv>
+                    <Unicode>jóven Pasquale de Cocci y se quieren tanto que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1258,403 2274,412 2293,376 1259,365" />
+                <Baseline points="1265,393 1316,392 1367,392 1418,392 1469,392 1520,393 1571,393 1622,393 1673,393 1724,395 1775,395 1826,396 1877,396 1928,396 1979,398 2030,398 2081,398 2132,398 2183,399 2234,399 2286,398" />
+                <TextEquiv>
+                    <Unicode>no pueden estar separados ni aun en sus horas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1256,460 2295,458 2295,428 2241,420 1547,411 1496,442 1456,412 1256,419" />
+                <Baseline points="1263,449 1314,450 1365,450 1416,450 1468,450 1519,452 1570,452 1622,452 1673,452 1724,452 1776,452 1827,452 1878,453 1929,453 1981,453 2032,453 2083,453 2135,453 2186,453 2237,453 2289,453" />
+                <TextEquiv>
+                    <Unicode>de trabajo. Pasquale acompaña a Thelma todos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1253,513 2289,515 2289,486 2047,473 1253,473" />
+                <Baseline points="1259,507 1310,507 1361,507 1412,506 1463,506 1515,506 1566,506 1617,507 1668,507 1719,507 1771,507 1822,509 1873,509 1924,509 1975,510 2027,510 2078,510 2129,510 2180,510 2231,510 2283,510" />
+                <TextEquiv>
+                    <Unicode>los días al estudio Columbia y se queda para ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1265,575 2214,570 2183,540 1265,531" />
+                <Baseline points="1271,566 1317,566 1364,566 1411,566 1458,567 1505,567 1552,567 1598,567 1645,567 1692,566 1739,566 1786,566 1833,566 1880,566 1926,566 1973,566 2020,567 2067,567 2114,567 2161,567 2208,569" />
+                <TextEquiv>
+                    <Unicode>la trabajar y acompañarla de nuevo a casa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1298,629 2295,624 2161,589 1298,592" />
+                <Baseline points="1304,626 1353,625 1402,624 1451,624 1500,624 1550,624 1599,624 1648,624 1697,626 1746,626 1796,626 1845,626 1894,627 1943,627 1992,627 2042,627 2091,627 2140,627 2189,627 2238,627 2288,627" />
+                <TextEquiv>
+                    <Unicode>Como habrán ustedes adivinado por el ape¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1262,695 1992,692 1992,660 1911,644 1832,644 1809,666 1646,647 1624,668 1584,643 1557,664 1400,643 1364,672 1262,645" />
+                <Baseline points="1268,683 1303,683 1339,684 1375,684 1411,683 1447,683 1483,683 1519,683 1555,683 1591,683 1627,683 1662,683 1698,683 1734,683 1770,683 1806,683 1842,683 1878,683 1914,683 1950,683 1986,684" />
+                <TextEquiv>
+                    <Unicode>liido, el señor de Cocci es italiano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1301,763 2016,754 2016,709 1816,708 1794,730 1724,708 1590,730 1538,708 1301,715" />
+                <Baseline points="1307,746 1342,746 1377,746 1412,746 1447,746 1482,746 1517,746 1552,746 1587,746 1622,746 1658,746 1693,746 1728,746 1763,746 1798,747 1833,747 1868,747 1903,746 1938,746 1973,746 2009,746" />
+                <TextEquiv>
+                    <Unicode>¡Deseámosles perpetua felicidad!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1721,868 1728,867 1735,875 1750,875 1756,871 1760,875 1809,874 1820,862 1842,862 1842,841 1820,843 1815,838 1792,836 1784,828 1759,828 1721,842" />
+                <Baseline points="1728,861 1755,864 1782,864 1809,863 1836,860" />
+                <TextEquiv>
+                    <Unicode>-00o—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1300,986 2287,991 2287,951 2248,947 1301,945" />
+                <Baseline points="1307,978 1355,978 1404,978 1452,978 1501,978 1550,978 1598,978 1647,978 1696,980 1744,980 1793,980 1842,980 1890,980 1939,980 1988,981 2036,981 2085,981 2134,981 2182,981 2231,980 2280,980" />
+                <TextEquiv>
+                    <Unicode>En estos tiempos, cuando en Hollywood una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1256,1043 2292,1050 2292,1011 2255,997 1256,1012" />
+                <Baseline points="1262,1037 1313,1037 1364,1037 1415,1036 1466,1035 1518,1035 1569,1035 1620,1036 1671,1037 1722,1037 1774,1037 1825,1037 1876,1037 1927,1037 1978,1037 2030,1038 2081,1038 2132,1038 2183,1038 2234,1037 2286,1037" />
+                <TextEquiv>
+                    <Unicode>estrella o astro se va a someter a una operación</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1256,1107 2286,1099 2251,1060 2175,1083 2125,1059 1256,1068" />
+                <Baseline points="1262,1095 1312,1095 1363,1094 1414,1094 1465,1094 1516,1094 1567,1094 1617,1094 1668,1094 1719,1094 1770,1094 1821,1094 1872,1094 1923,1094 1973,1095 2024,1095 2075,1095 2126,1095 2177,1095 2228,1095 2279,1095" />
+                <TextEquiv>
+                    <Unicode>quirúrgica, siempre se les pregunta si la quie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1261,1163 2290,1155 2272,1124 2063,1116 1841,1116 1815,1141 1774,1116 1261,1125" />
+                <Baseline points="1268,1151 1318,1151 1369,1151 1420,1151 1471,1151 1521,1151 1572,1151 1623,1151 1674,1151 1724,1151 1775,1151 1826,1151 1877,1151 1927,1151 1978,1151 2029,1151 2080,1151 2130,1151 2181,1151 2232,1152 2283,1152" />
+                <TextEquiv>
+                    <Unicode>ren con o sin publicidad. A lo que siempre con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1260,1220 2289,1225 2289,1180 2151,1172 1773,1198 1722,1171 1260,1173" />
+                <Baseline points="1266,1208 1316,1208 1367,1208 1418,1208 1469,1208 1520,1208 1570,1208 1621,1209 1672,1209 1723,1209 1774,1209 1824,1209 1875,1209 1926,1209 1977,1209 2028,1209 2078,1209 2129,1209 2180,1209 2231,1209 2282,1209" />
+                <TextEquiv>
+                    <Unicode>testan afirmativamente, a menos que estén muy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1263,1275 2214,1276 2230,1236 1263,1240" />
+                <Baseline points="1269,1265 1316,1266 1364,1266 1412,1266 1459,1266 1507,1268 1555,1268 1602,1268 1650,1268 1698,1266 1746,1266 1793,1266 1841,1266 1889,1266 1936,1266 1984,1266 2032,1266 2079,1266 2127,1266 2175,1266 2223,1266" />
+                <TextEquiv>
+                    <Unicode>adormecidos por el éter. ¡No faltaba más!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1301,1336 2292,1334 2273,1301 2047,1290 1955,1312 1301,1295" />
+                <Baseline points="1307,1328 1355,1328 1404,1328 1453,1328 1502,1328 1551,1328 1600,1328 1649,1328 1698,1328 1747,1328 1796,1328 1844,1328 1893,1328 1942,1328 1991,1328 2040,1329 2089,1329 2138,1329 2187,1329 2236,1328 2285,1328" />
+                <TextEquiv>
+                    <Unicode>Para ellos la publicidad es la savia que man¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1253,1390 1440,1389 1454,1403 1722,1394 1722,1369 1694,1348 1253,1359" />
+                <Baseline points="1260,1385 1285,1386 1310,1386 1335,1386 1361,1386 1386,1386 1411,1386 1436,1386 1462,1386 1487,1386 1512,1386 1538,1386 1563,1385 1588,1385 1613,1385 1639,1385 1664,1385 1689,1385 1715,1386" />
+                <TextEquiv>
+                    <Unicode>tiene su popularidad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1298,1444 1957,1458 1957,1436 1903,1436 1863,1410 1688,1409 1639,1429 1616,1409 1580,1431 1463,1410 1298,1418" />
+                <Baseline points="1304,1448 1336,1448 1368,1446 1400,1446 1433,1446 1465,1448 1497,1448 1530,1448 1562,1448 1594,1448 1627,1449 1659,1449 1691,1449 1723,1449 1756,1449 1788,1449 1820,1449 1853,1449 1885,1449 1917,1448 1950,1448" />
+                <TextEquiv>
+                    <Unicode>Y así hacen el caldo gordo...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thelma Todd se ha casado con el acaudalado
+jóven Pasquale de Cocci y se quieren tanto que
+no pueden estar separados ni aun en sus horas
+de trabajo. Pasquale acompaña a Thelma todos
+los días al estudio Columbia y se queda para ver¬
+la trabajar y acompañarla de nuevo a casa.
+Como habrán ustedes adivinado por el ape¬
+liido, el señor de Cocci es italiano.
+¡Deseámosles perpetua felicidad!
+-00o—
+En estos tiempos, cuando en Hollywood una
+estrella o astro se va a someter a una operación
+quirúrgica, siempre se les pregunta si la quie¬
+ren con o sin publicidad. A lo que siempre con¬
+testan afirmativamente, a menos que estén muy
+adormecidos por el éter. ¡No faltaba más!
+Para ellos la publicidad es la savia que man¬
+tiene su popularidad.
+Y asi hacen el caldo gordo...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1285,1542 2271,1542 2271,2844 1285,2844" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1259,2893 2286,2893 2286,3250 1259,3250" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1295,2938 2274,2939 2289,2901 1295,2904" />
+                <Baseline points="1301,2925 1350,2925 1399,2925 1448,2927 1497,2927 1546,2927 1595,2927 1644,2927 1693,2927 1742,2927 1792,2925 1841,2925 1890,2925 1939,2925 1988,2925 2037,2925 2086,2925 2135,2925 2184,2925 2233,2925 2283,2925" />
+                <TextEquiv>
+                    <Unicode>Jean Harlow, la famosa rubia platino de lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1253,2995 2283,2981 2265,2949 2117,2939 1253,2959" />
+                <Baseline points="1259,2981 1309,2979 1360,2979 1411,2978 1462,2978 1513,2978 1564,2978 1614,2978 1665,2978 1716,2978 1767,2978 1818,2978 1869,2978 1920,2978 1970,2978 2021,2978 2072,2978 2123,2976 2174,2976 2225,2975 2276,2975" />
+                <TextEquiv>
+                    <Unicode>pantalla, corta el pastel de boda el día de su en¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1259,3042 2208,3028 2121,2996 1553,2995 1531,3017 1259,2995" />
+                <Baseline points="1266,3027 1312,3027 1359,3027 1406,3027 1453,3027 1500,3027 1546,3027 1593,3027 1640,3027 1687,3027 1734,3026 1780,3026 1827,3026 1874,3026 1921,3026 1968,3026 2014,3027 2061,3027 2108,3027 2155,3027 2202,3027" />
+                <TextEquiv>
+                    <Unicode>lace con Mr. Paul Bern, magnate peliculero.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1307,3088 2280,3090 2280,3050 2215,3043 2176,3066 1307,3044" />
+                <Baseline points="1314,3080 1362,3080 1410,3080 1458,3080 1506,3078 1554,3080 1602,3080 1650,3080 1698,3080 1746,3080 1794,3080 1842,3080 1890,3080 1938,3080 1986,3080 2034,3080 2082,3080 2130,3080 2178,3080 2226,3078 2274,3078" />
+                <TextEquiv>
+                    <Unicode>De izquierda a derecha: Irving Thalberg, Jean</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1259,3140 2293,3141 2293,3106 2123,3092 1918,3120 1803,3091 1632,3118 1595,3091 1564,3122 1259,3093" />
+                <Baseline points="1265,3131 1316,3131 1367,3131 1418,3131 1469,3131 1520,3131 1571,3131 1622,3131 1673,3131 1724,3131 1775,3131 1826,3131 1877,3131 1928,3131 1979,3131 2030,3131 2081,3131 2132,3131 2183,3131 2234,3131 2286,3129" />
+                <TextEquiv>
+                    <Unicode>Harlow (Sra. de Paul Bern), Norma Shearer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1253,3194 2290,3192 2290,3157 2135,3147 1254,3155" />
+                <Baseline points="1260,3182 1311,3182 1362,3182 1413,3182 1464,3182 1515,3182 1566,3182 1618,3182 1669,3183 1720,3183 1771,3183 1822,3183 1873,3183 1924,3183 1976,3183 2027,3183 2078,3183 2129,3183 2180,3183 2231,3185 2283,3185" />
+                <TextEquiv>
+                    <Unicode>Marino Bello (padrasto de Jean Harlo) y su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1261,3243 1637,3244 1671,3228 1671,3213 1565,3195 1532,3209 1505,3195 1485,3210 1447,3195 1409,3221 1391,3208 1261,3211" />
+                <Baseline points="1268,3234 1294,3235 1320,3236 1347,3236 1373,3236 1400,3236 1426,3236 1453,3236 1479,3236 1506,3235 1532,3234 1559,3234 1585,3234 1612,3235 1638,3236 1665,3236" />
+                <TextEquiv>
+                    <Unicode>esposo, Paul Bern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jean Harlow, la famosa rubia platino de lo
+pantalla, corta el pastel de boda el día de su en¬
+lace con Mr. Paul Bern, magnate peliculero.
+De izquierda a derecha: Irving Thalberg, Jean
+Harlow (Sra. de Paul Bern), Norma Shearer,
+Marino Bello (padrasto de Jean Harlo) y su
+esposo, Paul Bern.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1600,852 1743,852 1743,858 1600,858" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1813,853 1947,853 1947,858 1813,858" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="515,1884 658,1884 658,1889 515,1889" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="721,1885 863,1885 863,1891 721,1891" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="516,2573 659,2573 659,2577 516,2577" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="729,2573 862,2573 862,2578 729,2578" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="519,3217 652,3217 652,3221 519,3221" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="746,3218 863,3218 863,3222 746,3222" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1346,2553 1352,2553 1352,2650 1346,2650" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1353,2489 1359,2489 1359,2617 1353,2617" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="2245,2150 2266,2150 2266,2459 2245,2459" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="420,843 443,843 443,847 420,847" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1345,2535 1348,2535 1348,2562 1345,2562" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1359,2553 1361,2553 1361,2616 1359,2616" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

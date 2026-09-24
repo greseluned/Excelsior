@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:47:59.219+02:00</Created>
+        <LastChange>2021-06-08T18:23:00.297+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782648" pageNr="1702" tsid="236402084" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QFWHPMQSIWMQRWCADNIQGTXX" xmlUrl="https://files.transkribus.eu/Get?id=WHTCKIFOMIRKBJPHOYYTSABX" imageId="17248354" />
+    </Metadata>
+    <Page imageFilename="1702_p601.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="376,572 2098,572 2098,2911 376,2911" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982809236" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="404,572 2098,572 2098,2244 404,2244" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="376,2372 1584,2372 1584,2847 376,2847" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1052,2428 1063,2427 1064,2429 1085,2430 1100,2427 1095,2367 1047,2373" />
+                <Baseline points="1059,2421 1092,2418" />
+                <TextEquiv>
+                    <Unicode>O</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="749,2688 1191,2692 1217,2677 1217,2650 1191,2635 1040,2634 1023,2651 967,2635 880,2635 863,2651 800,2635 749,2643" />
+                <Baseline points="756,2675 781,2676 806,2676 831,2676 856,2676 881,2676 907,2676 932,2676 957,2676 982,2676 1007,2676 1032,2676 1058,2676 1083,2677 1108,2678 1133,2678 1158,2678 1183,2679 1209,2679" />
+                <TextEquiv>
+                    <Unicode>Don ELíAS MARCO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="371,2778 1463,2788 1574,2778 1588,2732 371,2727" />
+                <Baseline points="378,2766 438,2766 498,2765 558,2765 618,2765 678,2765 738,2765 798,2765 858,2765 918,2765 979,2766 1039,2766 1099,2766 1159,2766 1219,2766 1279,2766 1339,2766 1399,2768 1459,2768 1519,2768 1580,2768" />
+                <TextEquiv>
+                    <Unicode>Director-Gerente del Monte de Piedad y Caja de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="729,2841 1216,2848 1216,2814 1169,2791 1108,2805 1045,2793 1025,2810 986,2793 936,2808 792,2792 729,2823" />
+                <Baseline points="737,2835 763,2835 789,2835 815,2835 841,2835 868,2835 894,2835 920,2834 946,2834 973,2834 999,2834 1025,2834 1051,2834 1077,2834 1104,2834 1130,2835 1156,2835 1182,2835 1209,2835" />
+                <TextEquiv>
+                    <Unicode>Ahorros de Manila.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>O
+Don ELíAS MARCO
+Director-Gerente del Monte de Piedad y Caja de
+Ahorros de Manila.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1380,2878 1696,2878 1696,2911 1380,2911" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1379,2915 1692,2912 1692,2875 1543,2874 1536,2882 1527,2874 1379,2875" />
+                <Baseline points="1386,2900 1413,2901 1440,2901 1467,2901 1494,2902 1521,2903 1549,2903 1576,2904 1603,2903 1630,2903 1657,2902 1685,2901" />
+                <TextEquiv>
+                    <Unicode>Por LUIS ESTERAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Por LUIS ESTERAN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="593,997 896,997 896,1019 593,1019" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="801,1231 813,1231 813,1378 801,1378" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

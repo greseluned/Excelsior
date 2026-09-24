@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:45:37.896+02:00</Created>
+        <LastChange>2021-11-17T21:17:04.552+01:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781373" pageNr="470" tsid="236400460" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YRVASSFFZHQIZJTGFSECUJYZ" xmlUrl="https://files.transkribus.eu/Get?id=MWFUBFUCSKVUJHFZEATHLNQT" imageId="17244082" />
+    </Metadata>
+    <Page imageFilename="0470_p006.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982524017" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r4" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="273,3161 273,3297 765,3297 765,3161" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="273,3216 298,3216 324,3218 350,3218 376,3218 402,3218 428,3218 454,3218 480,3218 506,3218 531,3218 557,3216 583,3216 609,3216 635,3216 661,3216 687,3216 713,3216 739,3217 765,3218 765,3163 739,3162 713,3161 687,3161 661,3161 635,3161 609,3161 583,3161 557,3161 531,3163 506,3163 480,3163 454,3163 428,3163 402,3163 376,3163 350,3163 324,3163 298,3161 273,3161" />
+                <Baseline points="273,3198 298,3198 324,3200 350,3200 376,3200 402,3200 428,3200 454,3200 480,3200 506,3200 531,3200 557,3198 583,3198 609,3198 635,3198 661,3198 687,3198 713,3198 739,3199 765,3200" />
+                <TextEquiv>
+                    <Unicode>Dn. Enrique Zobel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="290,3291 316,3294 342,3294 368,3296 394,3296 420,3297 447,3297 473,3297 499,3297 525,3297 551,3297 577,3297 604,3297 630,3296 656,3296 682,3296 708,3296 734,3296 761,3297 761,3242 734,3241 708,3241 682,3241 656,3241 630,3241 604,3242 577,3242 551,3242 525,3242 499,3242 473,3242 447,3242 420,3242 394,3241 368,3241 342,3239 316,3239 290,3236" />
+                <Baseline points="290,3273 316,3276 342,3276 368,3278 394,3278 420,3279 447,3279 473,3279 499,3279 525,3279 551,3279 577,3279 604,3279 630,3278 656,3278 682,3278 708,3278 734,3278 761,3279" />
+                <TextEquiv>
+                    <Unicode>Visto por Esteban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dn. Enrique Zobel
+Visto por Esteban</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:1;}">
+            <Coords points="1875,2758 1820,3051 2052,3051 2107,2758" />
+            <TextLine id="r4l7" custom="readingOrder {index:0;}">
+                <Coords points="1820,3051 1845,3050 1871,3046 1897,3039 1923,3029 1948,3019 1974,3008 2000,2997 2026,2986 2052,2980 2052,2941 2026,2947 2000,2958 1974,2969 1948,2980 1923,2990 1897,3000 1871,3007 1845,3011 1820,3012" />
+                <Baseline points="1820,3038 1845,3037 1871,3033 1897,3026 1923,3016 1948,3006 1974,2995 2000,2984 2026,2973 2052,2967" />
+                <TextEquiv>
+                    <Unicode>1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1930</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

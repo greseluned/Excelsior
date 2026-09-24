@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:23.424+02:00</Created>
+        <LastChange>2021-10-29T19:48:12.296+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781495" pageNr="605" tsid="236400659" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ESLFOGXUUXPZSGSEZGRBUMHN" xmlUrl="https://files.transkribus.eu/Get?id=TIIHOEOBLCGNPEFVUELOAUNN" imageId="17244815" />
+    </Metadata>
+    <Page imageFilename="0605_p141.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982556263" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+                <RegionRefIndexed index="3" regionRef="r4" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="128,883 128,1039 203,1039 203,883" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="128,1036 153,1039 178,1037 203,1033 203,883 178,887 153,889 128,886" />
+                <Baseline points="128,986 153,989 178,987 203,983" />
+                <TextEquiv>
+                    <Unicode>CU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CU</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="912,110 912,1040 1452,1040 1452,110" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1236,269 1284,260 1284,110 1236,119" />
+                <Baseline points="1236,219 1284,210" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="912,1040 939,1040 966,1040 993,1040 1020,1039 1047,1039 1074,1039 1101,1039 1128,1037 1155,1037 1182,1037 1209,1037 1236,1037 1263,1037 1290,1036 1317,1036 1344,1036 1371,1036 1398,1035 1425,1034 1452,1034 1452,884 1425,884 1398,885 1371,886 1344,886 1317,886 1290,886 1263,887 1236,887 1209,887 1182,887 1155,887 1128,887 1101,889 1074,889 1047,889 1020,889 993,890 966,890 939,890 912,890" />
+                <Baseline points="912,990 939,990 966,990 993,990 1020,989 1047,989 1074,989 1101,989 1128,987 1155,987 1182,987 1209,987 1236,987 1263,987 1290,986 1317,986 1344,986 1371,986 1398,985 1425,984 1452,984" />
+                <TextEquiv>
+                    <Unicode>CUCCCUCCCUCU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2
+CUCCCUCCCUCU</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1665,522 1665,677 1743,677 1743,522" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1665,677 1691,675 1717,672 1743,674 1743,524 1717,522 1691,525 1665,527" />
+                <Baseline points="1665,627 1691,625 1717,622 1743,624" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="1824,167 1824,595 2382,595 2382,167" />
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1967,249 1992,251 2018,251 2043,251 2069,251 2094,251 2120,251 2145,251 2171,251 2196,249 2222,249 2247,249 2273,248 2298,248 2324,248 2349,248 2375,248 2375,167 2349,167 2324,167 2298,167 2273,167 2247,168 2222,168 2196,168 2171,170 2145,170 2120,170 2094,170 2069,170 2043,170 2018,170 1992,170 1967,168" />
+                <Baseline points="1967,222 1992,224 2018,224 2043,224 2069,224 2094,224 2120,224 2145,224 2171,224 2196,222 2222,222 2247,222 2273,221 2298,221 2324,221 2349,221 2375,221" />
+                <TextEquiv>
+                    <Unicode>BELLEZAS D</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="1824,418 1851,417 1879,417 1907,417 1935,417 1962,415 1990,415 2018,415 2046,415 2073,415 2101,415 2129,415 2157,415 2184,415 2212,414 2240,414 2268,414 2295,412 2323,412 2351,411 2379,409 2379,342 2351,344 2323,345 2295,345 2268,347 2240,347 2212,347 2184,348 2157,348 2129,348 2101,348 2073,348 2046,348 2018,348 1990,348 1962,348 1935,350 1907,350 1879,350 1851,350 1824,351" />
+                <Baseline points="1824,396 1851,395 1879,395 1907,395 1935,395 1962,393 1990,393 2018,393 2046,393 2073,393 2101,393 2129,393 2157,393 2184,393 2212,392 2240,392 2268,392 2295,390 2323,390 2351,389 2379,387" />
+                <TextEquiv>
+                    <Unicode>Srta. Lina Araullo. "S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="2034,508 2060,508 2087,508 2114,507 2141,507 2167,507 2194,505 2221,505 2248,505 2274,505 2301,505 2328,505 2355,505 2382,505 2382,439 2355,439 2328,439 2301,439 2274,439 2248,439 2221,439 2194,439 2167,441 2141,441 2114,441 2087,442 2060,442 2034,442" />
+                <Baseline points="2034,486 2060,486 2087,486 2114,485 2141,485 2167,485 2194,483 2221,483 2248,483 2274,483 2301,483 2328,483 2355,483 2382,483" />
+                <TextEquiv>
+                    <Unicode>Srta. Luisa Ro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="2190,595 2216,595 2243,595 2269,595 2296,595 2322,595 2349,595 2376,595 2376,528 2349,528 2322,528 2296,528 2269,528 2243,528 2216,528 2190,528" />
+                <Baseline points="2190,573 2216,573 2243,573 2269,573 2296,573 2322,573 2349,573 2376,573" />
+                <TextEquiv>
+                    <Unicode>Srta. Al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BELLEZAS D
+Srta. Lina Araullo. "S
+Srta. Luisa Ro.
+Srta. Al</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

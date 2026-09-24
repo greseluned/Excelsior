@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:44:36.631+02:00</Created>
+        <LastChange>2021-06-08T16:29:52.866+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782387" pageNr="1460" tsid="236401745" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CXFFOMIZCTBZPNZILOMUAKQC" xmlUrl="https://files.transkribus.eu/Get?id=ORTCQYWOYAVQGLAVBPFEYSFZ" imageId="17247780" />
+    </Metadata>
+    <Page imageFilename="1460_p359.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="362,486 2124,486 2124,3028 362,3028" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982754372" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+                <RegionRefIndexed index="7" regionRef="r_8_1" />
+                <RegionRefIndexed index="9" regionRef="r_10_1" />
+                <RegionRefIndexed index="10" regionRef="r_11_1" />
+                <RegionRefIndexed index="11" regionRef="r_12_1" />
+                <RegionRefIndexed index="12" regionRef="r_13_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="485,650 813,650 813,1580 485,1580" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="911,566 2015,566 2015,1163 911,1163" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="953,730 2008,737 2009,700 1912,627 1862,663 1820,635 1727,701 1404,698 1352,645 1269,694 1194,649 1110,693 954,648" />
+                <Baseline points="962,716 1016,716 1071,716 1126,716 1180,716 1235,716 1290,717 1344,717 1399,717 1454,717 1508,717 1563,717 1618,717 1672,719 1727,719 1782,719 1836,719 1891,720 1946,720 2001,720" />
+                <TextEquiv>
+                    <Unicode>ULOUO SA SOHl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="914,795 2019,801 2004,762 1738,750 914,756" />
+                <Baseline points="923,789 977,788 1031,786 1086,786 1140,786 1194,786 1249,786 1303,786 1357,786 1412,786 1466,786 1520,788 1575,788 1629,789 1683,789 1738,789 1792,791 1846,791 1901,791 1955,792 2010,792" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="941,877 1985,880 1952,842 1809,861 1741,834 941,856" />
+                <Baseline points="950,873 1001,872 1052,872 1104,872 1155,872 1206,872 1258,872 1309,872 1360,872 1412,872 1463,872 1514,872 1566,873 1617,873 1668,873 1720,875 1771,875 1822,876 1874,878 1925,879 1977,881" />
+                <TextEquiv>
+                    <Unicode>EXPLENDIDO SURTIDO EN MALLA, SEDA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="948,947 1978,948 1944,907 948,914" />
+                <Baseline points="956,942 1006,942 1057,942 1108,942 1158,942 1209,942 1260,944 1310,944 1361,944 1412,944 1463,944 1513,944 1564,944 1615,944 1665,944 1716,944 1767,945 1817,945 1868,945 1919,947 1970,947" />
+                <TextEquiv>
+                    <Unicode>BORDADA, SEDA CON PERLAS ó ABALO¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="938,1014 1605,1022 1605,1000 1559,979 1481,978 1463,996 1341,976 938,990" />
+                <Baseline points="947,1011 979,1013 1011,1013 1044,1013 1076,1013 1109,1013 1141,1013 1174,1013 1206,1013 1239,1013 1271,1011 1303,1011 1336,1011 1368,1011 1401,1011 1433,1013 1466,1013 1498,1014 1531,1015 1563,1017 1596,1019" />
+                <TextEquiv>
+                    <Unicode>RIOS, LENTEJUELAS, ETC.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1168,1147 1422,1139 1560,1164 1577,1148 1761,1145 1761,1122 1664,1075 1611,1102 1503,1100 1478,1075 1440,1075 1412,1102 1365,1082 1248,1101 1221,1075 1169,1081" />
+                <Baseline points="1176,1136 1204,1136 1233,1137 1262,1137 1291,1139 1320,1139 1348,1139 1377,1139 1406,1139 1435,1140 1464,1140 1492,1140 1521,1140 1550,1140 1579,1140 1608,1140 1636,1140 1665,1140 1694,1140 1723,1142 1752,1142" />
+                <TextEquiv>
+                    <Unicode>Recién llegados.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ULOUO SA SOHl
+
+EXPLENDIDO SURTIDO EN MALLA, SEDA
+BORDADA, SEDA CON PERLAS ó ABALO¬
+RIOS, LENTEJUELAS, ETC.
+Recién llegados.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1040,1206 1521,1206 1521,1278 1040,1278" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1032,1280 1526,1269 1526,1208 1513,1203 1439,1203 1419,1222 1400,1203 1372,1216 1306,1204 1279,1230 1214,1203 1138,1226 1032,1204" />
+                <Baseline points="1041,1262 1066,1262 1091,1263 1116,1263 1141,1263 1166,1263 1191,1263 1216,1265 1241,1265 1266,1265 1292,1265 1317,1265 1342,1265 1367,1265 1392,1265 1417,1265 1442,1265 1467,1265 1492,1264 1518,1263" />
+                <TextEquiv>
+                    <Unicode>Desde P4.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Desde P4.00</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="955,1379 1001,1379 1001,1428 955,1428" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="955,1427 978,1426 983,1421 1001,1419 1001,1378 993,1378 991,1380 955,1381" />
+                <Baseline points="963,1419 993,1419" />
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1460,1309 1888,1309 1888,1379 1460,1379" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1464,1380 1545,1380 1560,1365 1581,1380 1885,1380 1886,1324 1853,1331 1822,1314 1756,1327 1736,1307 1691,1323 1655,1307 1632,1330 1601,1324 1568,1344 1525,1322 1464,1325" />
+                <Baseline points="1473,1367 1498,1368 1523,1369 1548,1370 1574,1370 1599,1370 1624,1370 1649,1370 1675,1371 1700,1371 1725,1371 1750,1371 1776,1370 1801,1370 1826,1370 1851,1371 1877,1371" />
+                <TextEquiv>
+                    <Unicode>en adelante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>en adelante</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="860,1510 1816,1510 1816,1653 860,1653" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="868,1579 1574,1579 1602,1551 1654,1587 1821,1583 1821,1553 1701,1513 1284,1537 1042,1507 994,1551 950,1507 868,1510" />
+                <Baseline points="875,1572 921,1572 968,1571 1015,1571 1062,1571 1109,1569 1156,1569 1202,1569 1249,1568 1296,1568 1343,1568 1390,1568 1437,1568 1484,1568 1530,1569 1577,1569 1624,1571 1671,1571 1718,1573 1765,1575 1812,1577" />
+                <TextEquiv>
+                    <Unicode>E. Heacock Co.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="999,1638 1055,1656 1223,1656 1246,1638 1262,1654 1453,1656 1485,1638 1485,1610 999,1613" />
+                <Baseline points="1007,1641 1033,1642 1059,1643 1085,1643 1111,1644 1137,1644 1163,1644 1189,1644 1215,1644 1241,1644 1267,1643 1293,1643 1319,1643 1345,1643 1371,1643 1397,1643 1423,1643 1449,1644 1476,1644" />
+                <TextEquiv>
+                    <Unicode>ESCOLTA Y DAVID</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E. Heacock Co.
+ESCOLTA Y DAVID</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="460,1836 1488,1836 1488,1986 460,1986" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="454,1968 1491,1976 1491,1920 1394,1863 1335,1919 1295,1899 1152,1959 1045,1954 953,1861 814,1953 768,1951 675,1860 454,1882" />
+                <Baseline points="461,1967 512,1967 563,1967 614,1967 665,1967 716,1967 767,1967 818,1968 869,1968 920,1968 971,1968 1022,1968 1073,1968 1124,1969 1175,1970 1226,1970 1277,1970 1328,1970 1379,1971 1430,1971 1482,1971" />
+                <TextEquiv>
+                    <Unicode>SWLALLAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SWLALLAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="456,2078 1898,2078 1898,2690 456,2690" />
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="451,2112 1475,2120 1474,2079 1399,2074 450,2082" />
+                <Baseline points="458,2109 508,2109 558,2109 609,2109 659,2109 710,2109 760,2109 811,2109 861,2109 912,2108 962,2108 1012,2108 1063,2108 1113,2108 1164,2108 1214,2108 1265,2108 1315,2108 1366,2108 1416,2108 1467,2109" />
+                <TextEquiv>
+                    <Unicode>IMPORTAMOS EL MÁS COMPLETO Y MODERNO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="585,2168 1344,2174 1367,2135 585,2136" />
+                <Baseline points="593,2162 631,2161 669,2160 707,2160 746,2160 784,2159 822,2159 860,2159 899,2159 937,2159 975,2160 1013,2160 1052,2160 1090,2160 1128,2160 1166,2160 1205,2160 1243,2162 1281,2162 1319,2162 1358,2162" />
+                <TextEquiv>
+                    <Unicode>SURTIDO DE SWEATERS ATLETICOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="815,2220 840,2229 897,2219 925,2229 1113,2227 1130,2219 1130,2188 815,2192" />
+                <Baseline points="824,2214 851,2216 878,2216 905,2217 932,2217 959,2217 986,2217 1013,2216 1040,2216 1067,2216 1094,2216 1121,2217" />
+                <TextEquiv>
+                    <Unicode>EN ORIENTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l4" custom="readingOrder {index:3;}">
+                <Coords points="462,2323 1488,2315 1473,2275 462,2275" />
+                <Baseline points="471,2309 521,2309 571,2309 622,2310 672,2310 723,2310 773,2310 823,2310 874,2310 924,2310 975,2310 1025,2310 1075,2310 1126,2310 1176,2310 1227,2310 1277,2310 1327,2310 1378,2310 1428,2309 1479,2309" />
+                <TextEquiv>
+                    <Unicode>No. 550—De lana pura, en Blanco sólo.. P15.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l5" custom="readingOrder {index:4;}">
+                <Coords points="456,2378 1488,2373 1488,2346 1411,2332 1351,2356 1239,2332 456,2345" />
+                <Baseline points="464,2370 514,2370 565,2372 616,2372 667,2372 717,2373 768,2373 819,2373 870,2373 920,2373 971,2372 1022,2372 1073,2372 1123,2372 1174,2372 1225,2370 1276,2370 1326,2370 1377,2370 1428,2370 1479,2370" />
+                <TextEquiv>
+                    <Unicode>No. 408—De lana pura, en colores variados 12.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l6" custom="readingOrder {index:5;}">
+                <Coords points="468,2442 1487,2436 1459,2395 1347,2423 468,2395" />
+                <Baseline points="476,2433 526,2433 576,2433 626,2433 676,2433 726,2433 776,2433 827,2435 877,2435 927,2435 977,2435 1027,2435 1077,2436 1127,2436 1178,2436 1228,2435 1278,2435 1328,2435 1378,2435 1428,2433 1479,2432" />
+                <TextEquiv>
+                    <Unicode>Chaquetas sweaters de lana pura ---- 18.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l7" custom="readingOrder {index:6;}">
+                <Coords points="487,2544 1541,2555 1540,2498 487,2503" />
+                <Baseline points="495,2543 546,2544 598,2544 650,2546 702,2546 754,2546 806,2546 858,2546 910,2545 962,2544 1014,2544 1065,2544 1117,2543 1169,2543 1221,2543 1273,2541 1325,2541 1377,2541 1429,2541 1481,2541 1533,2541" />
+                <TextEquiv>
+                    <Unicode>SWEATERS CON MANGAS ó BOTONES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l8" custom="readingOrder {index:7;}">
+                <Coords points="562,2626 1881,2628 1894,2580 562,2592" />
+                <Baseline points="570,2618 635,2618 701,2618 767,2618 833,2619 899,2619 964,2619 1030,2619 1096,2619 1162,2619 1228,2618 1293,2618 1359,2618 1425,2618 1491,2616 1557,2616 1622,2615 1688,2615 1754,2613 1820,2612 1886,2610" />
+                <TextEquiv>
+                    <Unicode>Para caballeros --- Desde ₱10.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1771,2692 1872,2692 1890,2678 1898,2678 1898,2649 1885,2649 1875,2642 1862,2642 1859,2646 1854,2642 1837,2642 1831,2649 1822,2642 1771,2642" />
+                <Baseline points="1779,2679 1806,2679 1834,2679 1862,2679 1890,2679" />
+                <TextEquiv>
+                    <Unicode>18.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l10" custom="readingOrder {index:9;}">
+                <Coords points="566,2683 1606,2682 566,2651" />
+                <Baseline points="575,2681 626,2681 677,2682 728,2682 779,2682 831,2684 882,2684 933,2684 984,2683 1035,2682 1087,2682 1138,2682 1189,2682 1240,2682 1291,2682 1343,2681 1394,2681 1445,2681 1496,2681 1547,2682 1599,2682" />
+                <TextEquiv>
+                    <Unicode>Para señorás -----------</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>IMPORTAMOS EL MÁS COMPLETO Y MODERNO
+SURTIDO DE SWEATERS ATLETICOS
+EN ORIENTE.
+No. 550—De lana pura, en Blanco sólo.. P15.00
+No. 408—De lana pura, en colores variados 12.00
+Chaquetas sweaters de lana pura ---- 18.00
+SWEATERS CON MANGAS ó BOTONES
+Para caballeros --- Desde ₱10.00
+18.00
+Para señorás -----------</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1542,1864 1996,1864 1996,2578 1542,2578" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_10_1" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="2068,2578 2124,2578 2124,2714 2068,2714" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_11_1" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="744,2816 880,2816 880,2890 744,2890" />
+            <TextLine id="r_11_1l1" custom="readingOrder {index:0;}">
+                <Coords points="753,2885 780,2891 863,2890 879,2884 880,2850 867,2848 838,2818 816,2822 774,2818 765,2826 754,2826" />
+                <Baseline points="761,2880 788,2879 816,2881 844,2882 872,2880" />
+                <TextEquiv>
+                    <Unicode>C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>C.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_12_1" custom="readingOrder {index:11;} structure {type:paragraph;}">
+            <Coords points="1494,2814 1692,2814 1692,2888 1494,2888" />
+            <TextLine id="r_12_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1502,2890 1526,2891 1547,2873 1569,2891 1598,2885 1632,2901 1653,2900 1665,2891 1700,2891 1703,2835 1694,2835 1680,2819 1616,2817 1606,2827 1596,2819 1567,2818 1553,2829 1537,2819 1506,2818" />
+                <Baseline points="1511,2871 1536,2873 1562,2874 1588,2875 1614,2877 1640,2877 1666,2880 1692,2882" />
+                <TextEquiv>
+                    <Unicode>NC.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NC.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_13_1" custom="readingOrder {index:12;} structure {type:paragraph;}">
+            <Coords points="1064,2902 1390,2902 1390,2946 1064,2946" />
+            <TextLine id="r_13_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1060,2942 1183,2949 1397,2939 1397,2914 1358,2899 1314,2899 1299,2913 1272,2898 1060,2903" />
+                <Baseline points="1068,2936 1094,2937 1121,2937 1148,2937 1175,2936 1201,2936 1228,2936 1255,2936 1282,2937 1308,2937 1335,2939 1362,2939 1389,2942" />
+                <TextEquiv>
+                    <Unicode>ESCOLTA 122</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ESCOLTA 122</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="918,772 2008,772 2008,788 918,788" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="972,1431 1496,1431 1496,1444 972,1444" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="579,1780 1634,1780 1634,1786 579,1786" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="1634,1784 2104,1784 2104,1793 1634,1793" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="834,1789 2102,1789 2102,1802 834,1802" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="385,1790 834,1790 834,1794 385,1794" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="1333,1799 2052,1799 2052,1810 1333,1810" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="472,2003 1466,2003 1466,2024 472,2024" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="1126,2746 1344,2746 1344,2751 1126,2751" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="412,3005 1329,3005 1329,3010 412,3010" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="376,3013 1424,3013 1424,3019 376,3019" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="407,3023 1372,3023 1372,3028 407,3028" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:25;}">
+            <Coords points="362,1813 372,1813 372,3008 362,3008" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:26;}">
+            <Coords points="372,1811 390,1811 390,3008 372,3008" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:27;}">
+            <Coords points="2081,2837 2085,2837 2085,2945 2081,2945" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+            <Coords points="2086,1787 2096,1787 2096,2628 2086,2628" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+            <Coords points="2090,2771 2095,2771 2095,2967 2090,2967" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:30;}">
+            <Coords points="2094,1801 2105,1801 2105,2576 2094,2576" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:31;}">
+            <Coords points="2100,2793 2105,2793 2105,2968 2100,2968" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:32;}">
+            <Coords points="2105,1805 2114,1805 2114,2363 2105,2363" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:33;}">
+            <Coords points="2111,535 2122,535 2122,1710 2111,1710" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:34;}">
+            <Coords points="1151,1429 1323,1429 1323,1445 1151,1445" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:35;}">
+            <Coords points="1188,2434 1318,2434 1318,2438 1188,2438" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:36;}">
+            <Coords points="934,2613 1590,2613 1590,2620 934,2620" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:37;}">
+            <Coords points="869,2678 1592,2678 1592,2685 869,2685" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

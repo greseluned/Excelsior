@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:08:50.783+02:00</Created>
+        <LastChange>2021-11-03T16:57:33.970+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781013" pageNr="136" tsid="236400011" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QFXUYQPZATNPFAUAQXLIYGIC" xmlUrl="https://files.transkribus.eu/Get?id=QXFVJHHCNWWTNBLRRPDJWJAX" imageId="17243999" />
+    </Metadata>
+    <Page imageFilename="0136_p136.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="186,249 2273,249 2273,3242 186,3242" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982446861" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="187,249 2272,249 2272,1579 187,1579" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="211,1604 2262,1604 2262,1694 211,1694" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="294,1647 391,1647 489,1647 587,1647 685,1647 783,1647 881,1647 979,1647 1077,1647 1175,1647 1273,1647 1370,1647 1468,1647 1566,1647 1664,1648 1762,1648 1860,1648 1958,1648 2056,1650 2154,1650 2252,1651 2252,1621 2154,1620 2056,1620 1958,1618 1860,1618 1762,1618 1664,1618 1566,1617 1468,1617 1370,1617 1273,1617 1175,1617 1077,1617 979,1617 881,1617 783,1617 685,1617 587,1617 489,1617 391,1617 294,1617" />
+                <Baseline points="294,1637 391,1637 489,1637 587,1637 685,1637 783,1637 881,1637 979,1637 1077,1637 1175,1637 1273,1637 1370,1637 1468,1637 1566,1637 1664,1638 1762,1638 1860,1638 1958,1638 2056,1640 2154,1640 2252,1641" />
+                <TextEquiv>
+                    <Unicode>Banquete de despedida dado en el Tom's Oriental Grill por el Sr. Toribio Teodoro en honor al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="222,1687 316,1687 411,1687 506,1687 601,1687 696,1689 791,1689 886,1689 981,1689 1076,1689 1171,1689 1265,1690 1360,1690 1455,1690 1550,1690 1645,1690 1740,1690 1835,1690 1930,1690 2025,1689 2120,1689 2120,1659 2025,1659 1930,1660 1835,1660 1740,1660 1645,1660 1550,1660 1455,1660 1360,1660 1265,1660 1171,1659 1076,1659 981,1659 886,1659 791,1659 696,1659 601,1657 506,1657 411,1657 316,1657 222,1657" />
+                <Baseline points="222,1677 316,1677 411,1677 506,1677 601,1677 696,1679 791,1679 886,1679 981,1679 1076,1679 1171,1679 1265,1680 1360,1680 1455,1680 1550,1680 1645,1680 1740,1680 1835,1680 1930,1680 2025,1679 2120,1679" />
+                <TextEquiv>
+                    <Unicode>conocido industrial, Sr. Gonzalo Puyat, que ha salido en viaje de recreo al rededor del mundo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Banquete de despedida dado en el Tom's Oriental Grill por el Sr. Toribio Teodoro en honor al
+conocido industrial, Sr. Gonzalo Puyat, que ha salido en viaje de recreo al rededor del mundo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="186,1705 2273,1705 2273,3067 186,3067" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="212,3071 2255,3071 2255,3242 212,3242" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="300,3111 397,3111 494,3112 591,3112 688,3112 785,3112 882,3114 979,3114 1076,3114 1173,3114 1270,3114 1367,3114 1464,3115 1561,3115 1658,3115 1755,3115 1852,3115 1949,3115 2046,3115 2143,3115 2241,3115 2241,3085 2143,3085 2046,3085 1949,3085 1852,3085 1755,3085 1658,3085 1561,3085 1464,3085 1367,3084 1270,3084 1173,3084 1076,3084 979,3084 882,3084 785,3082 688,3082 591,3082 494,3082 397,3081 300,3081" />
+                <Baseline points="300,3101 397,3101 494,3102 591,3102 688,3102 785,3102 882,3104 979,3104 1076,3104 1173,3104 1270,3104 1367,3104 1464,3105 1561,3105 1658,3105 1755,3105 1852,3105 1949,3105 2046,3105 2143,3105 2241,3105" />
+                <TextEquiv>
+                    <Unicode>Astrónomos Extranjeros y locales que fueron obsequiados con un banquete en el "Manila Hotei",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="213,3150 314,3151 416,3151 518,3152 619,3153 721,3153 823,3154 924,3154 1026,3154 1128,3154 1230,3156 1331,3156 1433,3156 1535,3156 1636,3156 1738,3156 1840,3156 1941,3156 2043,3156 2145,3156 2247,3156 2247,3126 2145,3126 2043,3126 1941,3126 1840,3126 1738,3126 1636,3126 1535,3126 1433,3126 1331,3126 1230,3126 1128,3124 1026,3124 924,3124 823,3124 721,3123 619,3123 518,3122 416,3121 314,3121 213,3120" />
+                <Baseline points="213,3140 314,3141 416,3141 518,3142 619,3143 721,3143 823,3144 924,3144 1026,3144 1128,3144 1230,3146 1331,3146 1433,3146 1535,3146 1636,3146 1738,3146 1840,3146 1941,3146 2043,3146 2145,3146 2247,3146" />
+                <TextEquiv>
+                    <Unicode>por el Alcalde interino de la Ciudad, Sr. Santiago Artiaga, y en el que se pronunciaron discursos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="215,3190 316,3190 418,3192 519,3192 621,3192 722,3192 824,3193 925,3193 1027,3193 1128,3193 1230,3195 1332,3195 1433,3195 1535,3195 1636,3196 1738,3196 1839,3196 1941,3196 2042,3196 2144,3196 2246,3196 2246,3166 2144,3166 2042,3166 1941,3166 1839,3166 1738,3166 1636,3166 1535,3165 1433,3165 1332,3165 1230,3165 1128,3163 1027,3163 925,3163 824,3163 722,3162 621,3162 519,3162 418,3162 316,3160 215,3160" />
+                <Baseline points="215,3180 316,3180 418,3182 519,3182 621,3182 722,3182 824,3183 925,3183 1027,3183 1128,3183 1230,3185 1332,3185 1433,3185 1535,3185 1636,3186 1738,3186 1839,3186 1941,3186 2042,3186 2144,3186 2246,3186" />
+                <TextEquiv>
+                    <Unicode>destacándose como uno de los más interesantes, el del Dr. Sollenberg, quien, según dijo, tuvo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="228,3231 312,3232 396,3232 480,3232 564,3234 648,3234 732,3234 817,3234 901,3234 985,3234 1069,3235 1153,3235 1237,3235 1322,3235 1406,3235 1490,3235 1574,3235 1658,3235 1742,3235 1827,3235 1827,3205 1742,3205 1658,3205 1574,3205 1490,3205 1406,3205 1322,3205 1237,3205 1153,3205 1069,3205 985,3204 901,3204 817,3204 732,3204 648,3204 564,3204 480,3202 396,3202 312,3202 228,3201" />
+                <Baseline points="228,3221 312,3222 396,3222 480,3222 564,3224 648,3224 732,3224 817,3224 901,3224 985,3224 1069,3225 1153,3225 1237,3225 1322,3225 1406,3225 1490,3225 1574,3225 1658,3225 1742,3225 1827,3225" />
+                <TextEquiv>
+                    <Unicode>ocasión de hacer importantes estudios en Iloilo durante el pasado eclipse solar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Astrónomos Extranjeros y locales que fueron obsequiados con un banquete en el "Manila Hotei",
+por el Alcalde interino de la Ciudad, Sr. Santiago Artiaga, y en el que se pronunciaron discursos,
+destacándose como uno de los más interesantes, el del Dr. Sollenberg, quien, según dijo, tuvo
+ocasión de hacer importantes estudios en Iloilo durante el pasado eclipse solar.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:4;}">
+            <Coords points="279,1741 296,1741 296,1936 279,1936" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:5;}">
+            <Coords points="920,1741 930,1741 930,1939 920,1939" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:6;}">
+            <Coords points="1289,1740 1297,1740 1297,1872 1289,1872" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:7;}">
+            <Coords points="1830,462 1852,462 1852,464 1830,464" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:8;}">
+            <Coords points="1566,1802 1596,1802 1596,1807 1566,1807" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:9;}">
+            <Coords points="1850,457 1852,457 1852,479 1850,479" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_13" custom="readingOrder {index:10;}">
+            <Coords points="198,260 2272,260 2272,1571 198,1571" />
+        </GraphicRegion>
+        <GraphicRegion id="r_14" custom="readingOrder {index:11;}">
+            <Coords points="197,1728 2265,1728 2265,3039 197,3039" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

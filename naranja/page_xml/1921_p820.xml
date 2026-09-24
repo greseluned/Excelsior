@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:27.932+02:00</Created>
+        <LastChange>2021-06-08T20:13:41.959+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782862" pageNr="1921" tsid="236401986" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=VDULSVJOLFSONVAWRMKBHEVB" xmlUrl="https://files.transkribus.eu/Get?id=LXPJTKNANXXAZOYCIXKMMHOF" imageId="17248954" />
+    </Metadata>
+    <Page imageFilename="1921_p820.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="283,397 2186,397 2186,3057 283,3057" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982858867" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+                <RegionRefIndexed index="7" regionRef="r_8_1" />
+                <RegionRefIndexed index="8" regionRef="r_9_1" />
+                <RegionRefIndexed index="10" regionRef="r_11_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="297,397 2186,397 2186,1559 297,1559" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="293,1605 2176,1605 2176,1736 293,1736" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="370,1648 2181,1653 2134,1606 370,1601" />
+                <Baseline points="381,1637 470,1637 559,1637 649,1638 738,1638 828,1638 917,1640 1006,1640 1096,1640 1185,1640 1275,1641 1364,1641 1453,1641 1543,1641 1632,1641 1722,1643 1811,1643 1900,1641 1990,1641 2079,1641 2169,1641" />
+                <TextEquiv>
+                    <Unicode>De la inauguración del "Afable College of Medicine”. En la fotografía la línea de recepción</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="291,1692 2186,1690 291,1643" />
+                <Baseline points="302,1677 395,1676 489,1676 582,1676 676,1676 770,1676 863,1676 957,1676 1051,1676 1144,1677 1238,1677 1332,1677 1425,1679 1519,1679 1613,1680 1706,1680 1800,1680 1894,1682 1987,1682 2081,1682 2175,1682" />
+                <TextEquiv>
+                    <Unicode>entre los que se contaban el Arzobispo Auxiliar Monseñor Finnemann, la Sra. de Osmeña, el Dr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1836,1725 2147,1717 2147,1699 2056,1684 2044,1672 2009,1672 1965,1691 1836,1690" />
+                <Baseline points="1848,1712 1874,1712 1900,1712 1926,1712 1952,1712 1978,1712 2005,1712 2031,1712 2057,1713 2083,1713 2109,1713 2136,1713" />
+                <TextEquiv>
+                    <Unicode>Foro—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="280,1725 1461,1729 1437,1689 1362,1685 280,1694" />
+                <Baseline points="293,1719 350,1718 408,1718 466,1716 524,1716 581,1716 639,1716 697,1716 755,1716 812,1716 870,1716 928,1716 986,1716 1043,1718 1101,1718 1159,1718 1217,1718 1274,1719 1332,1719 1390,1719 1448,1719" />
+                <TextEquiv>
+                    <Unicode>Afable, el Dr. Fajardo y otras prominentes personalidades.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De la inauguración del "Afable College of Medicine”. En la fotografía la línea de recepción
+entre los que se contaban el Arzobispo Auxiliar Monseñor Finnemann, la Sra. de Osmeña, el Dr.
+Foro—SUN STUDIO
+Afable, el Dr. Fajardo y otras prominentes personalidades.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="283,1784 341,1784 341,1872 283,1872" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="275,1813 287,1814 291,1819 324,1817 328,1820 345,1821 348,1784 322,1782 320,1779 301,1777 289,1786 277,1785" />
+                <Baseline points="287,1805 335,1809" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="389,1846 1116,1846 1116,2143 389,2143" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="389,1929 841,1914 982,1942 1120,1913 1120,1857 787,1855 748,1884 719,1856 473,1856 448,1882 389,1880" />
+                <Baseline points="401,1917 436,1916 471,1915 507,1914 542,1913 578,1913 613,1913 648,1911 684,1911 719,1911 755,1911 790,1911 825,1911 861,1913 896,1913 932,1913 967,1913 1002,1913 1038,1913 1073,1913 1109,1913" />
+                <TextEquiv>
+                    <Unicode>ÁNGEL OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="466,1990 1031,1996 1030,1951 466,1955" />
+                <Baseline points="479,1989 506,1988 533,1988 560,1988 587,1988 614,1988 641,1988 668,1986 695,1986 722,1986 749,1986 776,1986 803,1986 830,1986 857,1986 884,1986 911,1985 938,1985 965,1985 992,1985 1019,1985" />
+                <TextEquiv>
+                    <Unicode>FOTOGRAFO COMERCIAL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="512,2067 871,2078 882,2066 969,2068 995,2054 995,2028 894,2017 868,2040 854,2026 770,2017 721,2029 543,2018 512,2036" />
+                <Baseline points="525,2058 550,2058 576,2058 601,2058 627,2058 652,2058 678,2058 703,2057 729,2057 754,2057 780,2057 805,2057 831,2057 856,2057 882,2057 907,2057 933,2057 958,2057 984,2057" />
+                <TextEquiv>
+                    <Unicode>AVENIDA RIZAL, 894</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="607,2141 778,2145 909,2136 909,2108 883,2108 855,2091 797,2091 778,2107 757,2095 607,2097" />
+                <Baseline points="618,2127 643,2129 668,2129 694,2129 719,2129 744,2129 770,2129 795,2129 820,2129 846,2130 871,2130 897,2132" />
+                <TextEquiv>
+                    <Unicode>MANILA, I. F..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CANGEL OVEJAS
+FOTOGRAFO COMERCIAL
+AVENIDA RIZAL, 894
+MANILA, I. F..</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="286,2238 1168,2238 1168,2588 286,2588" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="322,2345 1161,2350 1161,2306 1065,2296 322,2303" />
+                <Baseline points="335,2337 375,2339 416,2339 457,2338 497,2337 538,2337 579,2337 619,2337 660,2337 701,2336 742,2336 782,2336 823,2336 864,2336 904,2336 945,2336 986,2337 1026,2337 1067,2339 1108,2340 1149,2342" />
+                <TextEquiv>
+                    <Unicode>Para los Acontecimientos Grandes y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="377,2426 1118,2419 1118,2386 991,2372 377,2380" />
+                <Baseline points="389,2417 424,2416 460,2415 496,2415 532,2415 568,2415 604,2414 640,2414 676,2414 712,2414 748,2414 783,2414 819,2414 855,2415 891,2415 927,2415 963,2415 999,2415 1035,2415 1071,2414 1107,2414" />
+                <TextEquiv>
+                    <Unicode>las Fiestas de Trascendencia cu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="432,2516 512,2495 896,2505 917,2484 938,2505 1055,2504 1079,2493 1079,2462 765,2447 739,2473 687,2447 432,2465" />
+                <Baseline points="443,2498 474,2495 505,2494 536,2492 567,2490 599,2490 630,2490 661,2489 692,2489 723,2489 755,2490 786,2490 817,2490 848,2490 879,2491 911,2492 942,2492 973,2492 1004,2490 1035,2490 1067,2489" />
+                <TextEquiv>
+                    <Unicode>yo Recuerdo Desea Usted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="485,2582 1029,2571 1029,2548 970,2529 485,2540" />
+                <Baseline points="497,2571 524,2571 551,2571 578,2571 606,2571 633,2571 660,2571 688,2571 715,2571 742,2570 770,2570 797,2570 824,2570 852,2570 879,2570 906,2570 934,2570 961,2570 988,2570 1016,2570" />
+                <TextEquiv>
+                    <Unicode>que jamás se olvida.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Para los Acontecimientos Grandes y
+las Fiestas de Trascendencia cu¬
+yo Recuerdo Desea Usted
+que jamás se olvida.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="361,2730 1143,2730 1143,2790 361,2790" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="361,2790 1148,2775 1115,2728 361,2737" />
+                <Baseline points="372,2774 410,2775 448,2775 486,2775 525,2775 563,2775 601,2775 639,2775 678,2775 716,2775 754,2774 792,2774 831,2774 869,2774 907,2772 945,2772 984,2772 1022,2772 1060,2772 1098,2772 1137,2772" />
+                <TextEquiv>
+                    <Unicode>Nada hay como la FOTOGRAFIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nada hay como la FOTOGRAFIA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="501,2938 1003,2938 1003,3057 501,3057" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="495,2984 949,2984 1015,2969 1014,2927 815,2928 750,2943 494,2935" />
+                <Baseline points="507,2972 533,2972 559,2972 585,2972 611,2972 637,2972 663,2972 689,2972 715,2972 741,2972 767,2972 793,2972 819,2971 845,2970 871,2970 897,2970 923,2970 949,2970 975,2970 1002,2970" />
+                <TextEquiv>
+                    <Unicode>LLAME AL TELEFONO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="628,3061 759,3062 773,3055 780,3062 841,3062 864,3050 888,3050 888,3027 874,3027 848,3006 785,3006 773,3013 740,3003 689,3015 679,3008 628,3007" />
+                <Baseline points="639,3047 665,3048 691,3048 718,3048 744,3047 770,3047 797,3047 823,3048 849,3048 876,3050" />
+                <TextEquiv>
+                    <Unicode>2-16-90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LLAME AL TELEFONO
+2-16-90</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="1657,1852 2178,1852 2178,2247 1657,2247" />
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1666,1938 1698,1959 1748,1947 2066,1951 2097,1935 2097,1876 1703,1872 1666,1895" />
+                <Baseline points="1677,1941 1702,1941 1728,1941 1753,1941 1779,1940 1804,1940 1830,1940 1855,1940 1881,1940 1906,1940 1932,1940 1957,1940 1983,1940 2008,1940 2034,1940 2059,1941 2085,1941" />
+                <TextEquiv>
+                    <Unicode>SUNSET</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1662,2054 2103,2053 2124,2046 2124,2001 1744,2007 1730,2021 1662,2007" />
+                <Baseline points="1674,2043 1699,2043 1725,2043 1751,2043 1777,2043 1802,2043 1828,2043 1854,2043 1880,2043 1905,2043 1931,2042 1957,2042 1983,2042 2008,2042 2034,2042 2060,2042 2086,2042 2112,2043" />
+                <TextEquiv>
+                    <Unicode>EL JABÓN QUE TIÑE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1668,2119 2120,2115 2120,2075 2087,2068 2017,2070 2001,2087 1975,2073 1921,2084 1886,2073 1870,2089 1827,2073 1668,2075" />
+                <Baseline points="1680,2105 1705,2106 1730,2106 1755,2108 1780,2108 1806,2108 1831,2108 1856,2108 1881,2108 1907,2108 1932,2108 1957,2108 1982,2108 2008,2108 2033,2108 2058,2107 2083,2106 2109,2106" />
+                <TextEquiv>
+                    <Unicode>Y LAVA A LA VEZ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1651,2243 1779,2233 1791,2245 2103,2246 2128,2231 2128,2192 2081,2180 1791,2186 1772,2205 1718,2184 1650,2194" />
+                <Baseline points="1662,2235 1687,2234 1712,2234 1737,2234 1763,2232 1788,2232 1813,2232 1838,2232 1864,2232 1889,2232 1914,2232 1940,2232 1965,2232 1990,2232 2015,2232 2041,2232 2066,2232 2091,2232 2117,2231" />
+                <TextEquiv>
+                    <Unicode>22 COLORES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SUNSET
+EL JABÓN QUE TIÑE
+Y LAVA A LA VEZ
+22 COLORES</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_9_1" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="1396,2299 2038,2299 2038,2396 1396,2396" />
+            <TextLine id="r_9_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1398,2335 1989,2335 2038,2330 2038,2285 1398,2290" />
+                <Baseline points="1409,2319 1439,2319 1470,2321 1501,2321 1532,2321 1563,2321 1594,2321 1625,2319 1656,2319 1687,2319 1718,2319 1748,2319 1779,2319 1810,2319 1841,2318 1872,2318 1903,2318 1934,2318 1965,2319 1996,2319 2027,2319" />
+                <TextEquiv>
+                    <Unicode>MAS DE DOSCIENTAS COMBINACIONES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_9_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1395,2396 2035,2383 2035,2352 2007,2338 1791,2338 1765,2364 1695,2338 1395,2342" />
+                <Baseline points="1407,2384 1437,2384 1468,2384 1499,2384 1530,2384 1560,2384 1591,2384 1622,2384 1653,2384 1683,2384 1714,2384 1745,2385 1776,2385 1806,2385 1837,2385 1868,2385 1899,2385 1929,2385 1960,2384 1991,2384 2022,2384" />
+                <TextEquiv>
+                    <Unicode>BOTICA BOIE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MAS DE DOSCIENTAS COMBINACIONES
+BOTICA BOIE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1329,1873 1616,1873 1616,2230 1329,2230" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_11_1" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="1257,2469 2165,2469 2165,3004 1257,3004" />
+            <TextLine id="r_11_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1246,2501 2160,2510 2160,2463 1246,2468" />
+                <Baseline points="1257,2495 1301,2495 1346,2495 1390,2494 1435,2493 1479,2493 1524,2492 1568,2492 1613,2491 1657,2490 1702,2490 1747,2490 1791,2489 1836,2489 1880,2489 1925,2490 1969,2490 2014,2492 2058,2493 2103,2495 2148,2496" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1324,2663 1479,2684 1722,2652 2095,2661 2078,2584 1666,2586 1628,2615 1323,2584" />
+                <Baseline points="1335,2652 1372,2652 1409,2652 1447,2652 1484,2652 1522,2652 1559,2652 1597,2652 1634,2651 1672,2651 1709,2651 1746,2650 1784,2649 1821,2649 1859,2649 1896,2649 1934,2649 1971,2649 2009,2649 2046,2649 2084,2651" />
+                <TextEquiv>
+                    <Unicode>Una jicara de CHOCOLATE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1366,2837 1420,2879 1481,2886 1528,2869 2001,2875 2001,2735 1954,2763 1923,2735 1879,2754 1830,2735 1778,2763 1717,2735 1666,2759 1581,2736 1535,2782 1439,2738 1366,2745" />
+                <Baseline points="1377,2858 1407,2859 1438,2861 1468,2863 1499,2864 1530,2865 1560,2865 1591,2865 1621,2865 1652,2864 1683,2864 1713,2864 1744,2862 1774,2862 1805,2861 1836,2861 1866,2861 1897,2861 1927,2861 1958,2862 1989,2862" />
+                <TextEquiv>
+                    <Unicode>"La Industrial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1284,3005 2103,2991 2131,2946 1932,2929 1616,2960 1541,2935 1283,2966" />
+                <Baseline points="1295,2988 1336,2988 1377,2987 1418,2986 1460,2985 1501,2985 1542,2984 1583,2984 1625,2984 1666,2982 1707,2982 1748,2982 1790,2982 1831,2982 1872,2981 1913,2981 1955,2981 1996,2981 2037,2981 2078,2981 2120,2979" />
+                <TextEquiv>
+                    <Unicode>por las tardes, es una merienda ideal!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+Una jicara de CHOCOLATE
+"La Industrial
+por las tardes, es una merienda ideal!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="1240,447 1625,447 1625,461 1240,461" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="1107,588 1340,588 1340,600 1107,600" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="805,590 996,590 996,604 805,604" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="1102,620 1255,620 1255,623 1102,623" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="1482,619 1701,619 1701,626 1482,626" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="1147,691 1341,691 1341,694 1147,694" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="1455,752 1663,752 1663,756 1455,756" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="1158,756 1340,756 1340,760 1158,760" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="1454,804 1685,804 1685,813 1454,813" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="1112,806 1271,806 1271,815 1112,815" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="769,807 998,807 998,819 769,819" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="746,843 958,843 958,851 746,851" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="1107,844 1270,844 1270,849 1107,849" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="301,1753 2162,1753 2162,1762 301,1762" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:25;}">
+            <Coords points="675,2224 823,2224 823,2228 675,2228" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:26;}">
+            <Coords points="1300,2484 1440,2484 1440,2495 1300,2495" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:27;}">
+            <Coords points="677,2659 824,2659 824,2664 677,2664" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+            <Coords points="677,2865 824,2865 824,2871 677,2871" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+            <Coords points="302,2733 314,2733 314,2922 302,2922" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:30;}">
+            <Coords points="302,1882 316,1882 316,2127 302,2127" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:31;}">
+            <Coords points="984,588 998,588 998,816 984,816" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:32;}">
+            <Coords points="1111,716 1116,716 1116,815 1111,815" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:33;}">
+            <Coords points="1332,618 1342,618 1342,771 1332,771" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:34;}">
+            <Coords points="1411,788 1425,788 1425,1015 1411,1015" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:35;}">
+            <Coords points="1339,2434 2129,2434 2129,2450 1339,2450" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:36;}">
+            <Coords points="1111,733 1116,733 1116,797 1111,797" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:37;}">
+            <Coords points="1182,1789 1209,1789 1209,2824 1182,2824" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_40" custom="readingOrder {index:38;}">
+            <Coords points="297,398 2186,398 2186,1559 297,1559" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

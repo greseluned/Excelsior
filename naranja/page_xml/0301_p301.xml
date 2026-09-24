@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:17:25.961+02:00</Created>
+        <LastChange>2021-11-03T18:07:16.436+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781114" pageNr="301" tsid="236400248" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=REFPUNVIBTECZLPGRHFYRDKN" xmlUrl="https://files.transkribus.eu/Get?id=PJULQJDIOCCCTWIXSCHOFAWB" imageId="17244879" />
+    </Metadata>
+    <Page imageFilename="0301_p301.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="196,274 2283,274 2283,3262 196,3262" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982484713" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="201,274 2283,274 2283,960 201,960" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="235,967 2247,967 2247,1113 235,1113" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="327,1023 422,1023 518,1023 614,1024 710,1024 806,1025 901,1026 997,1026 1093,1027 1189,1027 1285,1029 1380,1029 1476,1030 1572,1030 1668,1032 1764,1032 1859,1033 1955,1033 2051,1033 2147,1035 2243,1035 2243,1005 2147,1005 2051,1003 1955,1003 1859,1003 1764,1002 1668,1002 1572,1000 1476,1000 1380,999 1285,999 1189,997 1093,997 997,996 901,996 806,995 710,994 614,994 518,993 422,993 327,993" />
+                <Baseline points="327,1013 422,1013 518,1013 614,1014 710,1014 806,1015 901,1016 997,1016 1093,1017 1189,1017 1285,1019 1380,1019 1476,1020 1572,1020 1668,1022 1764,1022 1859,1023 1955,1023 2051,1023 2147,1025 2243,1025" />
+                <TextEquiv>
+                    <Unicode>A pesar del mal tiempo, llevóse a cabo como estaba anunciado, la jira a Alabang del Nú¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="240,1062 339,1063 439,1064 539,1065 639,1066 739,1066 839,1068 939,1069 1039,1069 1139,1071 1239,1071 1338,1072 1438,1072 1538,1073 1638,1074 1738,1074 1838,1075 1938,1075 2038,1077 2138,1077 2238,1077 2238,1047 2138,1047 2038,1047 1938,1045 1838,1045 1738,1044 1638,1044 1538,1043 1438,1042 1338,1042 1239,1041 1139,1041 1039,1039 939,1039 839,1038 739,1036 639,1036 539,1035 439,1034 339,1033 240,1032" />
+                <Baseline points="240,1052 339,1053 439,1054 539,1055 639,1056 739,1056 839,1058 939,1059 1039,1059 1139,1061 1239,1061 1338,1062 1438,1062 1538,1063 1638,1064 1738,1064 1838,1065 1938,1065 2038,1067 2138,1067 2238,1067" />
+                <TextEquiv>
+                    <Unicode>cleo Solteríl, cuyos miembros e invitados, pasaron un día delicioso en la más franca y cordial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="252,1104 279,1105 306,1104 333,1104 360,1105 387,1107 387,1077 360,1075 333,1074 306,1074 279,1075 252,1074" />
+                <Baseline points="252,1094 279,1095 306,1094 333,1094 360,1095 387,1097" />
+                <TextEquiv>
+                    <Unicode>alegría.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A pesar del mal tiempo, llevóse a cabo como estaba anunciado, la jira a Alabang del Nú¬
+cleo Solteríl, cuyos miembros e invitados, pasaron un día delicioso en la más franca y cordial
+alegría.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="221,1171 2270,1171 2270,1855 221,1855" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="232,1885 2239,1885 2239,2062 232,2062" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="327,1926 422,1927 517,1927 612,1929 707,1929 803,1930 898,1930 993,1930 1088,1932 1183,1932 1279,1932 1374,1933 1469,1933 1564,1933 1659,1933 1755,1935 1850,1935 1945,1935 2040,1935 2135,1936 2231,1936 2231,1906 2135,1906 2040,1905 1945,1905 1850,1905 1755,1905 1659,1903 1564,1903 1469,1903 1374,1903 1279,1902 1183,1902 1088,1902 993,1900 898,1900 803,1900 707,1899 612,1899 517,1897 422,1897 327,1896" />
+                <Baseline points="327,1916 422,1917 517,1917 612,1919 707,1919 803,1920 898,1920 993,1920 1088,1922 1183,1922 1279,1922 1374,1923 1469,1923 1564,1923 1659,1923 1755,1925 1850,1925 1945,1925 2040,1925 2135,1926 2231,1926" />
+                <TextEquiv>
+                    <Unicode>Banquete dado en honor del gran guitarrista español, Andrés Segovia, por el Ilmo. Sr. Cón¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="245,1968 344,1969 443,1969 542,1969 641,1969 740,1971 839,1971 938,1971 1037,1971 1136,1972 1235,1972 1334,1972 1433,1972 1532,1974 1631,1974 1730,1974 1829,1974 1928,1975 2027,1975 2126,1975 2226,1977 2226,1947 2126,1945 2027,1945 1928,1945 1829,1944 1730,1944 1631,1944 1532,1944 1433,1942 1334,1942 1235,1942 1136,1942 1037,1941 938,1941 839,1941 740,1941 641,1939 542,1939 443,1939 344,1939 245,1938" />
+                <Baseline points="245,1958 344,1959 443,1959 542,1959 641,1959 740,1961 839,1961 938,1961 1037,1961 1136,1962 1235,1962 1334,1962 1433,1962 1532,1964 1631,1964 1730,1964 1829,1964 1928,1965 2027,1965 2126,1965 2226,1967" />
+                <TextEquiv>
+                    <Unicode>sul de España en Filipinas, D. Lw's Calderón. De izquierda a derecha primer término, Sres: F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="245,2008 344,2010 444,2010 543,2010 643,2011 743,2011 842,2013 942,2013 1041,2014 1141,2014 1241,2014 1340,2016 1440,2016 1539,2016 1639,2016 1739,2017 1838,2017 1938,2017 2037,2017 2137,2017 2237,2017 2237,1987 2137,1987 2037,1987 1938,1987 1838,1987 1739,1987 1639,1986 1539,1986 1440,1986 1340,1986 1241,1984 1141,1984 1041,1984 942,1983 842,1983 743,1981 643,1981 543,1980 444,1980 344,1980 245,1978" />
+                <Baseline points="245,1998 344,2000 444,2000 543,2000 643,2001 743,2001 842,2003 942,2003 1041,2004 1141,2004 1241,2004 1340,2006 1440,2006 1539,2006 1639,2006 1739,2007 1838,2007 1938,2007 2037,2007 2137,2007 2237,2007" />
+                <TextEquiv>
+                    <Unicode>Osorio, E. Lopez Mena, A. Rosales, A. M. Varela, B. Antuña, A. Brias. A. Segovia, el Conde de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="240,2052 320,2052 400,2052 480,2052 561,2052 641,2052 721,2053 801,2053 882,2053 962,2054 1042,2055 1122,2055 1203,2055 1283,2056 1363,2056 1443,2056 1524,2056 1604,2058 1684,2058 1764,2058 1845,2058 1845,2028 1764,2028 1684,2028 1604,2028 1524,2026 1443,2026 1363,2026 1283,2026 1203,2025 1122,2025 1042,2025 962,2024 882,2023 801,2023 721,2023 641,2022 561,2022 480,2022 400,2022 320,2022 240,2022" />
+                <Baseline points="240,2042 320,2042 400,2042 480,2042 561,2042 641,2042 721,2043 801,2043 882,2043 962,2044 1042,2045 1122,2045 1203,2045 1283,2046 1363,2046 1443,2046 1524,2046 1604,2048 1684,2048 1764,2048 1845,2048" />
+                <TextEquiv>
+                    <Unicode>Peracamps, Sr. A. Melian; el Cónsul, Sr. L. Calierón; y Sr. D. de Urmeneta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Banquete dado en honor del gran guitarrista español, Andrés Segovia, por el Ilmo. Sr. Cón¬
+sul de España en Filipinas, D. Lw's Calderón. De izquierda a derecha primer término, Sres: F.
+Osorio, E. Lopez Mena, A. Rosales, A. M. Varela, B. Antuña, A. Brias. A. Segovia, el Conde de
+Peracamps, Sr. A. Melian; el Cónsul, Sr. L. Calierón; y Sr. D. de Urmeneta.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="196,2122 2281,2122 2281,2970 196,2970" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="236,3003 2243,3003 2243,3262 236,3262" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="326,3049 421,3049 517,3049 612,3049 708,3049 803,3049 899,3050 994,3050 1090,3050 1185,3050 1281,3050 1377,3050 1472,3050 1568,3050 1663,3050 1759,3049 1854,3049 1950,3049 2045,3049 2141,3049 2237,3049 2237,3015 2141,3015 2045,3015 1950,3015 1854,3015 1759,3015 1663,3016 1568,3016 1472,3016 1377,3016 1281,3016 1185,3016 1090,3016 994,3016 899,3016 803,3015 708,3015 612,3015 517,3015 421,3015 326,3015" />
+                <Baseline points="326,3038 421,3038 517,3038 612,3038 708,3038 803,3038 899,3039 994,3039 1090,3039 1185,3039 1281,3039 1377,3039 1472,3039 1568,3039 1663,3039 1759,3038 1854,3038 1950,3038 2045,3038 2141,3038 2237,3038" />
+                <TextEquiv>
+                    <Unicode>La presidenta de "Los Pocos”, Srta Maring Marti, rodeada de una parte de los numerosos in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="240,3087 339,3088 438,3088 537,3088 637,3088 736,3088 835,3090 934,3090 1034,3090 1133,3090 1232,3090 1331,3090 1431,3090 1530,3090 1629,3090 1728,3090 1828,3090 1927,3090 2026,3090 2125,3088 2225,3088 2225,3058 2125,3058 2026,3060 1927,3060 1828,3060 1728,3060 1629,3060 1530,3060 1431,3060 1331,3060 1232,3060 1133,3060 1034,3060 934,3060 835,3060 736,3058 637,3058 537,3058 438,3058 339,3058 240,3057" />
+                <Baseline points="240,3077 339,3078 438,3078 537,3078 637,3078 736,3078 835,3080 934,3080 1034,3080 1133,3080 1232,3080 1331,3080 1431,3080 1530,3080 1629,3080 1728,3080 1828,3080 1927,3080 2026,3080 2125,3078 2225,3078" />
+                <TextEquiv>
+                    <Unicode>vitados que asistieron a la fiesta que dió en su residencia con motivo de sus cumpleaños. Entre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="239,3129 338,3129 438,3129 537,3129 637,3129 736,3129 836,3129 935,3129 1035,3130 1134,3130 1234,3130 1333,3130 1433,3130 1532,3130 1632,3130 1731,3130 1831,3130 1930,3130 2030,3130 2129,3130 2229,3130 2229,3100 2129,3100 2030,3100 1930,3100 1831,3100 1731,3100 1632,3100 1532,3100 1433,3100 1333,3100 1234,3100 1134,3100 1035,3100 935,3099 836,3099 736,3099 637,3099 537,3099 438,3099 338,3099 239,3099" />
+                <Baseline points="239,3119 338,3119 438,3119 537,3119 637,3119 736,3119 836,3119 935,3119 1035,3120 1134,3120 1234,3120 1333,3120 1433,3120 1532,3120 1632,3120 1731,3120 1831,3120 1930,3120 2030,3120 2129,3120 2229,3120" />
+                <TextEquiv>
+                    <Unicode>las bellas concurrentes vimos a las Srtas. de Mateu. Razón, López, Daví, Raquiza, De León, Tua¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="243,3169 342,3169 442,3169 542,3170 642,3171 742,3171 842,3171 942,3171 1042,3171 1142,3171 1242,3172 1341,3172 1441,3172 1541,3172 1641,3172 1741,3172 1841,3171 1941,3171 2041,3171 2141,3169 2241,3169 2241,3139 2141,3139 2041,3141 1941,3141 1841,3141 1741,3142 1641,3142 1541,3142 1441,3142 1341,3142 1242,3142 1142,3141 1042,3141 942,3141 842,3141 742,3141 642,3141 542,3140 442,3139 342,3139 243,3139" />
+                <Baseline points="243,3159 342,3159 442,3159 542,3160 642,3161 742,3161 842,3161 942,3161 1042,3161 1142,3161 1242,3162 1341,3162 1441,3162 1541,3162 1641,3162 1741,3162 1841,3161 1941,3161 2041,3161 2141,3159 2241,3159" />
+                <TextEquiv>
+                    <Unicode>son, Basa, Gibson, Genato y otras más cuyos nombres lamentamos no recordar. También el sempi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l5" custom="readingOrder {index:4;}">
+                <Coords points="243,3210 342,3210 442,3210 542,3211 642,3211 742,3211 842,3211 942,3211 1042,3211 1142,3212 1242,3213 1341,3213 1441,3213 1541,3213 1641,3213 1741,3213 1841,3211 1941,3211 2041,3211 2141,3211 2241,3211 2241,3181 2141,3181 2041,3181 1941,3181 1841,3181 1741,3183 1641,3183 1541,3183 1441,3183 1341,3183 1242,3183 1142,3182 1042,3181 942,3181 842,3181 742,3181 642,3181 542,3181 442,3180 342,3180 243,3180" />
+                <Baseline points="243,3200 342,3200 442,3200 542,3201 642,3201 742,3201 842,3201 942,3201 1042,3201 1142,3202 1242,3203 1341,3203 1441,3203 1541,3203 1641,3203 1741,3203 1841,3201 1941,3201 2041,3201 2141,3201 2241,3201" />
+                <TextEquiv>
+                    <Unicode>terno sexo feo estuvo bien representado, pero por el breve espacio de que disponemos, lo dejamos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l6" custom="readingOrder {index:5;}">
+                <Coords points="252,3252 277,3253 303,3253 329,3253 355,3253 381,3252 407,3252 433,3252 459,3252 485,3253 511,3253 537,3255 537,3225 511,3223 485,3223 459,3222 433,3222 407,3222 381,3222 355,3223 329,3223 303,3223 277,3223 252,3222" />
+                <Baseline points="252,3242 277,3243 303,3243 329,3243 355,3243 381,3242 407,3242 433,3242 459,3242 485,3243 511,3243 537,3245" />
+                <TextEquiv>
+                    <Unicode>en la linotipia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La presidenta de "Los Pocos”, Srta Maring Marti, rodeada de una parte de los numerosos in¬
+vitados que asistieron a la fiesta que dió en su residencia con motivo de sus cumpleaños. Entre
+las bellas concurrentes vimos a las Srtas. de Mateu. Razón, López, Daví, Raquiza, De León, Tua¬
+son, Basa, Gibson, Genato y otras más cuyos nombres lamentamos no recordar. También el sempi¬
+terno sexo feo estuvo bien representado, pero por el breve espacio de que disponemos, lo dejamos
+en la linotipia.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1459,2957 1571,2957 1571,2963 1459,2963" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="302,1377 314,1377 314,1596 302,1596" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="314,1318 327,1318 327,1598 314,1598" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="331,1403 344,1403 344,1594 331,1594" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1998,1587 2009,1587 2009,1776 1998,1776" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="2208,285 2247,285 2247,288 2208,288" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

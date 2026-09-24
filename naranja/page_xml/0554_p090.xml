@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:06.454+02:00</Created>
+        <LastChange>2021-10-29T19:28:53.535+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781434" pageNr="554" tsid="236400631" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QDHJLAZAZIAQMDHVZCZOMNVA" xmlUrl="https://files.transkribus.eu/Get?id=CNBHPWPPPJPNQNERMZFRQOWZ" imageId="17244545" />
+    </Metadata>
+    <Page imageFilename="0554_p090.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982543879" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="654,3099 654,3260 1836,3260 1836,3099" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1016,3139 1042,3140 1068,3141 1094,3141 1120,3142 1146,3142 1172,3142 1198,3142 1224,3142 1251,3142 1277,3142 1303,3141 1329,3141 1355,3141 1381,3141 1407,3141 1433,3141 1460,3142 1460,3102 1433,3101 1407,3101 1381,3101 1355,3101 1329,3101 1303,3101 1277,3102 1251,3102 1224,3102 1198,3102 1172,3102 1146,3102 1120,3102 1094,3101 1068,3101 1042,3100 1016,3099" />
+                <Baseline points="1016,3126 1042,3127 1068,3128 1094,3128 1120,3129 1146,3129 1172,3129 1198,3129 1224,3129 1251,3129 1277,3129 1303,3128 1329,3128 1355,3128 1381,3128 1407,3128 1433,3128 1460,3129" />
+                <TextEquiv>
+                    <Unicode>Srta. EMILIA DIAGO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="654,3207 713,3207 772,3207 831,3207 890,3207 949,3207 1008,3207 1067,3207 1126,3207 1185,3207 1245,3207 1304,3207 1363,3207 1422,3207 1481,3207 1540,3207 1599,3208 1658,3209 1717,3210 1776,3212 1836,3213 1836,3177 1776,3176 1717,3174 1658,3173 1599,3172 1540,3171 1481,3171 1422,3171 1363,3171 1304,3171 1245,3171 1185,3171 1126,3171 1067,3171 1008,3171 949,3171 890,3171 831,3171 772,3171 713,3171 654,3171" />
+                <Baseline points="654,3195 713,3195 772,3195 831,3195 890,3195 949,3195 1008,3195 1067,3195 1126,3195 1185,3195 1245,3195 1304,3195 1363,3195 1422,3195 1481,3195 1540,3195 1599,3196 1658,3197 1717,3198 1776,3200 1836,3201" />
+                <TextEquiv>
+                    <Unicode>De Bais, Negros Oriental, Candidata oficial de Excelsior.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="830,3258 871,3260 912,3260 954,3260 995,3260 1037,3260 1078,3258 1120,3258 1161,3258 1203,3258 1244,3257 1285,3257 1327,3257 1368,3257 1410,3257 1451,3257 1493,3257 1534,3258 1576,3258 1617,3260 1659,3260 1659,3224 1617,3224 1576,3222 1534,3222 1493,3221 1451,3221 1410,3221 1368,3221 1327,3221 1285,3221 1244,3221 1203,3222 1161,3222 1120,3222 1078,3222 1037,3224 995,3224 954,3224 912,3224 871,3224 830,3222" />
+                <Baseline points="830,3246 871,3248 912,3248 954,3248 995,3248 1037,3248 1078,3246 1120,3246 1161,3246 1203,3246 1244,3245 1285,3245 1327,3245 1368,3245 1410,3245 1451,3245 1493,3245 1534,3246 1576,3246 1617,3248 1659,3248" />
+                <TextEquiv>
+                    <Unicode>G ESRTA. FILiPINAS? del Carnaval del 1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Srta. EMILIA DIAGO
+De Bais, Negros Oriental, Candidata oficial de Excelsior.
+G ESRTA. FILiPINAS? del Carnaval del 1931</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1908,3023 1908,3179 2228,3179 2228,3023" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1908,3175 1934,3175 1961,3175 1988,3173 2014,3173 2041,3173 2068,3173 2094,3173 2121,3175 2148,3175 2174,3176 2201,3176 2228,3179 2228,3029 2201,3026 2174,3026 2148,3025 2121,3025 2094,3023 2068,3023 2041,3023 2014,3023 1988,3023 1961,3025 1934,3025 1908,3025" />
+                <Baseline points="1908,3125 1934,3125 1961,3125 1988,3123 2014,3123 2041,3123 2068,3123 2094,3123 2121,3125 2148,3125 2174,3126 2201,3126 2228,3129" />
+                <TextEquiv>
+                    <Unicode>Toto SIN SILDIO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Toto SIN SILDIO.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

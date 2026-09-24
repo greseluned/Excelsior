@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:47:58.223+02:00</Created>
+        <LastChange>2021-10-29T21:31:28.954+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781825" pageNr="889" tsid="236401071" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LKLBXMRQRQMDNXNLLDJMVVNU" xmlUrl="https://files.transkribus.eu/Get?id=MFFTRBWZAJQDBALIPNMCRWET" imageId="17246877" />
+    </Metadata>
+    <Page imageFilename="0889_p425.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982623559" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="221,3121 221,3283 290,3283 290,3121" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="221,3283 255,3278 290,3271 290,3121 255,3128 221,3133" />
+                <Baseline points="221,3233 255,3228 290,3221" />
+                <TextEquiv>
+                    <Unicode>RA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>RA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="213,1592 213,1929 819,1929 819,1592" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="251,1629 279,1629 307,1629 336,1629 364,1629 393,1629 421,1629 449,1628 478,1628 506,1628 535,1628 563,1628 591,1628 620,1628 648,1628 677,1629 705,1629 733,1629 762,1629 790,1631 819,1631 819,1595 790,1595 762,1593 733,1593 705,1593 677,1593 648,1592 620,1592 591,1592 563,1592 535,1592 506,1592 478,1592 449,1592 421,1593 393,1593 364,1593 336,1593 307,1593 279,1593 251,1593" />
+                <Baseline points="251,1617 279,1617 307,1617 336,1617 364,1617 393,1617 421,1617 449,1616 478,1616 506,1616 535,1616 563,1616 591,1616 620,1616 648,1616 677,1617 705,1617 733,1617 762,1617 790,1619 819,1619" />
+                <TextEquiv>
+                    <Unicode>Las bellas Srtas. Elena y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="222,1683 251,1682 281,1682 310,1682 340,1682 370,1682 399,1681 429,1680 459,1680 488,1680 518,1680 548,1680 577,1680 607,1680 637,1680 666,1680 696,1680 726,1680 755,1680 785,1680 815,1680 815,1644 785,1644 755,1644 726,1644 696,1644 666,1644 637,1644 607,1644 577,1644 548,1644 518,1644 488,1644 459,1644 429,1644 399,1645 370,1646 340,1646 310,1646 281,1646 251,1646 222,1647" />
+                <Baseline points="222,1671 251,1670 281,1670 310,1670 340,1670 370,1670 399,1669 429,1668 459,1668 488,1668 518,1668 548,1668 577,1668 607,1668 637,1668 666,1668 696,1668 726,1668 755,1668 785,1668 815,1668" />
+                <TextEquiv>
+                    <Unicode>Juanita Vallejo y Carmen y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="224,1736 253,1735 282,1734 311,1734 340,1733 369,1733 398,1731 427,1731 456,1731 485,1731 515,1731 544,1731 573,1731 602,1731 631,1731 660,1731 689,1731 718,1731 747,1731 776,1730 806,1730 806,1694 776,1694 747,1695 718,1695 689,1695 660,1695 631,1695 602,1695 573,1695 544,1695 515,1695 485,1695 456,1695 427,1695 398,1695 369,1697 340,1697 311,1698 282,1698 253,1699 224,1700" />
+                <Baseline points="224,1724 253,1723 282,1722 311,1722 340,1721 369,1721 398,1719 427,1719 456,1719 485,1719 515,1719 544,1719 573,1719 602,1719 631,1719 660,1719 689,1719 718,1719 747,1719 776,1718 806,1718" />
+                <TextEquiv>
+                    <Unicode>Asunción Biel, que bailaron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="213,1784 240,1784 267,1785 294,1785 321,1785 348,1785 375,1784 402,1784 429,1784 456,1782 483,1782 510,1783 537,1784 537,1747 510,1746 483,1745 456,1745 429,1747 402,1747 375,1747 348,1748 321,1748 294,1748 267,1748 240,1747 213,1747" />
+                <Baseline points="213,1772 240,1772 267,1773 294,1773 321,1773 348,1773 375,1772 402,1772 429,1772 456,1770 483,1770 510,1771 537,1772" />
+                <TextEquiv>
+                    <Unicode>bailes serillanos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="267,1871 294,1871 321,1871 348,1871 376,1871 403,1871 430,1871 458,1871 485,1871 512,1871 540,1872 567,1872 594,1872 621,1872 649,1872 676,1872 703,1872 731,1872 758,1872 785,1872 813,1871 813,1834 785,1835 758,1835 731,1835 703,1835 676,1835 649,1835 621,1835 594,1835 567,1835 540,1835 512,1834 485,1834 458,1834 430,1834 403,1834 376,1834 348,1834 321,1834 294,1834 267,1834" />
+                <Baseline points="267,1859 294,1859 321,1859 348,1859 376,1859 403,1859 430,1859 458,1859 485,1859 512,1859 540,1860 567,1860 594,1860 621,1860 649,1860 676,1860 703,1860 731,1860 758,1860 785,1860 813,1859" />
+                <TextEquiv>
+                    <Unicode>Aspecto general del ban¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="216,1929 244,1927 272,1925 300,1925 329,1928 329,1891 300,1888 272,1888 244,1890 216,1892" />
+                <Baseline points="216,1917 244,1915 272,1913 300,1913 329,1916" />
+                <TextEquiv>
+                    <Unicode>quete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Las bellas Srtas. Elena y
+Juanita Vallejo y Carmen y
+Asunción Biel, que bailaron
+bailes serillanos.
+Aspecto general del ban¬
+quete.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1194,283 1194,690 2225,690 2225,283" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1194,324 1245,324 1296,324 1347,324 1399,324 1450,324 1501,324 1552,324 1604,324 1655,322 1706,322 1757,322 1809,322 1860,322 1911,322 1962,322 2014,322 2065,322 2116,324 2167,324 2219,324 2219,285 2167,285 2116,285 2065,283 2014,283 1962,283 1911,283 1860,283 1809,283 1757,283 1706,283 1655,283 1604,285 1552,285 1501,285 1450,285 1399,285 1347,285 1296,285 1245,285 1194,285" />
+                <Baseline points="1194,311 1245,311 1296,311 1347,311 1399,311 1450,311 1501,311 1552,311 1604,311 1655,309 1706,309 1757,309 1809,309 1860,309 1911,309 1962,309 2014,309 2065,309 2116,311 2167,311 2219,311" />
+                <TextEquiv>
+                    <Unicode>BANQUETE DEL CLUB DE ROTARIOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1212,384 1262,385 1312,385 1363,385 1413,385 1463,385 1514,385 1564,385 1614,385 1665,385 1715,385 1765,385 1816,385 1866,385 1916,385 1967,385 2017,385 2067,387 2118,387 2168,387 2219,388 2219,349 2168,348 2118,348 2067,348 2017,346 1967,346 1916,346 1866,346 1816,346 1765,346 1715,346 1665,346 1614,346 1564,346 1514,346 1463,346 1413,346 1363,346 1312,346 1262,346 1212,345" />
+                <Baseline points="1212,371 1262,372 1312,372 1363,372 1413,372 1463,372 1514,372 1564,372 1614,372 1665,372 1715,372 1765,372 1816,372 1866,372 1916,372 1967,372 2017,372 2067,374 2118,374 2168,374 2219,375" />
+                <TextEquiv>
+                    <Unicode>DE MANILA EN LA CASA DE ESPAÑA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="1253,482 1301,480 1349,480 1397,480 1445,480 1493,480 1541,480 1589,480 1637,480 1685,480 1733,481 1781,482 1829,482 1877,482 1925,483 1973,483 2021,483 2069,483 2117,483 2165,482 2213,482 2213,446 2165,446 2117,447 2069,447 2021,447 1973,447 1925,447 1877,446 1829,446 1781,446 1733,445 1685,444 1637,444 1589,444 1541,444 1493,444 1445,444 1397,444 1349,444 1301,444 1253,446" />
+                <Baseline points="1253,470 1301,468 1349,468 1397,468 1445,468 1493,468 1541,468 1589,468 1637,468 1685,468 1733,469 1781,470 1829,470 1877,470 1925,471 1973,471 2021,471 2069,471 2117,471 2165,470 2213,470" />
+                <TextEquiv>
+                    <Unicode>La mesa presidencial del banquete, a la que se sen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="1208,533 1258,531 1309,531 1360,530 1411,530 1461,530 1512,530 1563,531 1614,531 1664,531 1715,533 1766,533 1817,533 1867,534 1918,534 1969,536 2020,536 2070,536 2121,536 2172,536 2223,536 2223,500 2172,500 2121,500 2070,500 2020,500 1969,500 1918,498 1867,498 1817,497 1766,497 1715,497 1664,495 1614,495 1563,495 1512,494 1461,494 1411,494 1360,494 1309,495 1258,495 1208,497" />
+                <Baseline points="1208,521 1258,519 1309,519 1360,518 1411,518 1461,518 1512,518 1563,519 1614,519 1664,519 1715,521 1766,521 1817,521 1867,522 1918,522 1969,524 2020,524 2070,524 2121,524 2172,524 2223,524" />
+                <TextEquiv>
+                    <Unicode>taron el Gobernador General, Sr. Davis, el Sr. Sa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="1205,584 1256,584 1307,584 1358,584 1409,584 1460,584 1511,584 1562,584 1613,584 1664,584 1715,584 1766,585 1817,585 1868,585 1919,585 1970,585 2021,585 2072,585 2123,585 2174,585 2225,585 2225,549 2174,549 2123,549 2072,549 2021,549 1970,549 1919,549 1868,549 1817,549 1766,549 1715,548 1664,548 1613,548 1562,548 1511,548 1460,548 1409,548 1358,548 1307,548 1256,548 1205,548" />
+                <Baseline points="1205,572 1256,572 1307,572 1358,572 1409,572 1460,572 1511,572 1562,572 1613,572 1664,572 1715,572 1766,573 1817,573 1868,573 1919,573 1970,573 2021,573 2072,573 2123,573 2174,573 2225,573" />
+                <TextEquiv>
+                    <Unicode>muel Gaches, Presidente de los Rotarios, el Presi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="1196,635 1247,635 1298,635 1350,635 1401,635 1452,635 1504,635 1555,635 1606,635 1658,636 1709,636 1760,636 1812,638 1863,638 1914,638 1966,638 2017,639 2068,639 2120,639 2171,639 2223,638 2223,601 2171,602 2120,602 2068,602 2017,602 1966,601 1914,601 1863,601 1812,601 1760,599 1709,599 1658,599 1606,598 1555,598 1504,598 1452,598 1401,598 1350,598 1298,598 1247,598 1196,598" />
+                <Baseline points="1196,623 1247,623 1298,623 1350,623 1401,623 1452,623 1504,623 1555,623 1606,623 1658,624 1709,624 1760,624 1812,626 1863,626 1914,626 1966,626 2017,627 2068,627 2120,627 2171,627 2223,626" />
+                <TextEquiv>
+                    <Unicode>dente del Casino Español, Sr. Antonio de la Riva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="1206,687 1242,687 1278,687 1315,687 1351,687 1388,687 1424,687 1461,687 1497,687 1534,686 1570,686 1606,686 1643,687 1679,687 1716,687 1752,687 1789,687 1825,688 1862,689 1898,689 1935,690 1935,653 1898,652 1862,652 1825,651 1789,650 1752,650 1716,650 1679,650 1643,650 1606,649 1570,649 1534,649 1497,650 1461,650 1424,650 1388,650 1351,650 1315,650 1278,650 1242,650 1206,650" />
+                <Baseline points="1206,675 1242,675 1278,675 1315,675 1351,675 1388,675 1424,675 1461,675 1497,675 1534,674 1570,674 1606,674 1643,675 1679,675 1716,675 1752,675 1789,675 1825,676 1862,677 1898,677 1935,678" />
+                <TextEquiv>
+                    <Unicode>y otras distinguidas personalidades.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BANQUETE DEL CLUB DE ROTARIOS
+DE MANILA EN LA CASA DE ESPAÑA.
+La mesa presidencial del banquete, a la que se sen
+taron el Gobernador General, Sr. Davis, el Sr. Sa¬
+muel Gaches, Presidente de los Rotarios, el Presi¬
+dente del Casino Español, Sr. Antonio de la Riva
+y otras distinguidas personalidades.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

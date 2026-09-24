@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:47:36.949+02:00</Created>
+        <LastChange>2021-10-29T21:08:35.325+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781754" pageNr="826" tsid="236401000" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MSVBUYHKRSOUKOXCKJOTQAKH" xmlUrl="https://files.transkribus.eu/Get?id=FSIOJXHVKIXJCUTQTXOPJNWJ" imageId="17246466" />
+    </Metadata>
+    <Page imageFilename="0826_p362.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982608157" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="680,1990 680,2152 705,2152 705,1990" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="680,2140 705,2152 705,2002 680,1990" />
+                <Baseline points="680,2090 705,2102" />
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="794,1486 794,1640 1400,1640 1400,1486" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="794,1639 824,1639 854,1639 884,1640 915,1640 945,1640 975,1640 1006,1640 1036,1640 1066,1640 1097,1639 1127,1639 1157,1639 1187,1639 1218,1639 1248,1637 1278,1637 1309,1637 1339,1637 1369,1636 1400,1636 1400,1486 1369,1486 1339,1487 1309,1487 1278,1487 1248,1487 1218,1489 1187,1489 1157,1489 1127,1489 1097,1489 1066,1490 1036,1490 1006,1490 975,1490 945,1490 915,1490 884,1490 854,1489 824,1489 794,1489" />
+                <Baseline points="794,1589 824,1589 854,1589 884,1590 915,1590 945,1590 975,1590 1006,1590 1036,1590 1066,1590 1097,1589 1127,1589 1157,1589 1187,1589 1218,1589 1248,1587 1278,1587 1309,1587 1339,1587 1369,1586 1400,1586" />
+                <TextEquiv>
+                    <Unicode>OS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1950,1979 1950,2152 2280,2152 2280,1979" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1950,2147 1975,2144 2000,2144 2026,2145 2051,2146 2076,2148 2102,2150 2127,2152 2153,2152 2178,2152 2203,2149 2229,2146 2254,2139 2280,2129 2280,1979 2254,1989 2229,1996 2203,1999 2178,2002 2153,2002 2127,2002 2102,2000 2076,1998 2051,1996 2026,1995 2000,1994 1975,1994 1950,1997" />
+                <Baseline points="1950,2097 1975,2094 2000,2094 2026,2095 2051,2096 2076,2098 2102,2100 2127,2102 2153,2102 2178,2102 2203,2099 2229,2096 2254,2089 2280,2079" />
+                <TextEquiv>
+                    <Unicode>ES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ES</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

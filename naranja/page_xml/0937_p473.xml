@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:48:14.529+02:00</Created>
+        <LastChange>2021-10-29T21:51:35.390+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781890" pageNr="937" tsid="236401116" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=UQSVEYPTQHYZSSOEAVSTTMNX" xmlUrl="https://files.transkribus.eu/Get?id=ONNEMLJWSPQBXFTQTCIREXZP" imageId="17247059" />
+    </Metadata>
+    <Page imageFilename="0937_p473.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982634467" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="221,242 221,3247 2261,3247 2261,242" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="701,291 754,291 807,292 861,292 914,292 968,292 1021,292 1074,292 1128,292 1181,292 1235,292 1288,292 1341,292 1395,292 1448,292 1502,292 1555,292 1608,292 1662,292 1715,292 1769,291 1769,242 1715,243 1662,243 1608,243 1555,243 1502,243 1448,243 1395,243 1341,243 1288,243 1235,243 1181,243 1128,243 1074,243 1021,243 968,243 914,243 861,243 807,243 754,242 701,242" />
+                <Baseline points="701,275 754,275 807,276 861,276 914,276 968,276 1021,276 1074,276 1128,276 1181,276 1235,276 1288,276 1341,276 1395,276 1448,276 1502,276 1555,276 1608,276 1662,276 1715,276 1769,275" />
+                <TextEquiv>
+                    <Unicode>BODAS DE LA DECENA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="324,2904 357,2902 390,2904 390,2855 357,2853 324,2855" />
+                <Baseline points="324,2888 357,2886 390,2888" />
+                <TextEquiv>
+                    <Unicode>1A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="315,3003 411,3004 508,3004 605,3004 702,3004 799,3004 896,3004 992,3004 1089,3004 1186,3004 1283,3004 1380,3004 1477,3004 1574,3004 1670,3004 1767,3003 1864,3003 1961,3003 2058,3003 2155,3003 2252,3003 2252,2964 2155,2964 2058,2964 1961,2964 1864,2964 1767,2964 1670,2965 1574,2965 1477,2965 1380,2965 1283,2965 1186,2965 1089,2965 992,2965 896,2965 799,2965 702,2965 605,2965 508,2965 411,2965 315,2964" />
+                <Baseline points="315,2990 411,2991 508,2991 605,2991 702,2991 799,2991 896,2991 992,2991 1089,2991 1186,2991 1283,2991 1380,2991 1477,2991 1574,2991 1670,2991 1767,2990 1864,2990 1961,2990 2058,2990 2155,2990 2252,2990" />
+                <TextEquiv>
+                    <Unicode>La Srta. Milagros Llerena y el Sr. Pedro M. Telmo, en la Iglesia de San Beda, momentos des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="221,3058 319,3058 417,3057 515,3057 614,3057 712,3057 810,3055 908,3055 1007,3055 1105,3055 1203,3055 1301,3055 1400,3055 1498,3055 1596,3055 1694,3055 1793,3055 1891,3055 1989,3055 2087,3055 2186,3055 2186,3016 2087,3016 1989,3016 1891,3016 1793,3016 1694,3016 1596,3016 1498,3016 1400,3016 1301,3016 1203,3016 1105,3016 1007,3016 908,3016 810,3016 712,3018 614,3018 515,3018 417,3018 319,3019 221,3019" />
+                <Baseline points="221,3045 319,3045 417,3044 515,3044 614,3044 712,3044 810,3042 908,3042 1007,3042 1105,3042 1203,3042 1301,3042 1400,3042 1498,3042 1596,3042 1694,3042 1793,3042 1891,3042 1989,3042 2087,3042 2186,3042" />
+                <TextEquiv>
+                    <Unicode>pués de las ceremonias de su enlace matrimonial rodeados de sus padrinos y su corte de honor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="323,3137 419,3137 515,3135 611,3135 707,3135 803,3135 899,3135 996,3135 1092,3135 1188,3135 1284,3135 1380,3135 1476,3135 1572,3135 1669,3135 1765,3135 1861,3135 1957,3135 2053,3135 2149,3135 2246,3134 2246,3097 2149,3098 2053,3098 1957,3098 1861,3098 1765,3098 1669,3098 1572,3098 1476,3098 1380,3098 1284,3098 1188,3098 1092,3098 996,3098 899,3098 803,3098 707,3098 611,3098 515,3098 419,3100 323,3100" />
+                <Baseline points="323,3125 419,3125 515,3123 611,3123 707,3123 803,3123 899,3123 996,3123 1092,3123 1188,3123 1284,3123 1380,3123 1476,3123 1572,3123 1669,3123 1765,3123 1861,3123 1957,3123 2053,3123 2149,3123 2246,3122" />
+                <TextEquiv>
+                    <Unicode>Los nuevos esposos Dn. José Delgado y Da. Carmen Azada de Delgado, después de su enlace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="234,3189 334,3189 435,3188 535,3188 636,3188 737,3188 837,3188 938,3188 1039,3189 1139,3189 1240,3189 1341,3189 1441,3189 1542,3189 1643,3189 1743,3189 1844,3188 1945,3188 2045,3188 2146,3186 2247,3185 2247,3148 2146,3149 2045,3151 1945,3151 1844,3151 1743,3152 1643,3152 1542,3152 1441,3152 1341,3152 1240,3152 1139,3152 1039,3152 938,3151 837,3151 737,3151 636,3151 535,3151 435,3151 334,3152 234,3152" />
+                <Baseline points="234,3177 334,3177 435,3176 535,3176 636,3176 737,3176 837,3176 938,3176 1039,3177 1139,3177 1240,3177 1341,3177 1441,3177 1542,3177 1643,3177 1743,3177 1844,3176 1945,3176 2045,3176 2146,3174 2247,3173" />
+                <TextEquiv>
+                    <Unicode>matrimonial solemnizado en la lglesia de Paco. En la fotografía aparecen, además de los no¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1832,3246 1857,3246 1882,3246 1907,3246 1932,3247 1958,3247 1983,3246 2008,3246 2033,3246 2059,3246 2084,3246 2109,3244 2134,3244 2160,3244 2185,3246 2210,3246 2235,3246 2261,3247 2261,3198 2235,3197 2210,3197 2185,3197 2160,3195 2134,3195 2109,3195 2084,3197 2059,3197 2033,3197 2008,3197 1983,3197 1958,3198 1932,3198 1907,3197 1882,3197 1857,3197 1832,3197" />
+                <Baseline points="1832,3230 1857,3230 1882,3230 1907,3230 1932,3231 1958,3231 1983,3230 2008,3230 2033,3230 2059,3230 2084,3230 2109,3228 2134,3228 2160,3228 2185,3230 2210,3230 2235,3230 2261,3231" />
+                <TextEquiv>
+                    <Unicode>Fotos—EXCELSIOR, (Oveja.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="236,3243 284,3242 332,3242 380,3243 428,3243 476,3243 524,3243 572,3243 620,3242 668,3242 716,3242 764,3242 812,3242 860,3242 908,3242 956,3242 1004,3242 1052,3242 1100,3242 1148,3240 1197,3240 1197,3203 1148,3203 1100,3205 1052,3205 1004,3205 956,3205 908,3205 860,3205 812,3205 764,3205 716,3205 668,3205 620,3205 572,3206 524,3206 476,3206 428,3206 380,3206 332,3205 284,3205 236,3206" />
+                <Baseline points="236,3231 284,3230 332,3230 380,3231 428,3231 476,3231 524,3231 572,3231 620,3230 668,3230 716,3230 764,3230 812,3230 860,3230 908,3230 956,3230 1004,3230 1052,3230 1100,3230 1148,3228 1197,3228" />
+                <TextEquiv>
+                    <Unicode>viós, sus padrinos, dama y caballeros de honor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BODAS DE LA DECENA
+1A
+La Srta. Milagros Llerena y el Sr. Pedro M. Telmo, en la Iglesia de San Beda, momentos des¬
+pués de las ceremonias de su enlace matrimonial rodeados de sus padrinos y su corte de honor.
+Los nuevos esposos Dn. José Delgado y Da. Carmen Azada de Delgado, después de su enlace
+matrimonial solemnizado en la lglesia de Paco. En la fotografía aparecen, además de los no¬
+Fotos—EXCELSIOR, (Oveja.)
+viós, sus padrinos, dama y caballeros de honor.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

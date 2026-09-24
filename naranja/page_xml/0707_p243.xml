@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:56.676+02:00</Created>
+        <LastChange>2021-10-29T20:24:35.888+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781657" pageNr="707" tsid="236400870" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZKCMDVAJJVPZOLHELKJWEHRS" xmlUrl="https://files.transkribus.eu/Get?id=DXMSTCDKIQVJLXNYRDUUTDRK" imageId="17245538" />
+    </Metadata>
+    <Page imageFilename="0707_p243.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982579933" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="245,203 245,1987 1803,1987 1803,203" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="690,248 744,248 799,248 854,248 909,248 964,248 1019,248 1073,248 1128,248 1183,248 1238,248 1293,248 1348,248 1403,248 1457,248 1512,248 1567,248 1622,248 1677,248 1732,248 1787,248 1787,203 1732,203 1677,203 1622,203 1567,203 1512,203 1457,203 1403,203 1348,203 1293,203 1238,203 1183,203 1128,203 1073,203 1019,203 964,203 909,203 854,203 799,203 744,203 690,203" />
+                <Baseline points="690,233 744,233 799,233 854,233 909,233 964,233 1019,233 1073,233 1128,233 1183,233 1238,233 1293,233 1348,233 1403,233 1457,233 1512,233 1567,233 1622,233 1677,233 1732,233 1787,233" />
+                <TextEquiv>
+                    <Unicode>DE LA PARADA POR EL "DIA DE BONIFACIO"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1688,348 1716,351 1745,354 1774,356 1803,356 1803,311 1774,311 1745,309 1716,306 1688,303" />
+                <Baseline points="1688,333 1716,336 1745,339 1774,341 1803,341" />
+                <TextEquiv>
+                    <Unicode> V5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1518,405 1543,403 1569,400 1594,395 1620,391 1645,389 1671,389 1671,344 1645,344 1620,346 1594,350 1569,355 1543,358 1518,360" />
+                <Baseline points="1518,390 1543,388 1569,385 1594,380 1620,376 1645,374 1671,374" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="291,1563 320,1563 350,1564 380,1564 409,1564 439,1564 469,1565 498,1566 528,1566 558,1566 588,1566 617,1566 647,1566 677,1566 706,1566 736,1564 766,1564 795,1563 825,1563 855,1561 885,1560 885,1529 855,1530 825,1532 795,1532 766,1533 736,1533 706,1535 677,1535 647,1535 617,1535 588,1535 558,1535 528,1535 498,1535 469,1534 439,1533 409,1533 380,1533 350,1533 320,1532 291,1532" />
+                <Baseline points="291,1553 320,1553 350,1554 380,1554 409,1554 439,1554 469,1555 498,1556 528,1556 558,1556 588,1556 617,1556 647,1556 677,1556 706,1556 736,1554 766,1554 795,1553 825,1553 855,1551 885,1550" />
+                <TextEquiv>
+                    <Unicode>Artística carroza de la "Unión</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="246,1608 271,1609 297,1609 323,1609 348,1608 374,1608 400,1608 425,1608 451,1608 477,1608 477,1577 451,1577 425,1577 400,1577 374,1577 348,1577 323,1578 297,1578 271,1578 246,1577" />
+                <Baseline points="246,1598 271,1599 297,1599 323,1599 348,1598 374,1598 400,1598 425,1598 451,1598 477,1598" />
+                <TextEquiv>
+                    <Unicode>de Marinos"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="296,1668 324,1668 353,1669 382,1669 410,1670 439,1671 468,1671 496,1671 525,1669 554,1669 583,1669 611,1669 640,1669 669,1668 697,1668 726,1668 755,1668 783,1668 812,1668 841,1669 870,1669 870,1639 841,1639 812,1638 783,1638 755,1638 726,1638 697,1638 669,1638 640,1639 611,1639 583,1639 554,1639 525,1639 496,1641 468,1641 439,1641 410,1640 382,1639 353,1639 324,1638 296,1638" />
+                <Baseline points="296,1658 324,1658 353,1659 382,1659 410,1660 439,1661 468,1661 496,1661 525,1659 554,1659 583,1659 611,1659 640,1659 669,1658 697,1658 726,1658 755,1658 783,1658 812,1658 841,1659 870,1659" />
+                <TextEquiv>
+                    <Unicode>Típico y original tilburí, con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="246,1714 276,1714 307,1714 337,1714 368,1713 399,1713 429,1713 460,1713 490,1713 521,1711 552,1711 582,1711 613,1711 643,1711 674,1710 705,1710 735,1710 766,1710 796,1710 827,1711 858,1711 858,1681 827,1681 796,1680 766,1680 735,1680 705,1680 674,1680 643,1681 613,1681 582,1681 552,1681 521,1681 490,1683 460,1683 429,1683 399,1683 368,1683 337,1684 307,1684 276,1684 246,1684" />
+                <Baseline points="246,1704 276,1704 307,1704 337,1704 368,1703 399,1703 429,1703 460,1703 490,1703 521,1701 552,1701 582,1701 613,1701 643,1701 674,1700 705,1700 735,1700 766,1700 796,1700 827,1701 858,1701" />
+                <TextEquiv>
+                    <Unicode>la figura de “Juan de la Cruz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="254,1756 284,1756 315,1755 346,1755 377,1753 407,1753 438,1753 469,1753 500,1752 530,1752 561,1752 592,1752 623,1752 653,1752 684,1752 715,1753 746,1753 776,1753 807,1753 838,1753 869,1753 869,1723 838,1723 807,1723 776,1723 746,1723 715,1723 684,1722 653,1722 623,1722 592,1722 561,1722 530,1722 500,1722 469,1723 438,1723 407,1723 377,1723 346,1725 315,1725 284,1726 254,1726" />
+                <Baseline points="254,1746 284,1746 315,1745 346,1745 377,1743 407,1743 438,1743 469,1743 500,1742 530,1742 561,1742 592,1742 623,1742 653,1742 684,1742 715,1743 746,1743 776,1743 807,1743 838,1743 869,1743" />
+                <TextEquiv>
+                    <Unicode>y el busto de Andrés Bonijacio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="248,1798 274,1798 300,1797 326,1797 352,1797 378,1797 404,1797 431,1795 457,1795 483,1795 509,1795 535,1795 561,1795 587,1794 614,1794 640,1794 666,1794 692,1795 718,1795 744,1795 771,1795 771,1765 744,1765 718,1765 692,1765 666,1764 640,1764 614,1764 587,1764 561,1765 535,1765 509,1765 483,1765 457,1765 431,1765 404,1767 378,1767 352,1767 326,1767 300,1767 274,1768 248,1768" />
+                <Baseline points="248,1788 274,1788 300,1787 326,1787 352,1787 378,1787 404,1787 431,1785 457,1785 483,1785 509,1785 535,1785 561,1785 587,1784 614,1784 640,1784 666,1784 692,1785 718,1785 744,1785 771,1785" />
+                <TextEquiv>
+                    <Unicode>Supremo del "Katipunan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="291,1858 320,1858 349,1858 378,1857 407,1857 436,1857 465,1857 494,1857 523,1857 552,1857 582,1857 611,1857 640,1857 669,1857 698,1857 727,1857 756,1857 785,1857 814,1857 843,1857 873,1855 873,1824 843,1826 814,1826 785,1826 756,1826 727,1826 698,1826 669,1826 640,1826 611,1826 582,1826 552,1826 523,1826 494,1826 465,1826 436,1826 407,1826 378,1826 349,1827 320,1827 291,1827" />
+                <Baseline points="291,1848 320,1848 349,1848 378,1847 407,1847 436,1847 465,1847 494,1847 523,1847 552,1847 582,1847 611,1847 640,1847 669,1847 698,1847 727,1847 756,1847 785,1847 814,1847 843,1847 873,1845" />
+                <TextEquiv>
+                    <Unicode>Otra de las carrozas que to¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="245,1900 276,1900 307,1900 339,1900 370,1900 402,1900 433,1900 464,1900 496,1900 527,1900 559,1900 590,1900 621,1900 653,1900 684,1900 716,1900 747,1900 778,1900 810,1900 841,1900 873,1900 873,1870 841,1870 810,1870 778,1870 747,1870 716,1870 684,1870 653,1870 621,1870 590,1870 559,1870 527,1870 496,1870 464,1870 433,1870 402,1870 370,1870 339,1870 307,1870 276,1870 245,1870" />
+                <Baseline points="245,1890 276,1890 307,1890 339,1890 370,1890 402,1890 433,1890 464,1890 496,1890 527,1890 559,1890 590,1890 621,1890 653,1890 684,1890 716,1890 747,1890 778,1890 810,1890 841,1890 873,1890" />
+                <TextEquiv>
+                    <Unicode>maron parte en la parada y que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="255,1942 286,1942 317,1943 349,1944 380,1944 411,1944 443,1944 474,1944 505,1944 537,1942 568,1942 599,1942 631,1942 662,1942 693,1941 725,1941 756,1941 787,1941 819,1941 850,1941 882,1941 882,1911 850,1911 819,1911 787,1911 756,1911 725,1911 693,1911 662,1912 631,1912 599,1912 568,1912 537,1912 505,1914 474,1914 443,1914 411,1914 380,1914 349,1914 317,1913 286,1912 255,1912" />
+                <Baseline points="255,1932 286,1932 317,1933 349,1934 380,1934 411,1934 443,1934 474,1934 505,1934 537,1932 568,1932 599,1932 631,1932 662,1932 693,1931 725,1931 756,1931 787,1931 819,1931 850,1931 882,1931" />
+                <TextEquiv>
+                    <Unicode>llamó poderosamente la aten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="255,1983 280,1984 306,1986 332,1986 358,1987 383,1987 409,1987 435,1986 461,1986 486,1986 512,1986 538,1984 564,1984 564,1954 538,1954 512,1956 486,1956 461,1956 435,1956 409,1957 383,1957 358,1957 332,1956 306,1956 280,1954 255,1953" />
+                <Baseline points="255,1973 280,1974 306,1976 332,1976 358,1977 383,1977 409,1977 435,1976 461,1976 486,1976 512,1976 538,1974 564,1974" />
+                <TextEquiv>
+                    <Unicode>ción del público.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DE LA PARADA POR EL "DIA DE BONIFACIO"
+ V5
+
+Artística carroza de la "Unión
+de Marinos"
+Típico y original tilburí, con
+la figura de “Juan de la Cruz
+y el busto de Andrés Bonijacio
+Supremo del "Katipunan.
+Otra de las carrozas que to¬
+maron parte en la parada y que
+llamó poderosamente la aten¬
+ción del público.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1949,3182 1949,3334 2264,3334 2264,3182" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1949,3334 1975,3334 2001,3334 2027,3332 2054,3332 2080,3332 2106,3332 2132,3332 2159,3332 2185,3332 2211,3332 2237,3332 2264,3334 2264,3184 2237,3182 2211,3182 2185,3182 2159,3182 2132,3182 2106,3182 2080,3182 2054,3182 2027,3182 2001,3184 1975,3184 1949,3184" />
+                <Baseline points="1949,3284 1975,3284 2001,3284 2027,3282 2054,3282 2080,3282 2106,3282 2132,3282 2159,3282 2185,3282 2211,3282 2237,3282 2264,3284" />
+                <TextEquiv>
+                    <Unicode>Foros—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foros—SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

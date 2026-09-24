@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:51:26.063+02:00</Created>
+        <LastChange>2021-06-08T20:45:17.826+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782964" pageNr="1992" tsid="236402512" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BPGHIEUKIGXZNRWKNDMJZWLR" xmlUrl="https://files.transkribus.eu/Get?id=XCPHCQUSEXQCEGTDCEBDLAYI" imageId="17249184" />
+    </Metadata>
+    <Page imageFilename="1992_p891.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="239,285 2257,285 2257,3217 239,3217" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982875221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="992,285 1504,285 1504,344 992,344" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="982,350 1509,341 1509,291 1486,281 1302,280 1282,297 1264,280 982,280" />
+                <Baseline points="995,335 1020,335 1045,336 1070,336 1095,336 1120,336 1145,336 1170,336 1195,335 1220,335 1246,335 1271,335 1296,333 1321,333 1346,333 1371,333 1396,333 1421,333 1446,333 1471,333 1497,333" />
+                <TextEquiv>
+                    <Unicode>NOTA ILONGA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NOTA ILONGA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="239,374 2248,374 2248,1649 239,1649" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="241,1681 2254,1681 2254,1940 241,1940" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="323,1724 2262,1718 2209,1676 323,1679" />
+                <Baseline points="335,1715 430,1716 526,1716 622,1716 718,1716 813,1715 909,1715 1005,1715 1101,1715 1196,1715 1292,1713 1388,1713 1484,1713 1579,1713 1675,1713 1771,1713 1867,1713 1962,1713 2058,1713 2154,1715 2250,1715" />
+                <TextEquiv>
+                    <Unicode>Coro de "Las Americanas” formado por distinguidas er alumnas del afamado colegio del Sa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="237,1774 2251,1759 237,1729" />
+                <Baseline points="248,1758 347,1758 447,1758 546,1757 646,1757 745,1757 845,1757 944,1755 1044,1755 1143,1755 1243,1755 1342,1755 1442,1754 1541,1754 1641,1754 1740,1754 1840,1754 1939,1754 2039,1754 2138,1754 2238,1754" />
+                <TextEquiv>
+                    <Unicode>grado Corazón de Jesús de Iloilo, en la velada celebrada en dicho centro de enseñanza, con mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="235,1809 2259,1770 235,1774" />
+                <Baseline points="249,1800 348,1799 448,1799 548,1799 648,1797 748,1797 848,1797 948,1797 1048,1797 1148,1797 1248,1797 1347,1797 1447,1797 1547,1796 1647,1796 1747,1796 1847,1796 1947,1796 2047,1796 2147,1796 2247,1796" />
+                <TextEquiv>
+                    <Unicode>tivo de la inauguración del nuevo pabellón, que es una verdadera obra de arte debida al arquí¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="239,1855 341,1844 631,1854 668,1849 668,1807 483,1816 463,1801 421,1819 383,1806 353,1817 238,1810" />
+                <Baseline points="252,1841 277,1841 302,1841 327,1841 353,1841 378,1841 403,1839 429,1839 454,1839 479,1839 505,1839 530,1838 555,1838 581,1839 606,1839 631,1839 657,1839" />
+                <TextEquiv>
+                    <Unicode>tecto Sr. Garganera.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="327,1894 2251,1889 2149,1839 327,1844" />
+                <Baseline points="341,1881 440,1880 540,1880 640,1880 740,1880 840,1880 940,1880 1040,1880 1140,1880 1240,1880 1340,1880 1440,1880 1540,1880 1640,1880 1740,1880 1840,1880 1940,1880 2040,1880 2140,1880 2240,1881" />
+                <TextEquiv>
+                    <Unicode>Foto inferior: Ex alumnas del colegio del Sagrado Corazón de Jesús de Iloílo, en la velada ce¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="232,1939 1216,1931 1216,1896 1171,1889 232,1889" />
+                <Baseline points="245,1923 292,1923 340,1925 388,1925 436,1925 484,1925 532,1925 580,1925 628,1925 676,1925 724,1925 771,1923 819,1923 867,1923 915,1923 963,1923 1011,1923 1059,1923 1107,1923 1155,1923 1203,1923" />
+                <TextEquiv>
+                    <Unicode>lebrada por la inauguración del citado pabellón.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Coro de "Las Americanas” formado por distinguidas er alumnas del afamado colegio del Sa¬
+grado Corazón de Jesús de Iloilo, en la velada celebrada en dicho centro de enseñanza, con mo¬
+tivo de la inauguración del nuevo pabellón, que es una verdadera obra de arte debida al arquí¬
+tecto Sr. Garganera.
+Foto inferior: Ex alumnas del colegio del Sagrado Corazón de Jesús de Iloílo, en la velada ce¬
+lebrada por la inauguración del citado pabellón.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="242,1966 2257,1966 2257,3217 242,3217" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="2215,946 2248,946 2248,967 2215,967" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="243,449 270,449 270,1000 243,1000" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="2178,749 2202,749 2202,1065 2178,1065" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="2224,528 2243,528 2243,1177 2224,1177" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="242,1966 2257,1966 2257,3217 242,3217" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

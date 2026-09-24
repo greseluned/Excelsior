@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:45:11.718+02:00</Created>
+        <LastChange>2021-06-08T16:48:15.107+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782452" pageNr="1505" tsid="236401827" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=FZTEACFICUVLWKBPBFWVNBBO" xmlUrl="https://files.transkribus.eu/Get?id=FMJARRIDQPQAGEAWHCZBBDWK" imageId="17247866" />
+    </Metadata>
+    <Page imageFilename="1505_p404.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="285,897 2223,897 2223,3168 285,3168" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982764966" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="298,1828 2223,1828 2223,2996 298,2996" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="285,3019 1684,3019 1684,3168 285,3168" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="363,3060 1691,3065 1634,3019 363,3023" />
+                <Baseline points="372,3050 437,3050 503,3050 568,3051 634,3051 699,3051 765,3051 830,3051 896,3051 961,3051 1027,3051 1093,3051 1158,3051 1224,3051 1289,3051 1355,3051 1420,3051 1486,3051 1551,3051 1617,3051 1683,3051" />
+                <TextEquiv>
+                    <Unicode>La notable bailarine española Teresina, con sus acompañantes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="276,3117 1673,3106 1335,3060 276,3080" />
+                <Baseline points="284,3104 353,3104 422,3104 491,3104 560,3105 629,3105 698,3105 767,3105 836,3105 905,3105 974,3105 1043,3105 1112,3107 1181,3107 1250,3105 1319,3105 1388,3105 1457,3105 1526,3105 1595,3105 1665,3104" />
+                <TextEquiv>
+                    <Unicode>el pianista Sr. Javier Alfonso, y el guitarrista Carlos Montoya.—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="289,3164 356,3171 371,3161 382,3171 413,3172 472,3164 567,3171 584,3163 584,3145 565,3145 546,3126 398,3121 365,3137 289,3117" />
+                <Baseline points="297,3155 322,3156 347,3156 373,3156 398,3155 423,3155 449,3155 474,3155 499,3155 525,3156 550,3158 576,3161" />
+                <TextEquiv>
+                    <Unicode>Por ESTEBAN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La notable bailarine española Teresina, con sus acompañantes,
+el pianista Sr. Javier Alfonso, y el guitarrista Carlos Montoya.—
+Por ESTEBAN.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1451,2803 1588,2803 1588,2811 1451,2811" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1261,897 1276,897 1276,1089 1261,1089" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

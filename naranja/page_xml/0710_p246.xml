@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:57.718+02:00</Created>
+        <LastChange>2021-10-29T20:25:08.118+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781571" pageNr="710" tsid="236400856" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YZKZPBAVRHACZWKGXOLOYZHN" xmlUrl="https://files.transkribus.eu/Get?id=KTNQOJAHXXZJHPDNHSSYPJDO" imageId="17245562" />
+    </Metadata>
+    <Page imageFilename="0710_p246.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982580609" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+                <RegionRefIndexed index="3" regionRef="r4" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="294,3110 294,3275 519,3275 519,3110" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="294,3275 319,3274 344,3274 369,3275 394,3275 419,3275 444,3274 469,3271 494,3267 519,3260 519,3110 494,3117 469,3121 444,3124 419,3125 394,3125 369,3125 344,3124 319,3124 294,3125" />
+                <Baseline points="294,3225 319,3224 344,3224 369,3225 394,3225 419,3225 444,3224 469,3221 494,3217 519,3210" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="312,455 312,3203 1968,3203 1968,455" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1077,548 1106,545 1135,542 1164,540 1193,538 1222,536 1251,535 1280,533 1309,531 1338,530 1368,528 1397,527 1426,526 1455,525 1484,524 1513,523 1542,522 1571,521 1600,521 1629,520 1659,519 1659,455 1629,456 1600,457 1571,457 1542,458 1513,459 1484,460 1455,461 1426,462 1397,463 1368,464 1338,466 1309,467 1280,469 1251,471 1222,472 1193,474 1164,476 1135,478 1106,481 1077,484" />
+                <Baseline points="1077,527 1106,524 1135,521 1164,519 1193,517 1222,515 1251,514 1280,512 1309,510 1338,509 1368,507 1397,506 1426,505 1455,504 1484,503 1513,502 1542,501 1571,500 1600,500 1629,499 1659,498" />
+                <TextEquiv>
+                    <Unicode>AOAI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="707,546 735,545 764,543 764,479 735,481 707,482" />
+                <Baseline points="707,525 735,524 764,522" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1011,698 1050,690 1089,682 1129,677 1168,673 1208,671 1247,669 1286,668 1326,668 1365,669 1405,669 1444,671 1483,672 1523,674 1562,674 1602,675 1641,675 1680,675 1720,674 1759,672 1799,669 1799,605 1759,608 1720,610 1680,611 1641,611 1602,611 1562,610 1523,610 1483,608 1444,607 1405,605 1365,605 1326,604 1286,604 1247,605 1208,607 1168,609 1129,613 1089,618 1050,626 1011,634" />
+                <Baseline points="1011,677 1050,669 1089,661 1129,656 1168,652 1208,650 1247,648 1286,647 1326,647 1365,648 1405,648 1444,650 1483,651 1523,653 1562,653 1602,654 1641,654 1680,654 1720,653 1759,651 1799,648" />
+                <TextEquiv>
+                    <Unicode>200A,06</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="312,738 337,733 362,728 387,724 413,720 438,716 463,712 488,709 514,705 539,702 564,699 589,696 615,694 640,692 665,690 690,689 716,687 741,687 766,686 792,686 792,622 766,622 741,623 716,623 690,625 665,626 640,628 615,630 589,632 564,635 539,638 514,641 488,645 463,648 438,652 413,656 387,660 362,664 337,669 312,674" />
+                <Baseline points="312,717 337,712 362,707 387,703 413,699 438,695 463,691 488,688 514,684 539,681 564,678 589,675 615,673 640,671 665,669 690,668 716,666 741,666 766,665 792,665" />
+                <TextEquiv>
+                    <Unicode>PEAA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="1302,863 1327,863 1353,866 1353,802 1327,799 1302,799" />
+                <Baseline points="1302,842 1327,842 1353,845" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="1190,878 1212,877 1221,864 1221,800 1212,813 1190,814" />
+                <Baseline points="1190,857 1212,856 1221,843" />
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="587,850 615,859 643,862 672,862 700,866 729,879 729,849 700,836 672,832 643,832 615,829 587,820" />
+                <Baseline points="587,840 615,849 643,852 672,852 700,856 729,869" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="707,850 752,886 752,856 707,820" />
+                <Baseline points="707,840 752,876" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="585,873 627,879 627,849 585,843" />
+                <Baseline points="585,863 627,869" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="1028,888 1062,891 1062,827 1028,824" />
+                <Baseline points="1028,867 1062,870" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="368,903 394,908 420,910 446,912 472,911 498,910 524,907 550,907 576,906 603,907 603,877 576,876 550,877 524,877 498,880 472,881 446,882 420,880 394,878 368,873" />
+                <Baseline points="368,893 394,898 420,900 446,902 472,901 498,900 524,897 550,897 576,896 603,897" />
+                <TextEquiv>
+                    <Unicode>Pe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="315,1146 344,1146 373,1145 403,1145 432,1146 462,1148 491,1148 520,1150 550,1152 579,1154 609,1157 638,1158 667,1160 697,1162 726,1163 756,1164 785,1164 814,1164 844,1163 873,1162 903,1160 903,1096 873,1098 844,1099 814,1100 785,1100 756,1100 726,1099 697,1098 667,1096 638,1094 609,1093 579,1090 550,1088 520,1086 491,1084 462,1084 432,1082 403,1081 373,1081 344,1082 315,1082" />
+                <Baseline points="315,1125 344,1125 373,1124 403,1124 432,1125 462,1127 491,1127 520,1129 550,1131 579,1133 609,1136 638,1137 667,1139 697,1141 726,1142 756,1143 785,1143 814,1143 844,1142 873,1141 903,1139" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="659,1449 724,1449 789,1449 855,1449 920,1449 986,1449 1051,1449 1117,1449 1182,1449 1248,1449 1313,1449 1378,1449 1444,1449 1509,1449 1575,1449 1640,1449 1706,1449 1771,1449 1837,1449 1902,1449 1968,1448 1968,1403 1902,1404 1837,1404 1771,1404 1706,1404 1640,1404 1575,1404 1509,1404 1444,1404 1378,1404 1313,1404 1248,1404 1182,1404 1117,1404 1051,1404 986,1404 920,1404 855,1404 789,1404 724,1404 659,1404" />
+                <Baseline points="659,1434 724,1434 789,1434 855,1434 920,1434 986,1434 1051,1434 1117,1434 1182,1434 1248,1434 1313,1434 1378,1434 1444,1434 1509,1434 1575,1434 1640,1434 1706,1434 1771,1434 1837,1434 1902,1434 1968,1433" />
+                <TextEquiv>
+                    <Unicode>Socias y directoras de la “Y oung Ladies Club” nueva sociedad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="566,1512 635,1512 705,1512 775,1512 845,1511 915,1511 985,1511 1055,1511 1125,1512 1195,1512 1265,1512 1334,1512 1404,1512 1474,1512 1544,1512 1614,1512 1684,1512 1754,1511 1824,1511 1894,1511 1964,1509 1964,1464 1894,1466 1824,1466 1754,1466 1684,1467 1614,1467 1544,1467 1474,1467 1404,1467 1334,1467 1265,1467 1195,1467 1125,1467 1055,1466 985,1466 915,1466 845,1466 775,1467 705,1467 635,1467 566,1467" />
+                <Baseline points="566,1497 635,1497 705,1497 775,1497 845,1496 915,1496 985,1496 1055,1496 1125,1497 1195,1497 1265,1497 1334,1497 1404,1497 1474,1497 1544,1497 1614,1497 1684,1497 1754,1496 1824,1496 1894,1496 1964,1494" />
+                <TextEquiv>
+                    <Unicode>femenina, en la animada fiesta que con motivo de su inauguración,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="582,1583 645,1583 709,1583 773,1583 837,1583 901,1584 965,1583 1029,1583 1093,1583 1157,1583 1221,1584 1284,1583 1348,1583 1412,1583 1476,1583 1540,1583 1604,1583 1668,1583 1732,1584 1796,1584 1860,1584 1860,1538 1796,1538 1732,1538 1668,1537 1604,1537 1540,1537 1476,1537 1412,1537 1348,1537 1284,1537 1221,1538 1157,1537 1093,1537 1029,1537 965,1537 901,1538 837,1537 773,1537 709,1537 645,1537 582,1537" />
+                <Baseline points="582,1568 645,1568 709,1568 773,1568 837,1568 901,1569 965,1568 1029,1568 1093,1568 1157,1568 1221,1569 1284,1568 1348,1568 1412,1568 1476,1568 1540,1568 1604,1568 1668,1568 1732,1569 1796,1569 1860,1569" />
+                <TextEquiv>
+                    <Unicode>se celebró en la residencia de la Presidenta, Srta. Cecilia Javier.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="1691,1647 1718,1649 1745,1649 1773,1648 1800,1647 1828,1647 1855,1647 1882,1647 1910,1647 1937,1647 1965,1649 1965,1603 1937,1601 1910,1601 1882,1601 1855,1601 1828,1601 1800,1601 1773,1602 1745,1603 1718,1603 1691,1601" />
+                <Baseline points="1691,1632 1718,1634 1745,1634 1773,1633 1800,1632 1828,1632 1855,1632 1882,1632 1910,1632 1937,1632 1965,1634" />
+                <TextEquiv>
+                    <Unicode>Foto—A. OVEJAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="1251,2226 1277,2225 1304,2225 1331,2225 1358,2227 1385,2229 1412,2231 1439,2233 1466,2234 1493,2235 1520,2237 1520,2173 1493,2171 1466,2170 1439,2169 1412,2167 1385,2165 1358,2163 1331,2161 1304,2161 1277,2161 1251,2162" />
+                <Baseline points="1251,2205 1277,2204 1304,2204 1331,2204 1358,2206 1385,2208 1412,2210 1439,2212 1466,2213 1493,2214 1520,2216" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="1401,2330 1426,2332 1451,2333 1477,2335 1502,2336 1527,2337 1553,2337 1578,2339 1603,2341 1629,2343 1654,2347 1680,2351 1680,2287 1654,2283 1629,2279 1603,2277 1578,2275 1553,2273 1527,2273 1502,2272 1477,2271 1451,2269 1426,2268 1401,2266" />
+                <Baseline points="1401,2309 1426,2311 1451,2312 1477,2314 1502,2315 1527,2316 1553,2316 1578,2318 1603,2320 1629,2322 1654,2326 1680,2330" />
+                <TextEquiv>
+                    <Unicode>pon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="704,2967 759,2967 815,2967 871,2966 927,2966 983,2966 1038,2966 1094,2966 1150,2966 1206,2966 1262,2966 1317,2966 1373,2966 1429,2966 1485,2966 1541,2966 1596,2966 1652,2966 1708,2966 1764,2964 1820,2964 1820,2919 1764,2919 1708,2921 1652,2921 1596,2921 1541,2921 1485,2921 1429,2921 1373,2921 1317,2921 1262,2921 1206,2921 1150,2921 1094,2921 1038,2921 983,2921 927,2921 871,2921 815,2922 759,2922 704,2922" />
+                <Baseline points="704,2952 759,2952 815,2952 871,2951 927,2951 983,2951 1038,2951 1094,2951 1150,2951 1206,2951 1262,2951 1317,2951 1373,2951 1429,2951 1485,2951 1541,2951 1596,2951 1652,2951 1708,2951 1764,2949 1820,2949" />
+                <TextEquiv>
+                    <Unicode>Grupo de invitados al bautizo del hijo de los Sres. de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="620,3028 679,3028 739,3028 799,3028 859,3028 919,3028 979,3028 1038,3028 1098,3028 1158,3026 1218,3026 1278,3026 1338,3026 1398,3026 1457,3026 1517,3026 1577,3026 1637,3026 1697,3026 1757,3026 1817,3026 1817,2983 1757,2983 1697,2983 1637,2983 1577,2983 1517,2983 1457,2983 1398,2983 1338,2983 1278,2983 1218,2983 1158,2983 1098,2985 1038,2985 979,2985 919,2985 859,2985 799,2985 739,2985 679,2985 620,2985" />
+                <Baseline points="620,3014 679,3014 739,3014 799,3014 859,3014 919,3014 979,3014 1038,3014 1098,3014 1158,3012 1218,3012 1278,3012 1338,3012 1398,3012 1457,3012 1517,3012 1577,3012 1637,3012 1697,3012 1757,3012 1817,3012" />
+                <TextEquiv>
+                    <Unicode>Dalan (Henry), en el que sacó de pila al neofito la Srta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="618,3089 678,3089 739,3088 799,3088 860,3088 921,3088 981,3088 1042,3088 1102,3088 1163,3088 1224,3089 1284,3089 1345,3089 1405,3089 1466,3089 1527,3089 1587,3089 1648,3088 1708,3088 1769,3088 1830,3086 1830,3043 1769,3045 1708,3045 1648,3045 1587,3046 1527,3046 1466,3046 1405,3046 1345,3046 1284,3046 1224,3046 1163,3045 1102,3045 1042,3045 981,3045 921,3045 860,3045 799,3045 739,3045 678,3046 618,3046" />
+                <Baseline points="618,3075 678,3075 739,3074 799,3074 860,3074 921,3074 981,3074 1042,3074 1102,3074 1163,3074 1224,3075 1284,3075 1345,3075 1405,3075 1466,3075 1527,3075 1587,3075 1648,3074 1708,3074 1769,3074 1830,3072" />
+                <TextEquiv>
+                    <Unicode>Ruth Cadwallader y el Dr. Francisco Gonzalez, que apare¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="624,3153 656,3153 688,3152 721,3152 753,3152 785,3152 818,3152 850,3152 882,3152 915,3152 947,3152 979,3152 1012,3152 1044,3152 1076,3152 1109,3152 1141,3152 1173,3152 1206,3152 1238,3152 1271,3152 1271,3106 1238,3106 1206,3106 1173,3106 1141,3106 1109,3106 1076,3106 1044,3106 1012,3106 979,3106 947,3106 915,3106 882,3106 850,3106 818,3106 785,3106 753,3106 721,3106 688,3106 656,3107 624,3107" />
+                <Baseline points="624,3138 656,3138 688,3137 721,3137 753,3137 785,3137 818,3137 850,3137 882,3137 915,3137 947,3137 979,3137 1012,3137 1044,3137 1076,3137 1109,3137 1141,3137 1173,3137 1206,3137 1238,3137 1271,3137" />
+                <TextEquiv>
+                    <Unicode>cen en el centro de la fotografía.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="1472,3201 1498,3202 1524,3203 1550,3203 1577,3203 1603,3203 1629,3203 1656,3202 1682,3201 1708,3201 1735,3200 1761,3200 1787,3200 1814,3201 1814,3137 1787,3136 1761,3136 1735,3136 1708,3137 1682,3137 1656,3138 1629,3139 1603,3139 1577,3139 1550,3139 1524,3139 1498,3138 1472,3137" />
+                <Baseline points="1472,3180 1498,3181 1524,3182 1550,3182 1577,3182 1603,3182 1629,3182 1656,3181 1682,3180 1708,3180 1735,3179 1761,3179 1787,3179 1814,3180" />
+                <TextEquiv>
+                    <Unicode>Foto—-J. A. NAVARRO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AOAI
+A
+200A,06
+PEAA
+A
+a
+
+
+
+
+Pe.
+
+Socias y directoras de la “Y oung Ladies Club” nueva sociedad
+femenina, en la animada fiesta que con motivo de su inauguración,
+se celebró en la residencia de la Presidenta, Srta. Cecilia Javier.
+Foto—A. OVEJAS.
+A
+pon
+Grupo de invitados al bautizo del hijo de los Sres. de
+Dalan (Henry), en el que sacó de pila al neofito la Srta.
+Ruth Cadwallader y el Dr. Francisco Gonzalez, que apare¬
+cen en el centro de la fotografía.
+Foto—-J. A. NAVARRO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1905,3112 1905,3267 2082,3267 2082,3112" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1905,3266 1930,3267 1955,3266 1980,3265 2006,3264 2031,3263 2056,3262 2082,3263 2082,3113 2056,3112 2031,3113 2006,3114 1980,3115 1955,3116 1930,3117 1905,3116" />
+                <Baseline points="1905,3216 1930,3217 1955,3216 1980,3215 2006,3214 2031,3213 2056,3212 2082,3213" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="2066,1361 2066,1519 2184,1519 2184,1361" />
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="2066,1519 2095,1517 2125,1516 2154,1514 2184,1511 2184,1361 2154,1364 2125,1366 2095,1367 2066,1369" />
+                <Baseline points="2066,1469 2095,1467 2125,1466 2154,1464 2184,1461" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

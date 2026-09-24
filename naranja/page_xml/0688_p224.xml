@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:50.529+02:00</Created>
+        <LastChange>2021-10-29T20:18:00.020+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781567" pageNr="688" tsid="236400800" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CGLYSFRHMCZBPHMSICDGUUKC" xmlUrl="https://files.transkribus.eu/Get?id=JFYFNKBBSLWNTKOBPOAPQMNV" imageId="17245390" />
+    </Metadata>
+    <Page imageFilename="0688_p224.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982575736" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="467,702 467,1920 1922,1920 1922,702" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="684,765 709,765 735,765 760,765 786,765 786,702 760,702 735,702 709,702 684,702" />
+                <Baseline points="684,744 709,744 735,744 760,744 786,744" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1173,771 1188,771 1188,708 1173,708" />
+                <Baseline points="1173,750 1188,750" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="548,1674 615,1668 683,1662 751,1657 818,1651 886,1647 954,1642 1021,1636 1089,1633 1157,1628 1225,1624 1292,1620 1360,1616 1428,1612 1495,1608 1563,1604 1631,1600 1698,1596 1766,1591 1834,1587 1902,1582 1902,1543 1834,1548 1766,1552 1698,1557 1631,1561 1563,1565 1495,1569 1428,1573 1360,1577 1292,1581 1225,1585 1157,1589 1089,1594 1021,1597 954,1603 886,1608 818,1612 751,1618 683,1623 615,1629 548,1635" />
+                <Baseline points="548,1661 615,1655 683,1649 751,1644 818,1638 886,1634 954,1629 1021,1623 1089,1620 1157,1615 1225,1611 1292,1607 1360,1603 1428,1599 1495,1595 1563,1591 1631,1587 1698,1583 1766,1578 1834,1574 1902,1569" />
+                <TextEquiv>
+                    <Unicode>Dos mesas del "Lauriat Danzánt” dado por D. Joaquín Balmori</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="467,1739 537,1730 608,1723 679,1717 750,1710 821,1704 891,1699 962,1693 1033,1689 1104,1684 1175,1680 1245,1676 1316,1672 1387,1667 1458,1663 1529,1659 1599,1655 1670,1650 1741,1646 1812,1640 1883,1634 1883,1598 1812,1604 1741,1610 1670,1614 1599,1619 1529,1623 1458,1627 1387,1631 1316,1636 1245,1640 1175,1644 1104,1648 1033,1653 962,1657 891,1663 821,1668 750,1674 679,1681 608,1687 537,1694 467,1703" />
+                <Baseline points="467,1727 537,1718 608,1711 679,1705 750,1698 821,1692 891,1687 962,1681 1033,1677 1104,1672 1175,1668 1245,1664 1316,1660 1387,1655 1458,1651 1529,1647 1599,1643 1670,1638 1741,1634 1812,1628 1883,1622" />
+                <TextEquiv>
+                    <Unicode>y su distinguida señora, en el Cosmos Club, a la que concurrieron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="476,1788 546,1781 617,1774 688,1768 759,1762 830,1755 900,1750 971,1746 1042,1741 1113,1737 1184,1731 1254,1728 1325,1724 1396,1719 1467,1715 1538,1712 1608,1707 1679,1702 1750,1698 1821,1693 1892,1688 1892,1652 1821,1657 1750,1662 1679,1666 1608,1671 1538,1676 1467,1679 1396,1683 1325,1688 1254,1692 1184,1695 1113,1701 1042,1705 971,1710 900,1714 830,1719 759,1726 688,1732 617,1738 546,1745 476,1752" />
+                <Baseline points="476,1776 546,1769 617,1762 688,1756 759,1750 830,1743 900,1738 971,1734 1042,1729 1113,1725 1184,1719 1254,1716 1325,1712 1396,1707 1467,1703 1538,1700 1608,1695 1679,1690 1750,1686 1821,1681 1892,1676" />
+                <TextEquiv>
+                    <Unicode>prominentes personalidades y bellas señoritas de la sociedad cosmo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="482,1842 511,1836 540,1834 569,1832 599,1830 599,1791 569,1793 540,1795 511,1797 482,1803" />
+                <Baseline points="482,1829 511,1823 540,1821 569,1819 599,1817" />
+                <TextEquiv>
+                    <Unicode>polita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1581,1889 1607,1887 1633,1887 1659,1885 1685,1883 1712,1881 1738,1880 1764,1877 1790,1876 1817,1874 1843,1872 1869,1872 1895,1871 1922,1871 1922,1808 1895,1808 1869,1809 1843,1809 1817,1811 1790,1813 1764,1814 1738,1817 1712,1818 1685,1820 1659,1822 1633,1824 1607,1824 1581,1826" />
+                <Baseline points="1581,1868 1607,1866 1633,1866 1659,1864 1685,1862 1712,1860 1738,1859 1764,1856 1790,1855 1817,1853 1843,1851 1869,1851 1895,1850 1922,1850" />
+                <TextEquiv>
+                    <Unicode>Fotos—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="588,1920 617,1919 646,1917 676,1916 705,1914 734,1913 764,1910 793,1908 822,1906 852,1904 881,1901 910,1899 940,1897 969,1895 998,1892 1028,1891 1057,1889 1086,1887 1116,1886 1145,1886 1175,1884 1175,1821 1145,1823 1116,1823 1086,1824 1057,1826 1028,1828 998,1829 969,1832 940,1834 910,1836 881,1838 852,1841 822,1843 793,1845 764,1847 734,1850 705,1851 676,1853 646,1854 617,1856 588,1857" />
+                <Baseline points="588,1899 617,1898 646,1896 676,1895 705,1893 734,1892 764,1889 793,1887 822,1885 852,1883 881,1880 910,1878 940,1876 969,1874 998,1871 1028,1870 1057,1868 1086,1866 1116,1865 1145,1865 1175,1863" />
+                <TextEquiv>
+                    <Unicode>Una foto del animado baile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+Dos mesas del "Lauriat Danzánt” dado por D. Joaquín Balmori
+y su distinguida señora, en el Cosmos Club, a la que concurrieron
+prominentes personalidades y bellas señoritas de la sociedad cosmo¬
+polita.
+Fotos—SUN STUDIO
+Una foto del animado baile.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:23.084+02:00</Created>
+        <LastChange>2021-10-29T19:48:09.648+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781479" pageNr="604" tsid="236400676" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LAQFLJLRFUIZCWGQYGSTSOIT" xmlUrl="https://files.transkribus.eu/Get?id=KWASSRSJDSOEIFVVFXAYQKQL" imageId="17244809" />
+    </Metadata>
+    <Page imageFilename="0604_p140.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982556008" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="206,310 206,2409 1991,2409 1991,310" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1296,375 1321,375 1346,375 1371,375 1396,374 1421,374 1446,374 1471,374 1496,374 1521,374 1546,374 1571,375 1596,375 1621,375 1646,375 1671,375 1671,311 1646,311 1621,311 1596,311 1571,311 1546,310 1521,310 1496,310 1471,310 1446,310 1421,310 1396,310 1371,311 1346,311 1321,311 1296,311" />
+                <Baseline points="1296,354 1321,354 1346,354 1371,354 1396,353 1421,353 1446,353 1471,353 1496,353 1521,353 1546,353 1571,354 1596,354 1621,354 1646,354 1671,354" />
+                <TextEquiv>
+                    <Unicode>ELEGANCIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1440,461 1466,462 1492,463 1518,464 1544,464 1571,464 1597,464 1623,464 1649,462 1675,462 1702,462 1728,461 1754,461 1780,462 1806,462 1833,464 1833,400 1806,398 1780,398 1754,397 1728,397 1702,398 1675,398 1649,398 1623,400 1597,400 1571,400 1544,400 1518,400 1492,399 1466,398 1440,397" />
+                <Baseline points="1440,440 1466,441 1492,442 1518,443 1544,443 1571,443 1597,443 1623,443 1649,441 1675,441 1702,441 1728,440 1754,440 1780,441 1806,441 1833,443" />
+                <TextEquiv>
+                    <Unicode>EXQUISITEZ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1614,551 1639,552 1664,552 1689,552 1714,552 1739,551 1764,551 1789,551 1815,551 1840,551 1865,551 1890,551 1915,552 1940,552 1965,552 1991,554 1991,490 1965,488 1940,488 1915,488 1890,487 1865,487 1840,487 1815,487 1789,487 1764,487 1739,487 1714,488 1689,488 1664,488 1639,488 1614,487" />
+                <Baseline points="1614,530 1639,531 1664,531 1689,531 1714,531 1739,530 1764,530 1789,530 1815,530 1840,530 1865,530 1890,530 1915,531 1940,531 1965,531 1991,533" />
+                <TextEquiv>
+                    <Unicode>DISTINCION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="606,639 644,646 682,652 720,658 759,665 797,672 835,678 873,684 912,691 950,697 988,704 1026,711 1065,718 1103,725 1141,731 1179,737 1218,746 1256,754 1294,761 1332,769 1371,777 1371,710 1332,702 1294,694 1256,687 1218,679 1179,670 1141,664 1103,658 1065,651 1026,644 988,637 950,630 912,624 873,617 835,611 797,605 759,598 720,591 682,585 644,579 606,572" />
+                <Baseline points="606,617 644,624 682,630 720,636 759,643 797,650 835,656 873,662 912,669 950,675 988,682 1026,689 1065,696 1103,703 1141,709 1179,715 1218,724 1256,732 1294,739 1332,747 1371,755" />
+                <TextEquiv>
+                    <Unicode>dulaa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="560,985 590,988 590,921 560,918" />
+                <Baseline points="560,963 590,966" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1058,996 1092,991 1127,987 1127,920 1092,924 1058,929" />
+                <Baseline points="1058,974 1092,969 1127,965" />
+                <TextEquiv>
+                    <Unicode>2-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="1173,1009 1221,1003 1221,936 1173,942" />
+                <Baseline points="1173,987 1221,981" />
+                <TextEquiv>
+                    <Unicode>y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="774,1080 811,1080 848,1080 848,1013 811,1013 774,1013" />
+                <Baseline points="774,1058 811,1058 848,1058" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="363,1237 402,1231 402,1164 363,1170" />
+                <Baseline points="363,1215 402,1209" />
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="258,1414 288,1414 319,1417 350,1419 380,1423 411,1427 442,1433 472,1438 503,1445 534,1452 565,1460 595,1465 626,1474 657,1481 687,1489 718,1496 749,1503 779,1510 810,1516 841,1522 872,1528 872,1461 841,1455 810,1449 779,1443 749,1436 718,1429 687,1422 657,1414 626,1407 595,1398 565,1393 534,1385 503,1378 472,1371 442,1366 411,1360 380,1356 350,1352 319,1350 288,1347 258,1347" />
+                <Baseline points="258,1392 288,1392 319,1395 350,1397 380,1401 411,1405 442,1411 472,1416 503,1423 534,1430 565,1438 595,1443 626,1452 657,1459 687,1467 718,1474 749,1481 779,1488 810,1494 841,1500 872,1506" />
+                <TextEquiv>
+                    <Unicode>CIGRRETTES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="516,1558 540,1561 540,1494 516,1491" />
+                <Baseline points="516,1536 540,1539" />
+                <TextEquiv>
+                    <Unicode>a9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="929,1825 955,1834 981,1841 1007,1849 1034,1861 1034,1794 1007,1782 981,1774 955,1767 929,1758" />
+                <Baseline points="929,1803 955,1812 981,1819 1007,1827 1034,1839" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="206,2054 248,2054 291,2052 333,2052 376,2052 418,2052 461,2051 503,2051 546,2051 588,2051 631,2051 673,2051 716,2051 758,2051 801,2049 843,2049 886,2049 928,2048 971,2046 1013,2046 1056,2043 1056,1988 1013,1991 971,1991 928,1993 886,1994 843,1994 801,1994 758,1996 716,1996 673,1996 631,1996 588,1996 546,1996 503,1996 461,1996 418,1997 376,1997 333,1997 291,1997 248,1999 206,1999" />
+                <Baseline points="206,2036 248,2036 291,2034 333,2034 376,2034 418,2034 461,2033 503,2033 546,2033 588,2033 631,2033 673,2033 716,2033 758,2033 801,2031 843,2031 886,2031 928,2030 971,2028 1013,2028 1056,2025" />
+                <TextEquiv>
+                    <Unicode>La Principal Razón del por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="1535,2082 1564,2089 1593,2089 1622,2087 1652,2085 1652,2037 1622,2039 1593,2041 1564,2041 1535,2034" />
+                <Baseline points="1535,2066 1564,2073 1593,2073 1622,2071 1652,2069" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="359,2135 386,2134 414,2132 441,2132 469,2130 497,2130 524,2130 552,2129 579,2129 607,2129 635,2129 662,2129 690,2129 717,2128 745,2127 773,2127 800,2127 828,2126 855,2126 883,2124 911,2123 911,2068 883,2069 855,2071 828,2071 800,2072 773,2072 745,2072 717,2073 690,2074 662,2074 635,2074 607,2074 579,2074 552,2074 524,2075 497,2075 469,2075 441,2077 414,2077 386,2079 359,2080" />
+                <Baseline points="359,2117 386,2116 414,2114 441,2114 469,2112 497,2112 524,2112 552,2111 579,2111 607,2111 635,2111 662,2111 690,2111 717,2110 745,2109 773,2109 800,2109 828,2108 855,2108 883,2106 911,2105" />
+                <TextEquiv>
+                    <Unicode>que los Cigarrillos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="1511,2152 1539,2165 1567,2166 1595,2155 1595,2107 1567,2118 1539,2117 1511,2104" />
+                <Baseline points="1511,2136 1539,2149 1567,2150 1595,2139" />
+                <TextEquiv>
+                    <Unicode>ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="293,2234 327,2235 362,2237 397,2238 432,2239 467,2240 501,2240 536,2240 571,2240 606,2240 641,2238 675,2238 710,2238 745,2237 780,2237 815,2235 849,2235 884,2235 919,2234 954,2234 989,2234 989,2170 954,2170 919,2170 884,2171 849,2171 815,2171 780,2173 745,2173 710,2174 675,2174 641,2174 606,2176 571,2176 536,2176 501,2176 467,2176 432,2175 397,2174 362,2173 327,2171 293,2170" />
+                <Baseline points="293,2213 327,2214 362,2216 397,2217 432,2218 467,2219 501,2219 536,2219 571,2219 606,2219 641,2217 675,2217 710,2217 745,2216 780,2216 815,2214 849,2214 884,2214 919,2213 954,2213 989,2213" />
+                <TextEquiv>
+                    <Unicode>MARIA LUISA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="267,2328 304,2327 341,2327 379,2327 416,2327 453,2327 491,2325 528,2325 565,2325 603,2324 640,2324 677,2324 715,2324 752,2323 789,2322 827,2322 864,2322 901,2322 939,2322 976,2322 1014,2322 1014,2267 976,2267 939,2267 901,2267 864,2267 827,2267 789,2267 752,2268 715,2269 677,2269 640,2269 603,2269 565,2270 528,2270 491,2270 453,2272 416,2272 379,2272 341,2272 304,2272 267,2273" />
+                <Baseline points="267,2310 304,2309 341,2309 379,2309 416,2309 453,2309 491,2307 528,2307 565,2307 603,2306 640,2306 677,2306 715,2306 752,2305 789,2304 827,2304 864,2304 901,2304 939,2304 976,2304 1014,2304" />
+                <TextEquiv>
+                    <Unicode>son los preferidos por la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="471,2409 497,2408 523,2406 550,2405 576,2403 603,2402 629,2400 655,2400 682,2400 708,2399 735,2400 761,2400 788,2402 788,2347 761,2345 735,2345 708,2344 682,2345 655,2345 629,2345 603,2347 576,2348 550,2350 523,2351 497,2353 471,2354" />
+                <Baseline points="471,2391 497,2390 523,2388 550,2387 576,2385 603,2384 629,2382 655,2382 682,2382 708,2381 735,2382 761,2382 788,2384" />
+                <TextEquiv>
+                    <Unicode>Gente Chic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ELEGANCIA
+EXQUISITEZ
+DISTINCION
+dulaa
+S
+2-
+y
+
+9
+CIGRRETTES
+a9
+E
+La Principal Razón del por
+
+que los Cigarrillos
+ha
+MARIA LUISA
+son los preferidos por la
+Gente Chic</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1866,1744 1866,1921 1983,1921 1983,1744" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1866,1894 1895,1904 1924,1911 1953,1915 1983,1921 1983,1771 1953,1765 1924,1761 1895,1754 1866,1744" />
+                <Baseline points="1866,1844 1895,1854 1924,1861 1953,1865 1983,1871" />
+                <TextEquiv>
+                    <Unicode>Co</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Co</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

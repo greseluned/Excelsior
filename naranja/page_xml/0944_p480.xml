@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:48:17.028+02:00</Created>
+        <LastChange>2021-10-29T21:53:57.257+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781894" pageNr="944" tsid="236401120" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=IYLJYOTILONHKMJRMBXYIOKG" xmlUrl="https://files.transkribus.eu/Get?id=WLKCERYGKQQFVWVOXLCQXTLC" imageId="17247084" />
+    </Metadata>
+    <Page imageFilename="0944_p480.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982635987" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="27,55 27,3463 2472,3463 2472,55" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="84,101 113,101 142,101 171,101 201,101 201,55 171,55 142,55 113,55 84,55" />
+                <Baseline points="84,86 113,86 142,86 171,86 201,86" />
+                <TextEquiv>
+                    <Unicode>AP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="83,163 110,161 137,163 164,166 164,127 137,124 110,122 83,124" />
+                <Baseline points="83,150 110,148 137,150 164,153" />
+                <TextEquiv>
+                    <Unicode> 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2033,219 2058,213 2084,208 2110,205 2136,203 2162,202 2187,202 2213,205 2239,207 2265,209 2291,211 2317,213 2342,215 2368,217 2394,219 2420,219 2446,218 2472,216 2472,149 2446,151 2420,152 2394,152 2368,150 2342,148 2317,146 2291,144 2265,142 2239,140 2213,138 2187,135 2162,135 2136,136 2110,138 2084,141 2058,146 2033,152" />
+                <Baseline points="2033,197 2058,191 2084,186 2110,183 2136,181 2162,180 2187,180 2213,183 2239,185 2265,187 2291,189 2317,191 2342,193 2368,195 2394,197 2420,197 2446,196 2472,194" />
+                <TextEquiv>
+                    <Unicode>MAR 1 1948</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="83,217 108,221 133,223 158,223 183,222 209,223 209,184 183,183 158,184 133,184 108,182 83,178" />
+                <Baseline points="83,204 108,208 133,210 158,210 183,209 209,210" />
+                <TextEquiv>
+                    <Unicode>NE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1910,261 1935,254 1961,241 1986,230 2012,234 2012,167 1986,163 1961,174 1935,187 1910,194" />
+                <Baseline points="1910,239 1935,232 1961,219 1986,208 2012,212" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="92,287 117,290 142,292 167,295 192,295 217,298 243,301 243,249 217,246 192,243 167,243 142,240 117,238 92,235" />
+                <Baseline points="92,270 117,273 142,275 167,278 192,278 217,281 243,284" />
+                <TextEquiv>
+                    <Unicode>N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="281,358 371,362 462,364 553,366 644,367 735,367 826,367 917,367 1008,366 1099,365 1190,364 1280,363 1371,361 1462,360 1553,360 1644,360 1735,360 1826,361 1917,363 2008,366 2099,370 2099,303 2008,299 1917,296 1826,294 1735,293 1644,293 1553,293 1462,293 1371,294 1280,296 1190,297 1099,298 1008,299 917,300 826,300 735,300 644,300 553,299 462,297 371,295 281,291" />
+                <Baseline points="281,336 371,340 462,342 553,344 644,345 735,345 826,345 917,345 1008,344 1099,343 1190,342 1280,341 1371,339 1462,338 1553,338 1644,338 1735,338 1826,339 1917,341 2008,344 2099,348" />
+                <TextEquiv>
+                    <Unicode>Cso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="27,597 52,598 77,599 102,600 128,600 153,600 178,598 204,598 229,598 254,598 279,598 305,598 330,601 355,602 381,604 381,537 355,535 330,534 305,531 279,531 254,531 229,531 204,531 178,531 153,533 128,533 102,533 77,532 52,531 27,530" />
+                <Baseline points="27,575 52,576 77,577 102,578 128,578 153,578 178,576 204,576 229,576 254,576 279,576 305,576 330,579 355,580 381,582" />
+                <TextEquiv>
+                    <Unicode>35 CENTIMOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1553,600 1594,600 1636,600 1677,600 1719,600 1761,600 1802,600 1844,601 1885,601 1927,601 1969,601 2010,601 2052,601 2093,603 2135,603 2177,603 2218,601 2260,601 2301,601 2343,600 2385,600 2385,533 2343,533 2301,534 2260,534 2218,534 2177,536 2135,536 2093,536 2052,534 2010,534 1969,534 1927,534 1885,534 1844,534 1802,533 1761,533 1719,533 1677,533 1636,533 1594,533 1553,533" />
+                <Baseline points="1553,578 1594,578 1636,578 1677,578 1719,578 1761,578 1802,578 1844,579 1885,579 1927,579 1969,579 2010,579 2052,579 2093,581 2135,581 2177,581 2218,579 2260,579 2301,579 2343,578 2385,578" />
+                <TextEquiv>
+                    <Unicode>MANILA—NOVIEMBRE 10, 1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="1065,3463 1091,3463 1118,3463 1145,3463 1172,3463 1198,3463 1225,3463 1252,3463 1279,3463 1305,3462 1332,3462 1359,3462 1386,3462 1413,3462 1413,3395 1386,3395 1359,3395 1332,3395 1305,3395 1279,3396 1252,3396 1225,3396 1198,3396 1172,3396 1145,3396 1118,3396 1091,3396 1065,3396" />
+                <Baseline points="1065,3441 1091,3441 1118,3441 1145,3441 1172,3441 1198,3441 1225,3441 1252,3441 1279,3441 1305,3440 1332,3440 1359,3440 1386,3440 1413,3440" />
+                <TextEquiv>
+                    <Unicode>INO DE PUEBLO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AP.
+ 7
+MAR 1 1948
+NE
+A
+N
+Cso
+35 CENTIMOS
+MANILA—NOVIEMBRE 10, 1930
+INO DE PUEBLO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

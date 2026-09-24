@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:36.727+02:00</Created>
+        <LastChange>2021-06-08T20:17:17.640+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782929" pageNr="1932" tsid="236402373" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ARMUWZNKFCQUAIYWRQMWPUJT" xmlUrl="https://files.transkribus.eu/Get?id=EQJRGFSIXLSLIGAXBOEYWNJK" imageId="17248988" />
+    </Metadata>
+    <Page imageFilename="1932_p831.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="498,695 1778,695 1778,2739 498,2739" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982861268" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="537,695 1778,695 1778,2485 537,2485" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="498,2500 1127,2500 1127,2681 498,2681" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="565,2552 1058,2549 1057,2508 878,2509 861,2525 564,2511" />
+                <Baseline points="570,2544 595,2545 620,2546 646,2546 671,2547 697,2547 722,2547 747,2547 773,2547 798,2546 824,2546 849,2546 875,2545 900,2544 925,2544 951,2544 976,2544 1002,2544 1027,2544 1053,2544" />
+                <TextEquiv>
+                    <Unicode>Sr. RAFAEL CORPUS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="510,2608 599,2623 991,2618 1042,2600 1079,2614 1118,2609 1118,2562 1051,2584 510,2569" />
+                <Baseline points="515,2601 544,2601 574,2602 604,2603 634,2603 664,2603 694,2603 724,2603 754,2604 784,2604 814,2603 843,2603 873,2603 903,2603 933,2603 963,2603 993,2603 1023,2603 1053,2603 1083,2603 1113,2601" />
+                <TextEquiv>
+                    <Unicode>Vicepresidente y Manager del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="534,2670 647,2683 1078,2674 1078,2645 1054,2628 1015,2645 928,2629 901,2646 795,2636 759,2652 701,2628 681,2644 643,2629 534,2642" />
+                <Baseline points="539,2666 565,2666 592,2667 619,2667 645,2667 672,2667 699,2667 725,2667 752,2667 779,2666 806,2666 832,2666 859,2666 886,2665 912,2664 939,2664 966,2664 992,2664 1019,2663 1046,2663 1073,2663" />
+                <TextEquiv>
+                    <Unicode>Philippine National Bank.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sr. RAFAEL CORPUS
+Vicepresidente y Manager del
+Philippine National Bank.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1017,2702 1329,2702 1329,2739 1017,2739" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1026,2738 1330,2738 1330,2698 1168,2707 1090,2700 1066,2709 1026,2702" />
+                <Baseline points="1031,2726 1057,2727 1084,2727 1111,2727 1137,2727 1164,2729 1191,2729 1218,2729 1244,2729 1271,2729 1298,2729 1325,2729" />
+                <TextEquiv>
+                    <Unicode>Por LUIS ESTEBAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Por LUIS ESTEBAN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1742,1750 1773,1750 1773,2363 1742,2363" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

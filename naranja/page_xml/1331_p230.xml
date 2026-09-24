@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:57.308+02:00</Created>
+        <LastChange>2021-06-08T15:32:32.607+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782272" pageNr="1331" tsid="236401561" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=WCZJZJRPOMRMEEXAJLHIKORX" xmlUrl="https://files.transkribus.eu/Get?id=WLQOZSWXQQNGDZOMLJMGLWSM" imageId="17247296" />
+    </Metadata>
+    <Page imageFilename="1331_p230.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="203,237 2285,237 2285,3233 203,3233" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982723809" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="205,284 2285,284 2285,3233 205,3233" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="358,262 604,262 604,322 358,322" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="411,328 446,329 474,316 487,324 507,315 535,323 547,317 583,333 601,327 594,261 544,271 524,264 500,270 485,263 449,267 427,257 403,258" />
+                <Baseline points="417,312 446,312 475,308 504,302 533,298 562,296 591,300" />
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="828,1524 2122,1524 2122,1916 828,1916" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="908,1561 2108,1579 2108,1538 1917,1524 908,1531" />
+                <Baseline points="917,1560 976,1560 1035,1560 1094,1560 1153,1560 1212,1560 1271,1560 1331,1560 1390,1560 1449,1560 1508,1560 1567,1562 1626,1562 1685,1562 1745,1562 1804,1562 1863,1562 1922,1563 1981,1563 2040,1563 2100,1563" />
+                <TextEquiv>
+                    <Unicode>De izquierda a derecha: El jurisconsulto Sr. E. Orense,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="837,1613 2107,1610 2048,1572 837,1566" />
+                <Baseline points="845,1605 907,1604 970,1604 1033,1604 1096,1604 1158,1604 1221,1604 1284,1604 1347,1604 1409,1604 1472,1604 1535,1605 1598,1605 1660,1605 1723,1605 1786,1605 1849,1605 1911,1605 1974,1605 2037,1604 2100,1604" />
+                <TextEquiv>
+                    <Unicode>la Sra. del Cónsul de España Sr. Ariño, el Sr. Ariño, el vice¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="833,1660 2107,1664 2088,1612 833,1622" />
+                <Baseline points="840,1647 903,1647 966,1646 1029,1646 1092,1646 1155,1646 1218,1646 1281,1646 1344,1646 1407,1646 1470,1646 1533,1646 1596,1647 1659,1647 1722,1647 1785,1647 1848,1647 1911,1647 1974,1647 2037,1647 2100,1646" />
+                <TextEquiv>
+                    <Unicode>gobernador Sr. Holliday, la Sra. del Gobernador Roosevelt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="832,1695 2015,1707 2106,1665 833,1670" />
+                <Baseline points="840,1689 902,1689 965,1688 1028,1688 1091,1688 1154,1688 1217,1688 1279,1688 1342,1689 1405,1689 1468,1689 1531,1689 1594,1689 1657,1689 1719,1689 1782,1689 1845,1689 1908,1689 1971,1689 2034,1689 2097,1689" />
+                <TextEquiv>
+                    <Unicode>el Excmo. Sr. Arzobispo de Manila y el Sr. Earnshaw, Al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="842,1743 2107,1740 2107,1711 1925,1698 842,1708" />
+                <Baseline points="851,1731 913,1731 975,1731 1038,1731 1100,1731 1163,1731 1225,1731 1287,1731 1350,1731 1412,1731 1475,1733 1537,1733 1599,1733 1662,1733 1724,1733 1787,1733 1849,1733 1911,1733 1974,1733 2036,1733 2099,1733" />
+                <TextEquiv>
+                    <Unicode>calde de la ciudad en la inauguración de la magnífica y mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="831,1779 1956,1795 2101,1786 2120,1751 831,1753" />
+                <Baseline points="840,1772 903,1772 967,1772 1030,1772 1094,1773 1158,1773 1221,1773 1285,1773 1348,1773 1412,1775 1476,1775 1539,1775 1603,1775 1666,1775 1730,1775 1794,1776 1857,1776 1921,1775 1984,1775 2048,1775 2112,1775" />
+                <TextEquiv>
+                    <Unicode>derna sala de operaciones del antiguo y refutado Hospital de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="834,1827 1908,1836 2110,1827 2110,1788 834,1789" />
+                <Baseline points="842,1818 905,1818 968,1817 1031,1817 1094,1817 1157,1817 1220,1817 1283,1818 1346,1818 1409,1818 1472,1818 1535,1818 1598,1818 1661,1818 1724,1818 1787,1818 1850,1818 1913,1818 1976,1818 2039,1818 2103,1818" />
+                <TextEquiv>
+                    <Unicode>San Juan de Dios.—Del banquete dado por el Coronel de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="844,1868 2111,1866 2087,1826 844,1826" />
+                <Baseline points="852,1859 914,1859 977,1859 1039,1859 1102,1860 1164,1860 1227,1860 1289,1860 1352,1860 1414,1862 1477,1862 1540,1862 1602,1862 1665,1862 1727,1862 1790,1862 1852,1862 1915,1860 1977,1860 2040,1859 2103,1859" />
+                <TextEquiv>
+                    <Unicode>Constabularia Sr. Bowers en honor a los Representantes de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1798,1899 1815,1909 1899,1899 1920,1908 1961,1899 1979,1908 2100,1908 2113,1905 2113,1867 1976,1867 1966,1877 1941,1867 1912,1877 1829,1867 1798,1877" />
+                <Baseline points="1805,1898 1830,1897 1855,1896 1880,1896 1905,1896 1930,1896 1955,1898 1980,1898 2005,1898 2030,1898 2055,1896 2080,1896 2105,1895" />
+                <TextEquiv>
+                    <Unicode>Fotos—F. SANTOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="843,1916 888,1906 1065,1916 1080,1900 1096,1916 1166,1919 1283,1906 1283,1889 1208,1867 1087,1878 925,1867 896,1887 843,1868" />
+                <Baseline points="851,1904 877,1904 904,1904 930,1904 957,1904 983,1904 1010,1904 1036,1904 1063,1904 1089,1904 1116,1904 1142,1904 1169,1904 1195,1904 1222,1904 1248,1904 1275,1904" />
+                <TextEquiv>
+                    <Unicode>la Cámara Filipina.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De izquierda a derecha: El jurisconsulto Sr. E. Orense,
+la Sra. del Cónsul de España Sr. Ariño, el Sr. Ariño, el vice¬
+gobernador Sr. Holliday, la Sra. del Gobernador Roosevelt,
+el Exemo. Sr. Arzobispo de Manila y el Sr. Earnshaw, Al¬
+calde de la ciudad en la inauguración de la magnífica y mo¬
+derna sala de operaciones del antiguo y refutado Hospital de
+San Juan de Dios.—Del banquete dado por el Coronel de la
+Constabularia Sr. Bowers en honor a los Representantes de
+Fotos—F. SANTOS
+la Cámara Filipina.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="208,237 2272,237 2272,254 208,254" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="204,1648 784,1648 784,1661 204,1661" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="204,1669 784,1669 784,1679 204,1679" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="204,1762 783,1762 783,1772 204,1772" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="205,1778 784,1778 784,1789 205,1789" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="972,2597 1067,2597 1067,2602 972,2602" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="209,3220 2280,3220 2280,3233 209,3233" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="2161,1666 2281,1666 2281,1676 2161,1676" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="2162,1757 2276,1757 2276,1767 2162,1767" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="2161,1773 2265,1773 2265,1783 2161,1783" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="203,243 218,243 218,1661 203,1661" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="205,1779 222,1779 222,3230 205,3230" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="1549,299 1558,299 1558,532 1549,532" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="2262,237 2280,237 2280,1657 2262,1657" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="2270,1773 2283,1773 2283,3230 2270,3230" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="400,2328 402,2328 402,2351 400,2351" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="900,1032 905,1032 905,1057 900,1057" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="2012,1265 2014,1265 2014,1292 2012,1292" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

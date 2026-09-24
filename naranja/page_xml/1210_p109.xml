@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:41:23.699+02:00</Created>
+        <LastChange>2021-06-08T14:30:49.090+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782127" pageNr="1210" tsid="236400931" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KYQTVNUEBCZOMPORDGXMHCDD" xmlUrl="https://files.transkribus.eu/Get?id=FNAODCHZCNKSYVEMQBCPJERQ" imageId="17246727" />
+    </Metadata>
+    <Page imageFilename="1210_p109.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="181,230 2305,230 2305,3267 181,3267" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982696138" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="192,230 2305,230 2305,1566 192,1566" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="184,1601 2299,1601 2299,1737 184,1737" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="262,1645 2298,1645 2264,1593 262,1598" />
+                <Baseline points="275,1634 375,1634 476,1634 576,1634 677,1634 777,1635 878,1635 978,1635 1079,1634 1179,1634 1280,1634 1381,1634 1481,1634 1582,1634 1682,1634 1783,1634 1883,1634 1984,1634 2084,1634 2185,1634 2286,1634" />
+                <TextEquiv>
+                    <Unicode>De la alegre fiesta ofrecida por los Sres. de Lagdameo (D. Ramón), en la residencia del Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="178,1687 2298,1687 178,1637" />
+                <Baseline points="191,1677 295,1677 400,1677 505,1677 610,1677 714,1677 819,1677 924,1677 1029,1677 1133,1677 1238,1677 1343,1677 1448,1677 1552,1677 1657,1677 1762,1677 1867,1677 1971,1677 2076,1677 2181,1676 2286,1676" />
+                <TextEquiv>
+                    <Unicode>Miquel Ramírez de la Vaca para celebrar el éxito obtenido por el Sr. Ignacio Lagdameo en los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="190,1729 1178,1737 1178,1692 1110,1682 190,1689" />
+                <Baseline points="204,1721 252,1721 300,1721 348,1721 396,1721 444,1722 492,1722 540,1721 588,1721 636,1721 684,1721 732,1721 780,1721 828,1721 876,1721 924,1721 972,1719 1020,1719 1068,1719 1116,1719 1164,1719" />
+                <TextEquiv>
+                    <Unicode>últimos exámenes celebrados para Dentistas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1992,1736 2065,1736 2081,1725 2110,1736 2306,1736 2306,1688 2222,1694 2178,1686 2159,1699 1992,1692" />
+                <Baseline points="2006,1721 2032,1722 2058,1722 2084,1722 2110,1722 2136,1722 2162,1722 2188,1722 2214,1722 2240,1721 2266,1721 2292,1722" />
+                <TextEquiv>
+                    <Unicode>Foto - A. OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De la alegre fiesta ofrecida por los Sres. de Lagdameo (D. Ramón), en la residencia del Sr.
+Miquel Ramírez de la Vaca para celebrar el éxito obtenido por el Sr. Ignacio Lagdameo en los
+últimos exámenes celebrados para Dentistas.
+Foto - A. OVEJAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="181,1833 1169,1833 1169,3267 181,3267" />
+        </GraphicRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1267,1850 2296,1850 2296,1929 1267,1929" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1267,2269 2299,2269 2299,2819 1267,2819" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1328,2336 1587,2311 1760,2343 1925,2317 1954,2344 2004,2310 2059,2342 2300,2335 2300,2272 2261,2264 1328,2262" />
+                <Baseline points="1340,2316 1387,2316 1434,2316 1481,2315 1529,2316 1576,2316 1623,2316 1671,2316 1718,2316 1765,2316 1813,2318 1860,2318 1907,2318 1954,2318 2002,2319 2049,2319 2096,2319 2144,2319 2191,2319 2238,2319 2286,2319" />
+                <TextEquiv>
+                    <Unicode>Nuestro distinguido y apreciado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1269,2429 2309,2428 2309,2386 2136,2361 1269,2371" />
+                <Baseline points="1281,2412 1331,2412 1382,2412 1433,2412 1483,2412 1534,2414 1585,2414 1635,2414 1686,2414 1737,2414 1788,2414 1838,2414 1889,2414 1940,2414 1990,2414 2041,2415 2092,2415 2142,2415 2193,2415 2244,2417 2295,2417" />
+                <TextEquiv>
+                    <Unicode>amigo D. Eduardo García Palomar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1259,2526 2307,2526 2307,2471 1878,2449 1259,2474" />
+                <Baseline points="1272,2507 1323,2508 1374,2508 1425,2510 1476,2510 1527,2510 1578,2510 1630,2510 1681,2510 1732,2510 1783,2510 1834,2510 1885,2510 1936,2510 1988,2510 2039,2510 2090,2511 2141,2511 2192,2511 2243,2511 2295,2511" />
+                <TextEquiv>
+                    <Unicode>alto empleado y accionista de Heacock</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1261,2630 2288,2622 2311,2565 1261,2567" />
+                <Baseline points="1274,2607 1325,2606 1376,2606 1427,2606 1478,2606 1529,2606 1580,2606 1632,2606 1683,2606 1734,2606 1785,2606 1836,2606 1887,2606 1938,2606 1990,2606 2041,2606 2092,2606 2143,2606 2194,2606 2245,2606 2297,2606" />
+                <TextEquiv>
+                    <Unicode>y Cía. que acaba de regresar de las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1267,2719 2305,2704 2305,2675 2234,2649 1267,2663" />
+                <Baseline points="1280,2700 1330,2700 1381,2702 1431,2702 1482,2702 1532,2702 1583,2702 1633,2702 1684,2702 1734,2702 1785,2702 1836,2702 1886,2702 1937,2702 1987,2702 2038,2702 2088,2702 2139,2702 2189,2702 2240,2703 2291,2703" />
+                <TextEquiv>
+                    <Unicode>vacaciones que ha disfrutado en Eu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1264,2808 1298,2809 1329,2821 1350,2821 1361,2811 1380,2809 1385,2815 1422,2811 1423,2779 1404,2779 1387,2760 1339,2761 1332,2755 1266,2753" />
+                <Baseline points="1278,2795 1304,2797 1330,2798 1357,2798 1383,2799 1410,2801" />
+                <TextEquiv>
+                    <Unicode>ropa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nuestro distinguido y apreciado
+amigo D. Eduardo García Palomar,
+alto empleado y accionista de Heacock
+y Cía. que acaba de regresar de las
+vacaciones que ha disfrutado en Eu¬
+ropa.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1867,3189 2288,3189 2288,3244 1867,3244" />
+        </GraphicRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1066,664 1382,664 1382,687 1066,687" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1360,716 1469,716 1469,721 1360,721" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="938,723 1066,723 1066,729 938,729" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1271,1855 2292,1855 2292,1861 1271,1861" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="245,1895 576,1895 576,1909 245,1909" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1269,1917 2227,1917 2227,1922 1269,1922" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1269,3170 2285,3170 2285,3178 1269,3178" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="244,1897 254,1897 254,2045 244,2045" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="247,2571 253,2571 253,2720 247,2720" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

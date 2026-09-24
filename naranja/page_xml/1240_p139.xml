@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:41:47.088+02:00</Created>
+        <LastChange>2021-06-08T14:45:53.148+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782179" pageNr="1240" tsid="236401491" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ESPWUDDMZAQXOGEHSKLSCGCR" xmlUrl="https://files.transkribus.eu/Get?id=MCNIRLCRNPCQCQWGLMSJBAVD" imageId="17246918" />
+    </Metadata>
+    <Page imageFilename="1240_p139.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="196,256 2289,256 2289,3253 196,3253" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982702895" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="255,269 1196,269 1196,366 255,366" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="264,362 622,363 665,322 710,363 1197,363 1197,280 1171,268 786,269 660,311 616,269 264,275" />
+                <Baseline points="270,347 316,350 362,352 408,354 454,354 500,354 546,354 592,354 638,354 684,353 730,353 776,351 822,351 868,351 914,351 960,351 1006,351 1052,354 1098,356 1144,359 1191,362" />
+                <TextEquiv>
+                    <Unicode>VINETAS MUNDIALES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VINETAS MUNDIALES</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="200,330 2285,330 2285,3251 200,3251" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="211,2565 1108,2565 1108,2719 211,2719" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="218,2611 1105,2602 1105,2571 1054,2563 525,2583 218,2563" />
+                <Baseline points="225,2600 268,2600 312,2600 355,2601 399,2601 443,2601 486,2601 530,2601 574,2601 617,2601 661,2601 705,2601 748,2601 792,2601 836,2600 879,2600 923,2600 967,2598 1010,2597 1054,2596 1098,2595" />
+                <TextEquiv>
+                    <Unicode>do y pasó toda una noche en vela para im¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="217,2667 1064,2664 1110,2653 1110,2625 217,2628" />
+                <Baseline points="224,2652 268,2651 312,2651 356,2651 400,2651 444,2651 488,2652 532,2652 576,2652 620,2652 664,2652 708,2654 752,2654 796,2654 840,2652 884,2652 928,2652 972,2651 1016,2649 1060,2649 1104,2646" />
+                <TextEquiv>
+                    <Unicode>presionar al Congreso y hacerle ver la ur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="210,2718 702,2714 702,2697 664,2669 520,2668 494,2682 384,2668 359,2692 328,2668 210,2680" />
+                <Baseline points="216,2706 241,2706 266,2705 291,2705 317,2705 342,2705 367,2705 392,2705 418,2705 443,2705 468,2705 493,2705 519,2705 544,2706 569,2706 594,2706 620,2708 645,2708 670,2708 696,2709" />
+                <TextEquiv>
+                    <Unicode>gencia de su demanda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>do y pasó toda una noche en vela para im¬
+presionar al Congreso y hacerle ver la ur¬
+gencia de su demanda.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="210,2841 1115,2841 1115,3253 210,3253" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="251,2879 1095,2891 1108,2852 251,2843" />
+                <Baseline points="257,2871 299,2871 341,2873 383,2874 425,2874 468,2874 510,2874 552,2876 594,2876 636,2876 679,2876 721,2876 763,2876 805,2876 847,2876 890,2876 932,2877 974,2877 1016,2877 1058,2879 1101,2879" />
+                <TextEquiv>
+                    <Unicode>Un tonel que es una soberbia obra de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="208,2938 1107,2938 1107,2907 1048,2892 846,2916 815,2892 208,2904" />
+                <Baseline points="215,2925 259,2926 303,2927 347,2927 392,2927 436,2927 480,2928 525,2928 569,2928 613,2928 658,2928 702,2928 746,2928 790,2928 835,2928 879,2930 923,2930 968,2930 1012,2931 1056,2931 1101,2933" />
+                <TextEquiv>
+                    <Unicode>arte. Este gigantesco tonel, que rivaliza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="215,2988 1101,2995 1102,2965 215,2954" />
+                <Baseline points="221,2978 264,2978 308,2978 352,2978 395,2978 439,2978 483,2978 526,2978 570,2979 614,2979 658,2979 701,2979 745,2979 789,2980 832,2981 876,2981 920,2981 963,2982 1007,2982 1051,2983 1095,2984" />
+                <TextEquiv>
+                    <Unicode>con el existente en Heildelberg, Alemania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="219,3043 1118,3035 1103,3011 895,2996 219,3007" />
+                <Baseline points="225,3029 269,3030 313,3030 358,3030 402,3031 446,3032 491,3032 535,3032 579,3032 624,3032 668,3033 712,3033 757,3033 801,3033 845,3033 890,3033 934,3035 978,3035 1023,3035 1067,3035 1112,3036" />
+                <TextEquiv>
+                    <Unicode>contiene nada más que 7o,000 litros—¡ung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="215,3099 1106,3091 1064,3052 997,3074 938,3052 215,3057" />
+                <Baseline points="221,3084 267,3083 313,3083 359,3083 406,3083 452,3083 498,3083 544,3084 591,3084 637,3084 683,3086 729,3086 776,3086 822,3087 868,3087 914,3087 961,3087 1007,3087 1053,3086 1100,3086" />
+                <TextEquiv>
+                    <Unicode>friolera!—de vino y se halla en las cata¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="215,3146 1117,3139 1077,3099 952,3100 928,3124 809,3099 613,3126 519,3099 448,3124 420,3099 215,3115" />
+                <Baseline points="221,3135 265,3135 309,3135 354,3135 398,3135 443,3135 487,3136 532,3137 576,3137 621,3137 665,3137 709,3138 754,3138 798,3138 843,3138 887,3138 932,3138 976,3138 1021,3138 1065,3138 1110,3137" />
+                <TextEquiv>
+                    <Unicode>cumbas de Viena, capital del ex Imperio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="209,3195 1113,3194 1097,3165 992,3156 209,3166" />
+                <Baseline points="215,3189 259,3189 304,3189 348,3189 393,3189 438,3189 482,3189 527,3189 571,3189 616,3189 661,3189 705,3189 750,3189 794,3189 839,3189 884,3189 928,3189 973,3189 1017,3189 1062,3189 1107,3189" />
+                <TextEquiv>
+                    <Unicode>Austriaco, notable por sus restaurantes es¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="206,3252 435,3255 494,3240 536,3257 671,3252 671,3226 657,3220 575,3220 552,3204 501,3221 384,3221 368,3204 334,3204 316,3221 289,3204 206,3216" />
+                <Baseline points="212,3242 237,3242 262,3242 287,3242 312,3242 337,3242 363,3242 388,3242 413,3243 438,3243 463,3243 488,3243 514,3242 539,3242 564,3242 589,3242 614,3242 639,3242 665,3243" />
+                <TextEquiv>
+                    <Unicode>tablecidos en sótanos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Un tonel que es una soberbia obra de
+arte. Este gigantesco tonel, que rivaliza
+con el existente en Heildelberg, Alemania.
+contiene nada más que 7o,000 litros—¡ung
+friolera!—de vino y se halla en las cata¬
+cumbas de Viena, capital del ex Imperio
+Austriaco, notable por sus restaurantes es¬
+tablecidos en sótanos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1264,1722 2279,1722 2279,2145 1264,2145" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1304,1764 2230,1770 2271,1761 2271,1720 1304,1725" />
+                <Baseline points="1311,1755 1358,1755 1406,1755 1454,1755 1501,1755 1549,1756 1597,1757 1644,1757 1692,1757 1740,1758 1788,1758 1835,1758 1883,1758 1931,1758 1978,1758 2026,1758 2074,1758 2121,1757 2169,1757 2217,1755 2265,1754" />
+                <TextEquiv>
+                    <Unicode>(Foto de la izquierda): ¿Una fotografía fan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1258,1814 2272,1827 2272,1782 2150,1772 1258,1788" />
+                <Baseline points="1265,1809 1315,1809 1365,1809 1415,1809 1465,1809 1515,1809 1565,1809 1615,1809 1665,1809 1715,1809 1765,1809 1815,1809 1865,1809 1915,1809 1965,1809 2015,1809 2065,1809 2115,1811 2165,1811 2215,1811 2265,1811" />
+                <TextEquiv>
+                    <Unicode>tástica de una feria nocturna en Washington,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1272,1876 2253,1875 2274,1832 1272,1836" />
+                <Baseline points="1278,1863 1327,1863 1377,1863 1426,1862 1476,1862 1525,1862 1575,1862 1624,1862 1674,1863 1723,1863 1773,1863 1822,1863 1872,1863 1921,1863 1971,1863 2020,1863 2070,1862 2119,1862 2169,1862 2218,1860 2268,1860" />
+                <TextEquiv>
+                    <Unicode>capital de los Estados Unidos de Norteaméri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1266,1927 2271,1913 2187,1880 1266,1890" />
+                <Baseline points="1272,1917 1321,1917 1371,1917 1420,1916 1470,1916 1520,1916 1569,1916 1619,1916 1669,1917 1718,1917 1768,1917 1818,1917 1867,1917 1917,1917 1967,1917 2016,1916 2066,1916 2116,1916 2165,1914 2215,1914 2265,1913" />
+                <TextEquiv>
+                    <Unicode>ca? No; una vista del “ejército” de ex vetera¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1262,1977 2120,1987 2279,1978 2279,1932 1262,1947" />
+                <Baseline points="1268,1970 1318,1970 1368,1970 1418,1970 1469,1970 1519,1970 1569,1970 1619,1970 1670,1970 1720,1970 1770,1970 1820,1970 1871,1968 1921,1968 1971,1968 2021,1968 2072,1968 2122,1968 2172,1968 2222,1968 2273,1968" />
+                <TextEquiv>
+                    <Unicode>nos estadunidenses de la gran guerra, que sitió</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1266,2035 2275,2018 2176,1986 1266,2000" />
+                <Baseline points="1272,2025 1321,2024 1371,2024 1421,2024 1471,2022 1521,2022 1570,2022 1620,2022 1670,2022 1720,2021 1770,2021 1819,2021 1869,2021 1919,2021 1969,2021 2019,2021 2068,2019 2118,2019 2168,2019 2218,2019 2268,2019" />
+                <TextEquiv>
+                    <Unicode>el Capitolio, para demandar del Gobierno el pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1271,2089 2254,2083 2270,2047 1270,2052" />
+                <Baseline points="1277,2079 1326,2078 1375,2076 1425,2076 1474,2075 1523,2075 1573,2073 1622,2073 1671,2073 1721,2073 1770,2073 1819,2073 1869,2073 1918,2073 1967,2073 2017,2073 2066,2073 2115,2073 2165,2073 2214,2073 2264,2072" />
+                <TextEquiv>
+                    <Unicode>go de sus bonos, instalándose frente al enorme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1268,2139 2070,2118 2216,2140 2271,2103 1268,2105" />
+                <Baseline points="1274,2129 1323,2129 1373,2129 1422,2129 1472,2129 1521,2127 1571,2127 1620,2127 1670,2127 1719,2127 1769,2127 1819,2127 1868,2127 1918,2127 1967,2127 2017,2127 2066,2127 2116,2126 2165,2126 2215,2126 2265,2126" />
+                <TextEquiv>
+                    <Unicode>edificio todo lo más cómodamente que pu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Foto de la izquierda): ¿Una fotografía fan¬
+tástica de una feria nocturna en Washington,
+capital de los Estados Unidos de Norteaméri¬
+ca? No; una vista del “ejército” de ex vetera¬
+nos estadunidenses de la gran guerra, que sitió
+el Capitolio, para demandar del Gobierno el pa¬
+go de sus bonos, instalándose frente al enorme
+edificio todo lo más cómodamente que pu¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="218,452 1154,452 1154,1085 218,1085" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="269,494 1047,499 1149,487 1149,453 268,452" />
+                <Baseline points="275,489 318,489 361,489 405,489 448,488 492,488 535,489 578,489 622,489 665,489 709,489 752,489 795,489 839,488 882,488 926,488 969,488 1012,486 1056,486 1099,485 1143,483" />
+                <TextEquiv>
+                    <Unicode>Un día de asueto también los tiene la rea¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="221,554 678,563 703,539 881,562 1152,547 1152,508 333,533 221,510" />
+                <Baseline points="228,545 273,545 319,543 365,543 411,543 457,542 503,542 548,542 594,542 640,542 686,542 732,542 778,542 824,542 869,542 915,542 961,542 1007,540 1053,540 1099,539 1145,539" />
+                <TextEquiv>
+                    <Unicode>leza, como un breve y amable paréntesis en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="222,603 769,596 799,619 861,590 911,612 1154,590 1121,556 222,564" />
+                <Baseline points="228,597 274,596 320,596 366,596 412,596 458,596 504,596 550,596 596,596 642,596 688,596 734,596 780,596 826,596 872,596 918,596 964,594 1010,594 1056,594 1102,593 1148,591" />
+                <TextEquiv>
+                    <Unicode>la protocolaria severidad que rige su exis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="232,659 565,661 596,639 998,666 1149,657 1149,617 232,620" />
+                <Baseline points="239,648 284,648 329,648 374,648 419,648 465,648 510,648 555,648 600,648 645,648 691,648 736,648 781,648 826,648 871,648 917,648 962,648 1007,647 1052,647 1097,647 1143,645" />
+                <TextEquiv>
+                    <Unicode>tencia soberana. La Reina de Inglaterra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l5" custom="readingOrder {index:4;}">
+                <Coords points="232,714 1109,714 1158,702 1158,674 232,677" />
+                <Baseline points="239,704 284,702 330,702 375,702 421,702 467,701 512,701 558,701 604,701 649,701 695,699 741,699 786,699 832,699 878,699 923,699 969,699 1015,699 1060,699 1106,699 1152,699" />
+                <TextEquiv>
+                    <Unicode>siente pasión por ir de tiendas y no presta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l6" custom="readingOrder {index:5;}">
+                <Coords points="216,755 1158,756 1157,730 1053,715 216,736" />
+                <Baseline points="222,756 268,756 314,755 361,755 407,755 454,753 500,753 547,753 593,753 640,753 686,753 732,753 779,753 825,753 872,752 918,752 965,752 1011,752 1058,752 1104,752 1151,752" />
+                <TextEquiv>
+                    <Unicode>mucha atención a las cuestiones marítimas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l7" custom="readingOrder {index:6;}">
+                <Coords points="215,825 1119,815 1143,767 215,789" />
+                <Baseline points="221,813 266,812 312,810 358,809 404,809 450,807 495,807 541,807 587,807 633,807 679,807 724,807 770,807 816,807 862,807 908,806 953,806 999,806 1045,804 1091,803 1137,801" />
+                <TextEquiv>
+                    <Unicode>por las que tanta predilecdión tiene su ré¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l8" custom="readingOrder {index:7;}">
+                <Coords points="215,880 898,856 1023,877 1142,867 1157,827 215,841" />
+                <Baseline points="221,864 267,863 314,863 360,861 407,861 453,861 500,860 546,860 593,860 639,860 686,860 732,858 779,858 825,858 872,858 918,858 965,858 1011,858 1058,858 1104,858 1151,858" />
+                <TextEquiv>
+                    <Unicode>gio esposo. En Cowes, mientras el Rey está</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l9" custom="readingOrder {index:8;}">
+                <Coords points="215,923 1099,923 1154,910 1154,883 215,892" />
+                <Baseline points="222,915 268,915 314,914 360,914 407,914 453,912 499,912 546,912 592,912 638,912 685,912 731,912 777,912 823,912 870,912 916,911 962,911 1009,911 1055,909 1101,909 1148,908" />
+                <TextEquiv>
+                    <Unicode>en su elemento a bordo del yate “Britan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l10" custom="readingOrder {index:9;}">
+                <Coords points="222,979 315,957 550,987 582,963 1146,971 1146,940 1010,927 866,954 819,931 222,940" />
+                <Baseline points="228,968 273,968 319,968 364,968 410,968 456,968 501,966 547,966 592,966 638,966 684,965 729,965 775,965 820,963 866,963 912,963 957,963 1003,963 1048,963 1094,963 1140,963" />
+                <TextEquiv>
+                    <Unicode>nia" la Reina, acompañada del Marques</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l11" custom="readingOrder {index:10;}">
+                <Coords points="227,1034 1146,1024 1146,990 1099,979 227,986" />
+                <Baseline points="233,1022 278,1022 323,1020 369,1020 414,1020 459,1019 505,1019 550,1019 595,1019 641,1017 686,1017 731,1017 777,1017 822,1017 867,1017 913,1017 958,1017 1003,1017 1049,1017 1094,1017 1140,1017" />
+                <TextEquiv>
+                    <Unicode>d'Hautupol y de Sir Philip Hunloke, visita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l12" custom="readingOrder {index:11;}">
+                <Coords points="216,1084 1043,1076 1021,1037 960,1031 216,1045" />
+                <Baseline points="222,1077 262,1076 303,1074 344,1074 385,1073 425,1073 466,1073 507,1071 548,1071 588,1071 629,1071 670,1071 711,1071 751,1071 792,1071 833,1071 874,1071 914,1071 955,1071 996,1073 1037,1073" />
+                <TextEquiv>
+                    <Unicode>los establecimientos de la vieja ciudad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Un día de asueto también los tiene la rea¬
+leza, como un breve y amable paréntesis en
+la protocolaria severidad que rige su exis¬
+tencia soberana. La Reina de Inglaterra
+siente pasión por ir de tiendas y no presta
+mucha atención a las cuestiones marítimas
+por las que tanta predilecdión tiene su ré¬
+gio esposo. En Cowes, mientras el Rey esta
+en su elemento a bordo del yate “Britan¬
+nia" la Reina, acompañada del Marques
+d'Hautupol y de Sir Philip Hunloke, visita
+los establecimientos de la vieja ciudad.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="207,256 1320,256 1320,266 207,266" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1320,257 2289,257 2289,273 1320,273" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1227,274 2289,274 2289,288 1227,288" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1221,293 2289,293 2289,306 1221,306" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1227,312 2289,312 2289,327 1227,327" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="206,367 1197,367 1197,376 206,376" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="207,379 1198,379 1198,391 207,391" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="200,1160 1190,1160 1190,1168 200,1168" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1207,1583 2287,1583 2287,1595 1207,1595" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1207,2271 2282,2271 2282,2284 1207,2284" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="219,2515 1198,2515 1198,2522 219,2522" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="567,2780 744,2780 744,2786 567,2786" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1997,3214 2280,3214 2280,3221 1997,3221" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="1596,3217 1994,3217 1994,3228 1596,3228" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1215,3224 1596,3224 1596,3232 1215,3232" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="1195,3230 2282,3230 2282,3247 1195,3247" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="196,1163 208,1163 208,2522 196,2522" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="217,1180 224,1180 224,2521 217,2521" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="232,1178 240,1178 240,2502 232,2502" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="1160,2515 1170,2515 1170,3250 1160,3250" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="1175,2515 1186,2515 1186,3248 1175,3248" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="1184,379 1198,379 1198,1166 1184,1166" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="1191,2516 1202,2516 1202,3248 1191,3248" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="1207,1595 1214,1595 1214,2284 1207,2284" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="2035,396 2044,396 2044,563 2035,563" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:31;}">
+            <Coords points="2272,2271 2282,2271 2282,3209 2272,3209" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:32;}">
+            <Coords points="2273,319 2289,319 2289,1594 2273,1594" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:33;}">
+            <Coords points="2245,273 2277,273 2277,274 2245,274" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:34;}">
+            <Coords points="1216,2948 1237,2948 1237,2951 1216,2951" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:35;}">
+            <Coords points="1413,3238 1440,3238 1440,3239 1413,3239" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:36;}">
+            <Coords points="222,2377 223,2377 223,2399 222,2399" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:37;}">
+            <Coords points="1787,954 1789,954 1789,976 1787,976" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:38;}">
+            <Coords points="2102,264 2110,264 2110,325 2102,325" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:39;}">
+            <Coords points="2276,1244 2277,1244 2277,1266 2276,1266" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

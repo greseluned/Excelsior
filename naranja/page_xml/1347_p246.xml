@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:43:09.513+02:00</Created>
+        <LastChange>2021-06-08T15:37:43.634+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782290" pageNr="1347" tsid="236401597" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XQSMBLTJHDUXGHNTNWIEMGEV" xmlUrl="https://files.transkribus.eu/Get?id=CCYERNBSWUWPLIPYYRHAIBUL" imageId="17247361" />
+    </Metadata>
+    <Page imageFilename="1347_p246.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="315,646 1543,646 1543,2887 315,2887" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982727353" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="831,646 1538,646 1538,1336 831,1336" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="588,1498 804,1498 804,1775 588,1775" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1373,2223 1471,2223 1471,2491 1373,2491" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="315,2776 1543,2776 1543,2831 315,2831" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="316,2824 1529,2828 1541,2771 316,2777" />
+                <Baseline points="323,2817 383,2816 444,2816 504,2815 565,2814 625,2814 686,2814 746,2814 807,2814 867,2813 928,2813 988,2813 1049,2813 1109,2813 1170,2814 1230,2814 1291,2814 1351,2814 1412,2814 1472,2814 1533,2814" />
+                <TextEquiv>
+                    <Unicode>La eximia actriz y cantante Srta. Conchita Panadés.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La eximia actriz y cantante Srta. Conchita Panadés.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="815,2853 1085,2853 1085,2887 815,2887" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="814,2885 1082,2888 1082,2850 929,2850 914,2865 896,2852 870,2858 814,2852" />
+                <Baseline points="821,2876 846,2877 871,2877 896,2876 922,2876 947,2876 972,2876 998,2876 1023,2876 1048,2876 1074,2877" />
+                <TextEquiv>
+                    <Unicode>Por L. ESTEBAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Por L. ESTEBAN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

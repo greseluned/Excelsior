@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:48:55.485+02:00</Created>
+        <LastChange>2021-10-29T22:39:00.416+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781974" pageNr="1051" tsid="236401228" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=AWHDZYBAOMHUBTMAZBLRTINM" xmlUrl="https://files.transkribus.eu/Get?id=UJFMSIIYMMDVQMKHWLMBBIWR" imageId="17247476" />
+    </Metadata>
+    <Page imageFilename="1051_p587.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982659678" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="204,259 204,3230 2265,3230 2265,259" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="492,320 566,320 640,322 714,322 789,322 863,322 937,322 1011,322 1086,322 1160,322 1234,322 1308,322 1383,322 1457,322 1531,322 1605,322 1680,322 1754,323 1828,323 1902,323 1977,325 1977,264 1902,262 1828,262 1754,262 1680,261 1605,261 1531,261 1457,261 1383,261 1308,261 1234,261 1160,261 1086,261 1011,261 937,261 863,261 789,261 714,261 640,261 566,259 492,259" />
+                <Baseline points="492,300 566,300 640,302 714,302 789,302 863,302 937,302 1011,302 1086,302 1160,302 1234,302 1308,302 1383,302 1457,302 1531,302 1605,302 1680,302 1754,303 1828,303 1902,303 1977,305" />
+                <TextEquiv>
+                    <Unicode>CANDIDATAS NOMINADAS PARA 'EXCELSIOR"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1533,1609 1548,1609 1548,1548 1533,1548" />
+                <Baseline points="1533,1589 1548,1589" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="939,2479 969,2477 1000,2479 1031,2482 1062,2488 1062,2427 1031,2421 1000,2418 969,2416 939,2418" />
+                <Baseline points="939,2459 969,2457 1000,2459 1031,2462 1062,2468" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="539,2735 575,2745 612,2752 612,2691 575,2684 539,2674" />
+                <Baseline points="539,2715 575,2725 612,2732" />
+                <TextEquiv>
+                    <Unicode>o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1304,3040 1330,3037 1357,3035 1384,3035 1411,3037 1437,3039 1464,3040 1491,3041 1518,3043 1545,3044 1545,2983 1518,2982 1491,2980 1464,2979 1437,2978 1411,2976 1384,2974 1357,2974 1330,2976 1304,2979" />
+                <Baseline points="1304,3020 1330,3017 1357,3015 1384,3015 1411,3017 1437,3019 1464,3020 1491,3021 1518,3023 1545,3024" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="204,3166 307,3166 410,3167 513,3167 616,3167 719,3169 822,3169 925,3169 1028,3169 1131,3170 1234,3170 1337,3170 1440,3172 1543,3172 1646,3172 1749,3172 1852,3172 1955,3172 2058,3172 2161,3172 2265,3172 2265,3130 2161,3130 2058,3130 1955,3130 1852,3130 1749,3130 1646,3130 1543,3130 1440,3130 1337,3128 1234,3128 1131,3128 1028,3127 925,3127 822,3127 719,3127 616,3125 513,3125 410,3125 307,3124 204,3124" />
+                <Baseline points="204,3152 307,3152 410,3153 513,3153 616,3153 719,3155 822,3155 925,3155 1028,3155 1131,3156 1234,3156 1337,3156 1440,3158 1543,3158 1646,3158 1749,3158 1852,3158 1955,3158 2058,3158 2161,3158 2265,3158" />
+                <TextEquiv>
+                    <Unicode>1. Srta. Pilar Carvallo.—2. Srta. Mercedes Medina.—3. Srta. Pilar Revilla.—A. Srta. Concepción So¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="393,3223 476,3224 559,3224 642,3226 725,3226 808,3227 891,3227 974,3227 1057,3228 1140,3229 1223,3229 1306,3229 1389,3229 1472,3229 1555,3230 1638,3230 1721,3230 1804,3230 1887,3230 1970,3230 2054,3230 2054,3188 1970,3188 1887,3188 1804,3188 1721,3188 1638,3188 1555,3188 1472,3187 1389,3187 1306,3187 1223,3187 1140,3187 1057,3186 974,3185 891,3185 808,3185 725,3184 642,3184 559,3182 476,3182 393,3181" />
+                <Baseline points="393,3209 476,3210 559,3210 642,3212 725,3212 808,3213 891,3213 974,3213 1057,3214 1140,3215 1223,3215 1306,3215 1389,3215 1472,3215 1555,3216 1638,3216 1721,3216 1804,3216 1887,3216 1970,3216 2054,3216" />
+                <TextEquiv>
+                    <Unicode>riano.—5. Srta. Enriqueta Dulay.—6. Srta. Emilia Diago.—T. Srta. Elvira Altavaz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CANDIDATAS NOMINADAS PARA 'EXCELSIOR"
+
+
+o
+
+1. Srta. Pilar Carvallo.—2. Srta. Mercedes Medina.—3. Srta. Pilar Revilla.—A. Srta. Concepción So¬
+riano.—5. Srta. Enriqueta Dulay.—6. Srta. Emilia Diago.—T. Srta. Elvira Altavaz.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2100,1078 2100,1231 2175,1231 2175,1078" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2100,1228 2125,1228 2150,1229 2175,1231 2175,1081 2150,1079 2125,1078 2100,1078" />
+                <Baseline points="2100,1178 2125,1178 2150,1179 2175,1181" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:48:07.113+02:00</Created>
+        <LastChange>2021-06-08T18:28:42.312+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782673" pageNr="1712" tsid="236402109" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=DWDZZWBSQVSKNIGMWFGUUYOY" xmlUrl="https://files.transkribus.eu/Get?id=MLDWEQXESGGTXXHHXHRZDEYV" imageId="17248388" />
+    </Metadata>
+    <Page imageFilename="1712_p611.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="198,259 2283,259 2283,3253 198,3253" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982811487" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="207,259 2283,259 2283,3253 207,3253" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1118,2046 2136,2046 2136,2358 1118,2358" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1169,2094 2143,2084 2112,2044 1672,2066 1425,2043 1401,2067 1304,2044 1279,2069 1169,2047" />
+                <Baseline points="1175,2081 1223,2081 1271,2082 1319,2082 1367,2082 1415,2082 1463,2081 1511,2081 1559,2081 1607,2081 1655,2079 1703,2079 1751,2079 1799,2079 1847,2078 1895,2079 1943,2079 1991,2079 2039,2079 2087,2081 2136,2082" />
+                <TextEquiv>
+                    <Unicode>Foto de la derecha: La capilla ardiente de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1118,2153 2112,2150 2130,2108 1118,2114" />
+                <Baseline points="1125,2136 1177,2136 1230,2135 1282,2135 1335,2135 1387,2133 1440,2133 1493,2133 1545,2133 1598,2133 1650,2133 1703,2133 1755,2132 1808,2132 1861,2132 1913,2132 1966,2132 2018,2133 2071,2133 2124,2133" />
+                <TextEquiv>
+                    <Unicode>ex Reina Sofía de Grecia, fallecida en el castillo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1127,2203 2137,2187 2065,2147 1934,2174 1878,2148 1733,2147 1698,2176 1599,2149 1469,2174 1127,2155" />
+                <Baseline points="1133,2189 1182,2189 1232,2188 1282,2187 1332,2187 1382,2187 1432,2186 1481,2186 1531,2186 1581,2186 1631,2186 1681,2186 1731,2186 1781,2186 1830,2186 1880,2186 1930,2186 1980,2186 2030,2186 2080,2184 2130,2184" />
+                <TextEquiv>
+                    <Unicode>de Friedrichhof, Cronberg, Alemania. La fina¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1126,2251 2136,2239 2095,2202 1433,2203 1406,2230 1375,2204 1126,2208" />
+                <Baseline points="1133,2243 1182,2241 1232,2241 1282,2241 1332,2241 1382,2241 1432,2240 1481,2240 1531,2240 1581,2240 1631,2240 1681,2240 1731,2239 1781,2238 1830,2238 1880,2238 1930,2238 1980,2237 2030,2237 2080,2237 2130,2235" />
+                <TextEquiv>
+                    <Unicode>da era Viuda del ex Rey Constantino de los He¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1123,2307 2136,2298 2112,2253 1123,2260" />
+                <Baseline points="1130,2297 1182,2297 1235,2295 1287,2295 1340,2295 1392,2295 1445,2294 1498,2294 1550,2294 1603,2293 1655,2292 1708,2292 1760,2292 1813,2292 1866,2291 1918,2291 1971,2291 2023,2291 2076,2291 2129,2291" />
+                <TextEquiv>
+                    <Unicode>lenos y hermana del ex Kaiser Guillermo II de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1119,2363 1230,2355 1290,2361 1335,2354 1335,2339 1326,2339 1288,2309 1266,2323 1234,2319 1228,2324 1194,2324 1165,2313 1158,2318 1146,2310 1119,2326" />
+                <Baseline points="1125,2349 1150,2349 1176,2349 1201,2349 1227,2349 1252,2349 1278,2349 1303,2349 1329,2349" />
+                <TextEquiv>
+                    <Unicode>Alemania.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto de la derecha: La capilla ardiente de la
+ex Reina Sofía de Grecia, fallecida en el castillo
+de Friedrichhof, Cronberg, Alemania. La fina¬
+da era Viuda del ex Rey Constantino de los He¬
+lenos y hermana del ex Kaiser Guillermo II de
+Alemania.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="243,2842 1020,2842 1020,3203 243,3203" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="276,2880 1012,2892 1026,2838 276,2849" />
+                <Baseline points="282,2873 318,2873 355,2873 392,2873 429,2873 466,2873 503,2874 539,2874 576,2875 613,2876 650,2877 687,2877 724,2877 761,2879 797,2879 834,2879 871,2880 908,2880 945,2880 982,2880 1019,2880" />
+                <TextEquiv>
+                    <Unicode>Foto superior: De la apertura del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="258,2934 1023,2937 1003,2908 907,2900 755,2893 725,2917 577,2892 544,2918 513,2892 480,2915 450,2892 258,2893" />
+                <Baseline points="264,2927 301,2927 339,2928 376,2928 414,2928 452,2928 489,2928 527,2928 564,2928 602,2930 640,2930 677,2930 715,2931 752,2931 790,2931 828,2931 865,2933 903,2933 940,2933 978,2933 1016,2934" />
+                <TextEquiv>
+                    <Unicode>"Riksdag” de Suecia: Momento so¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="248,2989 1023,2987 958,2957 883,2975 850,2948 671,2967 248,2945" />
+                <Baseline points="254,2979 292,2979 330,2979 368,2981 406,2981 444,2981 482,2982 520,2982 558,2982 596,2982 635,2984 673,2984 711,2984 749,2984 787,2984 825,2985 863,2985 901,2985 939,2985 977,2985 1016,2985" />
+                <TextEquiv>
+                    <Unicode>lemne en que el Rey de Suecia, acom¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="239,3047 655,3051 700,3029 1011,3051 1024,3005 929,3003 904,3028 584,2996 495,3014 442,2995 414,3022 374,2996 239,3013" />
+                <Baseline points="245,3036 283,3035 322,3033 360,3033 399,3032 438,3032 476,3032 515,3032 553,3032 592,3033 631,3033 669,3035 708,3035 746,3036 785,3036 824,3037 862,3038 901,3038 939,3038 978,3039 1017,3039" />
+                <TextEquiv>
+                    <Unicode>pañado del Príncipe heredero Carl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="249,3098 1024,3098 1024,3068 894,3052 523,3052 501,3071 453,3052 429,3073 249,3052" />
+                <Baseline points="255,3086 293,3086 331,3086 369,3086 407,3086 445,3086 483,3086 521,3086 559,3087 597,3087 636,3087 674,3088 712,3089 750,3089 788,3090 826,3090 864,3092 902,3092 940,3093 978,3095 1017,3095" />
+                <TextEquiv>
+                    <Unicode>Johan y de las Princesas Ineborg e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="251,3148 1020,3147 1003,3117 897,3106 252,3108" />
+                <Baseline points="258,3141 295,3140 333,3140 371,3140 409,3140 447,3140 484,3140 522,3140 560,3141 598,3141 636,3141 673,3141 711,3143 749,3143 787,3143 825,3143 862,3143 900,3143 938,3143 976,3143 1014,3143" />
+                <TextEquiv>
+                    <Unicode>Ingrid, declaró abicrto el Parlamen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="246,3202 287,3202 299,3191 310,3202 342,3203 594,3200 594,3181 515,3156 484,3167 375,3156 360,3171 246,3161" />
+                <Baseline points="252,3191 277,3191 303,3192 329,3194 355,3194 381,3194 407,3192 432,3192 458,3192 484,3192 510,3191 536,3192 562,3192 588,3194" />
+                <TextEquiv>
+                    <Unicode>to en Estocolmo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto superior: De la apertura del
+"Riksdag” de Suecia: Momento so¬
+lemne en que el Rey de Suecia, acom¬
+pañado del Príncipe heredero Carl
+Johan y de las Princesas Ineborg e
+Ingrid, declaró abicrto el Parlamen¬
+to en Estocolmo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="199,800 592,800 592,1858 199,1858" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="252,851 312,851 336,835 376,857 412,831 439,851 588,845 588,830 565,814 511,805 449,804 439,814 385,818 358,805 322,822 286,804 253,804" />
+                <Baseline points="258,839 285,839 312,840 339,840 366,840 393,841 420,842 447,842 474,842 501,842 528,843 555,843 582,843" />
+                <TextEquiv>
+                    <Unicode>En la última</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="207,906 438,907 453,892 467,906 518,897 572,907 572,875 543,859 516,871 474,859 457,874 424,859 396,869 208,860" />
+                <Baseline points="213,893 238,893 263,893 288,893 313,893 339,893 364,893 389,893 414,893 439,894 465,894 490,896 515,897 540,898 566,900" />
+                <TextEquiv>
+                    <Unicode>Conferencia de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="200,954 282,954 293,943 312,955 362,944 383,956 437,955 450,943 462,955 581,948 581,931 485,920 464,904 436,926 398,908 369,928 350,916 294,927 240,909 200,916" />
+                <Baseline points="206,945 232,944 258,944 285,944 311,944 337,944 364,945 390,945 416,945 443,947 469,947 495,947 522,947 548,947 575,947" />
+                <TextEquiv>
+                    <Unicode>Paz se ha inau¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="201,1012 338,1011 352,1001 367,1011 557,1010 567,1007 567,965 426,980 363,972 352,981 312,962 302,972 201,977" />
+                <Baseline points="207,1001 232,1000 257,999 282,999 308,998 333,998 358,998 384,999 409,999 434,999 459,999 485,999 510,1000 535,1001 561,1001" />
+                <TextEquiv>
+                    <Unicode>gurado un novísi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="205,1059 264,1059 288,1042 312,1058 397,1067 447,1066 481,1043 513,1073 582,1057 582,1032 568,1028 467,1032 430,1018 407,1027 377,1019 276,1039 262,1025 206,1024" />
+                <Baseline points="212,1050 238,1051 264,1052 290,1052 316,1052 342,1053 368,1053 394,1053 420,1054 446,1055 472,1055 498,1055 524,1055 550,1055 576,1055" />
+                <TextEquiv>
+                    <Unicode>mo método que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="197,1119 577,1107 577,1092 522,1068 494,1080 458,1080 442,1067 419,1081 344,1067 319,1068 306,1082 197,1081" />
+                <Baseline points="203,1107 229,1106 255,1104 281,1104 307,1104 334,1104 360,1106 386,1106 412,1106 438,1107 465,1107 491,1107 517,1107 543,1106 570,1104" />
+                <TextEquiv>
+                    <Unicode>permitió u los De¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="205,1172 569,1165 569,1138 537,1123 511,1124 491,1141 442,1123 419,1134 383,1124 363,1136 318,1120 291,1134 206,1122" />
+                <Baseline points="212,1157 237,1157 262,1157 287,1157 312,1158 337,1159 362,1160 387,1160 412,1161 437,1161 462,1161 487,1161 512,1160 537,1159 563,1158" />
+                <TextEquiv>
+                    <Unicode>legados de las dis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="210,1219 328,1219 343,1204 453,1226 588,1217 588,1191 572,1187 473,1178 369,1202 286,1176 252,1186 211,1175" />
+                <Baseline points="216,1208 242,1209 268,1211 294,1211 320,1212 346,1212 372,1212 399,1212 425,1212 451,1212 477,1212 503,1212 529,1214 555,1214 582,1215" />
+                <TextEquiv>
+                    <Unicode>tintas naciones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="203,1277 287,1270 312,1282 343,1266 407,1275 418,1265 438,1275 584,1272 584,1242 514,1243 496,1228 447,1236 429,1254 388,1227 354,1251 319,1236 301,1255 277,1239 203,1240" />
+                <Baseline points="209,1268 235,1266 261,1266 288,1265 314,1265 340,1265 367,1265 393,1265 419,1265 446,1265 472,1266 498,1266 525,1266 551,1266 578,1265" />
+                <TextEquiv>
+                    <Unicode>que ,a la misma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="215,1327 378,1324 413,1335 428,1321 438,1331 487,1330 502,1315 531,1332 587,1323 587,1295 529,1284 505,1293 464,1283 430,1306 401,1290 315,1281 215,1290" />
+                <Baseline points="221,1317 246,1316 272,1316 298,1316 323,1316 349,1316 375,1316 401,1317 426,1317 452,1317 478,1317 503,1318 529,1319 555,1319 581,1320" />
+                <TextEquiv>
+                    <Unicode>asistieron, oír los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="210,1380 565,1379 565,1340 521,1346 501,1332 452,1347 419,1339 402,1354 339,1339 299,1347 255,1332 210,1337" />
+                <Baseline points="216,1367 242,1368 268,1368 294,1369 321,1370 347,1370 373,1370 400,1371 426,1371 452,1371 479,1371 505,1371 531,1370 558,1370" />
+                <TextEquiv>
+                    <Unicode>discursos traduci¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="204,1432 270,1434 289,1420 304,1435 356,1425 395,1435 409,1424 424,1435 504,1435 515,1425 567,1435 575,1397 510,1402 472,1388 451,1400 392,1387 358,1410 339,1396 288,1405 224,1388 204,1400" />
+                <Baseline points="210,1421 235,1422 261,1422 286,1422 312,1422 338,1424 363,1424 389,1424 415,1424 440,1424 466,1425 492,1425 517,1425 543,1425 569,1425" />
+                <TextEquiv>
+                    <Unicode>dos en el acto en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="204,1478 269,1491 292,1472 310,1491 390,1490 454,1483 472,1467 503,1491 582,1482 582,1461 543,1443 488,1442 461,1456 408,1437 389,1449 283,1455 233,1445 204,1456" />
+                <Baseline points="210,1475 236,1475 262,1475 288,1475 314,1475 340,1475 366,1476 392,1476 418,1476 444,1476 470,1476 496,1476 522,1476 548,1476 575,1476" />
+                <TextEquiv>
+                    <Unicode>sus propios idio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="203,1536 586,1536 586,1508 536,1492 464,1515 383,1492 354,1491 327,1517 289,1499 204,1502" />
+                <Baseline points="209,1527 235,1527 261,1527 288,1527 314,1527 341,1529 367,1529 394,1529 420,1529 446,1530 473,1530 499,1530 526,1530 552,1530 579,1530" />
+                <TextEquiv>
+                    <Unicode>más. Vean a los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="216,1586 319,1598 426,1581 465,1603 586,1591 586,1557 560,1549 447,1556 427,1568 376,1546 300,1557 286,1546 257,1556 216,1544" />
+                <Baseline points="222,1577 247,1579 273,1580 298,1581 324,1581 349,1581 375,1581 400,1580 426,1580 451,1580 477,1581 502,1581 528,1583 553,1583 579,1586" />
+                <TextEquiv>
+                    <Unicode>Delegados oyendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="213,1642 455,1642 474,1629 501,1651 583,1635 583,1619 541,1606 349,1610 335,1596 309,1595 279,1622 248,1596 213,1606" />
+                <Baseline points="219,1634 244,1634 270,1634 295,1634 321,1635 346,1635 372,1635 397,1635 423,1635 448,1635 474,1635 499,1634 525,1634 550,1634 576,1634" />
+                <TextEquiv>
+                    <Unicode>el discurso pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="212,1691 390,1699 411,1686 448,1706 505,1684 554,1707 580,1700 580,1652 560,1652 532,1679 503,1660 430,1660 411,1675 370,1651 336,1660 318,1647 293,1661 213,1659" />
+                <Baseline points="219,1685 244,1685 269,1685 294,1686 320,1686 345,1686 370,1688 396,1688 421,1688 446,1688 471,1689 497,1689 522,1689 547,1690 573,1691" />
+                <TextEquiv>
+                    <Unicode>nunciado por el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="211,1753 374,1754 405,1741 422,1755 471,1742 536,1754 579,1747 579,1723 544,1705 510,1705 481,1727 437,1705 410,1726 375,1705 324,1718 288,1700 263,1710 212,1703" />
+                <Baseline points="218,1739 243,1739 268,1739 294,1739 319,1740 344,1740 370,1740 395,1742 420,1742 446,1742 471,1742 496,1742 522,1742 547,1741 573,1740" />
+                <TextEquiv>
+                    <Unicode>Delegado de Ale¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l19" custom="readingOrder {index:18;}">
+                <Coords points="209,1801 346,1803 369,1793 440,1803 456,1794 535,1806 589,1794 589,1779 559,1765 497,1756 441,1770 377,1756 354,1778 318,1755 209,1763" />
+                <Baseline points="215,1790 241,1790 267,1791 293,1791 319,1791 346,1793 372,1793 398,1793 424,1794 450,1794 477,1794 503,1794 529,1793 555,1793 582,1791" />
+                <TextEquiv>
+                    <Unicode>mania, Dr. Brue¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l20" custom="readingOrder {index:19;}">
+                <Coords points="207,1852 235,1850 275,1859 292,1859 302,1851 315,1853 317,1832 307,1831 295,1819 262,1819 246,1810 233,1819 210,1819" />
+                <Baseline points="215,1842 246,1845 277,1847 309,1850" />
+                <TextEquiv>
+                    <Unicode>ning.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En la última
+Conferencia de la
+Paz se ha inau¬
+gurado un novísi
+mo método que
+permitió u los De¬
+legados de las dis¬
+tintas naciones
+que ,a la misma
+asistieron, oír los
+discursos traduci¬
+dos en el acto en
+sus propios idio¬
+mas. Vean a los
+Delegados oyendo
+el discurso pro¬
+nunciado por el
+Delegado de Ale¬
+mania, Dr. Brue¬
+ning.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="625,264 2275,264 2275,277 625,277" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1908,1157 2130,1157 2130,1177 1908,1177" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="210,1956 585,1956 585,1964 210,1964" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1392,1957 2099,1957 2099,1960 1392,1960" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="621,1967 877,1967 877,1974 621,1974" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1013,1967 1996,1967 1996,1973 1013,1973" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1121,2439 2152,2439 2152,2458 1121,2458" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1880,2459 2129,2459 2129,2466 1880,2466" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="218,2763 1028,2763 1028,2780 218,2780" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1613,3222 1802,3222 1802,3228 1613,3228" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1126,3233 2157,3233 2157,3246 1126,3246" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1020,2566 1130,2566 1130,2576 1020,2576" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="210,1958 227,1958 227,2712 210,2712" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="616,305 627,305 627,1964 616,1964" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="634,1984 641,1984 641,2109 634,2109" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="990,2014 995,2014 995,2283 990,2283" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="1018,2414 1030,2414 1030,2773 1018,2773" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="1119,2559 1135,2559 1135,3245 1119,3245" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="1159,3030 1162,3030 1162,3203 1159,3203" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="2149,2609 2165,2609 2165,3209 2149,3209" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="2166,2609 2178,2609 2178,3198 2166,3198" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="2266,268 2278,268 2278,1960 2266,1960" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="618,1982 623,1982 623,2148 618,2148" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="1983,2968 2103,2968 2103,3186 1983,3186" />
+        </GraphicRegion>
+        <GraphicRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="448,286 499,286 499,374 448,374" />
+        </GraphicRegion>
+        <GraphicRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="240,1969 999,1969 999,2753 240,2753" />
+        </GraphicRegion>
+        <GraphicRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="198,276 586,276 586,722 198,722" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

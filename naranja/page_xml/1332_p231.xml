@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:58.082+02:00</Created>
+        <LastChange>2021-06-08T15:33:04.259+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782262" pageNr="1332" tsid="236401589" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=OFRRTMKEZHBZHCUGGSCLMOHW" xmlUrl="https://files.transkribus.eu/Get?id=FXPTZZUORFNCQFCTUOUIDDZA" imageId="17247300" />
+    </Metadata>
+    <Page imageFilename="1332_p231.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="194,266 2263,266 2263,3226 194,3226" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982724004" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="224,266 714,266 714,814 224,814" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="734,370 2238,370 2238,730 734,730" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1030,832 1446,832 1446,876 1030,876" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1031,875 1432,875 1439,830 1217,826 1196,845 1148,831 1127,853 1031,832" />
+                <Baseline points="1037,867 1063,867 1089,867 1116,867 1142,867 1169,867 1195,867 1221,867 1248,867 1274,866 1301,866 1327,866 1353,866 1380,866 1406,866 1433,867" />
+                <TextEquiv>
+                    <Unicode>Por C. LULOIDE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Por C. LULOIDE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="194,930 1211,930 1211,3224 194,3224" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="238,971 517,979 590,952 734,977 790,952 820,979 1203,977 1203,937 1015,924 901,951 238,932" />
+                <Baseline points="245,963 292,963 340,963 387,963 435,963 483,963 530,963 578,963 625,963 673,963 721,963 768,963 816,963 863,963 911,963 959,963 1006,963 1054,963 1101,963 1149,963 1197,963" />
+                <TextEquiv>
+                    <Unicode>Marie Dressler siéntese tan completamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="192,1025 1213,1035 1192,988 1061,979 192,998" />
+                <Baseline points="198,1016 248,1016 298,1017 349,1017 399,1017 450,1017 500,1017 550,1016 601,1016 651,1016 702,1016 752,1016 802,1014 853,1014 903,1014 954,1016 1004,1016 1054,1016 1105,1017 1155,1017 1206,1019" />
+                <TextEquiv>
+                    <Unicode>satisfecha y orgullosa de tener, sesenta años que,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="198,1081 1207,1067 1136,1034 198,1044" />
+                <Baseline points="204,1068 253,1068 303,1068 353,1068 403,1068 453,1068 502,1068 552,1068 602,1068 652,1068 702,1068 751,1068 801,1068 851,1068 901,1068 951,1068 1000,1068 1050,1067 1100,1067 1150,1067 1200,1067" />
+                <TextEquiv>
+                    <Unicode>aun cuando pudiera, no haría retroceder el tiem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="204,1139 1203,1132 1132,1084 204,1100" />
+                <Baseline points="210,1121 259,1122 308,1122 358,1122 407,1122 456,1122 506,1122 555,1122 604,1122 654,1122 703,1122 752,1122 802,1122 851,1122 900,1122 950,1122 999,1122 1048,1122 1098,1122 1147,1122 1197,1122" />
+                <TextEquiv>
+                    <Unicode>po ni una hora. Es tanta su gratitud a la vida.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="245,1179 967,1202 1182,1194 1200,1155 245,1148" />
+                <Baseline points="251,1173 298,1176 345,1178 392,1179 439,1181 486,1182 533,1182 580,1182 627,1182 674,1182 722,1182 769,1182 816,1182 863,1181 910,1181 957,1181 1004,1181 1051,1181 1098,1181 1145,1182 1193,1184" />
+                <TextEquiv>
+                    <Unicode>“Todas las edades tienen sus ventajas, sus vir¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="200,1248 1207,1250 1207,1212 1115,1203 200,1205" />
+                <Baseline points="207,1235 256,1235 306,1235 355,1235 405,1235 455,1235 504,1235 554,1235 604,1235 653,1235 703,1235 753,1235 802,1235 852,1235 902,1235 951,1235 1001,1235 1051,1236 1100,1236 1150,1236 1200,1238" />
+                <TextEquiv>
+                    <Unicode>tudes y sus faltas", dice está admirable mujer y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="191,1300 1207,1297 1174,1249 1141,1274 1094,1250 191,1270" />
+                <Baseline points="197,1287 247,1287 297,1289 347,1289 397,1289 447,1289 497,1289 548,1289 598,1289 648,1287 698,1287 748,1287 798,1287 848,1286 899,1286 949,1286 999,1286 1049,1286 1099,1287 1149,1287 1200,1289" />
+                <TextEquiv>
+                    <Unicode>actriz, cuyos ojos profundos tienen el brillo de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="202,1355 1209,1343 1209,1317 1003,1307 202,1308" />
+                <Baseline points="209,1340 258,1340 308,1340 358,1340 407,1340 457,1340 507,1340 556,1340 606,1340 656,1341 706,1341 755,1341 805,1341 855,1341 904,1341 954,1341 1004,1341 1053,1340 1103,1340 1153,1340 1203,1340" />
+                <TextEquiv>
+                    <Unicode>la juventud, rodeados por las lineas de una sa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="197,1403 1184,1403 1203,1366 360,1355 272,1381 196,1356" />
+                <Baseline points="203,1394 252,1394 302,1394 352,1394 401,1394 451,1394 501,1394 550,1394 600,1394 650,1393 700,1392 749,1392 799,1392 849,1392 898,1392 948,1392 998,1392 1047,1392 1097,1394 1147,1394 1197,1394" />
+                <TextEquiv>
+                    <Unicode>bia madurez. Para ella "no se comienza real¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="192,1460 1196,1460 1213,1419 192,1422" />
+                <Baseline points="198,1446 248,1446 298,1445 349,1445 399,1445 450,1445 500,1445 550,1445 601,1445 651,1446 702,1446 752,1446 802,1446 853,1446 903,1446 954,1446 1004,1446 1054,1446 1105,1446 1155,1446 1206,1448" />
+                <TextEquiv>
+                    <Unicode>mente a vivir ni apreciar la vida hasta que se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="194,1511 342,1516 423,1499 440,1514 461,1501 750,1514 773,1501 707,1467 578,1462 543,1483 494,1464 465,1482 390,1462 311,1477 273,1460 254,1480 194,1465" />
+                <Baseline points="200,1499 228,1499 256,1499 285,1499 313,1499 341,1499 370,1499 398,1499 426,1499 455,1499 483,1499 511,1499 540,1499 568,1498 596,1497 625,1497 653,1497 681,1497 710,1497 738,1497 767,1497" />
+                <TextEquiv>
+                    <Unicode>ha llegado a los cincuenta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="232,1550 511,1579 964,1550 1202,1570 1182,1524 1106,1546 1062,1523 232,1529" />
+                <Baseline points="239,1548 286,1551 334,1554 382,1556 430,1557 478,1559 526,1560 573,1560 621,1560 669,1560 717,1560 765,1560 813,1560 861,1559 908,1559 956,1559 1004,1559 1052,1559 1100,1559 1148,1560 1196,1560" />
+                <TextEquiv>
+                    <Unicode>“Entonces—agrega—se tiene una visión más</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="200,1626 1209,1617 1156,1577 200,1587" />
+                <Baseline points="206,1611 255,1611 305,1611 355,1611 405,1611 455,1611 505,1611 554,1611 604,1611 654,1611 704,1611 754,1610 804,1610 854,1610 903,1610 953,1610 1003,1610 1053,1611 1103,1611 1153,1611 1203,1611" />
+                <TextEquiv>
+                    <Unicode>clara de las cosas, un sentido más exacto de los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="192,1672 1071,1675 1086,1629 192,1638" />
+                <Baseline points="198,1664 242,1664 286,1664 330,1665 374,1665 418,1665 462,1665 506,1665 550,1665 594,1665 639,1664 683,1664 727,1664 771,1664 815,1664 859,1664 903,1664 947,1664 991,1664 1035,1664 1080,1664" />
+                <TextEquiv>
+                    <Unicode>valores... si se sabe comparar y razonar.”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="240,1734 1209,1737 1209,1702 1070,1685 240,1689" />
+                <Baseline points="246,1724 293,1724 341,1725 389,1725 437,1725 485,1725 532,1725 580,1725 628,1724 676,1724 724,1724 771,1724 819,1724 867,1724 915,1724 963,1724 1010,1724 1058,1724 1106,1724 1154,1724 1202,1725" />
+                <TextEquiv>
+                    <Unicode>Hablando del tema siempre viejo y siempre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="200,1787 1122,1791 1213,1782 1213,1754 200,1755" />
+                <Baseline points="207,1775 259,1776 312,1776 364,1776 417,1778 469,1778 522,1778 575,1776 627,1776 680,1776 732,1776 785,1776 837,1775 890,1775 943,1775 995,1775 1048,1775 1100,1776 1153,1776 1206,1778" />
+                <TextEquiv>
+                    <Unicode>nuevo del amor dice y afirma: Estoy cierta de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="200,1841 1211,1830 1196,1803 997,1796 200,1803" />
+                <Baseline points="206,1827 258,1829 311,1829 363,1829 416,1830 468,1830 521,1830 574,1829 626,1829 679,1829 731,1829 784,1829 836,1828 889,1827 942,1827 994,1827 1047,1827 1099,1827 1152,1828 1205,1829" />
+                <TextEquiv>
+                    <Unicode>que muchas mujeres, al hablar del terror que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="204,1890 1199,1891 1199,1842 1027,1869 204,1856" />
+                <Baseline points="210,1880 259,1881 308,1881 357,1881 406,1881 455,1881 504,1880 554,1880 603,1880 652,1880 701,1880 750,1880 799,1880 848,1880 898,1880 947,1880 996,1880 1045,1880 1094,1880 1143,1881 1193,1881" />
+                <TextEquiv>
+                    <Unicode>sienten por la vejez, se estremecen en realidad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l19" custom="readingOrder {index:18;}">
+                <Coords points="200,1946 1103,1955 1209,1943 1209,1907 200,1908" />
+                <Baseline points="206,1932 255,1932 305,1934 355,1934 405,1934 455,1934 504,1935 554,1934 604,1934 654,1934 704,1934 753,1934 803,1934 853,1932 903,1932 953,1932 1002,1932 1052,1932 1102,1934 1152,1934 1202,1934" />
+                <TextEquiv>
+                    <Unicode>en el fondo de su corazón ante la idea de pasar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l20" custom="readingOrder {index:19;}">
+                <Coords points="198,1998 1167,1998 1194,1951 1136,1973 1021,1949 977,1978 811,1949 198,1952" />
+                <Baseline points="204,1986 253,1986 302,1986 351,1985 400,1985 450,1985 499,1985 548,1986 597,1986 646,1986 696,1986 745,1986 794,1986 843,1986 892,1986 942,1986 991,1986 1040,1986 1089,1986 1138,1985 1188,1985" />
+                <TextEquiv>
+                    <Unicode>lo que se denomina “edad del amor. Si ha si¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l21" custom="readingOrder {index:20;}">
+                <Coords points="204,2051 1212,2043 1183,2004 204,2006" />
+                <Baseline points="210,2039 259,2039 309,2038 359,2037 409,2037 459,2037 508,2037 558,2037 608,2037 658,2037 708,2037 757,2037 807,2037 857,2037 907,2037 957,2037 1006,2037 1056,2037 1106,2037 1156,2037 1206,2037" />
+                <TextEquiv>
+                    <Unicode>do una lo suficientemente afortunada para domi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l22" custom="readingOrder {index:21;}">
+                <Coords points="190,2100 1201,2099 1175,2053 1058,2082 958,2052 190,2068" />
+                <Baseline points="197,2090 246,2091 296,2091 346,2091 396,2091 446,2091 496,2091 545,2091 595,2091 645,2091 695,2091 745,2091 795,2091 845,2091 894,2091 944,2091 994,2091 1044,2090 1094,2090 1144,2090 1194,2091" />
+                <TextEquiv>
+                    <Unicode>nar el "mal de amor" para sustituir la pasión</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l23" custom="readingOrder {index:22;}">
+                <Coords points="196,2157 1204,2164 1164,2108 196,2123" />
+                <Baseline points="203,2145 252,2145 302,2145 352,2145 401,2145 451,2145 501,2145 550,2145 600,2145 650,2145 700,2145 749,2145 799,2145 849,2145 898,2145 948,2145 998,2145 1047,2145 1097,2147 1147,2147 1197,2148" />
+                <TextEquiv>
+                    <Unicode>amorosa por un compañerismo sano y agradable,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l24" custom="readingOrder {index:23;}">
+                <Coords points="192,2211 1143,2219 1200,2210 1200,2171 192,2177" />
+                <Baseline points="198,2201 247,2201 297,2202 347,2202 397,2202 447,2202 496,2202 546,2202 596,2202 646,2202 696,2202 745,2202 795,2202 845,2202 895,2202 945,2202 994,2202 1044,2202 1094,2202 1144,2202 1194,2202" />
+                <TextEquiv>
+                    <Unicode>se vive un idilio más interesante que todo aquel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l25" custom="readingOrder {index:24;}">
+                <Coords points="198,2274 855,2258 820,2219 198,2232" />
+                <Baseline points="204,2258 236,2258 268,2259 300,2259 333,2259 365,2259 397,2259 429,2259 462,2259 494,2258 526,2258 558,2258 591,2258 623,2258 655,2258 687,2258 720,2258 752,2258 784,2259 816,2259 849,2259" />
+                <TextEquiv>
+                    <Unicode>que pueda brindar la juventud.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l26" custom="readingOrder {index:25;}">
+                <Coords points="229,2312 1191,2331 1176,2292 1039,2284 756,2307 582,2284 533,2308 229,2284" />
+                <Baseline points="236,2310 283,2313 330,2315 378,2316 425,2318 473,2318 520,2319 568,2319 615,2319 663,2319 710,2319 757,2319 805,2318 852,2318 900,2318 947,2318 995,2318 1042,2318 1090,2319 1137,2319 1185,2321" />
+                <TextEquiv>
+                    <Unicode>“Cuando una está sola, puede encontrar sa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l27" custom="readingOrder {index:26;}">
+                <Coords points="200,2379 1197,2379 1183,2332 1020,2357 200,2340" />
+                <Baseline points="207,2369 256,2369 305,2370 354,2370 403,2372 453,2372 502,2372 551,2372 600,2372 649,2372 699,2372 748,2372 797,2372 846,2372 895,2372 945,2372 994,2372 1043,2372 1092,2372 1141,2372 1191,2372" />
+                <TextEquiv>
+                    <Unicode>tisfacciones y alegrías sin cuento en la amistad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l28" custom="readingOrder {index:27;}">
+                <Coords points="199,2435 1207,2438 1207,2405 1122,2397 818,2418 728,2391 598,2417 560,2391 199,2394" />
+                <Baseline points="206,2426 255,2426 305,2426 355,2426 404,2426 454,2426 504,2426 553,2426 603,2426 653,2426 703,2426 752,2426 802,2427 852,2427 901,2427 951,2427 1001,2427 1050,2428 1100,2429 1150,2429 1200,2430" />
+                <TextEquiv>
+                    <Unicode>Siempre he tenido aprecio a mis amigos, pero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l29" custom="readingOrder {index:28;}">
+                <Coords points="199,2499 1197,2488 1145,2451 1072,2470 1012,2444 855,2469 457,2444 332,2473 200,2446" />
+                <Baseline points="206,2484 255,2483 304,2483 353,2481 403,2481 452,2481 501,2481 550,2481 600,2481 649,2481 698,2481 747,2483 797,2483 846,2483 895,2483 944,2483 994,2484 1043,2484 1092,2484 1141,2484 1191,2483" />
+                <TextEquiv>
+                    <Unicode>jamás con el calor con que he aprendido a ha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l30" custom="readingOrder {index:29;}">
+                <Coords points="204,2550 1197,2550 1198,2512 204,2513" />
+                <Baseline points="210,2537 259,2537 308,2537 357,2537 406,2537 455,2537 504,2538 553,2538 602,2538 651,2538 700,2540 749,2540 798,2540 847,2540 896,2540 945,2540 994,2540 1043,2540 1092,2540 1141,2540 1191,2540" />
+                <TextEquiv>
+                    <Unicode>cerlo en los últimos diez años. No cambiaría uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l31" custom="readingOrder {index:30;}">
+                <Coords points="197,2606 1174,2610 1200,2570 197,2572" />
+                <Baseline points="203,2592 252,2592 302,2594 351,2594 401,2594 450,2594 500,2594 549,2595 599,2595 648,2595 698,2595 747,2595 797,2595 846,2595 896,2595 945,2595 995,2595 1044,2594 1094,2594 1143,2594 1193,2595" />
+                <TextEquiv>
+                    <Unicode>solo de mis buenos amigos por todos los amantes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l32" custom="readingOrder {index:31;}">
+                <Coords points="194,2659 1209,2655 1174,2622 194,2624" />
+                <Baseline points="200,2646 250,2648 300,2649 350,2649 400,2650 450,2651 500,2651 551,2651 601,2651 651,2652 701,2652 751,2652 801,2652 851,2652 902,2652 952,2652 1002,2652 1052,2652 1102,2651 1152,2651 1203,2651" />
+                <TextEquiv>
+                    <Unicode>románticos del mundo... y, creedme, sé lo que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l33" custom="readingOrder {index:32;}">
+                <Coords points="194,2714 296,2723 309,2710 486,2715 501,2708 501,2697 454,2667 431,2677 377,2668 366,2679 328,2668 313,2683 255,2674 194,2680" />
+                <Baseline points="201,2702 227,2703 254,2703 281,2703 307,2703 334,2703 361,2703 388,2703 414,2703 441,2703 468,2704 495,2705" />
+                <TextEquiv>
+                    <Unicode>estoy diciendo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l34" custom="readingOrder {index:33;}">
+                <Coords points="233,2761 1193,2774 1193,2740 1015,2732 803,2753 233,2732" />
+                <Baseline points="239,2759 286,2761 333,2762 381,2763 428,2765 476,2766 523,2766 570,2766 618,2766 665,2766 713,2766 760,2766 807,2766 855,2766 902,2766 950,2765 997,2765 1044,2765 1092,2766 1139,2766 1187,2766" />
+                <TextEquiv>
+                    <Unicode>"La primavera y el estío son estaciones en¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l35" custom="readingOrder {index:34;}">
+                <Coords points="203,2835 1199,2835 1200,2797 203,2794" />
+                <Baseline points="209,2820 258,2820 307,2820 356,2820 405,2820 455,2820 504,2822 553,2822 602,2822 651,2822 701,2822 750,2822 799,2822 848,2822 897,2822 947,2822 996,2822 1045,2822 1094,2823 1143,2823 1193,2823" />
+                <TextEquiv>
+                    <Unicode>cantadoras, con el fresco verdor de la renovada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l36" custom="readingOrder {index:35;}">
+                <Coords points="190,2895 1197,2883 1159,2844 190,2852" />
+                <Baseline points="197,2877 246,2877 296,2877 346,2877 395,2877 445,2877 495,2877 544,2877 594,2877 644,2877 694,2877 743,2877 793,2877 843,2877 892,2877 942,2877 992,2879 1041,2879 1091,2879 1141,2879 1191,2880" />
+                <TextEquiv>
+                    <Unicode>juventud de la tierra; pero muchas veces son in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l37" custom="readingOrder {index:36;}">
+                <Coords points="191,2940 1199,2939 1159,2899 504,2922 191,2900" />
+                <Baseline points="197,2930 246,2930 296,2930 346,2931 396,2931 446,2931 495,2931 545,2933 595,2933 645,2933 695,2934 744,2934 794,2934 844,2934 894,2936 944,2936 993,2936 1043,2936 1093,2936 1143,2936 1193,2934" />
+                <TextEquiv>
+                    <Unicode>tolerablemente cálidas y están plagadas de in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l38" custom="readingOrder {index:37;}">
+                <Coords points="201,2995 1200,2994 1128,2956 201,2964" />
+                <Baseline points="207,2987 256,2987 305,2987 355,2987 404,2987 453,2987 503,2987 552,2988 601,2988 651,2988 700,2988 749,2990 799,2990 848,2990 897,2990 947,2990 996,2990 1045,2990 1095,2990 1144,2990 1194,2988" />
+                <TextEquiv>
+                    <Unicode>sectos. El otoño es la época ideal. Posee la fres¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l39" custom="readingOrder {index:38;}">
+                <Coords points="192,3052 1200,3059 1200,3011 192,3021" />
+                <Baseline points="198,3041 247,3042 297,3042 347,3044 397,3044 447,3044 496,3044 546,3044 596,3044 646,3044 696,3044 745,3045 795,3045 845,3045 895,3045 945,3045 994,3046 1044,3047 1094,3047 1144,3048 1194,3050" />
+                <TextEquiv>
+                    <Unicode>cura de las otras estaciones, sazonada con el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l40" custom="readingOrder {index:39;}">
+                <Coords points="197,3109 1056,3123 1197,3115 1198,3077 197,3067" />
+                <Baseline points="204,3098 253,3098 302,3098 352,3098 401,3098 450,3098 500,3098 549,3098 598,3098 648,3098 697,3098 746,3099 796,3099 845,3099 894,3100 944,3101 993,3101 1042,3101 1092,3102 1141,3102 1191,3102" />
+                <TextEquiv>
+                    <Unicode>transcuro de los meses. Entonces se goza de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l41" custom="readingOrder {index:40;}">
+                <Coords points="203,3162 1188,3170 1179,3131 203,3128" />
+                <Baseline points="209,3153 257,3152 306,3152 354,3152 403,3152 452,3153 500,3153 549,3153 597,3155 646,3155 695,3155 743,3156 792,3156 840,3157 889,3158 938,3158 986,3158 1035,3158 1083,3158 1132,3158 1181,3158" />
+                <TextEquiv>
+                    <Unicode>ura atmósfera tibia y placentéra, de paz y tran¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l42" custom="readingOrder {index:41;}">
+                <Coords points="197,3226 1171,3227 1185,3178 197,3181" />
+                <Baseline points="203,3207 251,3207 300,3207 349,3209 398,3209 447,3209 495,3209 544,3209 593,3209 642,3210 691,3210 739,3210 788,3212 837,3212 886,3212 935,3212 983,3213 1032,3213 1081,3213 1130,3213 1179,3213" />
+                <TextEquiv>
+                    <Unicode>quilidad. Lo mismo sucede en la edade madura."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Marie Dressler siéntese tan completamente
+satisfecha y orgullosa de tener, sesenta años que,
+aun cuando pudiera, no haría retroceder el tiem¬
+po ni una hora. Es tanta su gratitud a la vida.
+“Todas las edades tienen sus ventajas, sus vir¬
+tudes y sus faltas", dice esta admirable mujer y
+actriz, cuyos ojos profundos tienen el brillo de
+la juventud, rodeados por las lineas de una sa¬
+bia madurez. Para ella "no se comienza real¬
+mente a vivir ni apreciar la vida hasta que se
+ha llegado a los cincuenta.
+“Entonces—agrega—se tiene una visión más
+clara de las cosas, un sentido más exacto de los
+valores... si se sabe comparar y razonar.”
+Hablando del tema siempre viejo y siempre
+nuevo del amor dice y afirma: Estoy cierta de
+que muchas mujeres, al hablar del terror que
+sienten por la vejez, se estremecen en realidad
+en el fondo de su corazón ante la idea de pasar
+lo que se denomina “edad del amor. Si ha si¬
+do una lo suficientemente afortunada para domi¬
+nar el "mal de amor" para sustituir la pasión
+amorosa por un compañerismo sano y agradable,
+se vive un idilio más interesante que todo aquel
+que pueda brindar la juventud.
+“Cuando una está sola, puede encontrar sa¬
+tisfacciones y alegrías sin cuento en la amistad.
+Siempre he tenido aprecio a mis amigos, pero
+jamás con el calor con que he aprendido a ha¬
+cerlo en los últimos diez años. No cambiaría uno
+solo de mis buenos amigos por todos los amantes
+románticos del mundo... y, creedme, sé lo que
+estoy diciendo.
+"La primavera y el estío son estaciones en¬
+cantadoras, con el fresco verdor de la renovada
+juventud de la tierra; pero muchas veces son in¬
+tolerablemente cálidas y están plagadas de in¬
+sectos. El otoño es la época ideal. Posee la fres¬
+cura de las otras estaciones, sazonada con el
+transcuro de los meses. Entonces se goza de
+ura atmósfera tibia y placentéra, de paz y tran¬
+quilidad. Lo mismo sucede en la edade madura."</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1286,926 2256,926 2256,2214 1286,2214" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1239,2245 2263,2245 2263,2337 1239,2337" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1357,2290 2255,2290 2255,2249 2215,2244 1357,2249" />
+                <Baseline points="1364,2277 1408,2277 1452,2277 1496,2277 1541,2277 1585,2277 1629,2277 1673,2277 1718,2277 1762,2277 1806,2277 1850,2277 1895,2277 1939,2277 1983,2277 2027,2277 2072,2277 2116,2277 2160,2277 2204,2277 2249,2277" />
+                <TextEquiv>
+                    <Unicode>Carole Lombard, de la Paramount y reina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1234,2334 1860,2328 1838,2284 1714,2283 1697,2300 1534,2287 1453,2307 1338,2284 1234,2294" />
+                <Baseline points="1241,2319 1271,2321 1302,2321 1332,2322 1363,2322 1394,2322 1424,2322 1455,2322 1486,2321 1516,2321 1547,2321 1578,2320 1608,2319 1639,2319 1670,2319 1700,2319 1731,2319 1762,2319 1792,2319 1823,2321 1854,2321" />
+                <TextEquiv>
+                    <Unicode>del hogar de William Powell.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Carole Lombard, de la Paramount y reina
+del hogar de William Powell.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="1250,2371 2261,2371 2261,3226 1250,3226" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1289,2411 2253,2414 2232,2372 1289,2379" />
+                <Baseline points="1295,2405 1342,2406 1390,2406 1437,2406 1485,2405 1533,2405 1580,2405 1628,2405 1675,2405 1723,2404 1771,2403 1818,2403 1866,2403 1913,2403 1961,2403 2009,2403 2056,2403 2104,2403 2151,2403 2199,2405 2247,2405" />
+                <TextEquiv>
+                    <Unicode>He aqui la filosofía de Marie Dressler. En</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1256,2468 2208,2468 2260,2460 2260,2431 1256,2436" />
+                <Baseline points="1262,2459 1311,2457 1361,2457 1410,2457 1460,2457 1509,2457 1559,2457 1608,2457 1658,2457 1707,2457 1757,2457 1807,2457 1856,2457 1906,2457 1955,2457 2005,2457 2054,2456 2104,2456 2153,2456 2203,2455 2253,2454" />
+                <TextEquiv>
+                    <Unicode>cuanto al amor dejo al lector que mida la "amar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1256,2530 1372,2503 1408,2532 2143,2523 2238,2516 2256,2484 1256,2485" />
+                <Baseline points="1262,2511 1311,2511 1360,2511 1410,2511 1459,2511 1509,2511 1558,2510 1607,2510 1657,2510 1706,2510 1756,2510 1805,2510 1854,2510 1904,2510 1953,2510 2003,2508 2052,2508 2101,2508 2151,2508 2200,2507 2250,2507" />
+                <TextEquiv>
+                    <Unicode>gura” que destila, por la belleza que haya teni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1253,2572 2049,2572 2049,2551 1982,2524 1253,2533" />
+                <Baseline points="1259,2564 1298,2564 1337,2562 1376,2562 1415,2562 1455,2562 1494,2562 1533,2562 1572,2562 1611,2562 1651,2562 1690,2562 1729,2562 1768,2562 1807,2562 1847,2562 1886,2562 1925,2562 1964,2562 2003,2562 2043,2564" />
+                <TextEquiv>
+                    <Unicode>do Marie Dressler en su juventud...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1706,2637 1720,2637 1727,2641 1738,2636 1751,2642 1763,2636 1791,2639 1799,2632 1812,2632 1812,2613 1801,2613 1792,2604 1777,2604 1770,2597 1758,2594 1742,2596 1733,2604 1706,2608" />
+                <Baseline points="1713,2627 1744,2627 1775,2627 1806,2627" />
+                <TextEquiv>
+                    <Unicode>-000—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1289,2705 2251,2703 2250,2670 2214,2660 1289,2665" />
+                <Baseline points="1296,2696 1343,2696 1390,2696 1438,2696 1485,2696 1533,2696 1580,2696 1627,2696 1675,2696 1722,2696 1770,2696 1817,2696 1864,2696 1912,2694 1959,2694 2007,2694 2054,2694 2101,2694 2149,2694 2196,2694 2244,2694" />
+                <TextEquiv>
+                    <Unicode>Con tanta película que requiere escenas exte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1253,2756 2230,2762 2253,2718 1253,2723" />
+                <Baseline points="1259,2747 1308,2747 1357,2747 1407,2748 1456,2748 1505,2748 1555,2747 1604,2747 1653,2747 1703,2747 1752,2747 1801,2747 1851,2747 1900,2747 1949,2747 1999,2747 2048,2747 2097,2747 2147,2747 2196,2748 2246,2748" />
+                <TextEquiv>
+                    <Unicode>riores a campo abierto la numerosa legión de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1264,2804 2256,2811 2256,2771 2135,2764 1855,2764 1828,2790 1264,2765" />
+                <Baseline points="1271,2798 1322,2798 1374,2798 1425,2798 1477,2799 1528,2799 1580,2799 1631,2799 1683,2799 1734,2799 1786,2799 1837,2799 1889,2799 1940,2799 1992,2799 2043,2799 2095,2799 2146,2798 2198,2798 2250,2798" />
+                <TextEquiv>
+                    <Unicode>'extras” está de plácemes. Cuando trabajan en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1259,2863 2259,2855 2259,2828 1918,2814 1880,2836 1259,2821" />
+                <Baseline points="1265,2853 1314,2853 1363,2852 1413,2852 1462,2852 1512,2852 1561,2852 1610,2852 1660,2852 1709,2852 1759,2852 1808,2852 1857,2852 1907,2852 1956,2852 2006,2852 2055,2852 2104,2852 2154,2852 2203,2852 2253,2852" />
+                <TextEquiv>
+                    <Unicode>les estudios de Hollywood se tienen que pagar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1252,2915 2248,2915 2248,2877 1252,2881" />
+                <Baseline points="1259,2904 1308,2904 1357,2904 1406,2904 1455,2904 1504,2904 1553,2904 1602,2904 1651,2904 1700,2904 1750,2904 1799,2904 1848,2904 1897,2904 1946,2904 1995,2904 2044,2904 2093,2904 2142,2904 2191,2903 2241,2903" />
+                <TextEquiv>
+                    <Unicode>su comida, pero cuando salen al campo la em¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1257,2971 1380,2944 1417,2971 2266,2962 2143,2915 1786,2946 1257,2932" />
+                <Baseline points="1263,2957 1312,2957 1362,2957 1412,2957 1462,2955 1512,2955 1561,2955 1611,2955 1661,2955 1711,2955 1761,2955 1810,2955 1860,2955 1910,2955 1960,2955 2010,2955 2059,2955 2109,2955 2159,2955 2209,2955 2259,2957" />
+                <TextEquiv>
+                    <Unicode>presa productora tiene que proporcionársela.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1261,3020 2253,3020 2253,2979 2167,2971 1480,2972 1447,2996 1261,2972" />
+                <Baseline points="1268,3006 1319,3008 1371,3008 1422,3008 1474,3008 1525,3008 1577,3008 1628,3008 1680,3008 1731,3008 1783,3008 1834,3006 1886,3006 1937,3006 1989,3006 2040,3006 2092,3006 2143,3008 2195,3008 2247,3008" />
+                <TextEquiv>
+                    <Unicode>Un buen almuerzo, varios centavos ahorrados y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1253,3071 2252,3065 2252,3035 2070,3020 1971,3049 1253,3034" />
+                <Baseline points="1260,3063 1309,3062 1358,3062 1407,3060 1457,3060 1506,3060 1555,3060 1605,3059 1654,3059 1703,3060 1753,3060 1802,3060 1851,3060 1900,3060 1950,3060 1999,3060 2048,3060 2098,3060 2147,3060 2196,3060 2246,3059" />
+                <TextEquiv>
+                    <Unicode>un agradable paseo al campo... ¿qué más se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1252,3131 2259,3115 2228,3072 1252,3086" />
+                <Baseline points="1259,3114 1308,3113 1358,3113 1407,3111 1457,3111 1507,3111 1556,3111 1606,3111 1656,3111 1705,3111 1755,3111 1805,3111 1854,3111 1904,3111 1954,3111 2003,3111 2053,3111 2103,3110 2152,3110 2202,3110 2252,3110" />
+                <TextEquiv>
+                    <Unicode>puede desear en estos días de depresión econó¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1246,3171 1275,3178 1319,3178 1328,3173 1360,3177 1380,3167 1380,3133 1355,3128 1346,3137 1331,3141 1312,3141 1303,3132 1288,3132 1271,3141 1246,3141" />
+                <Baseline points="1253,3167 1283,3165 1313,3164 1343,3165 1373,3167" />
+                <TextEquiv>
+                    <Unicode>mica?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1682,3215 1700,3215 1718,3227 1786,3226 1794,3219 1824,3219 1824,3195 1792,3195 1759,3180 1744,3180 1736,3188 1719,3188 1714,3193 1681,3195" />
+                <Baseline points="1688,3215 1714,3214 1740,3213 1766,3212 1792,3212 1818,3213" />
+                <TextEquiv>
+                    <Unicode>—o0o—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>He aqui la filosofía de Marie Dressler. En
+cuanto al amor dejo al lector que mida la "amar¬
+gura” que destila, por la belleza que haya teni¬
+do Marie Dressler en su juventud...
+-000—
+Con tanta película que requiere escenas exte¬
+riores a campo abierto la numerosa legión de
+'extras” está de plácemes. Cuando trabajan en
+les estudios de Hollywood se tienen que pagar
+su comida, pero cuando salen al campo la em¬
+presa productora tiene que proporcionársela.
+Un buen almuerzo, varios centavos ahorrados y
+un agradable paseo al campo... ¿qué más se
+puede desear en estos días de depresión econó¬
+mica?
+—o0o—</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1543,2621 1724,2621 1724,2624 1543,2624" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1785,2621 1969,2621 1969,2624 1785,2624" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1789,3207 1963,3207 1963,3211 1789,3211" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1539,3208 1712,3208 1712,3212 1539,3212" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="2181,993 2192,993 2192,1713 2181,1713" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="2182,1926 2193,1926 2193,2170 2182,2170" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1286,926 2256,926 2256,2211 1286,2211" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

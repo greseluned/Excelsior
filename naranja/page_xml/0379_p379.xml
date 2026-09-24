@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:22:02.28+02:00</Created>
+        <LastChange>2021-11-03T18:39:25.401+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781255" pageNr="379" tsid="236400338" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LXRJUHMSMJONFRXLDPTADNYK" xmlUrl="https://files.transkribus.eu/Get?id=SRWFWFUMMJSUVQOFMLLBICQH" imageId="17245438" />
+    </Metadata>
+    <Page imageFilename="0379_p379.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="107,126 2373,126 2373,3127 107,3127" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982502830" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="107,449 2249,449 2249,1924 107,1924" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="251,2119 1851,2119 1851,3013 251,3013" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="257,3036 1857,3036 1857,3127 257,3127" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="270,3084 348,3085 427,3085 506,3084 585,3084 663,3084 742,3084 821,3082 900,3082 978,3081 1057,3081 1136,3079 1215,3078 1293,3078 1372,3078 1451,3076 1530,3076 1608,3076 1687,3076 1766,3076 1845,3076 1845,3046 1766,3046 1687,3046 1608,3046 1530,3046 1451,3046 1372,3048 1293,3048 1215,3048 1136,3049 1057,3051 978,3051 900,3052 821,3052 742,3054 663,3054 585,3054 506,3054 427,3055 348,3055 270,3054" />
+                <Baseline points="270,3074 348,3075 427,3075 506,3074 585,3074 663,3074 742,3074 821,3072 900,3072 978,3071 1057,3071 1136,3069 1215,3068 1293,3068 1372,3068 1451,3066 1530,3066 1608,3066 1687,3066 1766,3066 1845,3066" />
+                <TextEquiv>
+                    <Unicode>Grupo de los organizadores del baile de los novoecijanos, celebrado en el Club Filipino,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="258,3121 337,3121 416,3121 496,3121 575,3120 655,3120 734,3120 814,3120 893,3118 973,3118 1052,3118 1131,3117 1211,3117 1290,3117 1370,3115 1449,3115 1529,3114 1608,3114 1688,3112 1767,3112 1847,3111 1847,3081 1767,3082 1688,3082 1608,3084 1529,3084 1449,3085 1370,3085 1290,3087 1211,3087 1131,3087 1052,3088 973,3088 893,3088 814,3090 734,3090 655,3090 575,3090 496,3091 416,3091 337,3091 258,3091" />
+                <Baseline points="258,3111 337,3111 416,3111 496,3111 575,3110 655,3110 734,3110 814,3110 893,3108 973,3108 1052,3108 1131,3107 1211,3107 1290,3107 1370,3105 1449,3105 1529,3104 1608,3104 1688,3102 1767,3102 1847,3101" />
+                <TextEquiv>
+                    <Unicode>al que asistió una numerosa y selecta concurrencia y que resultó un verdadero éxito.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Grupo de los organizadores del baile de los novoecijanos, celebrado en el Club Filipino,
+al que asistió una numerosa y selecta concurrencia y que resultó un verdadero éxito.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="115,1951 1983,1951 1983,2073 115,2073" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="632,1990 657,1992 683,1990 683,1956 657,1958 632,1956" />
+                <Baseline points="632,1979 657,1981 683,1979" />
+                <TextEquiv>
+                    <Unicode>s qit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="818,1995 875,1995 933,1995 991,1993 1049,1993 1107,1993 1164,1993 1222,1993 1280,1992 1338,1992 1396,1992 1453,1992 1511,1992 1569,1992 1627,1992 1685,1992 1742,1992 1800,1992 1858,1992 1916,1992 1974,1992 1974,1962 1916,1962 1858,1962 1800,1962 1742,1962 1685,1962 1627,1962 1569,1962 1511,1962 1453,1962 1396,1962 1338,1962 1280,1962 1222,1963 1164,1963 1107,1963 1049,1963 991,1963 933,1965 875,1965 818,1965" />
+                <Baseline points="818,1985 875,1985 933,1985 991,1983 1049,1983 1107,1983 1164,1983 1222,1983 1280,1982 1338,1982 1396,1982 1453,1982 1511,1982 1569,1982 1627,1982 1685,1982 1742,1982 1800,1982 1858,1982 1916,1982 1974,1982" />
+                <TextEquiv>
+                    <Unicode>tieron al baile mensual del “Club Sin Nombre” que semejó una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="599,1994 615,1997 615,1963 599,1960" />
+                <Baseline points="599,1983 615,1986" />
+                <TextEquiv>
+                    <Unicode>los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="201,1992 227,1995 254,1996 281,1996 308,1996 335,1994 362,1993 389,1992 416,1993 443,1998 470,2002 470,1972 443,1968 416,1963 389,1962 362,1963 335,1964 308,1966 281,1966 254,1966 227,1965 201,1962" />
+                <Baseline points="201,1982 227,1985 254,1986 281,1986 308,1986 335,1984 362,1983 389,1982 416,1983 443,1988 470,1992" />
+                <TextEquiv>
+                    <Unicode>Simpático grup</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="725,2032 787,2032 850,2032 912,2032 975,2032 1037,2032 1100,2032 1162,2031 1225,2031 1287,2031 1350,2031 1413,2031 1475,2029 1538,2029 1600,2029 1663,2029 1725,2029 1788,2029 1850,2029 1913,2029 1976,2029 1976,1999 1913,1999 1850,1999 1788,1999 1725,1999 1663,1999 1600,1999 1538,1999 1475,1999 1413,2001 1350,2001 1287,2001 1225,2001 1162,2001 1100,2002 1037,2002 975,2002 912,2002 850,2002 787,2002 725,2002" />
+                <Baseline points="725,2022 787,2022 850,2022 912,2022 975,2022 1037,2022 1100,2022 1162,2021 1225,2021 1287,2021 1350,2021 1413,2021 1475,2019 1538,2019 1600,2019 1663,2019 1725,2019 1788,2019 1850,2019 1913,2019 1976,2019" />
+                <TextEquiv>
+                    <Unicode>orado del salón, una verdadera casa de té, como por la indumentaria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="125,2032 151,2034 178,2034 204,2034 231,2034 258,2034 284,2032 311,2031 338,2031 364,2030 391,2029 418,2029 444,2029 471,2031 498,2032 498,2002 471,2001 444,1999 418,1999 391,1999 364,2000 338,2001 311,2001 284,2002 258,2004 231,2004 204,2004 178,2004 151,2004 125,2002" />
+                <Baseline points="125,2022 151,2024 178,2024 204,2024 231,2024 258,2024 284,2022 311,2021 338,2021 364,2020 391,2019 418,2019 444,2019 471,2021 498,2022" />
+                <TextEquiv>
+                    <Unicode>fiesta japonesa tanto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="120,2071 196,2070 272,2070 348,2070 424,2070 500,2070 576,2070 652,2070 728,2070 804,2070 880,2070 956,2070 1032,2070 1108,2070 1184,2069 1260,2068 1336,2068 1412,2068 1488,2068 1564,2067 1640,2067 1640,2037 1564,2037 1488,2038 1412,2038 1336,2038 1260,2038 1184,2039 1108,2040 1032,2040 956,2040 880,2040 804,2040 728,2040 652,2040 576,2040 500,2040 424,2040 348,2040 272,2040 196,2040 120,2041" />
+                <Baseline points="120,2061 196,2060 272,2060 348,2060 424,2060 500,2060 576,2060 652,2060 728,2060 804,2060 880,2060 956,2060 1032,2060 1108,2060 1184,2059 1260,2058 1336,2058 1412,2058 1488,2058 1564,2057 1640,2057" />
+                <TextEquiv>
+                    <Unicode>de las chicas, ofreciendo el conjunto un aspecto atractivo y lleno de originalidad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>s qit
+tieron al baile mensual del “Club Sin Nombre” que semejó una
+los
+Simpático grup
+orado del salón, una verdadera casa de té, como por la indumentaria
+fiesta japonesa tanto
+de las chicas, ofreciendo el conjunto un aspecto atractivo y lleno de originalidad.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="107,126 1592,126 1592,129 107,129" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="207,168 536,168 536,178 207,178" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1524,456 1885,456 1885,478 1524,478" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="808,480 1152,480 1152,486 808,486" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1191,481 1959,481 1959,488 1191,488" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1979,1238 2373,1238 2373,1247 1979,1247" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1606,1890 1971,1890 1971,1895 1606,1895" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="253,1894 353,1894 353,1898 253,1898" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1606,1898 1991,1898 1991,1918 1606,1918" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="258,1917 335,1917 335,1920 258,1920" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1505,2121 1846,2121 1846,2134 1505,2134" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="253,2124 735,2124 735,2139 253,2139" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1621,2995 1849,2995 1849,3006 1621,3006" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="262,2997 638,2997 638,3008 262,3008" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="678,2997 1505,2997 1505,3007 678,3007" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="134,481 140,481 140,790 134,790" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="254,2124 265,2124 265,2274 254,2274" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="256,2303 273,2303 273,3007 256,3007" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="272,2474 281,2474 281,3007 272,3007" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="443,1519 458,1519 458,1718 443,1718" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="757,644 768,644 768,815 757,815" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="771,639 783,639 783,813 771,813" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="1200,2172 1203,2172 1203,2259 1200,2259" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="1672,575 1681,575 1681,714 1672,714" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="1829,2121 1849,2121 1849,3006 1829,3006" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="1964,492 1968,492 1968,758 1964,758" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="1970,457 1988,457 1988,767 1970,767" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:36.618+02:00</Created>
+        <LastChange>2021-06-08T15:18:45.385+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782230" pageNr="1304" tsid="236401528" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=IFCZPGCDAOLAFZDIAKSZRWJL" xmlUrl="https://files.transkribus.eu/Get?id=WETAZKQXXJRUIJHJYWRFLONO" imageId="17247184" />
+    </Metadata>
+    <Page imageFilename="1304_p203.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="205,234 2294,234 2294,3262 205,3262" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982717791" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="205,258 2294,258 2294,3152 205,3152" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="916,942 960,942 960,960 916,960" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="982,1424 2182,1424 2182,1820 982,1820" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1072,1468 2188,1455 2087,1419 1072,1423" />
+                <Baseline points="1080,1454 1135,1454 1190,1454 1245,1454 1300,1455 1355,1455 1410,1455 1465,1455 1520,1455 1575,1457 1630,1457 1685,1457 1740,1458 1795,1458 1850,1458 1905,1458 1960,1458 2015,1458 2070,1458 2125,1458 2181,1457" />
+                <TextEquiv>
+                    <Unicode>Banquete dado por el Sr. Gonzalo Puyat, Presidente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="982,1508 2169,1510 2169,1467 982,1468" />
+                <Baseline points="989,1497 1047,1497 1106,1496 1164,1496 1223,1496 1282,1496 1340,1496 1399,1497 1458,1497 1516,1497 1575,1497 1634,1497 1692,1499 1751,1499 1810,1499 1868,1499 1927,1499 1986,1500 2044,1500 2103,1500 2162,1500" />
+                <TextEquiv>
+                    <Unicode>de la Cámara de Comercio Filipina, en el “Toms Oriental</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="987,1550 2179,1544 2123,1508 988,1507" />
+                <Baseline points="995,1539 1053,1539 1112,1538 1171,1538 1230,1538 1289,1538 1347,1539 1406,1539 1465,1539 1524,1539 1583,1540 1641,1541 1700,1541 1759,1541 1818,1542 1877,1542 1935,1542 1994,1542 2053,1542 2112,1542 2171,1542" />
+                <TextEquiv>
+                    <Unicode>Grill" en honor del comerciante Sr. Leopoldo Aguinaldo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="988,1595 2163,1591 2137,1548 988,1555" />
+                <Baseline points="995,1580 1053,1580 1111,1581 1169,1581 1227,1581 1285,1581 1343,1583 1401,1583 1459,1583 1517,1583 1575,1583 1633,1584 1691,1584 1749,1584 1807,1584 1865,1586 1923,1586 1981,1586 2039,1586 2097,1586 2156,1586" />
+                <TextEquiv>
+                    <Unicode>con motivo de su regreso del reciente viaje que ha reali¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="984,1636 1533,1638 1533,1602 1477,1590 1355,1607 984,1596" />
+                <Baseline points="992,1625 1018,1625 1045,1625 1072,1625 1098,1626 1125,1626 1152,1626 1178,1626 1205,1626 1232,1626 1259,1626 1285,1626 1312,1626 1339,1626 1365,1626 1392,1626 1419,1626 1445,1626 1472,1626 1499,1625 1526,1625" />
+                <TextEquiv>
+                    <Unicode>zado a Europa y América.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1063,1683 2173,1681 2143,1644 1063,1653" />
+                <Baseline points="1071,1676 1125,1676 1180,1676 1235,1677 1290,1677 1344,1677 1399,1677 1454,1677 1509,1678 1563,1679 1618,1679 1673,1679 1728,1679 1782,1680 1837,1680 1892,1680 1947,1680 2001,1680 2056,1680 2111,1679 2166,1679" />
+                <TextEquiv>
+                    <Unicode>En honor del Sr. Williard Bleyer Profesor de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="981,1724 2173,1731 2164,1686 982,1684" />
+                <Baseline points="989,1719 1047,1719 1106,1719 1165,1719 1224,1719 1283,1719 1342,1719 1400,1719 1459,1721 1518,1721 1577,1721 1636,1721 1695,1721 1754,1722 1812,1722 1871,1722 1930,1722 1989,1722 2048,1721 2107,1721 2166,1721" />
+                <TextEquiv>
+                    <Unicode>Universidad de Wisconsin y de su Señora se celebró en el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="987,1769 2176,1770 2124,1724 987,1728" />
+                <Baseline points="995,1763 1053,1763 1112,1763 1170,1763 1229,1763 1288,1763 1346,1763 1405,1763 1464,1763 1522,1763 1581,1763 1640,1763 1698,1763 1757,1763 1816,1764 1874,1764 1933,1764 1992,1764 2050,1763 2109,1763 2168,1763" />
+                <TextEquiv>
+                    <Unicode>Manila Hotel este banquete del que fué anfitrión el Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="985,1813 2186,1799 985,1771" />
+                <Baseline points="992,1806 1051,1806 1110,1806 1169,1806 1229,1806 1288,1806 1347,1806 1407,1806 1466,1806 1525,1808 1585,1808 1644,1808 1703,1808 1762,1808 1822,1808 1881,1808 1940,1808 2000,1808 2059,1808 2118,1808 2178,1808" />
+                <TextEquiv>
+                    <Unicode>Rafael Palma, Presidente de la Universidad de Filipinas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Banquete dado por el Sr. Gonzalo Puyat, Presidente
+de la Cámara de Comercio Filipina, en el “Toms Oriental
+Grill" en honor del comerciante Sr. Leopoldo Aguinaldo,
+con motivo de su regreso del reciente viaje que ha reali¬
+zado a Europa y América.
+En honor del Sr. Williard Bleyer Profesor de la
+Universidad de Wisconsin y de su Señora se celebró en el
+Manila Hotel este banquete del que fué anfitrión el Sr.
+Rafael Palma, Presidente de la Universidad de Filipinas.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1992,3229 2280,3229 2280,3262 1992,3262" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="2021,3257 2042,3266 2091,3266 2174,3263 2197,3252 2208,3263 2270,3264 2282,3260 2282,3218 2186,3221 2177,3230 2021,3227" />
+                <Baseline points="2028,3251 2055,3251 2082,3251 2110,3251 2137,3251 2164,3251 2192,3251 2219,3251 2246,3251 2274,3252" />
+                <TextEquiv>
+                    <Unicode>Fotos F.st'!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fotos F.st'!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="208,234 2288,234 2288,246 208,246" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="208,258 2288,258 2288,274 208,274" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="368,1530 786,1530 786,1549 368,1549" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="367,1549 792,1549 792,1575 367,1575" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="211,1627 933,1627 933,1640 211,1640" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="214,1675 934,1675 934,1688 214,1688" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="224,3126 2263,3126 2263,3143 224,3143" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="224,3160 2254,3160 2254,3174 224,3174" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="224,3172 2230,3172 2230,3186 224,3186" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="2217,1394 2224,1394 2224,1584 2217,1584" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="832,510 884,510 884,516 832,516" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="1098,3184 1125,3184 1125,3185 1098,3185" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="1984,2398 1987,2398 1987,2421 1984,2421" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="330,1695 433,1695 433,1761 330,1761" />
+        </GraphicRegion>
+        <GraphicRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="641,2819 774,2819 774,2950 641,2950" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

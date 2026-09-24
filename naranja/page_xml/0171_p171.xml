@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:10:39.02+02:00</Created>
+        <LastChange>2021-11-03T17:11:15.660+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781028" pageNr="171" tsid="236399573" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MQIDXZTHSYFXRSJTUMAZPNWO" xmlUrl="https://files.transkribus.eu/Get?id=EDOYEYMIYYKSMMMGWFLGPXSG" imageId="17244192" />
+    </Metadata>
+    <Page imageFilename="0171_p171.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="266,291 2183,291 2183,2904 266,2904" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982454682" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="463,291 2183,291 2183,2811 463,2811" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="266,2843 846,2843 846,2904 266,2904" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="270,2932 298,2932 327,2933 355,2933 384,2934 412,2935 441,2936 469,2936 498,2938 526,2938 555,2939 583,2941 612,2941 640,2942 669,2944 697,2944 726,2946 754,2947 783,2947 811,2949 840,2950 840,2800 811,2799 783,2797 754,2797 726,2796 697,2794 669,2794 640,2792 612,2791 583,2791 555,2789 526,2788 498,2788 469,2786 441,2786 412,2785 384,2784 355,2783 327,2783 298,2782 270,2782" />
+                <Baseline points="270,2882 298,2882 327,2883 355,2883 384,2884 412,2885 441,2886 469,2886 498,2888 526,2888 555,2889 583,2891 612,2891 640,2892 669,2894 697,2894 726,2896 754,2897 783,2897 811,2899 840,2900" />
+                <TextEquiv>
+                    <Unicode>General o Dictador?...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>General o Dictador?...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1647,2751 1852,2751 1852,2770 1647,2770" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1699,2774 1902,2774 1902,2789 1699,2789" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1289,911 1298,911 1298,961 1289,961" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

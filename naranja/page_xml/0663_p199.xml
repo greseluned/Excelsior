@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:42.396+02:00</Created>
+        <LastChange>2021-10-29T20:09:36.544+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781540" pageNr="663" tsid="236400773" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XOQURLZHTYBIBIPYDVMAVMQQ" xmlUrl="https://files.transkribus.eu/Get?id=JVQBDTEUUPZVLOJNVCPVIWVM" imageId="17245196" />
+    </Metadata>
+    <Page imageFilename="0663_p199.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982569984" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="78,38 78,566 2367,566 2367,38" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="108,77 138,77 169,75 200,74 231,77 231,41 200,38 169,39 138,41 108,41" />
+                <Baseline points="108,65 138,65 169,63 200,62 231,65" />
+                <TextEquiv>
+                    <Unicode>P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="113,138 138,137 163,139 188,141 188,105 163,103 138,101 113,102" />
+                <Baseline points="113,126 138,125 163,127 188,129" />
+                <TextEquiv>
+                    <Unicode>-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="114,206 141,207 168,208 195,209 222,212 222,176 195,173 168,172 141,171 114,170" />
+                <Baseline points="114,194 141,195 168,196 195,197 222,200" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="87,275 115,276 143,277 171,280 199,283 228,287 228,251 199,247 171,244 143,241 115,240 87,239" />
+                <Baseline points="87,263 115,264 143,265 171,268 199,271 228,275" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="332,337 381,330 381,300 332,307" />
+                <Baseline points="332,327 381,320" />
+                <TextEquiv>
+                    <Unicode>G</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="335,354 423,354 512,352 601,352 690,352 779,351 868,351 956,351 1045,351 1134,351 1223,351 1312,351 1401,350 1490,349 1578,349 1667,349 1756,349 1845,349 1934,348 2023,348 2112,346 2112,316 2023,318 1934,318 1845,319 1756,319 1667,319 1578,319 1490,319 1401,320 1312,321 1223,321 1134,321 1045,321 956,321 868,321 779,321 690,322 601,322 512,322 423,324 335,324" />
+                <Baseline points="335,344 423,344 512,342 601,342 690,342 779,341 868,341 956,341 1045,341 1134,341 1223,341 1312,341 1401,340 1490,339 1578,339 1667,339 1756,339 1845,339 1934,338 2023,338 2112,336" />
+                <TextEquiv>
+                    <Unicode>O</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="78,563 103,564 128,564 153,564 178,564 203,564 228,563 253,563 278,563 303,561 328,561 353,561 378,561 403,562 429,563 429,527 403,526 378,525 353,525 328,525 303,525 278,527 253,527 228,527 203,528 178,528 153,528 128,528 103,528 78,527" />
+                <Baseline points="78,551 103,552 128,552 153,552 178,552 203,552 228,551 253,551 278,551 303,549 328,549 353,549 378,549 403,550 429,551" />
+                <TextEquiv>
+                    <Unicode>35 CENTIMOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="1511,561 1553,561 1596,560 1639,560 1682,560 1725,560 1767,560 1810,561 1853,561 1896,561 1939,561 1981,561 2024,563 2067,563 2110,563 2153,563 2195,564 2238,564 2281,564 2324,565 2367,566 2367,530 2324,529 2281,528 2238,528 2195,528 2153,527 2110,527 2067,527 2024,527 1981,525 1939,525 1896,525 1853,525 1810,525 1767,524 1725,524 1682,524 1639,524 1596,524 1553,525 1511,525" />
+                <Baseline points="1511,549 1553,549 1596,548 1639,548 1682,548 1725,548 1767,548 1810,549 1853,549 1896,549 1939,549 1981,549 2024,551 2067,551 2110,551 2153,551 2195,552 2238,552 2281,552 2324,553 2367,554" />
+                <TextEquiv>
+                    <Unicode>MANILA—NOVIEMBRE 10, 1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P
+-
+
+A
+G
+O
+35 CENTIMOS
+MANILA—NOVIEMBRE 10, 1931</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

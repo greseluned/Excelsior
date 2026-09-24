@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:30.323+02:00</Created>
+        <LastChange>2021-06-08T15:15:57.334+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782223" pageNr="1296" tsid="236401542" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=MHEANWPISZTWTTIMXUBWZECC" xmlUrl="https://files.transkribus.eu/Get?id=NYJJLNQLRSXZPTXCKSDQPNSW" imageId="17247151" />
+    </Metadata>
+    <Page imageFilename="1296_p195.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="202,261 2276,261 2276,3213 202,3213" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982716074" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="207,261 634,261 634,319 207,319" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="207,317 637,318 637,279 618,274 543,266 468,279 407,266 294,285 256,256 207,259" />
+                <Baseline points="215,308 240,308 266,309 292,309 318,309 344,309 370,309 396,309 422,309 448,309 474,309 500,309 526,309 552,308 578,308 604,308 630,309" />
+                <TextEquiv>
+                    <Unicode>En nuestros cines.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En nuestros cines.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="593,388 1874,388 1874,524 593,524" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="597,486 1867,487 1867,411 1684,430 1637,392 1568,434 1456,392 1390,457 1343,411 1171,393 840,394 788,446 597,393" />
+                <Baseline points="605,479 667,480 730,480 793,480 855,480 918,480 981,480 1043,480 1106,480 1169,479 1232,479 1294,479 1357,479 1420,479 1482,479 1545,479 1608,479 1670,479 1733,479 1796,479 1859,479" />
+                <TextEquiv>
+                    <Unicode>Un Caballero de Frac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Un Caballero de Frac</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="210,664 1220,664 1220,1273 210,1273" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="238,692 321,716 1219,708 1219,653 238,668" />
+                <Baseline points="246,698 294,698 342,698 390,698 439,698 487,698 535,698 583,698 632,698 680,698 728,698 776,698 825,698 873,698 921,699 969,699 1018,699 1066,698 1114,698 1162,698 1211,698" />
+                <TextEquiv>
+                    <Unicode>En el Cine “University” se proyectará desde el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="211,772 1223,761 1223,730 1174,716 211,723" />
+                <Baseline points="219,756 268,756 318,755 368,755 418,755 468,755 517,755 567,755 617,755 667,755 717,755 766,755 816,755 866,755 916,755 966,755 1015,755 1065,755 1115,755 1165,754 1215,753" />
+                <TextEquiv>
+                    <Unicode>19 del actual está preciosa película en castella¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="208,826 1192,820 1212,776 208,787" />
+                <Baseline points="216,815 265,813 314,813 364,813 413,813 463,812 512,812 562,812 611,812 661,812 710,812 759,812 809,812 858,812 908,812 957,812 1007,812 1056,810 1106,810 1155,810 1205,809" />
+                <TextEquiv>
+                    <Unicode>no, de la cual son protagonistas la ya conocida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="213,883 1217,867 1217,839 1153,827 213,834" />
+                <Baseline points="221,869 270,869 319,867 369,867 418,867 468,867 517,866 566,866 616,866 665,866 715,866 764,867 813,867 863,867 912,867 962,867 1011,867 1060,866 1110,866 1159,866 1209,866" />
+                <TextEquiv>
+                    <Unicode>de nuestro público y eximia actriz Gloria Guz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="205,931 1009,939 1042,909 968,883 204,894" />
+                <Baseline points="212,924 253,924 294,923 335,923 376,923 417,923 458,923 500,923 541,921 582,921 623,921 664,921 705,921 746,921 788,921 829,921 870,921 911,921 952,923 993,923 1035,923" />
+                <TextEquiv>
+                    <Unicode>mán y el excelente actor Roberto Rey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="247,989 1226,987 1226,940 1141,965 1063,939 322,967 247,945" />
+                <Baseline points="254,980 302,980 350,980 398,980 446,980 495,980 543,979 591,978 639,978 687,978 736,978 784,978 832,978 880,978 928,978 977,977 1025,977 1073,977 1121,977 1169,977 1218,977" />
+                <TextEquiv>
+                    <Unicode>Su argumento es moderno e interesante. El</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="207,1043 1217,1050 1217,1006 1171,995 207,1007" />
+                <Baseline points="215,1035 264,1034 314,1034 364,1034 413,1034 463,1034 513,1034 562,1034 612,1034 662,1034 712,1034 761,1034 811,1034 861,1034 910,1034 960,1034 1010,1034 1059,1034 1109,1034 1159,1032 1209,1032" />
+                <TextEquiv>
+                    <Unicode>conde André de Lussanges, jóven aristócrata,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="207,1101 1110,1108 1222,1098 1222,1059 207,1066" />
+                <Baseline points="215,1094 267,1092 320,1091 372,1091 425,1089 477,1089 530,1089 583,1089 635,1088 688,1088 740,1088 793,1088 845,1089 898,1089 951,1089 1003,1089 1056,1089 1108,1089 1161,1089 1214,1089" />
+                <TextEquiv>
+                    <Unicode>que para todas las mujeres es un príncipe de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="211,1155 1213,1155 1213,1115 1025,1098 211,1108" />
+                <Baseline points="219,1145 268,1145 317,1146 367,1146 416,1146 465,1146 515,1146 564,1145 613,1145 663,1145 712,1143 761,1143 811,1143 860,1143 909,1142 959,1142 1008,1142 1057,1142 1107,1143 1156,1143 1206,1143" />
+                <TextEquiv>
+                    <Unicode>leyenda, y su amigo D'Allouville atraviesan una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="207,1210 1135,1219 1219,1203 1219,1173 207,1179" />
+                <Baseline points="216,1202 265,1202 315,1202 365,1202 415,1202 465,1202 514,1202 564,1202 614,1202 664,1202 714,1202 763,1202 813,1202 863,1202 913,1201 963,1200 1012,1200 1062,1200 1112,1200 1162,1199 1212,1199" />
+                <TextEquiv>
+                    <Unicode>situación económica apurada. Un embargo judi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="205,1270 1184,1269 1224,1265 1224,1228 205,1234" />
+                <Baseline points="213,1259 263,1259 313,1259 363,1259 413,1259 464,1259 514,1259 564,1258 614,1257 664,1257 715,1257 765,1257 815,1256 865,1256 915,1256 966,1256 1016,1256 1066,1257 1116,1257 1166,1257 1217,1259" />
+                <TextEquiv>
+                    <Unicode>cial deja la mansión del aristócrata vacia de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En el Cine “University” se proyectará desde el
+19 del actual esta preciosa película en castella¬
+no, de la cual son protagonistas la ya conocida
+de nuestro público y eximia actriz Gloria Guz¬
+mán y el excelente actor Roberto Rey.
+Su argumento es moderno e interesante. El
+conde André de Lussanges, jóven aristócrata,
+que para todas las mujeres es un príncipe de
+leyenda, y su amigo D'Allouville atraviesan una
+situación económica apurada. Un embargo judi¬
+cial deja la mansión del aristócrata vacia de</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="213,2557 1220,2557 1220,3209 213,3209" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="214,2603 1196,2605 1215,2561 214,2564" />
+                <Baseline points="221,2589 270,2589 319,2589 368,2589 418,2589 467,2589 516,2589 565,2589 615,2589 664,2589 713,2589 762,2589 812,2589 861,2590 910,2591 959,2591 1009,2591 1058,2591 1107,2590 1156,2589 1206,2589" />
+                <TextEquiv>
+                    <Unicode>muebles. El conde ve cómo van despareciendo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="218,2659 1211,2657 1211,2622 1111,2611 218,2611" />
+                <Baseline points="225,2646 273,2646 322,2645 371,2645 420,2643 469,2643 518,2643 567,2645 616,2645 665,2645 714,2646 762,2646 811,2646 860,2646 909,2648 958,2648 1007,2646 1056,2646 1105,2646 1154,2645 1203,2643" />
+                <TextEquiv>
+                    <Unicode>los objetos más queridos para él, y para despe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="217,2714 1219,2700 1191,2674 217,2665" />
+                <Baseline points="224,2700 273,2700 322,2699 372,2699 421,2699 471,2699 520,2699 569,2700 619,2700 668,2700 718,2700 767,2700 816,2700 866,2700 915,2700 965,2700 1014,2700 1063,2700 1113,2700 1162,2699 1212,2699" />
+                <TextEquiv>
+                    <Unicode>dirse del piano se sienta en él y entona una can¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="211,2771 1147,2771 1221,2763 1221,2730 211,2732" />
+                <Baseline points="218,2753 267,2754 317,2754 367,2756 417,2756 467,2756 516,2756 566,2756 616,2756 666,2756 716,2756 765,2756 815,2756 865,2756 915,2756 965,2756 1014,2756 1064,2756 1114,2756 1164,2756 1214,2756" />
+                <TextEquiv>
+                    <Unicode>ción que esconde todo su pesar y cuyo estribillo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="216,2826 852,2823 831,2787 739,2774 605,2774 580,2796 384,2776 216,2787" />
+                <Baseline points="224,2808 256,2808 289,2810 321,2810 354,2810 386,2810 419,2810 452,2810 484,2810 517,2810 549,2810 582,2810 614,2810 647,2810 680,2810 712,2810 745,2811 777,2811 810,2811 843,2811" />
+                <TextEquiv>
+                    <Unicode>corean los mozos de mudanza.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="253,2873 1219,2875 1219,2839 1097,2826 1006,2853 253,2836" />
+                <Baseline points="260,2865 307,2865 355,2865 402,2864 450,2864 498,2864 545,2864 593,2865 640,2865 688,2865 736,2865 783,2865 831,2866 878,2867 926,2867 974,2867 1021,2867 1069,2867 1116,2867 1164,2867 1212,2867" />
+                <TextEquiv>
+                    <Unicode>En este momento entra Susana, su mujer, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="212,2932 1220,2923 1189,2890 212,2883" />
+                <Baseline points="219,2922 268,2922 318,2921 367,2921 417,2921 467,2921 516,2921 566,2921 616,2922 665,2922 715,2922 765,2922 814,2922 864,2922 914,2922 963,2922 1013,2922 1063,2922 1112,2922 1162,2921 1212,2921" />
+                <TextEquiv>
+                    <Unicode>la que se ha separado amigablemente, para pe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="217,2986 1216,2980 1176,2939 1075,2964 217,2939" />
+                <Baseline points="225,2975 274,2975 323,2975 372,2975 421,2975 470,2975 519,2976 569,2976 618,2976 667,2976 716,2976 765,2976 814,2977 863,2978 913,2978 962,2978 1011,2978 1060,2978 1109,2978 1158,2979 1208,2979" />
+                <TextEquiv>
+                    <Unicode>dirle el divorcio, pues desea casarse con un in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="219,3051 1221,3044 1221,3007 1132,2994 901,2994 875,3021 821,2994 219,3004" />
+                <Baseline points="227,3033 276,3032 325,3032 375,3032 424,3032 473,3032 523,3032 572,3032 621,3032 671,3032 720,3032 769,3032 819,3032 868,3032 917,3032 967,3032 1016,3033 1065,3033 1115,3033 1164,3033 1214,3032" />
+                <TextEquiv>
+                    <Unicode>geniero llamado Robert Guilde. Muy amable se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="216,3100 1214,3093 1214,3061 1169,3052 270,3075 216,3051" />
+                <Baseline points="225,3086 274,3086 323,3086 372,3086 421,3086 470,3086 519,3087 568,3087 617,3087 666,3087 715,3087 764,3087 813,3087 862,3087 911,3087 960,3087 1009,3087 1058,3087 1107,3086 1156,3086 1206,3086" />
+                <TextEquiv>
+                    <Unicode>lo concede enseguida y la ve marcharse entu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="214,3155 1216,3148 1200,3115 214,3113" />
+                <Baseline points="221,3141 270,3142 319,3143 369,3143 418,3143 467,3143 517,3143 566,3143 615,3143 665,3143 714,3144 763,3144 813,3144 862,3144 911,3144 961,3144 1010,3144 1059,3143 1109,3143 1158,3143 1208,3141" />
+                <TextEquiv>
+                    <Unicode>siasmada y llena de alegría, mientras en su co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="219,3210 1040,3209 1040,3185 925,3163 219,3170" />
+                <Baseline points="227,3198 267,3198 307,3198 347,3198 387,3198 428,3198 468,3198 508,3198 548,3198 588,3198 629,3198 669,3198 709,3198 749,3199 789,3200 830,3200 870,3200 910,3200 950,3200 990,3200 1031,3201" />
+                <TextEquiv>
+                    <Unicode>razón se amontonan todas las hieles...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>muebles. El conde ve cómo van despareciendo
+los objetos más queridos para él, y para despe¬
+dirse del piano se sienta en él y entona una can¬
+ción que esconde todo su pesar y cuyo estribillo
+corean los mozos de mudanza.
+En este momento entra Susana, su mujer, de
+la que se ha separado amigablemente, para pe¬
+dirle el divorcio, pues desea casarse con un in¬
+geniero llamado Robert Guilde. Muy amable se
+lo concede enseguida y la ve marcharse entu¬
+siasmada y llena de alegría, mientras en su co¬
+razón se amontonan todas las hieles...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1265,662 2276,662 2276,1271 1265,1271" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1304,698 2269,708 2269,663 2225,660 1472,682 1304,659" />
+                <Baseline points="1313,695 1360,696 1407,698 1455,698 1502,698 1550,698 1597,699 1645,699 1692,699 1740,699 1787,699 1834,698 1882,698 1929,698 1977,698 2024,698 2072,698 2119,696 2167,696 2214,696 2262,696" />
+                <TextEquiv>
+                    <Unicode>Vestido de frac sale a la calle, en el preciso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1259,763 2269,757 2253,723 1999,715 1259,727" />
+                <Baseline points="1266,752 1315,752 1365,753 1415,753 1465,753 1515,753 1564,753 1614,753 1664,753 1714,753 1764,753 1813,753 1863,753 1913,753 1963,752 2013,752 2062,752 2112,752 2162,752 2212,752 2262,752" />
+                <TextEquiv>
+                    <Unicode>momento en que pasa un autobús de una empre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1270,819 2276,812 2255,779 2144,771 1270,780" />
+                <Baseline points="1278,810 1327,810 1377,810 1426,810 1476,810 1525,810 1575,810 1624,810 1674,810 1723,810 1773,810 1822,810 1872,810 1921,810 1971,810 2020,810 2070,809 2119,809 2169,809 2218,809 2268,809" />
+                <TextEquiv>
+                    <Unicode>sa cinematográfica, que va recogiendo a los ex¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1261,875 2273,868 2255,835 2087,827 1899,854 1261,832" />
+                <Baseline points="1268,863 1317,864 1367,864 1417,866 1467,866 1517,866 1566,866 1616,866 1666,866 1716,866 1766,866 1815,866 1865,866 1915,866 1965,864 2015,864 2064,864 2114,864 2164,864 2214,864 2264,864" />
+                <TextEquiv>
+                    <Unicode>tras. Cuando el regissuer ve a André, se pre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1267,932 2278,931 2246,882 1267,896" />
+                <Baseline points="1274,920 1323,920 1373,920 1423,920 1473,920 1523,921 1572,921 1622,921 1672,921 1722,921 1772,921 1821,921 1871,921 1921,921 1971,921 2021,921 2070,921 2120,921 2170,921 2220,921 2270,921" />
+                <TextEquiv>
+                    <Unicode>cipita sobre él y lo hace subir al auto casi a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1267,988 2128,995 2256,986 2269,945 1745,964 1448,939 1408,964 1266,941" />
+                <Baseline points="1274,977 1323,977 1372,977 1422,975 1471,975 1520,975 1570,975 1619,975 1668,975 1718,977 1767,977 1816,977 1866,977 1915,977 1964,977 2014,977 2063,977 2112,975 2162,975 2211,974 2261,974" />
+                <TextEquiv>
+                    <Unicode>fuerza. En el estudio de la Paramount, el di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1266,1042 2270,1037 2224,994 2152,1019 2077,994 1266,1005" />
+                <Baseline points="1274,1034 1323,1032 1372,1032 1422,1032 1471,1032 1520,1032 1570,1032 1619,1032 1668,1032 1718,1032 1767,1034 1816,1034 1866,1034 1915,1034 1964,1034 2014,1034 2063,1034 2112,1034 2162,1034 2211,1032 2261,1032" />
+                <TextEquiv>
+                    <Unicode>rector suspende la escena en la que iban á to¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1271,1098 2270,1098 2270,1059 2223,1051 1271,1059" />
+                <Baseline points="1278,1089 1327,1089 1376,1089 1425,1089 1474,1089 1524,1089 1573,1089 1622,1089 1671,1089 1720,1089 1770,1089 1819,1089 1868,1089 1917,1089 1966,1089 2016,1089 2065,1089 2114,1089 2163,1089 2212,1089 2262,1089" />
+                <TextEquiv>
+                    <Unicode>mar parte los extras, viéndose así André en otra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1266,1154 2281,1146 2281,1121 2207,1107 1266,1114" />
+                <Baseline points="1274,1143 1326,1143 1379,1143 1431,1143 1484,1145 1536,1145 1589,1145 1642,1145 1694,1145 1747,1145 1799,1145 1852,1145 1904,1145 1957,1145 2010,1145 2062,1145 2115,1143 2167,1143 2220,1143 2273,1142" />
+                <TextEquiv>
+                    <Unicode>aventura chusca: la de ser un invitado acciden¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1264,1211 1611,1208 1611,1191 1561,1162 1515,1175 1490,1162 1412,1180 1358,1162 1338,1172 1321,1162 1300,1172 1264,1164" />
+                <Baseline points="1272,1199 1297,1200 1323,1202 1348,1202 1374,1202 1399,1202 1425,1202 1450,1202 1476,1200 1501,1200 1527,1200 1552,1200 1578,1202 1604,1203" />
+                <TextEquiv>
+                    <Unicode>tal de una boda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1311,1270 2142,1276 2282,1266 2282,1217 1827,1241 1311,1220" />
+                <Baseline points="1319,1256 1366,1257 1414,1257 1462,1257 1510,1257 1557,1257 1605,1257 1653,1257 1701,1257 1748,1257 1796,1257 1844,1257 1892,1257 1939,1257 1987,1257 2035,1256 2083,1256 2130,1256 2178,1256 2226,1257 2274,1257" />
+                <TextEquiv>
+                    <Unicode>Cuando sale de la casa, el chofer de un taxi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vestido de frac sale a la calle, en el preciso
+momento en que pasa un autobús de una empre¬
+sa cinematográfica, que va recogiendo a los ex¬
+tras. Cuando el regissuer ve a André, se pre¬
+cipita sobre él y lo hace subir al auto casi a la
+fuerza. En el estudio de la Paramount, el di¬
+rector suspende la escena en la que iban á to¬
+mar parte los extras, viéndose asi André en otra
+aventura chusca: la de ser un invitado acciden¬
+tal de una boda.
+Cuando sale de la casa, el chofer de un taxi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1266,2557 2271,2557 2271,3213 1266,3213" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1269,2605 2266,2594 2266,2563 2138,2555 1269,2556" />
+                <Baseline points="1277,2589 1326,2589 1375,2589 1424,2591 1473,2591 1522,2591 1571,2591 1620,2591 1669,2591 1718,2592 1767,2592 1816,2592 1865,2592 1914,2592 1963,2592 2012,2592 2061,2591 2110,2591 2159,2590 2208,2589 2258,2588" />
+                <TextEquiv>
+                    <Unicode>le abre la portezuela del coche, sube a él y en¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1266,2660 2267,2648 2267,2615 2231,2607 2145,2633 1266,2611" />
+                <Baseline points="1274,2645 1323,2645 1372,2646 1421,2646 1471,2646 1520,2646 1569,2646 1618,2646 1668,2646 1717,2646 1766,2646 1815,2646 1865,2646 1914,2646 1963,2646 2012,2646 2062,2645 2111,2645 2160,2645 2209,2645 2259,2645" />
+                <TextEquiv>
+                    <Unicode>tonces recuerda que solo tiene cuarenta cénti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1264,2709 2243,2708 2263,2669 1264,2674" />
+                <Baseline points="1271,2700 1320,2700 1369,2700 1418,2700 1467,2700 1517,2700 1566,2700 1615,2700 1664,2700 1713,2700 1763,2700 1812,2702 1861,2702 1910,2702 1959,2702 2009,2702 2058,2702 2107,2700 2156,2700 2205,2699 2255,2699" />
+                <TextEquiv>
+                    <Unicode>mos en el bolsillo. En el trayecto se encuentra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1269,2767 2279,2759 2240,2718 2174,2743 2053,2718 1808,2745 1746,2718 1269,2731" />
+                <Baseline points="1277,2756 1326,2756 1376,2756 1426,2756 1475,2756 1525,2756 1575,2756 1624,2757 1674,2757 1724,2757 1774,2757 1823,2757 1873,2757 1923,2756 1972,2756 2022,2756 2072,2756 2121,2756 2171,2756 2221,2756 2271,2754" />
+                <TextEquiv>
+                    <Unicode>con su amigo D'Allouville, se apea del auto, sale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1263,2824 2263,2827 2275,2780 1263,2788" />
+                <Baseline points="1271,2811 1320,2811 1370,2811 1420,2811 1470,2811 1520,2811 1569,2811 1619,2810 1669,2810 1719,2810 1769,2810 1818,2810 1868,2810 1918,2810 1968,2810 2018,2810 2067,2810 2117,2810 2167,2810 2217,2810 2267,2810" />
+                <TextEquiv>
+                    <Unicode>a su encuentro y le pide que le invite a comer;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1265,2884 2199,2883 2263,2867 2263,2834 1265,2843" />
+                <Baseline points="1274,2867 1323,2865 1372,2865 1421,2865 1470,2864 1519,2864 1568,2864 1617,2864 1666,2864 1715,2865 1765,2865 1814,2865 1863,2865 1912,2865 1961,2865 2010,2865 2059,2865 2108,2864 2157,2864 2206,2864 2256,2862" />
+                <TextEquiv>
+                    <Unicode>pero desgraciadamente su amigo acaba de per¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1258,2929 2260,2932 2270,2891 1258,2902" />
+                <Baseline points="1265,2921 1314,2921 1364,2921 1414,2921 1464,2921 1514,2921 1563,2921 1613,2921 1663,2921 1713,2921 1763,2919 1812,2919 1862,2919 1912,2919 1962,2919 2012,2919 2061,2918 2111,2918 2161,2918 2211,2919 2261,2919" />
+                <TextEquiv>
+                    <Unicode>der en las carreras los únicos quinientos francos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1266,2994 2275,2976 2236,2938 1266,2947" />
+                <Baseline points="1274,2978 1323,2978 1373,2976 1422,2976 1472,2976 1522,2975 1571,2975 1621,2975 1671,2975 1720,2975 1770,2975 1820,2975 1869,2975 1919,2975 1969,2975 2018,2975 2068,2975 2118,2975 2167,2975 2217,2973 2267,2973" />
+                <TextEquiv>
+                    <Unicode>que tenía. Los dos están en ayunas y se dedi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1262,3043 2274,3035 2273,3007 2046,2994 1262,3002" />
+                <Baseline points="1269,3030 1318,3030 1368,3030 1418,3030 1468,3030 1518,3030 1567,3030 1617,3030 1667,3030 1717,3029 1767,3029 1816,3029 1866,3029 1916,3027 1966,3027 2016,3027 2065,3027 2115,3027 2165,3027 2215,3027 2265,3027" />
+                <TextEquiv>
+                    <Unicode>can en el restaurante Les Ambassadeurs a pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1271,3100 2080,3098 2057,3059 1271,3059" />
+                <Baseline points="1278,3086 1317,3086 1357,3087 1397,3087 1437,3087 1476,3087 1516,3087 1556,3087 1596,3086 1635,3086 1675,3086 1715,3084 1755,3084 1794,3084 1834,3083 1874,3083 1914,3083 1953,3083 1993,3083 2033,3084 2073,3084" />
+                <TextEquiv>
+                    <Unicode>sear resignadamente entre las mesas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1305,3154 2273,3147 2240,3100 1997,3123 1305,3107" />
+                <Baseline points="1313,3141 1360,3141 1408,3141 1455,3141 1503,3141 1551,3141 1598,3141 1646,3141 1693,3141 1741,3140 1789,3140 1836,3140 1884,3140 1931,3140 1979,3140 2027,3138 2074,3138 2122,3138 2169,3138 2217,3138 2265,3138" />
+                <TextEquiv>
+                    <Unicode>La escena que en este momento se desarrolla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1269,3212 2215,3213 2273,3203 2273,3170 1269,3171" />
+                <Baseline points="1277,3197 1326,3197 1375,3198 1425,3198 1474,3198 1524,3198 1573,3198 1622,3197 1672,3197 1721,3197 1771,3197 1820,3197 1869,3195 1919,3195 1968,3195 2018,3195 2067,3195 2116,3194 2166,3194 2215,3195 2265,3195" />
+                <TextEquiv>
+                    <Unicode>es verdaderamente regocijante por el ingenio que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>le abre la portezuela del coche, sube a él y en¬
+tonces recuerda que solo tiene cuarenta cénti¬
+mos en el bolsillo. En el trayecto se encuentra
+con su amigo D'Allouville, se apea del auto, sale
+a su encuentro y le pide que le invite a comer;
+pero desgraciadamente su amigo acaba de per¬
+der en las carreras los únicos quinientos francos
+que tenía. Los dos están en ayunas y se dedi¬
+can en el restaurante Les Ambassadeurs a pa¬
+sear resignadamente entre las mesas.
+La escena que en este momento se desarrolla
+es verdaderamente regocijante por el ingenio que</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="202,1312 2273,1312 2273,2499 202,2499" />
+        </GraphicRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1033,543 1452,543 1452,552 1033,552" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1890,1365 2154,1365 2154,1377 1890,1377" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1889,1380 2152,1380 2152,1395 1889,1395" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="250,1398 262,1398 262,1658 250,1658" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="251,1620 262,1620 262,1760 251,1760" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="267,1397 277,1397 277,2119 267,2119" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="282,1824 297,1824 297,2115 282,2115" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1757,1400 1770,1400 1770,1587 1757,1587" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="862,1383 885,1383 885,1384 862,1384" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="346,2405 366,2405 366,2409 346,2409" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1569,1436 1574,1436 1574,1518 1569,1518" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1660,1912 1663,1912 1663,1949 1660,1949" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="1953,1884 1959,1884 1959,1951 1953,1951" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

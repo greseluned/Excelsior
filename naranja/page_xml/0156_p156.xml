@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:09:53.516+02:00</Created>
+        <LastChange>2021-11-03T17:05:56.058+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781050" pageNr="156" tsid="236400040" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CSFZZCGXMCJPJNFCPMCIRGHQ" xmlUrl="https://files.transkribus.eu/Get?id=ZJSPCVBBYGKDRMHVWHIERTRK" imageId="17244110" />
+    </Metadata>
+    <Page imageFilename="0156_p156.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="206,265 2285,265 2285,3226 206,3226" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982451239" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="266,265 2229,265 2229,1054 266,1054" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="222,1079 2273,1079 2273,1172 222,1172" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="314,1126 411,1126 508,1126 605,1126 702,1126 800,1125 897,1125 994,1125 1091,1125 1188,1125 1286,1123 1383,1123 1480,1123 1577,1123 1674,1123 1772,1123 1869,1123 1966,1123 2063,1125 2160,1125 2258,1126 2258,1096 2160,1095 2063,1095 1966,1093 1869,1093 1772,1093 1674,1093 1577,1093 1480,1093 1383,1093 1286,1093 1188,1095 1091,1095 994,1095 897,1095 800,1095 702,1096 605,1096 508,1096 411,1096 314,1096" />
+                <Baseline points="314,1116 411,1116 508,1116 605,1116 702,1116 800,1115 897,1115 994,1115 1091,1115 1188,1115 1286,1113 1383,1113 1480,1113 1577,1113 1674,1113 1772,1113 1869,1113 1966,1113 2063,1115 2160,1115 2258,1116" />
+                <TextEquiv>
+                    <Unicode>Cona ofrecida en el “Tom’s Oriental Grill" por el representante Pedro Sabido, en honor a las Srtas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="230,1168 312,1168 395,1168 478,1168 561,1168 644,1168 727,1168 809,1168 892,1168 975,1168 1058,1168 1141,1167 1224,1167 1307,1167 1389,1167 1472,1167 1555,1167 1638,1167 1721,1167 1804,1167 1887,1167 1887,1137 1804,1137 1721,1137 1638,1137 1555,1137 1472,1137 1389,1137 1307,1137 1224,1137 1141,1137 1058,1138 975,1138 892,1138 809,1138 727,1138 644,1138 561,1138 478,1138 395,1138 312,1138 230,1138" />
+                <Baseline points="230,1158 312,1158 395,1158 478,1158 561,1158 644,1158 727,1158 809,1158 892,1158 975,1158 1058,1158 1141,1157 1224,1157 1307,1157 1389,1157 1472,1157 1555,1157 1638,1157 1721,1157 1804,1157 1887,1157" />
+                <TextEquiv>
+                    <Unicode>Nena y Emilia Alzua, que hace poco han legado a Manila procedentes de Albay.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cona ofrecida en el “Tom’s Oriental Grill" por el representante Pedro Sabido, en honor a las Srtas.
+Nena y Emilia Alzua, que hace poco han legado a Manila procedentes de Albay.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="206,1196 2285,1196 2285,1947 206,1947" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="223,1976 2271,1976 2271,2148 223,2148" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="306,2017 404,2017 502,2019 600,2019 699,2019 797,2019 895,2019 993,2019 1092,2019 1190,2019 1288,2019 1386,2019 1485,2019 1583,2019 1681,2019 1779,2019 1878,2019 1976,2019 2074,2019 2172,2019 2271,2019 2271,1989 2172,1989 2074,1989 1976,1989 1878,1989 1779,1989 1681,1989 1583,1989 1485,1989 1386,1989 1288,1989 1190,1989 1092,1989 993,1989 895,1989 797,1989 699,1989 600,1989 502,1989 404,1987 306,1987" />
+                <Baseline points="306,2007 404,2007 502,2009 600,2009 699,2009 797,2009 895,2009 993,2009 1092,2009 1190,2009 1288,2009 1386,2009 1485,2009 1583,2009 1681,2009 1779,2009 1878,2009 1976,2009 2074,2009 2172,2009 2271,2009" />
+                <TextEquiv>
+                    <Unicode>Banquete dado por el Presidente interino de la “National University” en honor al Decano del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="228,2058 330,2059 432,2059 534,2059 636,2059 738,2059 840,2059 942,2059 1044,2060 1146,2061 1248,2061 1350,2061 1452,2061 1554,2061 1656,2061 1758,2059 1860,2059 1962,2059 2064,2059 2166,2059 2268,2058 2268,2028 2166,2029 2064,2029 1962,2029 1860,2029 1758,2029 1656,2031 1554,2031 1452,2031 1350,2031 1248,2031 1146,2031 1044,2030 942,2029 840,2029 738,2029 636,2029 534,2029 432,2029 330,2029 228,2028" />
+                <Baseline points="228,2048 330,2049 432,2049 534,2049 636,2049 738,2049 840,2049 942,2049 1044,2050 1146,2051 1248,2051 1350,2051 1452,2051 1554,2051 1656,2051 1758,2049 1860,2049 1962,2049 2064,2049 2166,2049 2268,2048" />
+                <TextEquiv>
+                    <Unicode>Colegio de Educación de la Universidad de Filipinas, Sr. Francisco Benitez y del Superintendente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="224,2100 326,2101 428,2101 530,2101 632,2101 734,2101 836,2101 939,2101 1041,2101 1143,2101 1245,2101 1347,2101 1449,2101 1551,2101 1654,2101 1756,2101 1858,2101 1960,2101 2062,2101 2164,2101 2267,2101 2267,2071 2164,2071 2062,2071 1960,2071 1858,2071 1756,2071 1654,2071 1551,2071 1449,2071 1347,2071 1245,2071 1143,2071 1041,2071 939,2071 836,2071 734,2071 632,2071 530,2071 428,2071 326,2071 224,2070" />
+                <Baseline points="224,2090 326,2091 428,2091 530,2091 632,2091 734,2091 836,2091 939,2091 1041,2091 1143,2091 1245,2091 1347,2091 1449,2091 1551,2091 1654,2091 1756,2091 1858,2091 1960,2091 2062,2091 2164,2091 2267,2091" />
+                <TextEquiv>
+                    <Unicode>Auxiliar de Escuelas de Manila, Sr. Cayco, en el que estuvieron representados los colegios y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="234,2142 332,2142 431,2142 530,2142 629,2143 728,2143 826,2143 925,2143 1024,2143 1123,2143 1222,2143 1320,2143 1419,2143 1518,2143 1617,2143 1716,2143 1814,2143 1913,2143 2012,2142 2111,2142 2210,2142 2210,2112 2111,2112 2012,2112 1913,2113 1814,2113 1716,2113 1617,2113 1518,2113 1419,2113 1320,2113 1222,2113 1123,2113 1024,2113 925,2113 826,2113 728,2113 629,2113 530,2112 431,2112 332,2112 234,2112" />
+                <Baseline points="234,2132 332,2132 431,2132 530,2132 629,2133 728,2133 826,2133 925,2133 1024,2133 1123,2133 1222,2133 1320,2133 1419,2133 1518,2133 1617,2133 1716,2133 1814,2133 1913,2133 2012,2132 2111,2132 2210,2132" />
+                <TextEquiv>
+                    <Unicode>universidades más afamados de Manila por sus respectivos Profesores, Presidentes y Directoras.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Banquete dado por el Presidente interino de la “National University” en honor al Decano del
+Colegio de Educación de la Universidad de Filipinas, Sr. Francisco Benitez y del Superintendente
+Auxiliar de Escuelas de Manila, Sr. Cayco, en el que estuvieron representados los colegios y
+universidades más afamados de Manila por sus respectivos Profesores, Presidentes y Directoras.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="249,2170 2248,2170 2248,3054 249,3054" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="221,3058 2267,3058 2267,3226 221,3226" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="324,3100 420,3100 517,3100 614,3100 711,3100 808,3100 905,3100 1002,3100 1099,3100 1196,3100 1293,3100 1389,3100 1486,3100 1583,3100 1680,3100 1777,3100 1874,3100 1971,3100 2068,3100 2165,3100 2262,3099 2262,3069 2165,3070 2068,3070 1971,3070 1874,3070 1777,3070 1680,3070 1583,3070 1486,3070 1389,3070 1293,3070 1196,3070 1099,3070 1002,3070 905,3070 808,3070 711,3070 614,3070 517,3070 420,3070 324,3070" />
+                <Baseline points="324,3090 420,3090 517,3090 614,3090 711,3090 808,3090 905,3090 1002,3090 1099,3090 1196,3090 1293,3090 1389,3090 1486,3090 1583,3090 1680,3090 1777,3090 1874,3090 1971,3090 2068,3090 2165,3090 2262,3089" />
+                <TextEquiv>
+                    <Unicode>Animada y concurrida fiesta celebrada en la señorial mansión de los Sres. de Ramos (Dn. Ra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="221,3139 322,3139 424,3139 525,3141 627,3141 728,3141 830,3141 931,3141 1033,3141 1134,3141 1236,3141 1338,3141 1439,3141 1541,3141 1642,3141 1744,3141 1845,3141 1947,3141 2048,3141 2150,3141 2252,3139 2252,3109 2150,3111 2048,3111 1947,3111 1845,3111 1744,3111 1642,3111 1541,3111 1439,3111 1338,3111 1236,3111 1134,3111 1033,3111 931,3111 830,3111 728,3111 627,3111 525,3111 424,3109 322,3109 221,3109" />
+                <Baseline points="221,3129 322,3129 424,3129 525,3131 627,3131 728,3131 830,3131 931,3131 1033,3131 1134,3131 1236,3131 1338,3131 1439,3131 1541,3131 1642,3131 1744,3131 1845,3131 1947,3131 2048,3131 2150,3131 2252,3129" />
+                <TextEquiv>
+                    <Unicode>món), en Pansol, con motivo de la fiesta patronal del pueblo, a la que asistieron varias familias de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="227,3183 328,3181 429,3181 530,3180 632,3180 733,3180 834,3181 935,3181 1037,3181 1138,3181 1239,3181 1340,3183 1442,3183 1543,3183 1644,3183 1745,3183 1847,3183 1948,3183 2049,3181 2150,3181 2252,3180 2252,3150 2150,3151 2049,3151 1948,3153 1847,3153 1745,3153 1644,3153 1543,3153 1442,3153 1340,3153 1239,3151 1138,3151 1037,3151 935,3151 834,3151 733,3150 632,3150 530,3150 429,3151 328,3151 227,3153" />
+                <Baseline points="227,3173 328,3171 429,3171 530,3170 632,3170 733,3170 834,3171 935,3171 1037,3171 1138,3171 1239,3171 1340,3173 1442,3173 1543,3173 1644,3173 1745,3173 1847,3173 1948,3173 2049,3171 2150,3171 2252,3170" />
+                <TextEquiv>
+                    <Unicode>Manila, que fueron agasajadas con la probervial rumbosidad y esplendidez que derrochan en sus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="231,3220 257,3219 284,3217 311,3217 338,3217 365,3217 392,3217 418,3217 445,3217 472,3217 499,3218 526,3219 553,3219 580,3220 606,3220 633,3220 660,3221 687,3222 714,3222 741,3222 768,3222 768,3192 741,3192 714,3192 687,3192 660,3191 633,3190 606,3190 580,3190 553,3189 526,3189 499,3188 472,3187 445,3187 418,3187 392,3187 365,3187 338,3187 311,3187 284,3187 257,3189 231,3190" />
+                <Baseline points="231,3210 257,3209 284,3207 311,3207 338,3207 365,3207 392,3207 418,3207 445,3207 472,3207 499,3208 526,3209 553,3209 580,3210 606,3210 633,3210 660,3211 687,3212 714,3212 741,3212 768,3212" />
+                <TextEquiv>
+                    <Unicode>fiestes los Sres. de Ramos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Animada y concurrida fiesta celebrada en la señorial mansión de los Sres. de Ramos (Dn. Ra¬
+món), en Pansol, con motivo de la fiesta patronal del pueblo, a la que asistieron varias familias de
+Manila, que fueron agasajadas con la probervial rumbosidad y esplendidez que derrochan en sus
+fiestes los Sres. de Ramos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:6;}">
+            <Coords points="1574,1031 1749,1031 1749,1037 1574,1037" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:7;}">
+            <Coords points="713,2190 720,2190 720,2310 713,2310" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:8;}">
+            <Coords points="1202,2189 1211,2189 1211,2355 1202,2355" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:9;}">
+            <Coords points="1382,2189 1389,2189 1389,2296 1382,2296" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_14" custom="readingOrder {index:10;}">
+            <Coords points="1424,282 1600,282 1600,349 1424,349" />
+        </GraphicRegion>
+        <GraphicRegion id="r_15" custom="readingOrder {index:11;}">
+            <Coords points="1883,1215 2264,1215 2264,1440 1883,1440" />
+        </GraphicRegion>
+        <GraphicRegion id="r_16" custom="readingOrder {index:12;}">
+            <Coords points="249,2177 2242,2177 2242,3025 249,3025" />
+        </GraphicRegion>
+        <GraphicRegion id="r_17" custom="readingOrder {index:13;}">
+            <Coords points="211,1202 2278,1202 2278,1943 211,1943" />
+        </GraphicRegion>
+        <GraphicRegion id="r_18" custom="readingOrder {index:14;}">
+            <Coords points="270,269 2220,269 2220,1048 270,1048" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

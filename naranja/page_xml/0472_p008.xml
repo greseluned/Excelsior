@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Prosa filipina(htr_id=26930)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:45:38.539+02:00</Created>
+        <LastChange>2021-11-17T21:24:50.051+01:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781374" pageNr="472" tsid="236400461" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XGQUUZIWEYKUGAFOWHIYRZXU" xmlUrl="https://files.transkribus.eu/Get?id=WFDURVZNMPUJPKWUCCDWTDBZ" imageId="17244092" />
+    </Metadata>
+    <Page imageFilename="0472_p008.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982524569" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="98,1492 98,3380 1176,3380 1176,1492" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="144,1542 195,1541 246,1539 297,1539 349,1539 400,1538 451,1538 502,1539 554,1539 605,1539 656,1539 707,1539 759,1541 810,1541 861,1541 912,1541 964,1541 1015,1541 1066,1539 1117,1539 1169,1538 1169,1492 1117,1493 1066,1493 1015,1495 964,1495 912,1495 861,1495 810,1495 759,1495 707,1493 656,1493 605,1493 554,1493 502,1493 451,1492 400,1492 349,1493 297,1493 246,1493 195,1495 144,1496" />
+                <Baseline points="144,1527 195,1526 246,1524 297,1524 349,1524 400,1523 451,1523 502,1524 554,1524 605,1524 656,1524 707,1524 759,1526 810,1526 861,1526 912,1526 964,1526 1015,1526 1066,1524 1117,1524 1169,1523" />
+                <TextEquiv>
+                    <Unicode>La Srta. Pacita Borromeo, hija del Presidente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="98,1607 151,1607 204,1607 258,1607 311,1607 365,1607 418,1608 472,1608 525,1608 579,1608 632,1608 685,1608 739,1608 792,1608 846,1608 899,1607 953,1607 1006,1607 1060,1607 1113,1607 1167,1607 1167,1561 1113,1561 1060,1561 1006,1561 953,1561 899,1561 846,1562 792,1562 739,1562 685,1562 632,1562 579,1562 525,1562 472,1562 418,1562 365,1561 311,1561 258,1561 204,1561 151,1561 98,1561" />
+                <Baseline points="98,1592 151,1592 204,1592 258,1592 311,1592 365,1592 418,1593 472,1593 525,1593 579,1593 632,1593 685,1593 739,1593 792,1593 846,1593 899,1592 953,1592 1006,1592 1060,1592 1113,1592 1167,1592" />
+                <TextEquiv>
+                    <Unicode>del Banco de Las Islas Filipinas, D. Fulgencio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="111,1673 163,1673 216,1674 268,1674 321,1674 374,1674 426,1674 479,1674 532,1674 584,1674 637,1674 690,1674 742,1674 795,1674 848,1674 900,1674 953,1674 1006,1674 1058,1674 1111,1674 1164,1674 1164,1628 1111,1628 1058,1628 1006,1628 953,1628 900,1628 848,1628 795,1628 742,1628 690,1628 637,1628 584,1628 532,1628 479,1628 426,1628 374,1628 321,1628 268,1628 216,1628 163,1627 111,1627" />
+                <Baseline points="111,1658 163,1658 216,1659 268,1659 321,1659 374,1659 426,1659 479,1659 532,1659 584,1659 637,1659 690,1659 742,1659 795,1659 848,1659 900,1659 953,1659 1006,1659 1058,1659 1111,1659 1164,1659" />
+                <TextEquiv>
+                    <Unicode>Borromeo, ante la mesa decorada para el «party»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="107,1743 160,1743 213,1743 266,1742 319,1742 372,1742 425,1742 478,1742 531,1741 584,1740 638,1740 691,1740 744,1740 797,1740 850,1740 903,1742 956,1742 1009,1742 1062,1742 1115,1743 1169,1743 1169,1697 1115,1697 1062,1696 1009,1696 956,1696 903,1696 850,1694 797,1694 744,1694 691,1694 638,1694 584,1694 531,1695 478,1696 425,1696 372,1696 319,1696 266,1696 213,1697 160,1697 107,1697" />
+                <Baseline points="107,1728 160,1728 213,1728 266,1727 319,1727 372,1727 425,1727 478,1727 531,1726 584,1725 638,1725 691,1725 744,1725 797,1725 850,1725 903,1727 956,1727 1009,1727 1062,1727 1115,1728 1169,1728" />
+                <TextEquiv>
+                    <Unicode>con que agasajó a sus amistades con motivo de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="111,1808 140,1809 169,1809 198,1808 227,1808 256,1809 285,1811 285,1765 256,1763 227,1762 198,1762 169,1763 140,1763 111,1762" />
+                <Baseline points="111,1793 140,1794 169,1794 198,1793 227,1793 256,1794 285,1796" />
+                <TextEquiv>
+                    <Unicode>sus diás.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="156,1895 207,1895 258,1895 309,1895 360,1895 411,1895 462,1895 513,1895 564,1895 615,1895 666,1895 717,1895 768,1895 819,1895 870,1895 921,1895 972,1895 1023,1895 1074,1895 1125,1895 1176,1895 1176,1852 1125,1852 1074,1852 1023,1852 972,1852 921,1852 870,1852 819,1852 768,1852 717,1852 666,1852 615,1852 564,1852 513,1852 462,1852 411,1852 360,1852 309,1852 258,1852 207,1852 156,1852" />
+                <Baseline points="156,1881 207,1881 258,1881 309,1881 360,1881 411,1881 462,1881 513,1881 564,1881 615,1881 666,1881 717,1881 768,1881 819,1881 870,1881 921,1881 972,1881 1023,1881 1074,1881 1125,1881 1176,1881" />
+                <TextEquiv>
+                    <Unicode>Animado grupo de las bellas señoritas que asis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="114,1963 157,1963 201,1964 244,1964 288,1964 331,1964 375,1964 418,1964 462,1963 505,1963 549,1963 592,1963 636,1963 679,1961 723,1961 766,1961 810,1961 853,1961 897,1961 940,1961 984,1961 984,1918 940,1918 897,1918 853,1918 810,1918 766,1918 723,1918 679,1918 636,1920 592,1920 549,1920 505,1920 462,1920 418,1921 375,1921 331,1921 288,1921 244,1921 201,1921 157,1920 114,1920" />
+                <Baseline points="114,1949 157,1949 201,1950 244,1950 288,1950 331,1950 375,1950 418,1950 462,1949 505,1949 549,1949 592,1949 636,1949 679,1947 723,1947 766,1947 810,1947 853,1947 897,1947 940,1947 984,1947" />
+                <TextEquiv>
+                    <Unicode>tieron al «party» de la Srta. Borromeo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="888,2022 915,2022 942,2022 969,2022 996,2022 1023,2022 1050,2022 1077,2022 1104,2022 1131,2022 1158,2022 1158,1977 1131,1977 1104,1977 1077,1977 1050,1977 1023,1977 996,1977 969,1977 942,1977 915,1977 888,1977" />
+                <Baseline points="888,2007 915,2007 942,2007 969,2007 996,2007 1023,2007 1050,2007 1077,2007 1104,2007 1131,2007 1158,2007" />
+                <TextEquiv>
+                    <Unicode>Fotos —NIEVERA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La Srta. Pacita Borromeo, hija del Presidente
+del Banco de Las Islas Filipinas, D. Fulgencio
+Borromeo, ante la mesa decorada para el «party»
+con que agasajó a sus amistades con motivo de
+sus diás.
+Animado grupo de las bellas señoritas que asis¬
+tieron al «party» de la Srta. Borromeo.
+Fotos —NIEVERA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1236,3014 1236,3259 2358,3259 2358,3014" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1284,3062 1337,3060 1391,3060 1444,3060 1498,3060 1551,3060 1605,3060 1658,3059 1712,3059 1765,3059 1819,3059 1873,3059 1926,3059 1980,3059 2033,3060 2087,3060 2140,3060 2194,3060 2247,3062 2301,3062 2355,3063 2355,3018 2301,3017 2247,3017 2194,3015 2140,3015 2087,3015 2033,3015 1980,3014 1926,3014 1873,3014 1819,3014 1765,3014 1712,3014 1658,3014 1605,3015 1551,3015 1498,3015 1444,3015 1391,3015 1337,3015 1284,3017" />
+                <Baseline points="1284,3047 1337,3045 1391,3045 1444,3045 1498,3045 1551,3045 1605,3045 1658,3044 1712,3044 1765,3044 1819,3044 1873,3044 1926,3044 1980,3044 2033,3045 2087,3045 2140,3045 2194,3045 2247,3047 2301,3047 2355,3048" />
+                <TextEquiv>
+                    <Unicode>El «party» infantil con que Amparito Pereyra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1236,3131 1292,3129 1348,3129 1404,3129 1460,3129 1516,3128 1572,3128 1628,3128 1684,3128 1740,3129 1797,3129 1853,3129 1909,3129 1965,3129 2021,3129 2077,3131 2133,3131 2189,3131 2245,3131 2301,3131 2358,3131 2358,3086 2301,3086 2245,3086 2189,3086 2133,3086 2077,3086 2021,3084 1965,3084 1909,3084 1853,3084 1797,3084 1740,3084 1684,3083 1628,3083 1572,3083 1516,3083 1460,3084 1404,3084 1348,3084 1292,3084 1236,3086" />
+                <Baseline points="1236,3116 1292,3114 1348,3114 1404,3114 1460,3114 1516,3113 1572,3113 1628,3113 1684,3113 1740,3114 1797,3114 1853,3114 1909,3114 1965,3114 2021,3114 2077,3116 2133,3116 2189,3116 2245,3116 2301,3116 2358,3116" />
+                <TextEquiv>
+                    <Unicode>celebró su cumpleaños y en el que sus amiguitos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1241,3196 1296,3196 1352,3194 1407,3194 1463,3194 1518,3194 1574,3194 1629,3194 1685,3194 1740,3194 1796,3194 1851,3194 1907,3194 1962,3194 2018,3196 2073,3196 2129,3196 2184,3196 2240,3197 2295,3197 2351,3197 2351,3155 2295,3155 2240,3155 2184,3154 2129,3154 2073,3154 2018,3154 1962,3152 1907,3152 1851,3152 1796,3152 1740,3152 1685,3152 1629,3152 1574,3152 1518,3152 1463,3152 1407,3152 1352,3152 1296,3154 1241,3154" />
+                <Baseline points="1241,3182 1296,3182 1352,3180 1407,3180 1463,3180 1518,3180 1574,3180 1629,3180 1685,3180 1740,3180 1796,3180 1851,3180 1907,3180 1962,3180 2018,3182 2073,3182 2129,3182 2184,3182 2240,3183 2295,3183 2351,3183" />
+                <TextEquiv>
+                    <Unicode>pasaron una espléndida tarde entre juegos y risas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1935,3251 1960,3251 1986,3253 2012,3253 2038,3253 2064,3253 2090,3253 2116,3254 2142,3254 2167,3254 2193,3254 2219,3254 2245,3254 2271,3255 2297,3256 2323,3257 2349,3259 2349,3217 2323,3215 2297,3214 2271,3213 2245,3212 2219,3212 2193,3212 2167,3212 2142,3212 2116,3212 2090,3211 2064,3211 2038,3211 2012,3211 1986,3211 1960,3209 1935,3209" />
+                <Baseline points="1935,3237 1960,3237 1986,3239 2012,3239 2038,3239 2064,3239 2090,3239 2116,3240 2142,3240 2167,3240 2193,3240 2219,3240 2245,3240 2271,3241 2297,3242 2323,3243 2349,3245" />
+                <TextEquiv>
+                    <Unicode>Foto “Excelsior" (Ovejas)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>El «party» infantil con que Amparito Pereyra,
+celebró su cumpleaños y en el que sus amiguitos
+pasaron una espléndida tarde entre juegos y risas.
+Foto “Excelsior" (Ovejas)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

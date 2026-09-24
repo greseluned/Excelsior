@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:13.596+02:00</Created>
+        <LastChange>2021-10-29T19:37:49.906+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781460" pageNr="576" tsid="236400604" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BDPEBSAWRTQZFUIUENDATUCQ" xmlUrl="https://files.transkribus.eu/Get?id=XXNDXZIQGNEUIAQKSIXTLSGD" imageId="17244665" />
+    </Metadata>
+    <Page imageFilename="0576_p112.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982549080" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="230,885 230,3247 2250,3247 2250,885" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="857,921 882,924 908,924 934,924 960,923 986,924 986,888 960,887 934,888 908,888 882,888 857,885" />
+                <Baseline points="857,909 882,912 908,912 934,912 960,911 986,912" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1400,2097 1425,2100 1451,2102 1476,2105 1502,2106 1527,2107 1553,2108 1578,2109 1604,2111 1629,2112 1655,2112 1680,2115 1706,2115 1731,2118 1757,2121 1782,2124 1808,2127 1833,2132 1859,2138 1884,2143 1910,2150 1910,2114 1884,2107 1859,2102 1833,2096 1808,2091 1782,2088 1757,2085 1731,2082 1706,2079 1680,2079 1655,2076 1629,2076 1604,2075 1578,2073 1553,2072 1527,2071 1502,2070 1476,2069 1451,2066 1425,2064 1400,2061" />
+                <Baseline points="1400,2085 1425,2088 1451,2090 1476,2093 1502,2094 1527,2095 1553,2096 1578,2097 1604,2099 1629,2100 1655,2100 1680,2103 1706,2103 1731,2106 1757,2109 1782,2112 1808,2115 1833,2120 1859,2126 1884,2131 1910,2138" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1713,2892 1743,2892 1743,2856 1713,2856" />
+                <Baseline points="1713,2880 1743,2880" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1280,2907 1308,2904 1336,2903 1364,2903 1393,2903 1421,2903 1449,2904 1478,2907 1478,2871 1449,2868 1421,2867 1393,2867 1364,2867 1336,2867 1308,2868 1280,2871" />
+                <Baseline points="1280,2895 1308,2892 1336,2891 1364,2891 1393,2891 1421,2891 1449,2892 1478,2895" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="992,2904 1024,2906 1056,2906 1088,2907 1088,2871 1056,2870 1024,2870 992,2868" />
+                <Baseline points="992,2892 1024,2894 1056,2894 1088,2895" />
+                <TextEquiv>
+                    <Unicode>HRIAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="369,2956 399,2956 399,2926 369,2926" />
+                <Baseline points="369,2946 399,2946" />
+                <TextEquiv>
+                    <Unicode>De</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="465,2958 495,2958 495,2922 465,2922" />
+                <Baseline points="465,2946 495,2946" />
+                <TextEquiv>
+                    <Unicode>la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="516,2956 602,2958 689,2958 776,2959 862,2959 949,2959 1036,2959 1122,2959 1209,2959 1296,2959 1383,2959 1469,2958 1556,2958 1643,2958 1729,2958 1816,2958 1903,2956 1989,2956 2076,2956 2163,2956 2250,2955 2250,2925 2163,2926 2076,2926 1989,2926 1903,2926 1816,2928 1729,2928 1643,2928 1556,2928 1469,2928 1383,2929 1296,2929 1209,2929 1122,2929 1036,2929 949,2929 862,2929 776,2929 689,2928 602,2928 516,2926" />
+                <Baseline points="516,2946 602,2948 689,2948 776,2949 862,2949 949,2949 1036,2949 1122,2949 1209,2949 1296,2949 1383,2949 1469,2948 1556,2948 1643,2948 1729,2948 1816,2948 1903,2946 1989,2946 2076,2946 2163,2946 2250,2945" />
+                <TextEquiv>
+                    <Unicode>espléndida fiesta, que con motivo de su cumpleaños, y en honor a las fa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="230,2995 258,2997 286,2998 314,2998 342,2997 370,2997 398,2998 398,2968 370,2967 342,2967 314,2968 286,2968 258,2967 230,2965" />
+                <Baseline points="230,2985 258,2987 286,2988 314,2988 342,2987 370,2987 398,2988" />
+                <TextEquiv>
+                    <Unicode>milias de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="441,2998 531,3000 621,3000 711,3000 801,3000 891,3000 981,2998 1072,2998 1162,2998 1252,2998 1342,2998 1432,2998 1522,2998 1612,2998 1703,2998 1793,2997 1883,2997 1973,2997 2063,2997 2153,2997 2244,2997 2244,2967 2153,2967 2063,2967 1973,2967 1883,2967 1793,2967 1703,2968 1612,2968 1522,2968 1432,2968 1342,2968 1252,2968 1162,2968 1072,2968 981,2968 891,2970 801,2970 711,2970 621,2970 531,2970 441,2968" />
+                <Baseline points="441,2988 531,2990 621,2990 711,2990 801,2990 891,2990 981,2988 1072,2988 1162,2988 1252,2988 1342,2988 1432,2988 1522,2988 1612,2988 1703,2988 1793,2987 1883,2987 1973,2987 2063,2987 2153,2987 2244,2987" />
+                <TextEquiv>
+                    <Unicode>Valdez y Legarda, dió en su palacial residencia de la calle Santol, Da. María Soterranea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="242,3039 342,3039 442,3039 543,3040 643,3040 743,3040 844,3040 944,3040 1044,3040 1145,3040 1245,3040 1345,3040 1446,3040 1546,3040 1646,3040 1747,3039 1847,3039 1947,3039 2048,3037 2148,3037 2249,3036 2249,3006 2148,3007 2048,3007 1947,3009 1847,3009 1747,3009 1646,3010 1546,3010 1446,3010 1345,3010 1245,3010 1145,3010 1044,3010 944,3010 844,3010 743,3010 643,3010 543,3010 442,3009 342,3009 242,3009" />
+                <Baseline points="242,3029 342,3029 442,3029 543,3030 643,3030 743,3030 844,3030 944,3030 1044,3030 1145,3030 1245,3030 1345,3030 1446,3030 1546,3030 1646,3030 1747,3029 1847,3029 1947,3029 2048,3027 2148,3027 2249,3026" />
+                <TextEquiv>
+                    <Unicode>Tuason. Fotografías superiores—Los huéspedes de honor con la anfitriona. La tarima instalada en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="234,3079 334,3079 434,3081 535,3081 635,3081 735,3081 836,3081 936,3082 1036,3082 1137,3082 1237,3082 1337,3082 1438,3082 1538,3081 1638,3081 1739,3081 1839,3079 1939,3079 2040,3078 2140,3078 2241,3076 2241,3046 2140,3048 2040,3048 1939,3049 1839,3049 1739,3051 1638,3051 1538,3051 1438,3052 1337,3052 1237,3052 1137,3052 1036,3052 936,3052 836,3051 735,3051 635,3051 535,3051 434,3051 334,3049 234,3049" />
+                <Baseline points="234,3069 334,3069 434,3071 535,3071 635,3071 735,3071 836,3071 936,3072 1036,3072 1137,3072 1237,3072 1337,3072 1438,3072 1538,3071 1638,3071 1739,3071 1839,3069 1939,3069 2040,3068 2140,3068 2241,3066" />
+                <TextEquiv>
+                    <Unicode>los amplios jardines, artísticamente adornada donde se bailó al aire libre. Fotografías inferiores—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="236,3120 336,3121 437,3121 537,3123 638,3123 738,3123 839,3123 939,3123 1040,3123 1140,3123 1241,3123 1342,3123 1442,3123 1543,3123 1643,3123 1744,3121 1844,3121 1945,3121 2045,3120 2146,3120 2247,3118 2247,3088 2146,3090 2045,3090 1945,3091 1844,3091 1744,3091 1643,3093 1543,3093 1442,3093 1342,3093 1241,3093 1140,3093 1040,3093 939,3093 839,3093 738,3093 638,3093 537,3093 437,3091 336,3091 236,3090" />
+                <Baseline points="236,3110 336,3111 437,3111 537,3113 638,3113 738,3113 839,3113 939,3113 1040,3113 1140,3113 1241,3113 1342,3113 1442,3113 1543,3113 1643,3113 1744,3111 1844,3111 1945,3111 2045,3110 2146,3110 2247,3108" />
+                <TextEquiv>
+                    <Unicode>La mesa presidencial instalada también en los jardines, en la que se sentaron los huéspedes de ho¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="239,3162 339,3162 439,3163 539,3163 639,3163 740,3165 840,3165 940,3165 1040,3165 1140,3165 1241,3165 1341,3165 1441,3163 1541,3163 1641,3163 1742,3163 1842,3163 1942,3163 2042,3163 2142,3163 2243,3163 2243,3133 2142,3133 2042,3133 1942,3133 1842,3133 1742,3133 1641,3133 1541,3133 1441,3133 1341,3135 1241,3135 1140,3135 1040,3135 940,3135 840,3135 740,3135 639,3133 539,3133 439,3133 339,3132 239,3132" />
+                <Baseline points="239,3152 339,3152 439,3153 539,3153 639,3153 740,3155 840,3155 940,3155 1040,3155 1140,3155 1241,3155 1341,3155 1441,3153 1541,3153 1641,3153 1742,3153 1842,3153 1942,3153 2042,3153 2142,3153 2243,3153" />
+                <TextEquiv>
+                    <Unicode>nor con la anfitriona y distinguidas personalidades entre las que figuraban el Presidente del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="1908,3205 1933,3205 1958,3205 1983,3205 2008,3205 2033,3205 2058,3205 2083,3205 2108,3205 2133,3205 2158,3205 2183,3204 2208,3202 2234,3201 2234,3171 2208,3172 2183,3174 2158,3175 2133,3175 2108,3175 2083,3175 2058,3175 2033,3175 2008,3175 1983,3175 1958,3175 1933,3175 1908,3175" />
+                <Baseline points="1908,3195 1933,3195 1958,3195 1983,3195 2008,3195 2033,3195 2058,3195 2083,3195 2108,3195 2133,3195 2158,3195 2183,3194 2208,3192 2234,3191" />
+                <TextEquiv>
+                    <Unicode>y Sra. y otros.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="236,3204 318,3204 400,3205 482,3205 564,3205 646,3205 728,3205 810,3205 892,3207 974,3207 1057,3207 1139,3207 1221,3207 1303,3207 1385,3207 1467,3207 1549,3205 1631,3205 1713,3205 1795,3205 1878,3204 1878,3174 1795,3175 1713,3175 1631,3175 1549,3175 1467,3177 1385,3177 1303,3177 1221,3177 1139,3177 1057,3177 974,3177 892,3177 810,3175 728,3175 646,3175 564,3175 482,3175 400,3175 318,3174 236,3174" />
+                <Baseline points="236,3194 318,3194 400,3195 482,3195 564,3195 646,3195 728,3195 810,3195 892,3197 974,3197 1057,3197 1139,3197 1221,3197 1303,3197 1385,3197 1467,3197 1549,3195 1631,3195 1713,3195 1795,3195 1878,3194" />
+                <TextEquiv>
+                    <Unicode>Senado, D. Sergio Osmeña y Sra. y el Alcalde de Manila D. Tomás Earnshaw</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="1899,3238 1924,3237 1949,3237 1974,3237 1999,3237 2024,3237 2049,3237 2074,3237 2099,3237 2124,3237 2149,3237 2174,3237 2199,3237 2224,3237 2249,3237 2249,3207 2224,3207 2199,3207 2174,3207 2149,3207 2124,3207 2099,3207 2074,3207 2049,3207 2024,3207 1999,3207 1974,3207 1949,3207 1924,3207 1899,3208" />
+                <Baseline points="1899,3228 1924,3227 1949,3227 1974,3227 1999,3227 2024,3227 2049,3227 2074,3227 2099,3227 2124,3227 2149,3227 2174,3227 2199,3227 2224,3227 2249,3227" />
+                <TextEquiv>
+                    <Unicode>Fotos—IDEAL STUDIO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="245,3246 312,3247 379,3247 446,3247 513,3247 581,3247 648,3247 715,3247 782,3247 849,3247 917,3247 984,3247 1051,3247 1118,3247 1185,3247 1253,3247 1320,3247 1387,3247 1454,3247 1521,3247 1589,3247 1589,3217 1521,3217 1454,3217 1387,3217 1320,3217 1253,3217 1185,3217 1118,3217 1051,3217 984,3217 917,3217 849,3217 782,3217 715,3217 648,3217 581,3217 513,3217 446,3217 379,3217 312,3217 245,3216" />
+                <Baseline points="245,3236 312,3237 379,3237 446,3237 513,3237 581,3237 648,3237 715,3237 782,3237 849,3237 917,3237 984,3237 1051,3237 1118,3237 1185,3237 1253,3237 1320,3237 1387,3237 1454,3237 1521,3237 1589,3237" />
+                <TextEquiv>
+                    <Unicode>Vista general de todo el comedor, ricamente decerado e iluminado.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+
+HRIAS
+De
+la
+espléndida fiesta, que con motivo de su cumpleaños, y en honor a las fa¬
+milias de
+Valdez y Legarda, dió en su palacial residencia de la calle Santol, Da. María Soterranea
+Tuason. Fotografías superiores—Los huéspedes de honor con la anfitriona. La tarima instalada en
+los amplios jardines, artísticamente adornada donde se bailó al aire libre. Fotografías inferiores—
+La mesa presidencial instalada también en los jardines, en la que se sentaron los huéspedes de ho¬
+nor con la anfitriona y distinguidas personalidades entre las que figuraban el Presidente del
+y Sra. y otros.
+Senado, D. Sergio Osmeña y Sra. y el Alcalde de Manila D. Tomás Earnshaw
+Fotos—IDEAL STUDIO.
+Vista general de todo el comedor, ricamente decerado e iluminado.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

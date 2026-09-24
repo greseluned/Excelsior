@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:29.892+02:00</Created>
+        <LastChange>2021-10-29T19:55:13.983+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781505" pageNr="625" tsid="236400666" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GAXURJDXFYRMMRCUNUDROEXW" xmlUrl="https://files.transkribus.eu/Get?id=ILBGSHOTWRJONPHLSBAEVAGT" imageId="17244926" />
+    </Metadata>
+    <Page imageFilename="0625_p161.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982561234" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1203,1022 1203,1515 1577,1515 1577,1022" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1203,1113 1229,1113 1255,1113 1281,1113 1308,1113 1334,1113 1360,1113 1387,1113 1413,1113 1439,1112 1465,1112 1492,1112 1518,1113 1544,1113 1571,1113 1571,1023 1544,1023 1518,1023 1492,1022 1465,1022 1439,1022 1413,1023 1387,1023 1360,1023 1334,1023 1308,1023 1281,1023 1255,1023 1229,1023 1203,1023" />
+                <Baseline points="1203,1083 1229,1083 1255,1083 1281,1083 1308,1083 1334,1083 1360,1083 1387,1083 1413,1083 1439,1082 1465,1082 1492,1082 1518,1083 1544,1083 1571,1083" />
+                <TextEquiv>
+                    <Unicode>Los mejores cliches</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1208,1259 1234,1259 1260,1259 1287,1259 1313,1259 1339,1259 1366,1259 1392,1259 1418,1259 1445,1259 1471,1259 1497,1259 1524,1259 1550,1259 1577,1258 1577,1197 1550,1198 1524,1198 1497,1198 1471,1198 1445,1198 1418,1198 1392,1198 1366,1198 1339,1198 1313,1198 1287,1198 1260,1198 1234,1198 1208,1198" />
+                <Baseline points="1208,1239 1234,1239 1260,1239 1287,1239 1313,1239 1339,1239 1366,1239 1392,1239 1418,1239 1445,1239 1471,1239 1497,1239 1524,1239 1550,1239 1577,1238" />
+                <TextEquiv>
+                    <Unicode>FOTOGRABADO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1239,1346 1264,1346 1289,1345 1314,1344 1339,1343 1364,1343 1389,1343 1414,1343 1439,1343 1464,1343 1489,1343 1514,1343 1539,1343 1565,1343 1565,1282 1539,1282 1514,1282 1489,1282 1464,1282 1439,1282 1414,1282 1389,1282 1364,1282 1339,1282 1314,1283 1289,1284 1264,1285 1239,1285" />
+                <Baseline points="1239,1326 1264,1326 1289,1325 1314,1324 1339,1323 1364,1323 1389,1323 1414,1323 1439,1323 1464,1323 1489,1323 1514,1323 1539,1323 1565,1323" />
+                <TextEquiv>
+                    <Unicode>ZINCOGRAFIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1277,1514 1303,1515 1329,1515 1356,1514 1382,1514 1409,1512 1435,1512 1462,1511 1488,1511 1515,1512 1515,1422 1488,1421 1462,1421 1435,1422 1409,1422 1382,1424 1356,1424 1329,1425 1303,1425 1277,1424" />
+                <Baseline points="1277,1484 1303,1485 1329,1485 1356,1484 1382,1484 1409,1482 1435,1482 1462,1481 1488,1481 1515,1482" />
+                <TextEquiv>
+                    <Unicode>TRICOMIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Los mejores cliches
+FOTOGRABADO
+ZINCOGRAFIA
+TRICOMIA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:22:20.415+02:00</Created>
+        <LastChange>2021-11-03T18:41:14.781+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781257" pageNr="384" tsid="236400340" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=VKSVNDBTAVSZJAGVSDKVMQRJ" xmlUrl="https://files.transkribus.eu/Get?id=LUXQSWTWATPIYBONGVHLNBHE" imageId="17245471" />
+    </Metadata>
+    <Page imageFilename="0384_p384.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="860,551 2079,551 2079,2350 860,2350" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982503802" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="860,551 2079,551 2079,2350 860,2350" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1162,1465 1866,1465 1866,1778 1162,1778" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1257,1530 1286,1532 1315,1533 1345,1535 1374,1536 1404,1537 1433,1538 1462,1538 1492,1539 1521,1539 1551,1539 1580,1539 1609,1539 1639,1539 1668,1539 1698,1538 1727,1538 1756,1538 1786,1538 1815,1536 1845,1536 1845,1499 1815,1499 1786,1501 1756,1501 1727,1501 1698,1501 1668,1502 1639,1502 1609,1502 1580,1502 1551,1502 1521,1502 1492,1502 1462,1501 1433,1501 1404,1500 1374,1499 1345,1498 1315,1496 1286,1495 1257,1493" />
+                <Baseline points="1257,1518 1286,1520 1315,1521 1345,1523 1374,1524 1404,1525 1433,1526 1462,1526 1492,1527 1521,1527 1551,1527 1580,1527 1609,1527 1639,1527 1668,1527 1698,1526 1727,1526 1756,1526 1786,1526 1815,1524 1845,1524" />
+                <TextEquiv>
+                    <Unicode>Yactual survey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1164,1598 1198,1599 1233,1599 1267,1601 1302,1601 1336,1602 1371,1604 1405,1605 1440,1607 1474,1608 1509,1610 1543,1611 1578,1613 1612,1614 1647,1614 1681,1616 1716,1616 1750,1616 1785,1616 1819,1614 1854,1613 1854,1576 1819,1577 1785,1579 1750,1579 1716,1579 1681,1579 1647,1577 1612,1577 1578,1576 1543,1574 1509,1573 1474,1571 1440,1570 1405,1568 1371,1567 1336,1565 1302,1564 1267,1564 1233,1562 1198,1562 1164,1561" />
+                <Baseline points="1164,1586 1198,1587 1233,1587 1267,1589 1302,1589 1336,1590 1371,1592 1405,1593 1440,1595 1474,1596 1509,1598 1543,1599 1578,1601 1612,1602 1647,1602 1681,1604 1716,1604 1750,1604 1785,1604 1819,1602 1854,1601" />
+                <TextEquiv>
+                    <Unicode>MEXCELSIOR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1178,1664 1211,1663 1245,1661 1279,1660 1313,1660 1347,1660 1381,1661 1415,1661 1449,1663 1483,1664 1517,1666 1550,1667 1584,1669 1618,1670 1652,1670 1686,1672 1720,1672 1754,1672 1788,1671 1822,1670 1856,1667 1856,1634 1822,1637 1788,1638 1754,1639 1720,1639 1686,1639 1652,1637 1618,1637 1584,1636 1550,1634 1517,1633 1483,1631 1449,1630 1415,1628 1381,1628 1347,1627 1313,1627 1279,1627 1245,1628 1211,1630 1178,1631" />
+                <Baseline points="1178,1653 1211,1652 1245,1650 1279,1649 1313,1649 1347,1649 1381,1650 1415,1650 1449,1652 1483,1653 1517,1655 1550,1656 1584,1658 1618,1659 1652,1659 1686,1661 1720,1661 1754,1661 1788,1660 1822,1659 1856,1656" />
+                <TextEquiv>
+                    <Unicode>ubscribers have mig᷉hest per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1166,1706 1199,1706 1232,1706 1265,1706 1298,1706 1331,1707 1364,1708 1398,1709 1431,1711 1464,1712 1497,1714 1530,1715 1563,1716 1596,1717 1630,1718 1663,1718 1696,1718 1729,1718 1762,1718 1795,1717 1829,1715 1829,1682 1795,1684 1762,1685 1729,1685 1696,1685 1663,1685 1630,1685 1596,1684 1563,1683 1530,1682 1497,1681 1464,1679 1431,1678 1398,1676 1364,1675 1331,1674 1298,1673 1265,1673 1232,1673 1199,1673 1166,1673" />
+                <Baseline points="1166,1695 1199,1695 1232,1695 1265,1695 1298,1695 1331,1696 1364,1697 1398,1698 1431,1700 1464,1701 1497,1703 1530,1704 1563,1705 1596,1706 1630,1707 1663,1707 1696,1707 1729,1707 1762,1707 1795,1706 1829,1704" />
+                <TextEquiv>
+                    <Unicode>capita annual ipcóme m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1173,1754 1199,1756 1225,1757 1251,1759 1277,1759 1304,1759 1330,1759 1356,1759 1382,1759 1408,1759 1435,1760 1461,1760 1487,1761 1513,1762 1539,1763 1566,1765 1566,1731 1539,1729 1513,1728 1487,1727 1461,1726 1435,1726 1408,1725 1382,1725 1356,1725 1330,1725 1304,1725 1277,1725 1251,1725 1225,1723 1199,1722 1173,1720" />
+                <Baseline points="1173,1743 1199,1745 1225,1746 1251,1748 1277,1748 1304,1748 1330,1748 1356,1748 1382,1748 1408,1748 1435,1749 1461,1749 1487,1750 1513,1751 1539,1752 1566,1754" />
+                <TextEquiv>
+                    <Unicode>Ahe Philippines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Yactual survey
+MEXCELSIOR
+ubscribers have mig᷉hest per
+capita annual ipcóme m
+Ahe Philippines</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="1537,1449 1669,1449 1669,1458 1537,1458" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1166,1447 1175,1447 1175,1595 1166,1595" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1213,1453 1221,1453 1221,1583 1213,1583" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="861,551 2076,551 2076,2350 861,2350" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

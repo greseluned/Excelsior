@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:47:25.843+02:00</Created>
+        <LastChange>2021-06-08T18:04:11.634+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782588" pageNr="1659" tsid="236402028" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BAQZCNLWKRCVANBPPFECEBII" xmlUrl="https://files.transkribus.eu/Get?id=ZVTTXQBFNQLSUACBNYNQUVNO" imageId="17248219" />
+    </Metadata>
+    <Page imageFilename="1659_p558.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="368,1591 1941,1591 1941,2918 368,2918" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982799981" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="368,2711 1366,2711 1366,2873 368,2873" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="557,2753 735,2768 754,2753 960,2763 981,2744 1000,2763 1176,2755 1151,2716 1015,2707 766,2709 744,2731 696,2711 649,2732 587,2708 557,2721" />
+                <Baseline points="563,2748 593,2750 623,2751 654,2751 684,2751 714,2751 745,2751 775,2751 805,2750 836,2750 866,2749 896,2748 927,2748 957,2748 987,2747 1018,2747 1048,2747 1078,2748 1109,2748 1139,2748 1170,2750" />
+                <TextEquiv>
+                    <Unicode>Sr. Dn. LORENZO CORREA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="366,2815 1358,2819 1342,2773 782,2794 495,2772 469,2795 366,2772" />
+                <Baseline points="372,2804 421,2805 470,2805 519,2805 568,2805 617,2805 666,2805 715,2805 764,2805 813,2805 862,2805 911,2805 960,2805 1009,2805 1058,2805 1107,2805 1156,2805 1205,2805 1254,2805 1303,2807 1352,2807" />
+                <TextEquiv>
+                    <Unicode>Jefe Administrativo de la Compañía General de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;}">
+                <Coords points="635,2851 688,2868 1087,2867 1087,2837 1014,2837 997,2820 980,2832 897,2821 870,2835 841,2819 819,2839 661,2821 635,2837" />
+                <Baseline points="642,2855 667,2856 693,2856 719,2856 745,2856 770,2856 796,2856 822,2856 848,2856 873,2856 899,2856 925,2856 951,2856 976,2856 1002,2856 1028,2856 1054,2856 1080,2856" />
+                <TextEquiv>
+                    <Unicode>Tabacos de Filipinas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sr. Dn. LORENZO CORREA
+Jefe Administrativo de la Compañía General de
+Tabacos de Filipinas.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1068,2885 1388,2885 1388,2918 1068,2918" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1065,2916 1134,2909 1199,2917 1225,2907 1241,2917 1382,2914 1382,2880 1220,2888 1166,2877 1135,2892 1065,2884" />
+                <Baseline points="1071,2909 1096,2907 1121,2907 1147,2907 1172,2907 1198,2907 1223,2907 1248,2907 1274,2907 1299,2907 1325,2907 1350,2907 1376,2907" />
+                <TextEquiv>
+                    <Unicode>Por LUIS ESTEBAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Por LUIS ESTEBAN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="798,1690 819,1690 819,1958 798,1958" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="874,1769 896,1769 896,2060 874,2060" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1160,1591 1176,1591 1176,1827 1160,1827" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1829,1594 1853,1594 1853,2081 1829,2081" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1920,1638 1941,1638 1941,1899 1920,1899" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

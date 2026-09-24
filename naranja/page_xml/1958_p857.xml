@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:58.163+02:00</Created>
+        <LastChange>2021-06-08T20:31:44.749+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782897" pageNr="1958" tsid="236402425" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PQZINOJIXICYEHRPLLJAQMJM" xmlUrl="https://files.transkribus.eu/Get?id=NRWHMHWEFBYNTQPKPXUZHZTW" imageId="17249064" />
+    </Metadata>
+    <Page imageFilename="1958_p857.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="218,291 2266,291 2266,3233 218,3233" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982867677" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="224,291 1190,291 1190,1440 224,1440" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="218,1505 1225,1505 1225,3224 218,3224" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="258,1547 1218,1547 1218,1509 258,1506" />
+                <Baseline points="264,1538 311,1536 358,1536 406,1536 453,1536 501,1536 548,1536 595,1536 643,1538 690,1538 738,1538 785,1538 832,1538 880,1539 927,1539 975,1539 1022,1539 1069,1539 1117,1539 1164,1538 1212,1538" />
+                <TextEquiv>
+                    <Unicode>Madge Evans, melancólica, nos muestra sus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="228,1607 1224,1603 1224,1572 1016,1563 228,1572" />
+                <Baseline points="234,1595 283,1595 332,1596 381,1596 430,1596 480,1596 529,1596 578,1596 627,1596 676,1596 726,1596 775,1596 824,1596 873,1596 922,1596 972,1596 1021,1596 1070,1596 1119,1596 1168,1596 1218,1596" />
+                <TextEquiv>
+                    <Unicode>contornos estatuarios, unos ojos soñadores, unos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="220,1667 1218,1667 1218,1636 1103,1621 1024,1643 964,1620 220,1620" />
+                <Baseline points="227,1656 276,1656 325,1656 374,1656 423,1656 473,1656 522,1656 571,1656 620,1656 669,1656 719,1656 768,1656 817,1656 866,1656 915,1656 965,1656 1014,1656 1063,1656 1112,1655 1161,1655 1211,1653" />
+                <TextEquiv>
+                    <Unicode>labios que saben besar y un corazón... de oro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="224,1796 1099,1803 1217,1795 1217,1758 223,1763" />
+                <Baseline points="230,1788 279,1788 328,1788 377,1788 426,1788 475,1788 524,1788 573,1788 622,1788 671,1788 720,1788 769,1788 818,1788 867,1788 916,1787 965,1787 1014,1787 1063,1787 1112,1787 1161,1787 1211,1787" />
+                <TextEquiv>
+                    <Unicode>ahora pasea por ahi en brazos de su orgulleso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="227,1867 250,1862 330,1861 363,1854 363,1843 349,1843 332,1827 300,1827 285,1814 269,1828 227,1828" />
+                <Baseline points="234,1853 264,1851 295,1850 326,1850 357,1856" />
+                <TextEquiv>
+                    <Unicode>padre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="251,1922 668,1924 668,1891 616,1883 567,1884 548,1903 422,1883 251,1889" />
+                <Baseline points="258,1913 283,1914 308,1914 333,1915 359,1916 384,1916 409,1916 434,1916 460,1917 485,1917 510,1917 535,1917 561,1917 586,1916 611,1916 636,1916 662,1917" />
+                <TextEquiv>
+                    <Unicode>Enhorabuena, John.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="649,2027 669,2027 677,2035 701,2036 709,2042 727,2041 733,2035 760,2034 767,2027 776,2027 776,2007 739,2004 727,1992 709,1991 695,2003 682,2003 677,2008 649,2008" />
+                <Baseline points="656,2025 684,2028 713,2028 741,2027 770,2028" />
+                <TextEquiv>
+                    <Unicode>—o0o—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="263,2150 1223,2147 1223,2118 1072,2109 263,2108" />
+                <Baseline points="269,2138 316,2138 363,2139 411,2139 458,2139 506,2139 553,2139 600,2139 648,2139 695,2138 743,2138 790,2138 837,2138 885,2138 932,2138 980,2138 1027,2139 1074,2139 1122,2139 1169,2141 1217,2141" />
+                <TextEquiv>
+                    <Unicode>Marlene Dietrich ha decidido trasladarse a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="221,2216 1226,2208 1084,2172 221,2180" />
+                <Baseline points="227,2204 276,2204 326,2204 375,2204 425,2204 475,2204 524,2204 574,2204 624,2204 673,2204 723,2204 773,2205 822,2205 872,2205 922,2205 971,2204 1021,2204 1071,2204 1120,2204 1170,2204 1220,2202" />
+                <TextEquiv>
+                    <Unicode>otra residencia, porque la que actua mente ocu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="215,2284 1215,2273 1185,2237 215,2245" />
+                <Baseline points="221,2270 270,2270 319,2268 369,2267 418,2267 467,2267 517,2267 566,2267 615,2267 665,2267 714,2267 763,2267 813,2267 862,2268 911,2268 961,2268 1010,2268 1059,2268 1109,2268 1158,2267 1208,2267" />
+                <TextEquiv>
+                    <Unicode>pa la conocen demasiado bien los agentes, turis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="215,2337 1218,2339 1218,2306 1122,2296 215,2307" />
+                <Baseline points="221,2333 270,2333 320,2331 369,2331 419,2331 468,2331 518,2331 567,2331 617,2331 666,2331 716,2331 766,2331 815,2331 865,2333 914,2333 964,2333 1013,2333 1063,2333 1112,2333 1162,2333 1212,2333" />
+                <TextEquiv>
+                    <Unicode>tas, personajes del hampa y otros que vien n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="212,2406 1230,2397 1157,2364 1112,2387 1088,2364 1040,2387 212,2372" />
+                <Baseline points="219,2396 269,2396 319,2396 369,2396 419,2396 470,2396 520,2396 570,2396 620,2396 670,2396 721,2397 771,2397 821,2397 871,2397 921,2397 972,2397 1022,2397 1072,2397 1122,2397 1172,2396 1223,2396" />
+                <TextEquiv>
+                    <Unicode>molestándola desde que despunta en el cine¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="221,2475 302,2476 306,2472 313,2472 313,2452 301,2452 286,2436 222,2435" />
+                <Baseline points="227,2460 253,2463 279,2462 306,2465" />
+                <TextEquiv>
+                    <Unicode>ma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="263,2532 1221,2538 1152,2492 264,2489" />
+                <Baseline points="270,2525 317,2525 364,2526 411,2526 458,2526 506,2526 553,2526 600,2526 647,2526 694,2526 742,2526 789,2526 836,2526 883,2526 930,2526 978,2526 1025,2528 1072,2528 1119,2528 1166,2529 1214,2529" />
+                <TextEquiv>
+                    <Unicode>Y todavia hay quien aspira a ser “estrella”...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="672,2647 680,2647 683,2651 760,2651 770,2641 780,2641 780,2623 747,2621 735,2610 726,2608 712,2608 701,2617 687,2617 681,2623 672,2623" />
+                <Baseline points="678,2643 710,2643 742,2643 774,2643" />
+                <TextEquiv>
+                    <Unicode>-00o—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l16" custom="readingOrder {index:15;}">
+                <Coords points="264,2771 1220,2778 1220,2732 1150,2723 264,2723" />
+                <Baseline points="270,2757 317,2757 364,2757 411,2757 458,2757 506,2757 553,2759 600,2759 647,2759 694,2759 742,2759 789,2760 836,2760 883,2760 930,2760 978,2760 1025,2760 1072,2760 1119,2760 1166,2760 1214,2760" />
+                <TextEquiv>
+                    <Unicode>Las gafas sin cristal que usa Harold Lloyd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l17" custom="readingOrder {index:16;}">
+                <Coords points="215,2824 1219,2834 1219,2801 1118,2788 215,2807" />
+                <Baseline points="221,2822 270,2822 320,2822 369,2822 419,2822 468,2822 518,2822 567,2823 617,2823 666,2823 716,2823 766,2823 815,2823 865,2823 914,2823 964,2823 1013,2823 1063,2823 1112,2823 1162,2823 1212,2823" />
+                <TextEquiv>
+                    <Unicode>en sus actuales producciones, son las mismas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l18" custom="readingOrder {index:17;}">
+                <Coords points="227,2900 1218,2894 1200,2862 950,2852 227,2859" />
+                <Baseline points="233,2886 284,2886 336,2885 387,2885 439,2883 490,2883 542,2883 593,2885 645,2885 696,2885 748,2886 799,2886 851,2888 902,2888 954,2889 1005,2889 1057,2889 1108,2889 1160,2888 1212,2888" />
+                <TextEquiv>
+                    <Unicode>que usaba cuando hacia aquellas famosas come¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l19" custom="readingOrder {index:18;}">
+                <Coords points="227,2956 1224,2960 1184,2916 1148,2938 227,2922" />
+                <Baseline points="233,2948 282,2948 331,2948 380,2948 430,2948 479,2948 528,2948 577,2949 627,2949 676,2949 725,2949 774,2949 824,2951 873,2951 922,2951 971,2951 1021,2952 1070,2952 1119,2952 1168,2954 1218,2954" />
+                <TextEquiv>
+                    <Unicode>días silentes de Lucas. Entonces su primera da¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l20" custom="readingOrder {index:19;}">
+                <Coords points="227,3024 928,3036 1215,3029 1224,3005 1148,2979 227,2988" />
+                <Baseline points="233,3012 282,3012 331,3012 380,3011 429,3011 479,3012 528,3012 577,3012 626,3012 675,3012 725,3014 774,3014 823,3014 872,3015 921,3015 971,3015 1020,3017 1069,3017 1118,3017 1167,3017 1217,3018" />
+                <TextEquiv>
+                    <Unicode>ma era la hoy Sra. de Ben Lyon, Bebe Daniels.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l21" custom="readingOrder {index:20;}">
+                <Coords points="221,3089 1224,3097 1149,3045 222,3062" />
+                <Baseline points="228,3078 277,3077 327,3075 376,3075 426,3074 475,3074 525,3074 574,3074 624,3075 673,3075 723,3075 772,3077 822,3078 871,3078 921,3080 970,3080 1020,3081 1069,3081 1119,3083 1168,3083 1218,3084" />
+                <TextEquiv>
+                    <Unicode>¿Se acuerdan ustedes? ¡Que tiempos aquellos!...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l22" custom="readingOrder {index:21;}">
+                <Coords points="263,3147 1224,3153 1176,3108 914,3135 751,3103 632,3131 508,3103 263,3112" />
+                <Baseline points="269,3138 316,3138 363,3138 411,3138 458,3140 506,3140 553,3140 601,3140 648,3140 696,3141 743,3141 790,3141 838,3141 885,3143 933,3143 980,3143 1028,3144 1075,3144 1123,3144 1170,3146 1218,3146" />
+                <TextEquiv>
+                    <Unicode>Este comediante, que hoy día es el poseedor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l23" custom="readingOrder {index:22;}">
+                <Coords points="233,3217 1221,3219 1181,3171 1152,3195 234,3175" />
+                <Baseline points="240,3201 288,3201 337,3201 386,3201 435,3201 483,3203 532,3203 581,3203 630,3203 678,3204 727,3204 776,3204 825,3206 873,3206 922,3207 971,3207 1020,3207 1068,3209 1117,3209 1166,3209 1215,3210" />
+                <TextEquiv>
+                    <Unicode>de una de las mayores fortunas del cinema, ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Madge Evans, melancólica, nos muestra sus
+contornos estatuarios, unos ojos soñadores, unos
+labios que saben besar y un corazón... de oro.
+ahora pasea por ahi en brazos de su orgulleso
+padre.
+Enhorabuena, John.
+—o0o—
+Marlene Dietrich ha decidido trasladarse a
+otra residencia, porque la que actua mente ocu¬
+pa la conocen demasiado bien los agentes, turis¬
+tas, personajes del hampa y otros que vien n
+molestándola desde que despunta en el cine¬
+ma.
+Y todavia hay quien aspira a ser “estrella”...
+-00o—
+Las gafas sin cristal que usa Harold Lloyd
+en sus actuales producciones, son las mismas
+que usaba cuando hacia aquellas famosas come¬
+dias silentes de Lucas. Entonces su primera da¬
+ma era la hoy Sra. de Ben Lyon, Bebe Daniels.
+¿Se acuerdan ustedes? ¡Que tiempos aquellos!...
+Este comediante, que hoy día es el poseedor
+de una de las mayores fortunas del cinema, ha</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1259,297 2260,297 2260,1555 1259,1555" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1256,341 2233,347 2260,304 1256,298" />
+                <Baseline points="1262,330 1311,330 1361,330 1410,330 1460,329 1509,329 1559,329 1608,329 1658,329 1707,330 1757,330 1807,330 1856,330 1906,332 1955,332 2005,332 2054,333 2104,333 2153,333 2203,335 2253,335" />
+                <TextEquiv>
+                    <Unicode>dispuesto en su testamento que su magnífica y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1266,407 2266,394 2266,372 2046,364 1266,372" />
+                <Baseline points="1272,396 1321,395 1370,395 1420,395 1469,393 1518,393 1568,393 1617,393 1666,395 1716,395 1765,395 1814,396 1864,396 1913,396 1962,396 2012,398 2061,398 2110,398 2160,398 2209,398 2259,398" />
+                <TextEquiv>
+                    <Unicode>caprichosa residencia y el extenso terreno en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1265,478 2255,474 2255,436 2136,428 1265,435" />
+                <Baseline points="1272,461 1320,461 1369,461 1418,461 1467,461 1516,461 1565,461 1613,461 1662,461 1711,461 1760,461 1809,461 1858,461 1907,461 1955,461 2004,461 2053,462 2102,462 2151,463 2200,464 2249,465" />
+                <TextEquiv>
+                    <Unicode>que se halla situada, no podrá ser vendida por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1260,539 2241,536 2198,492 1260,492" />
+                <Baseline points="1266,527 1314,527 1362,528 1411,528 1459,528 1508,528 1556,528 1605,527 1653,527 1702,527 1750,527 1798,527 1847,527 1895,527 1944,527 1992,527 2041,527 2089,528 2138,528 2186,530 2235,530" />
+                <TextEquiv>
+                    <Unicode>la familia por ningún motivo ni circunstancia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1301,603 2258,595 2217,557 1430,557 1409,578 1301,557" />
+                <Baseline points="1307,593 1354,593 1401,593 1448,593 1496,593 1543,593 1590,593 1637,593 1685,593 1732,593 1779,593 1826,593 1874,593 1921,593 1968,593 2015,594 2063,594 2110,594 2157,594 2204,594 2252,594" />
+                <TextEquiv>
+                    <Unicode>Esto demuestra la gran estima que tiene Ha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1260,670 2231,671 2263,635 1260,636" />
+                <Baseline points="1266,659 1315,659 1365,659 1414,659 1464,659 1513,659 1563,659 1612,659 1662,657 1711,657 1761,657 1810,657 1860,657 1909,657 1959,657 2008,657 2058,657 2107,657 2157,657 2206,659 2256,659" />
+                <TextEquiv>
+                    <Unicode>rold por su finquita. ¡Que la pueda conservar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1260,732 2111,723 2093,691 1618,713 1572,692 1380,711 1260,693" />
+                <Baseline points="1266,725 1310,723 1354,723 1398,723 1442,723 1486,723 1530,723 1575,723 1619,723 1663,723 1707,723 1751,723 1795,723 1840,723 1884,723 1928,723 1972,723 2016,723 2060,723 2105,723" />
+                <TextEquiv>
+                    <Unicode>hasta su muerte, es lo que le deseamos!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1694,843 1724,843 1753,851 1769,851 1774,846 1790,849 1804,840 1823,840 1823,815 1801,817 1796,812 1783,811 1776,804 1743,804 1738,809 1719,811 1713,818 1694,817" />
+                <Baseline points="1700,834 1729,837 1758,837 1787,836 1817,837" />
+                <TextEquiv>
+                    <Unicode>—o0o—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1302,962 1847,970 1979,946 2084,971 2182,939 2264,961 2264,922 2234,915 1302,916" />
+                <Baseline points="1308,953 1355,951 1403,951 1450,950 1498,950 1545,950 1593,950 1640,950 1688,950 1735,950 1783,950 1830,950 1878,951 1925,951 1973,951 2020,951 2068,951 2115,951 2163,950 2210,950 2258,950" />
+                <TextEquiv>
+                    <Unicode>Myrna Loy, exótica, lánguida "vampira” de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1259,1028 2256,1026 2256,988 1259,986" />
+                <Baseline points="1266,1022 1315,1020 1364,1019 1413,1017 1462,1017 1511,1016 1560,1016 1610,1016 1659,1016 1708,1016 1757,1016 1806,1016 1855,1016 1904,1017 1954,1017 2003,1017 2052,1017 2101,1017 2150,1017 2199,1017 2249,1016" />
+                <TextEquiv>
+                    <Unicode>la cinta New Morals for Old y de otras tantas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1255,1098 2259,1083 2216,1044 2139,1068 2095,1043 1255,1059" />
+                <Baseline points="1262,1083 1311,1083 1361,1083 1410,1083 1460,1083 1509,1083 1559,1082 1608,1082 1658,1082 1707,1082 1757,1080 1807,1080 1856,1080 1906,1080 1955,1080 2005,1080 2054,1080 2104,1080 2153,1082 2203,1082 2253,1083" />
+                <TextEquiv>
+                    <Unicode>producciones, que parece estar destinada a in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1264,1161 2256,1155 2255,1116 2155,1107 1264,1116" />
+                <Baseline points="1271,1148 1319,1148 1368,1149 1417,1149 1466,1149 1515,1149 1564,1149 1613,1148 1662,1148 1711,1148 1760,1148 1808,1148 1857,1148 1906,1148 1955,1148 2004,1146 2053,1146 2102,1146 2151,1146 2200,1145 2249,1145" />
+                <TextEquiv>
+                    <Unicode>terpretar está clase de “roles" toda la vida, es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1253,1225 2255,1226 2255,1180 1252,1196" />
+                <Baseline points="1259,1217 1308,1217 1358,1216 1407,1215 1457,1215 1506,1215 1556,1215 1605,1214 1655,1214 1704,1214 1754,1214 1803,1214 1853,1214 1902,1214 1952,1214 2001,1214 2051,1212 2100,1212 2150,1212 2199,1211 2249,1209" />
+                <TextEquiv>
+                    <Unicode>una de las muchachas más serias de Hollywood.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1260,1290 2252,1282 2252,1245 1260,1244" />
+                <Baseline points="1266,1281 1315,1280 1364,1280 1413,1280 1462,1280 1511,1280 1560,1280 1609,1278 1658,1278 1707,1278 1756,1278 1805,1278 1854,1278 1903,1277 1952,1277 2001,1277 2050,1275 2099,1275 2148,1275 2197,1274 2246,1274" />
+                <TextEquiv>
+                    <Unicode>Raras veces asiste a las fiestas que se dan en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1259,1354 2264,1344 2264,1315 2183,1306 1563,1307 1486,1333 1259,1308" />
+                <Baseline points="1265,1346 1314,1346 1364,1346 1413,1346 1463,1346 1513,1345 1562,1344 1612,1344 1662,1344 1711,1344 1761,1344 1811,1344 1860,1343 1910,1343 1960,1343 2009,1343 2059,1342 2109,1341 2158,1341 2208,1341 2258,1340" />
+                <TextEquiv>
+                    <Unicode>la colonia paliculera y pasa las horas libres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1256,1425 1977,1417 1976,1396 1904,1371 1887,1388 1656,1371 1461,1400 1405,1379 1255,1388" />
+                <Baseline points="1262,1413 1297,1413 1332,1413 1368,1413 1403,1413 1439,1412 1474,1412 1509,1412 1545,1410 1580,1410 1616,1410 1651,1409 1686,1409 1722,1409 1757,1409 1793,1407 1828,1407 1863,1407 1899,1407 1934,1407 1970,1407" />
+                <TextEquiv>
+                    <Unicode>pintando, su pasatiempo favorito.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1312,1490 2266,1474 2239,1435 2071,1436 2045,1463 1911,1436 1312,1443" />
+                <Baseline points="1319,1479 1366,1478 1413,1476 1460,1476 1507,1475 1554,1475 1601,1475 1648,1473 1695,1473 1742,1473 1789,1473 1836,1473 1883,1473 1930,1473 1977,1473 2024,1473 2071,1473 2118,1473 2165,1473 2212,1473 2259,1473" />
+                <TextEquiv>
+                    <Unicode>Cuando fué descubierta por la Sra. de Rodol¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1259,1555 1323,1535 1348,1555 2035,1552 2054,1528 1998,1500 1933,1526 1893,1500 1701,1527 1636,1504 1546,1528 1477,1503 1258,1513" />
+                <Baseline points="1265,1544 1304,1543 1343,1542 1382,1541 1421,1541 1460,1541 1499,1539 1539,1539 1578,1539 1617,1539 1656,1539 1695,1538 1734,1538 1773,1538 1813,1538 1852,1539 1891,1539 1930,1539 1969,1539 2008,1541 2048,1541" />
+                <TextEquiv>
+                    <Unicode>fo Valentino, estaba estudiando arte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dispuesto en su testamento que su magnífica y
+caprichosa residencia y el extenso terreno en
+que se halla situada, no podrá ser vendida por
+la familia por ningún motivo ni circunstancia.
+Esto demuestra la gran estima que tiene Ha¬
+rold por su finquita. ¡Que la pueda conservar
+hasta su muerte, es lo que le deseamos!
+—o0o—
+Myrna Loy, exótica, lánguida "vampira” de
+la cinta New Morals for Old y de otras tantas
+producciones, que parece estar destinada a in¬
+terpretar esta clase de “roles" toda la vida, es
+una de las muchachas más serias de Hollywood.
+Raras veces asiste a las fiestas que se dan en
+la colonia paliculera y pasa las horas libres
+pintando, su pasatiempo favorito.
+Cuando fué descubierta por la Sra. de Rodol¬
+fo Valentino, estaba estudiando arte.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1286,1662 2247,1662 2247,2947 1286,2947" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1268,3014 2266,3014 2266,3233 1268,3233" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1301,3057 2033,3066 2139,3037 2175,3067 2259,3055 2259,3019 1301,3028" />
+                <Baseline points="1307,3053 1354,3051 1401,3051 1448,3051 1496,3050 1543,3050 1590,3050 1638,3050 1685,3048 1732,3048 1780,3048 1827,3048 1874,3048 1921,3048 1969,3048 2016,3048 2063,3048 2111,3047 2158,3047 2205,3047 2253,3047" />
+                <TextEquiv>
+                    <Unicode>La vida parece sonreir a Lew Ayres. ¿Por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1265,3119 2261,3123 2261,3084 2212,3067 1265,3087" />
+                <Baseline points="1271,3110 1320,3110 1369,3110 1418,3110 1467,3110 1517,3110 1566,3108 1615,3108 1664,3108 1713,3107 1763,3107 1812,3105 1861,3105 1910,3105 1959,3104 2009,3104 2058,3105 2107,3105 2156,3106 2205,3107 2255,3108" />
+                <TextEquiv>
+                    <Unicode>qué no? Es joven, continua en la Universal y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1266,3175 2261,3172 2232,3131 1266,3137" />
+                <Baseline points="1272,3165 1321,3165 1370,3165 1419,3164 1468,3164 1517,3164 1566,3164 1616,3164 1665,3164 1714,3165 1763,3165 1812,3164 1861,3164 1910,3164 1960,3164 2009,3164 2058,3164 2107,3162 2156,3162 2205,3162 2255,3161" />
+                <TextEquiv>
+                    <Unicode>tiene una esposa modelo en la linda personita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1268,3236 1317,3229 1414,3236 1432,3227 1448,3236 1479,3228 1563,3234 1564,3211 1541,3195 1471,3188 1454,3188 1434,3208 1406,3188 1376,3197 1344,3188 1331,3200 1295,3187 1268,3194" />
+                <Baseline points="1274,3222 1299,3222 1325,3222 1351,3222 1376,3222 1402,3222 1428,3222 1454,3221 1479,3221 1505,3222 1531,3222 1557,3224" />
+                <TextEquiv>
+                    <Unicode>de Lola Lane.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La vida parece sonreir a Lew Ayres. ¿Por
+qué no? Es joven, continua en la Universal y
+tiene una esposa modelo en la linda personita
+de Lola Lane.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1591,828 1730,828 1730,833 1591,833" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1790,828 1925,828 1925,833 1790,833" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="550,2019 688,2019 688,2024 550,2024" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="756,2020 886,2020 886,2024 756,2024" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="556,2633 694,2633 694,2638 556,2638" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="753,2634 892,2634 892,2639 753,2639" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1928,2823 2242,2823 2242,2847 1928,2847" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1293,2825 1899,2825 1899,2852 1293,2852" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="228,537 258,537 258,1220 228,1220" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="258,690 279,690 279,993 258,993" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="2218,1924 2239,1924 2239,2256 2218,2256" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="2230,2256 2239,2256 2239,2389 2230,2389" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1537,2164 1611,2164 1611,2301 1537,2301" />
+        </GraphicRegion>
+        <GraphicRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1296,2566 1353,2566 1353,2819 1296,2819" />
+        </GraphicRegion>
+        <GraphicRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="1372,2595 1409,2595 1409,2819 1372,2819" />
+        </GraphicRegion>
+        <GraphicRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="224,291 1190,291 1190,1440 224,1440" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

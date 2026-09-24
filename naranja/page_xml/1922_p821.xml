@@ -1,0 +1,825 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:28.756+02:00</Created>
+        <LastChange>2021-06-08T20:14:43.605+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782863" pageNr="1922" tsid="236401987" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=TKIGKIEVKGYWNNGECHGSRJOM" xmlUrl="https://files.transkribus.eu/Get?id=OKHSVKSWCPVBZBQWJRFJPRTL" imageId="17248957" />
+    </Metadata>
+    <Page imageFilename="1922_p821.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="300,407 2197,407 2197,3103 300,3103" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982859090" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="403,407 2115,407 2115,534 403,534" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="409,524 2083,534 2117,469 1255,500 1063,433 799,496 718,430 627,469 561,429 409,480" />
+                <Baseline points="420,506 504,506 588,507 672,507 757,509 841,509 925,510 1010,510 1094,512 1178,512 1263,513 1347,514 1431,515 1515,515 1600,516 1684,516 1768,518 1853,518 1937,518 2021,519 2106,519" />
+                <TextEquiv>
+                    <Unicode>DOUASIDLOS DEORTIVOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DOUASIDLOS DEORTIVOS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="300,671 1236,671 1236,3101 300,3101" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="304,705 319,710 393,708 435,717 460,715 462,671 306,667" />
+                <Baseline points="315,698 342,698 369,698 396,699 423,701 450,704" />
+                <TextEquiv>
+                    <Unicode>Boxec.:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="350,773 1244,771 1244,735 1213,729 350,724" />
+                <Baseline points="360,755 403,755 447,755 490,755 534,755 578,755 621,755 665,755 709,755 752,755 796,755 840,755 883,755 927,755 971,755 1014,756 1058,756 1102,756 1145,757 1189,758 1233,758" />
+                <TextEquiv>
+                    <Unicode>En menos de una semana, dos campeonatos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="307,817 1233,814 1233,784 1128,778 307,781" />
+                <Baseline points="318,806 363,806 408,806 453,806 499,806 544,806 589,806 634,806 680,806 725,806 770,806 815,806 861,806 906,807 951,807 996,807 1042,807 1087,808 1132,809 1177,809 1223,810" />
+                <TextEquiv>
+                    <Unicode>uno mundial y otro oriental, han pasado de ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="298,864 1028,883 1228,865 1228,834 298,840" />
+                <Baseline points="309,860 354,858 399,857 445,857 490,857 536,855 581,855 627,855 672,855 718,857 763,857 808,857 854,857 899,858 945,858 990,858 1036,860 1081,860 1127,860 1172,860 1218,860" />
+                <TextEquiv>
+                    <Unicode>nos, sin que ello me haya causado ninguna sor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="304,916 1225,925 1238,874 304,893" />
+                <Baseline points="314,911 359,909 405,909 450,908 496,908 542,906 587,906 633,906 679,906 724,906 770,907 816,908 861,908 907,908 953,908 998,909 1044,909 1090,909 1135,910 1181,911 1227,911" />
+                <TextEquiv>
+                    <Unicode>presa, apesar de que muchos aseguraban el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="311,972 1231,972 1231,934 1136,929 312,925" />
+                <Baseline points="323,957 367,957 412,957 457,957 502,957 547,957 592,957 637,957 682,957 727,957 772,957 816,957 861,959 906,959 951,959 996,959 1041,960 1086,960 1131,960 1176,961 1221,962" />
+                <TextEquiv>
+                    <Unicode>triunfo de los campeones sobre sus retadores.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="314,1020 776,1021 776,981 456,977 439,992 315,976" />
+                <Baseline points="324,1005 349,1007 375,1007 401,1007 427,1007 453,1007 479,1007 505,1007 531,1007 557,1007 583,1007 609,1007 635,1007 661,1008 687,1008 713,1008 739,1010 765,1011" />
+                <TextEquiv>
+                    <Unicode>Voy a dar mis razones.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="337,1062 1231,1076 1232,1034 338,1033" />
+                <Baseline points="348,1059 391,1059 435,1059 478,1059 522,1059 566,1059 609,1059 653,1059 697,1059 740,1059 784,1059 828,1059 871,1059 915,1061 959,1061 1002,1061 1046,1061 1090,1061 1133,1062 1177,1062 1221,1062" />
+                <TextEquiv>
+                    <Unicode>El campeonato oriental disputado fué el de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="308,1127 1234,1124 1234,1082 1186,1073 308,1081" />
+                <Baseline points="318,1112 363,1110 408,1110 453,1110 499,1110 544,1110 589,1109 635,1110 680,1110 725,1110 771,1110 816,1110 861,1110 906,1110 952,1112 997,1112 1042,1112 1088,1112 1133,1113 1178,1113 1224,1113" />
+                <TextEquiv>
+                    <Unicode>peso gallo (bantam), corona que ostentaba Pablo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="312,1175 1235,1167 1235,1142 1168,1127 312,1129" />
+                <Baseline points="323,1160 368,1161 413,1161 458,1161 503,1161 548,1161 593,1161 638,1161 683,1161 728,1161 773,1161 818,1161 863,1161 908,1161 953,1161 998,1161 1043,1161 1088,1163 1133,1163 1178,1163 1224,1164" />
+                <TextEquiv>
+                    <Unicode>Daño, púgil que, a mi juicio, ya está en decaden¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="301,1222 1210,1228 1231,1186 301,1188" />
+                <Baseline points="311,1212 356,1211 402,1211 447,1211 493,1211 538,1211 584,1211 629,1211 675,1211 720,1211 766,1212 811,1212 857,1212 902,1212 948,1212 993,1214 1039,1214 1084,1214 1130,1214 1175,1214 1221,1214" />
+                <TextEquiv>
+                    <Unicode>cia. Sus continuos ataques al cuerpo de su ene¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="295,1271 1236,1276 1236,1238 1124,1225 1029,1247 295,1235" />
+                <Baseline points="305,1260 351,1260 397,1260 443,1262 489,1262 535,1262 581,1262 627,1262 673,1262 719,1262 765,1263 811,1263 857,1263 903,1263 949,1263 995,1263 1041,1263 1087,1265 1133,1265 1179,1265 1226,1266" />
+                <TextEquiv>
+                    <Unicode>migo Cris Pineda, el nuevo campeón, resultaron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="300,1324 1192,1333 1231,1291 301,1286" />
+                <Baseline points="312,1310 357,1311 402,1311 448,1311 493,1311 539,1313 584,1313 629,1313 675,1313 720,1313 766,1314 811,1314 856,1314 902,1314 947,1314 993,1316 1038,1316 1083,1316 1129,1316 1174,1317 1220,1317" />
+                <TextEquiv>
+                    <Unicode>inútiles, ante la magnífica defensa y los rápi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="308,1388 1241,1370 1241,1345 1150,1330 309,1333" />
+                <Baseline points="320,1364 365,1364 410,1364 456,1364 501,1364 547,1364 592,1364 638,1364 683,1364 729,1364 774,1364 819,1364 865,1364 910,1365 956,1365 1001,1365 1047,1365 1092,1365 1138,1365 1183,1364 1229,1364" />
+                <TextEquiv>
+                    <Unicode>dos golpes de este, quien al mismo tiempo, desa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="301,1427 1231,1427 1231,1389 1187,1385 432,1392 301,1370" />
+                <Baseline points="311,1413 356,1413 402,1413 447,1415 493,1415 538,1415 584,1415 629,1415 675,1415 720,1415 766,1415 811,1415 857,1416 902,1416 948,1416 993,1416 1039,1416 1084,1417 1130,1418 1175,1418 1221,1419" />
+                <TextEquiv>
+                    <Unicode>rrollando un boxeo magnífico, consiguió derrotar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l16" custom="readingOrder {index:15;}">
+                <Coords points="311,1481 1228,1474 1211,1443 1013,1433 311,1441" />
+                <Baseline points="321,1466 365,1465 410,1464 455,1464 500,1464 545,1464 589,1466 634,1466 679,1466 724,1466 769,1466 813,1466 858,1467 903,1467 948,1467 993,1467 1037,1467 1082,1467 1127,1467 1172,1467 1217,1467" />
+                <TextEquiv>
+                    <Unicode>por puntos a Daño, arrebatándole el campeona¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l17" custom="readingOrder {index:16;}">
+                <Coords points="295,1523 306,1523 310,1527 352,1527 356,1531 377,1531 377,1499 358,1499 348,1489 335,1489 331,1485 295,1487" />
+                <Baseline points="306,1517 336,1517 366,1517" />
+                <TextEquiv>
+                    <Unicode>to.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l18" custom="readingOrder {index:17;}">
+                <Coords points="333,1570 1240,1576 1240,1547 1145,1536 333,1532" />
+                <Baseline points="344,1566 388,1566 432,1566 476,1566 521,1566 565,1566 609,1568 654,1568 698,1568 742,1568 787,1568 831,1568 875,1568 919,1569 964,1569 1008,1569 1052,1569 1097,1569 1141,1569 1185,1569 1230,1569" />
+                <TextEquiv>
+                    <Unicode>Como predije, en la semi final el australiano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l19" custom="readingOrder {index:18;}">
+                <Coords points="300,1625 1236,1628 1236,1594 1097,1585 300,1585" />
+                <Baseline points="311,1617 356,1617 402,1616 448,1616 494,1616 539,1616 585,1616 631,1616 677,1617 722,1617 768,1617 814,1617 860,1619 905,1619 951,1619 997,1619 1043,1619 1088,1620 1134,1620 1180,1620 1226,1619" />
+                <TextEquiv>
+                    <Unicode>Cook recibió en uno de los primeros asaltos una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l20" custom="readingOrder {index:19;}">
+                <Coords points="301,1684 1235,1675 1235,1642 1153,1635 301,1642" />
+                <Baseline points="311,1670 356,1668 402,1668 447,1667 493,1667 539,1667 584,1667 630,1667 676,1667 721,1668 767,1668 813,1668 858,1670 904,1670 950,1670 995,1670 1041,1671 1087,1671 1132,1670 1178,1670 1224,1670" />
+                <TextEquiv>
+                    <Unicode>poderosa trompada de la derecha de su contrin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l21" custom="readingOrder {index:20;}">
+                <Coords points="307,1734 1237,1731 1205,1682 1121,1703 307,1692" />
+                <Baseline points="318,1716 363,1718 408,1718 454,1718 499,1718 545,1718 590,1718 635,1718 681,1718 726,1718 772,1718 817,1718 862,1718 908,1719 953,1719 999,1719 1044,1719 1089,1719 1135,1720 1180,1721 1226,1721" />
+                <TextEquiv>
+                    <Unicode>cante, Star Cosio, a cuyo delicioso contacto, Ccok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l22" custom="readingOrder {index:21;}">
+                <Coords points="291,1774 1236,1777 1236,1743 1201,1737 292,1744" />
+                <Baseline points="302,1767 348,1767 394,1767 440,1767 486,1767 533,1767 579,1767 625,1768 671,1769 717,1769 764,1769 810,1770 856,1770 902,1770 948,1772 995,1772 1041,1772 1087,1772 1133,1773 1179,1773 1226,1773" />
+                <TextEquiv>
+                    <Unicode>se olvidó de la posición vertical, para tomar la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l23" custom="readingOrder {index:22;}">
+                <Coords points="307,1830 1178,1822 1178,1790 307,1786" />
+                <Baseline points="317,1818 359,1817 402,1818 444,1818 487,1818 529,1818 572,1818 614,1818 657,1820 699,1820 742,1820 784,1820 827,1820 869,1821 912,1821 954,1821 997,1821 1039,1821 1082,1821 1124,1821 1167,1820" />
+                <TextEquiv>
+                    <Unicode>horizontai. Un “maleta” más que desaparece</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l24" custom="readingOrder {index:23;}">
+                <Coords points="336,1882 1215,1886 1232,1842 336,1847" />
+                <Baseline points="347,1871 390,1871 434,1869 478,1869 521,1869 565,1869 609,1870 652,1871 696,1871 740,1871 784,1871 827,1872 871,1872 915,1872 958,1872 1002,1872 1046,1873 1089,1874 1133,1872 1177,1872 1221,1872" />
+                <TextEquiv>
+                    <Unicode>El otro campeonato a que me refiero, es el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l25" custom="readingOrder {index:24;}">
+                <Coords points="293,1925 1099,1938 1225,1926 1226,1892 294,1895" />
+                <Baseline points="303,1919 348,1919 394,1919 439,1919 485,1919 531,1920 576,1920 622,1920 667,1920 713,1922 759,1922 804,1922 850,1922 895,1922 941,1923 987,1923 1032,1923 1078,1923 1123,1923 1169,1922 1215,1922" />
+                <TextEquiv>
+                    <Unicode>mundial contendido entre el alemán Max Schmel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l26" custom="readingOrder {index:25;}">
+                <Coords points="307,1981 1233,1981 1233,1948 1142,1937 307,1937" />
+                <Baseline points="318,1971 363,1971 408,1971 453,1971 498,1971 543,1971 588,1971 634,1971 679,1971 724,1971 769,1971 814,1971 859,1971 904,1971 950,1971 995,1972 1040,1973 1085,1973 1130,1973 1175,1973 1221,1974" />
+                <TextEquiv>
+                    <Unicode>ling y el ex marino norteamericano Jack Shar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l27" custom="readingOrder {index:26;}">
+                <Coords points="295,2036 1208,2037 1230,1986 295,1989" />
+                <Baseline points="305,2022 350,2022 396,2022 442,2022 488,2022 533,2022 579,2022 625,2022 671,2022 716,2022 762,2022 808,2022 854,2022 899,2022 945,2024 991,2024 1037,2024 1082,2024 1128,2024 1174,2024 1220,2025" />
+                <TextEquiv>
+                    <Unicode>key, en Long Island, Nueva York, en la cual</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l28" custom="readingOrder {index:27;}">
+                <Coords points="301,2091 1231,2084 1231,2048 1198,2041 301,2047" />
+                <Baseline points="312,2073 357,2073 402,2072 448,2072 493,2072 539,2072 584,2072 630,2072 675,2072 721,2072 766,2073 811,2073 857,2073 902,2075 948,2075 993,2075 1039,2075 1084,2076 1130,2076 1175,2076 1221,2076" />
+                <TextEquiv>
+                    <Unicode>pelea y ante la sorpresa de una gran parte de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l29" custom="readingOrder {index:28;}">
+                <Coords points="301,2138 1161,2141 1218,2133 1219,2097 301,2092" />
+                <Baseline points="312,2124 356,2123 401,2122 446,2121 491,2121 536,2121 581,2121 625,2122 670,2123 715,2123 760,2124 805,2124 850,2124 895,2126 939,2126 984,2126 1029,2126 1074,2126 1119,2126 1164,2126 1209,2124" />
+                <TextEquiv>
+                    <Unicode>la concurrencia que, según los cablegramas, pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l30" custom="readingOrder {index:29;}">
+                <Coords points="300,2189 1222,2189 1222,2151 1104,2138 300,2145" />
+                <Baseline points="311,2174 356,2174 401,2174 446,2174 491,2174 536,2174 581,2174 626,2174 671,2174 716,2174 761,2174 806,2174 851,2174 896,2175 941,2175 986,2175 1031,2175 1076,2175 1121,2175 1166,2175 1211,2175" />
+                <TextEquiv>
+                    <Unicode>testó, el árbitro levantó la mano de Sharkey en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l31" custom="readingOrder {index:30;}">
+                <Coords points="289,2228 1224,2231 1192,2197 289,2203" />
+                <Baseline points="299,2225 344,2223 390,2223 435,2223 481,2223 527,2223 572,2223 618,2223 664,2225 709,2225 755,2225 801,2225 846,2226 892,2226 938,2226 983,2226 1029,2226 1075,2226 1120,2226 1166,2225 1212,2223" />
+                <TextEquiv>
+                    <Unicode>señal de triunfo, con lo que le dió el campeona¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l32" custom="readingOrder {index:31;}">
+                <Coords points="300,2285 1234,2283 1234,2251 1171,2241 300,2241" />
+                <Baseline points="311,2274 356,2274 402,2274 447,2274 493,2274 539,2274 584,2274 630,2274 676,2274 721,2275 767,2276 813,2276 858,2276 904,2276 950,2276 995,2276 1041,2276 1087,2277 1132,2277 1178,2277 1224,2279" />
+                <TextEquiv>
+                    <Unicode>to mundial de la división de peso máximo. En</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l33" custom="readingOrder {index:32;}">
+                <Coords points="307,2342 1231,2335 1208,2297 307,2289" />
+                <Baseline points="317,2325 362,2325 407,2324 452,2324 497,2324 542,2324 587,2324 633,2324 678,2325 723,2325 768,2325 813,2325 858,2325 903,2325 949,2327 994,2327 1039,2327 1084,2327 1129,2327 1174,2327 1220,2327" />
+                <TextEquiv>
+                    <Unicode>la decisión votaron el árbitro y dos jueces, uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l34" custom="readingOrder {index:33;}">
+                <Coords points="308,2388 1227,2389 1227,2354 1130,2347 308,2344" />
+                <Baseline points="318,2375 365,2375 412,2375 459,2375 507,2375 554,2375 601,2375 649,2375 696,2375 743,2375 791,2375 838,2376 885,2376 933,2376 980,2376 1027,2376 1075,2377 1122,2378 1169,2378 1217,2379" />
+                <TextEquiv>
+                    <Unicode>de los cuales dió su voto a Sharkey, el otro a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l35" custom="readingOrder {index:34;}">
+                <Coords points="306,2437 1232,2430 1232,2397 1177,2394 306,2393" />
+                <Baseline points="317,2424 362,2424 407,2424 452,2424 497,2424 543,2424 588,2424 633,2424 678,2424 723,2426 769,2426 814,2426 859,2426 904,2426 949,2426 995,2426 1040,2427 1085,2427 1130,2427 1175,2427 1221,2426" />
+                <TextEquiv>
+                    <Unicode>Schmelling y el árbitro, que vió de cerca mejor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l36" custom="readingOrder {index:35;}">
+                <Coords points="302,2493 1226,2485 1226,2449 1167,2443 302,2449" />
+                <Baseline points="312,2478 357,2477 402,2476 447,2475 492,2475 537,2475 582,2475 628,2475 673,2475 718,2475 763,2476 808,2477 853,2477 898,2477 944,2478 989,2478 1034,2478 1079,2478 1124,2477 1169,2477 1215,2475" />
+                <TextEquiv>
+                    <Unicode>que nadie los golpes y pudo, por tanto, apreciar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l37" custom="readingOrder {index:36;}">
+                <Coords points="300,2538 1228,2545 1228,2511 1152,2494 300,2498" />
+                <Baseline points="311,2526 356,2526 401,2526 446,2526 492,2525 537,2525 582,2525 628,2525 673,2526 718,2526 764,2526 809,2526 854,2526 899,2526 945,2528 990,2528 1035,2528 1081,2529 1126,2529 1171,2529 1217,2531" />
+                <TextEquiv>
+                    <Unicode>mejor también sus efectos, levantó, como digo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l38" custom="readingOrder {index:37;}">
+                <Coords points="291,2588 766,2586 766,2563 698,2546 350,2560 291,2545" />
+                <Baseline points="302,2579 327,2578 352,2577 377,2577 402,2577 427,2576 453,2576 478,2576 503,2576 528,2576 553,2576 578,2576 604,2576 629,2576 654,2576 679,2577 704,2577 729,2579 755,2580" />
+                <TextEquiv>
+                    <Unicode>la mano del ex marino.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l39" custom="readingOrder {index:38;}">
+                <Coords points="331,2638 1209,2643 1209,2599 1173,2593 331,2600" />
+                <Baseline points="341,2630 383,2630 426,2628 469,2628 512,2628 555,2628 598,2628 641,2628 684,2627 727,2627 770,2627 812,2627 855,2627 898,2628 941,2628 984,2628 1027,2628 1070,2628 1113,2628 1156,2628 1199,2628" />
+                <TextEquiv>
+                    <Unicode>Los despachos radiográficos recibidos en Ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l40" custom="readingOrder {index:39;}">
+                <Coords points="306,2693 1101,2702 1213,2690 1213,2654 306,2655" />
+                <Baseline points="317,2679 361,2679 405,2678 449,2678 494,2678 538,2678 582,2678 626,2678 671,2678 715,2678 759,2678 803,2678 848,2679 892,2679 936,2679 980,2679 1025,2679 1069,2679 1113,2679 1157,2678 1202,2678" />
+                <TextEquiv>
+                    <Unicode>nila, han sido para mí demasiado parcos y dife¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l41" custom="readingOrder {index:40;}">
+                <Coords points="294,2738 1217,2742 1232,2700 294,2702" />
+                <Baseline points="305,2727 350,2727 396,2727 442,2727 488,2727 534,2727 579,2727 625,2727 671,2727 717,2729 763,2729 808,2729 854,2729 900,2729 946,2729 992,2729 1037,2729 1083,2729 1129,2729 1175,2727 1221,2726" />
+                <TextEquiv>
+                    <Unicode>rentes entre sí, para poderse uno dar cuenta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l42" custom="readingOrder {index:41;}">
+                <Coords points="307,2793 1222,2792 1174,2745 307,2753" />
+                <Baseline points="317,2780 361,2780 406,2778 451,2778 496,2778 540,2778 585,2778 630,2778 675,2778 719,2778 764,2778 809,2780 854,2780 898,2780 943,2780 988,2780 1033,2781 1077,2781 1122,2781 1167,2781 1212,2780" />
+                <TextEquiv>
+                    <Unicode>exacta respecto a si la decisión fué o no justa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l43" custom="readingOrder {index:42;}">
+                <Coords points="294,2844 1226,2839 1226,2805 1172,2801 294,2793" />
+                <Baseline points="305,2829 350,2829 396,2828 441,2828 487,2828 532,2828 578,2828 623,2828 669,2828 714,2828 760,2828 805,2829 851,2829 896,2829 942,2829 987,2830 1033,2831 1078,2831 1124,2831 1169,2832 1215,2832" />
+                <TextEquiv>
+                    <Unicode>Por mi parte no he sido nunca de los que, por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l44" custom="readingOrder {index:43;}">
+                <Coords points="300,2893 1222,2896 1222,2854 300,2849" />
+                <Baseline points="311,2877 356,2876 401,2876 446,2876 491,2876 536,2876 581,2877 626,2877 671,2877 716,2877 761,2877 806,2879 851,2879 896,2879 941,2879 986,2879 1031,2880 1076,2880 1121,2880 1166,2880 1212,2880" />
+                <TextEquiv>
+                    <Unicode>sus actuaciones frente a un Uzcudum enfermo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l45" custom="readingOrder {index:44;}">
+                <Coords points="294,2941 1216,2941 1216,2899 295,2905" />
+                <Baseline points="306,2930 351,2930 396,2930 441,2928 486,2928 531,2928 576,2928 621,2928 666,2928 711,2930 756,2930 801,2930 846,2930 891,2930 936,2930 981,2931 1026,2931 1071,2931 1116,2931 1161,2931 1206,2931" />
+                <TextEquiv>
+                    <Unicode>a un Stribling, púgil de segunda categoría y el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l46" custom="readingOrder {index:45;}">
+                <Coords points="289,2987 1206,2996 1219,2952 289,2956" />
+                <Baseline points="299,2979 344,2979 389,2979 435,2978 480,2978 526,2978 571,2978 617,2978 662,2979 708,2979 753,2979 798,2980 844,2981 889,2981 935,2981 980,2981 1026,2982 1071,2982 1117,2982 1162,2982 1208,2981" />
+                <TextEquiv>
+                    <Unicode>mismo Sharkey en su primera pelea, el boxeador</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l47" custom="readingOrder {index:46;}">
+                <Coords points="298,3052 1213,3043 1213,3009 1110,3000 298,3004" />
+                <Baseline points="308,3032 352,3031 397,3030 442,3030 487,3029 531,3029 576,3029 621,3029 666,3029 710,3029 755,3030 800,3030 845,3030 889,3032 934,3032 979,3032 1024,3032 1068,3032 1113,3032 1158,3032 1203,3032" />
+                <TextEquiv>
+                    <Unicode>germano demostró no ser de los de muy recia ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l48" custom="readingOrder {index:47;}">
+                <Coords points="288,3094 1165,3100 1212,3092 1212,3052 288,3056" />
+                <Baseline points="299,3081 344,3081 389,3081 434,3081 479,3081 524,3083 569,3083 615,3083 660,3083 705,3083 750,3083 795,3083 840,3083 885,3083 931,3083 976,3083 1021,3083 1066,3083 1111,3083 1156,3083 1202,3083" />
+                <TextEquiv>
+                    <Unicode>dera de campeones. ¿Qué hubiera sido de Schmel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Boxec.:
+En menos de una semana, dos campeonatos,
+uno mundial y otro oriental, han pasado de ma¬
+nos, sin que ello me haya causado ninguna sor¬
+presa, apesar de que muchos aseguraban el
+triunfo de los campeones sobre sus retadores.
+Voy a dar mis razones.
+El campeonato oriental disputado fué el de
+peso gallo (bantam), corona que ostentaba Pablo
+Daño, púgil que, a mi juicio, ya está en decaden¬
+cia. Sus continuos ataques al cuerpo de su ene¬
+migo Cris Pineda, el nuevo campeón, resultaron
+inútiles, ante la magnífica defensa y los rápi¬
+dos golpes de este, quien al mismo tiempo, desa¬
+rrollando un boxeo magnífico, consiguió derrotar
+por puntos a Daño, arrebatándole el campeona¬
+to.
+Como predije, en la semi final el australiano
+Cook recibió en uno de los primeros asaltos una
+poderosa trompada de la derecha de su contrin¬
+cante, Star Cosio, a cuyo delicioso contacto, Ccok
+se olvidó de la posición vertical, para tomar la
+horizontai. Un “maleta” más que desaparece
+El otro campeonato a que me refiero, es el
+mundial contendido entre el alemán Max Schmel¬
+ling y el ex marino norteamericano Jack Shar¬
+key, en Long Island, Nueva York, en la cual
+pelea y ante la sorpresa de una gran parte de
+la concurrencia que, según los cablegramas, pro¬
+testó, el árbitro levantó la mano de Sharkey en
+señal de triunfo, con lo que le dió el campeona¬
+to mundial de la división de peso máximo. En
+la decisión votaron el árbitro y dos jueces, uno
+de los cuales dió su voto a Sharkey, el otro a
+Schmelling y el árbitro, que vió de cerca mejor
+que nadie los golpes y pudo, por tanto, apreciar
+mejor también sus efectos, levantó, como digo,
+la mano del ex marino.
+Los despachos radiográficos recibidos en Ma¬
+nila, han sido para mí demasiado parcos y dife¬
+rentes entre sí, para poderse uno dar cuenta
+exacta respecto a si la decisión fué o no justa.
+Por mi parte no he sido nunca de los que, por
+sus actuaciones frente a un Uzcudum enfermo,
+a un Stribling, púgil de segunda categoría y el
+mismo Sharkey en su primera pelea, el boxeador
+germano demostró no ser de los de muy recia ma¬
+dera de campeones. ¿Qué hubiera sido de Schmel¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1273,671 2197,671 2197,1733 1273,1733" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1276,717 2199,726 2200,671 1276,665" />
+                <Baseline points="1286,702 1331,702 1376,701 1421,701 1466,701 1511,702 1556,702 1602,702 1647,702 1692,704 1737,704 1782,705 1827,705 1872,707 1918,707 1963,708 2008,708 2053,709 2098,710 2143,710 2189,711" />
+                <TextEquiv>
+                    <Unicode>ling en un encuentro contra un Dempsey en los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1278,766 2200,782 2200,746 2167,733 1279,719" />
+                <Baseline points="1289,752 1334,752 1379,752 1424,753 1469,753 1514,753 1559,753 1604,755 1649,755 1694,755 1739,755 1784,756 1829,756 1874,756 1919,758 1964,759 2009,759 2054,761 2099,762 2144,764 2190,765" />
+                <TextEquiv>
+                    <Unicode>buenos tiempos del mismo o contra un Tunney en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1279,812 1318,819 1342,809 1354,818 1380,820 1399,812 1475,819 1517,803 1517,776 1488,769 1401,782 1378,771 1338,781 1279,770" />
+                <Baseline points="1290,803 1317,804 1344,804 1371,803 1398,803 1425,803 1452,804 1479,806 1506,809" />
+                <TextEquiv>
+                    <Unicode>los de este?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1311,859 2132,880 2203,868 2204,836 1312,821" />
+                <Baseline points="1322,851 1365,852 1409,855 1452,855 1496,857 1539,858 1583,858 1626,860 1670,860 1713,860 1757,860 1800,860 1844,860 1887,860 1931,860 1974,860 2018,861 2061,861 2105,861 2148,863 2192,864" />
+                <TextEquiv>
+                    <Unicode>Volviedo a las peleas celebradas el Sábado pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1265,912 2200,916 2200,887 2151,874 1266,880" />
+                <Baseline points="1277,905 1322,906 1368,906 1413,908 1459,908 1505,909 1550,909 1596,909 1641,911 1687,911 1733,911 1778,911 1824,912 1869,912 1915,912 1961,912 2006,912 2052,913 2097,914 2143,914 2189,914" />
+                <TextEquiv>
+                    <Unicode>sado, 25 del actual, en la principal, el púgil ja¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1268,970 2164,982 2192,944 1268,926" />
+                <Baseline points="1278,957 1323,957 1368,957 1413,959 1458,959 1503,959 1548,959 1593,959 1638,959 1683,960 1729,960 1774,960 1819,960 1864,961 1909,962 1954,962 1999,962 2044,963 2089,964 2134,965 2180,966" />
+                <TextEquiv>
+                    <Unicode>ponés Tokichi Kawata, que se presentó en Ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1267,1020 2134,1032 2197,1022 2198,986 1268,978" />
+                <Baseline points="1277,1005 1322,1007 1367,1008 1413,1008 1458,1010 1504,1010 1549,1010 1595,1011 1640,1011 1686,1011 1731,1011 1776,1011 1822,1011 1867,1011 1913,1011 1958,1011 2004,1011 2049,1013 2095,1013 2140,1013 2186,1014" />
+                <TextEquiv>
+                    <Unicode>nila sin bombos ni platillos, pero si con sus pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1279,1072 2207,1070 2207,1041 2165,1025 1279,1030" />
+                <Baseline points="1290,1058 1335,1058 1380,1058 1425,1059 1471,1059 1516,1059 1561,1059 1607,1059 1652,1059 1697,1059 1743,1061 1788,1061 1833,1061 1878,1061 1924,1062 1969,1062 2014,1062 2060,1062 2105,1064 2150,1064 2196,1065" />
+                <TextEquiv>
+                    <Unicode>peles de boxeador en regla, demostrativos de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1274,1118 2198,1116 2198,1093 2097,1082 1275,1072" />
+                <Baseline points="1284,1106 1329,1107 1374,1107 1419,1109 1464,1109 1509,1110 1554,1110 1600,1110 1645,1112 1690,1112 1735,1112 1780,1112 1825,1113 1870,1113 1916,1113 1961,1113 2006,1113 2051,1113 2096,1113 2141,1112 2187,1112" />
+                <TextEquiv>
+                    <Unicode>las peleas en que ha tomado parte, debutó con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1272,1168 2192,1179 2177,1130 1273,1128" />
+                <Baseline points="1283,1158 1327,1158 1372,1160 1417,1160 1462,1160 1507,1161 1552,1161 1597,1161 1642,1161 1687,1161 1732,1161 1776,1160 1821,1160 1866,1161 1911,1161 1956,1161 2001,1161 2046,1163 2091,1163 2136,1164 2181,1166" />
+                <TextEquiv>
+                    <Unicode>tra un muchacho, protegido del conocido sport¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1279,1222 2195,1233 2195,1195 2142,1178 1280,1184" />
+                <Baseline points="1290,1208 1334,1208 1379,1209 1424,1209 1468,1210 1513,1211 1558,1211 1602,1211 1647,1211 1692,1211 1737,1211 1781,1211 1826,1212 1871,1212 1915,1212 1960,1212 2005,1213 2049,1214 2094,1215 2139,1215 2184,1217" />
+                <TextEquiv>
+                    <Unicode>man, capitán Sagarbarría, llamado Max Santos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1274,1271 2027,1276 2000,1234 1274,1227" />
+                <Baseline points="1284,1259 1320,1259 1357,1259 1393,1260 1430,1260 1467,1260 1503,1260 1540,1261 1576,1262 1613,1262 1650,1262 1686,1262 1723,1262 1759,1263 1796,1263 1833,1263 1869,1263 1906,1263 1942,1263 1979,1263 2016,1263" />
+                <TextEquiv>
+                    <Unicode>de quien se tenían muchas esperanzas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1303,1323 2197,1320 2197,1295 2149,1280 1303,1276" />
+                <Baseline points="1313,1311 1356,1311 1400,1311 1444,1311 1487,1311 1531,1311 1575,1311 1618,1313 1662,1313 1706,1313 1750,1314 1793,1314 1837,1314 1881,1314 1924,1316 1968,1316 2012,1316 2055,1316 2099,1316 2143,1314 2187,1314" />
+                <TextEquiv>
+                    <Unicode>De la pelea solo puedo decir que el nipón Ka¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1279,1374 2200,1372 2169,1328 1279,1338" />
+                <Baseline points="1289,1361 1334,1361 1379,1362 1424,1362 1469,1363 1514,1364 1559,1364 1604,1364 1649,1364 1694,1364 1739,1364 1784,1364 1829,1364 1874,1364 1919,1364 1964,1364 2009,1364 2054,1364 2099,1364 2144,1364 2189,1364" />
+                <TextEquiv>
+                    <Unicode>wata es un formidable contendiente para cual¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1269,1425 2195,1427 2195,1391 2077,1376 1959,1401 1883,1377 1269,1385" />
+                <Baseline points="1280,1413 1325,1413 1370,1413 1415,1413 1460,1412 1506,1412 1551,1412 1596,1412 1641,1413 1686,1413 1732,1413 1777,1413 1822,1413 1867,1415 1912,1415 1958,1415 2003,1415 2048,1416 2093,1416 2138,1416 2184,1416" />
+                <TextEquiv>
+                    <Unicode>quier púgil de su peso en Filipinas, no solo por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1273,1473 2189,1484 2189,1442 2107,1430 1274,1433" />
+                <Baseline points="1284,1460 1328,1461 1373,1461 1418,1461 1462,1461 1507,1463 1552,1463 1596,1463 1641,1463 1686,1463 1731,1463 1775,1464 1820,1464 1865,1464 1909,1464 1954,1464 1999,1466 2043,1466 2088,1466 2133,1467 2178,1469" />
+                <TextEquiv>
+                    <Unicode>su extraordinaria resistencia, buena trompada y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1277,1525 2201,1515 2173,1488 1277,1485" />
+                <Baseline points="1287,1511 1332,1511 1377,1512 1422,1512 1467,1512 1512,1514 1557,1514 1602,1514 1647,1514 1692,1514 1738,1514 1783,1515 1828,1515 1873,1515 1918,1515 1963,1515 2008,1515 2053,1514 2098,1514 2143,1514 2189,1514" />
+                <TextEquiv>
+                    <Unicode>conocimiento del arte de pegar, sino por su agre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1267,1572 2191,1580 2191,1540 2123,1529 1267,1536" />
+                <Baseline points="1277,1563 1322,1563 1367,1563 1412,1563 1457,1563 1503,1563 1548,1563 1593,1563 1638,1563 1683,1563 1729,1563 1774,1565 1819,1565 1864,1565 1909,1565 1955,1565 2000,1565 2045,1566 2090,1566 2135,1566 2181,1566" />
+                <TextEquiv>
+                    <Unicode>sividad, que es lo que agrada siempre al público.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1276,1626 2172,1629 2204,1593 1276,1580" />
+                <Baseline points="1286,1611 1331,1613 1376,1613 1421,1613 1467,1613 1512,1614 1557,1614 1603,1614 1648,1615 1693,1616 1739,1616 1784,1616 1829,1616 1874,1616 1920,1616 1965,1616 2010,1616 2056,1616 2101,1617 2146,1617 2192,1617" />
+                <TextEquiv>
+                    <Unicode>De los doce asaltos, el japonés ganó siete de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l20" custom="readingOrder {index:19;}">
+                <Coords points="1274,1677 2187,1676 2187,1634 1274,1633" />
+                <Baseline points="1284,1664 1328,1664 1373,1664 1417,1664 1462,1664 1507,1664 1551,1664 1596,1664 1641,1664 1685,1664 1730,1664 1775,1664 1819,1665 1864,1665 1909,1665 1953,1665 1998,1665 2043,1667 2087,1667 2132,1667 2177,1668" />
+                <TextEquiv>
+                    <Unicode>corrido, tres fueron adjudicados a Santos y los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l21" custom="readingOrder {index:20;}">
+                <Coords points="1269,1725 2102,1736 2190,1730 2191,1705 1269,1681" />
+                <Baseline points="1280,1713 1325,1714 1370,1715 1415,1715 1460,1715 1505,1716 1550,1716 1595,1716 1640,1716 1685,1715 1730,1715 1775,1715 1820,1715 1865,1716 1910,1716 1955,1716 2000,1716 2045,1718 2090,1719 2135,1720 2181,1722" />
+                <TextEquiv>
+                    <Unicode>dos restantes pudieron considerarse un empate.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ling en un encuentro contra un Dempsey en los
+buenos tiempos del mismo o contra un Tunney en
+los de este?
+Volviedo a las peleas celebradas el Sábado pa¬
+sado, 25 del actual, en la principal, el púgil ja¬
+ponés Tokichi Kawata, que se presentó en Ma¬
+nila sin bombos ni platillos, pero si con sus pa¬
+peles de boxeador en regla, demostrativos de
+las peleas en que ha tomado parte, debutó con¬
+tra un muchacho, protegido del conocido sport¬
+man, capitán Sagarbarría, llamado Max Santos,
+de quien se tenían muchas esperanzas.
+De la pelea solo puedo decir que el nipón Ka¬
+wata es un formidable contendiente para cual¬
+quier púgil de su peso en Filipinas, no solo por
+su extraordinaria resistencia, buena trompada y
+conocimiento del arte de pegar, sino por su agre¬
+sividad, que es lo que agrada siempre al público.
+De los doce asaltos, el japonés ganó siete de
+corrido, tres fueron adjudicados a Santos y los
+dos restantes pudieron considerarse un empate.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1264,1827 2186,1827 2186,2592 1264,2592" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1267,1868 1286,1868 1294,1862 1301,1869 1322,1865 1336,1870 1423,1870 1424,1827 1268,1824" />
+                <Baseline points="1277,1857 1304,1856 1331,1856 1358,1857 1385,1858 1412,1860" />
+                <TextEquiv>
+                    <Unicode>Fútbol:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1296,1922 2195,1925 2195,1883 2157,1881 1297,1882" />
+                <Baseline points="1307,1910 1350,1911 1394,1912 1438,1913 1482,1913 1526,1914 1570,1914 1613,1914 1657,1914 1701,1914 1745,1914 1789,1914 1833,1914 1877,1914 1920,1916 1964,1916 2008,1916 2052,1916 2096,1916 2140,1916 2184,1917" />
+                <TextEquiv>
+                    <Unicode>No se trata ahora de partidos de este deporte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1258,1970 2182,1969 2182,1937 2144,1929 1258,1930" />
+                <Baseline points="1268,1958 1313,1959 1358,1959 1403,1959 1448,1961 1494,1961 1539,1961 1584,1961 1629,1962 1674,1962 1720,1962 1765,1962 1810,1962 1855,1962 1900,1962 1946,1962 1991,1962 2036,1962 2081,1962 2126,1962 2172,1962" />
+                <TextEquiv>
+                    <Unicode>celebrados en la capital, puesto que necesaria¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1254,2019 2184,2016 2184,1982 2154,1978 1254,1981" />
+                <Baseline points="1265,2007 1310,2007 1355,2007 1401,2007 1446,2008 1491,2009 1537,2009 1582,2009 1627,2009 1673,2009 1718,2009 1763,2009 1809,2010 1854,2010 1899,2010 1945,2010 1990,2010 2035,2010 2081,2010 2126,2010 2172,2010" />
+                <TextEquiv>
+                    <Unicode>mente tiene que descansar durante la ya próxi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1254,2062 2188,2072 2175,2025 1254,2035" />
+                <Baseline points="1265,2055 1310,2055 1356,2055 1401,2057 1447,2057 1493,2057 1538,2057 1584,2057 1629,2057 1675,2057 1721,2057 1766,2057 1812,2057 1857,2057 1903,2057 1949,2057 1994,2057 2040,2057 2085,2057 2131,2057 2177,2057" />
+                <TextEquiv>
+                    <Unicode>ma temporada de aguas, sino de la “Copa del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1268,2117 2194,2115 2194,2073 1269,2067" />
+                <Baseline points="1278,2102 1323,2102 1368,2102 1413,2102 1459,2103 1504,2103 1549,2103 1595,2103 1640,2103 1685,2104 1731,2105 1776,2105 1821,2105 1866,2105 1912,2106 1957,2106 2002,2106 2048,2106 2093,2106 2138,2108 2184,2108" />
+                <TextEquiv>
+                    <Unicode>Rey” antes y ahora “Copa de España", que el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1267,2168 1564,2173 1697,2144 2186,2162 2186,2124 2133,2118 1267,2121" />
+                <Baseline points="1278,2150 1322,2150 1367,2151 1412,2151 1457,2151 1502,2151 1547,2151 1591,2151 1636,2151 1681,2151 1726,2151 1771,2151 1816,2151 1861,2151 1905,2151 1950,2151 1995,2153 2040,2153 2085,2153 2130,2154 2175,2154" />
+                <TextEquiv>
+                    <Unicode>magnífico equipo del “Athletic de Bilbao" ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1262,2220 2175,2221 2195,2179 1262,2174" />
+                <Baseline points="1272,2199 1317,2199 1363,2199 1408,2199 1454,2199 1500,2199 1545,2199 1591,2199 1636,2199 1682,2199 1728,2198 1773,2198 1819,2198 1864,2198 1910,2198 1956,2199 2001,2199 2047,2199 2092,2201 2138,2201 2184,2202" />
+                <TextEquiv>
+                    <Unicode>ganado en el campo de Chamartin, de Madrid,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1268,2259 2192,2264 2169,2217 1268,2215" />
+                <Baseline points="1278,2244 1323,2246 1368,2246 1413,2247 1458,2247 1503,2247 1548,2247 1594,2247 1639,2247 1684,2246 1729,2246 1774,2246 1819,2246 1864,2246 1910,2246 1955,2246 2000,2246 2045,2246 2090,2247 2135,2247 2181,2249" />
+                <TextEquiv>
+                    <Unicode>derrotando a su antiguo rival el “Barcelona",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1267,2309 2024,2309 2024,2277 1991,2267 1267,2265" />
+                <Baseline points="1278,2295 1314,2295 1351,2295 1388,2295 1425,2295 1461,2295 1498,2295 1535,2295 1572,2295 1608,2295 1645,2295 1682,2295 1719,2295 1755,2295 1792,2295 1829,2295 1866,2295 1902,2295 1939,2295 1976,2295 2013,2295" />
+                <TextEquiv>
+                    <Unicode>por el pequeño márgen de uno a cero.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1309,2356 2193,2351 2176,2313 1309,2312" />
+                <Baseline points="1319,2343 1362,2343 1405,2343 1448,2342 1491,2342 1535,2342 1578,2342 1621,2342 1664,2343 1707,2343 1751,2343 1794,2343 1837,2343 1880,2345 1923,2345 1967,2345 2010,2345 2053,2345 2096,2345 2139,2345 2183,2343" />
+                <TextEquiv>
+                    <Unicode>Los despachos cablegráficos no dice en qué</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1256,2402 2186,2404 2186,2369 2133,2360 1256,2361" />
+                <Baseline points="1266,2391 1311,2391 1356,2391 1402,2391 1447,2391 1493,2391 1538,2391 1584,2391 1629,2391 1675,2391 1720,2391 1765,2391 1811,2391 1856,2391 1902,2391 1947,2391 1993,2393 2038,2393 2084,2393 2129,2394 2175,2396" />
+                <TextEquiv>
+                    <Unicode>tiempo se registró el tanto de la victoria y quien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1260,2452 2183,2449 2162,2405 1260,2408" />
+                <Baseline points="1271,2438 1316,2438 1361,2438 1406,2438 1451,2439 1496,2439 1541,2439 1586,2439 1631,2439 1676,2438 1721,2438 1766,2438 1811,2438 1856,2438 1901,2438 1946,2438 1991,2439 2036,2439 2081,2439 2126,2441 2172,2441" />
+                <TextEquiv>
+                    <Unicode>fué el autor del mismo pero con esa victoria, el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1272,2499 2181,2502 2181,2451 1273,2451" />
+                <Baseline points="1284,2486 1328,2486 1372,2486 1417,2486 1461,2486 1505,2486 1550,2486 1594,2486 1638,2486 1683,2486 1727,2486 1771,2486 1816,2486 1860,2486 1904,2486 1949,2486 1993,2486 2037,2486 2082,2486 2126,2487 2171,2487" />
+                <TextEquiv>
+                    <Unicode>“Ahtletic de Bilbao" se lleva definitivamente el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1266,2548 2181,2541 2158,2499 1266,2498" />
+                <Baseline points="1277,2534 1321,2535 1366,2535 1411,2535 1455,2535 1500,2535 1545,2535 1589,2535 1634,2535 1679,2535 1724,2535 1768,2535 1813,2534 1858,2534 1902,2534 1947,2534 1992,2534 2036,2534 2081,2534 2126,2535 2171,2535" />
+                <TextEquiv>
+                    <Unicode>trofeo, por haberlo ganado tres años consecuti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1260,2596 1279,2597 1292,2591 1300,2594 1307,2592 1311,2597 1332,2593 1344,2594 1346,2564 1335,2564 1327,2555 1262,2552" />
+                <Baseline points="1272,2579 1303,2582 1335,2582" />
+                <TextEquiv>
+                    <Unicode>vos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fútbol:
+No se trata ahora de partidos de este deporte
+celebrados en la capital, puesto que necesaria¬
+mente tiene que descansar durante la ya próxi¬
+ma temporada de aguas, sino de la “Copa del
+Rey” antes y ahora “Copa de España", que el
+magnífico equipo del “Athletic de Bilbao" ha
+ganado en el campo de Chamartin, de Madrid,
+derrotando a su antiguo rival el “Barcelona",
+por el pequeño márgen de uno a cero.
+Los despachos cablegráficos no dice en qué
+tiempo se registró el tanto de la victoria y quien
+fué el autor del mismo pero con esa victoria, el
+“Ahtletic de Bilbao" se lleva definitivamente el
+trofeo, por haberlo ganado tres años consecuti¬
+vos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1260,2646 2177,2646 2177,3103 1260,3103" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1259,2687 1304,2687 1310,2694 1329,2694 1337,2686 1396,2688 1420,2682 1420,2644 1363,2644 1359,2648 1319,2641 1308,2645 1260,2642" />
+                <Baseline points="1269,2676 1297,2675 1325,2676 1353,2677 1381,2678 1409,2675" />
+                <TextEquiv>
+                    <Unicode>Hipica:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1294,2740 2176,2742 2154,2698 1294,2695" />
+                <Baseline points="1304,2732 1347,2732 1390,2732 1433,2732 1476,2732 1519,2732 1562,2732 1605,2732 1648,2733 1691,2733 1734,2733 1777,2733 1820,2733 1863,2733 1906,2733 1949,2732 1992,2732 2035,2732 2078,2732 2121,2732 2165,2732" />
+                <TextEquiv>
+                    <Unicode>De las carreras del Domingo próximo, 3 de julio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1255,2797 2177,2796 2176,2743 1255,2759" />
+                <Baseline points="1265,2783 1310,2783 1355,2783 1400,2783 1445,2783 1490,2783 1535,2783 1580,2783 1625,2781 1670,2781 1715,2781 1760,2781 1805,2781 1850,2781 1895,2781 1940,2781 1985,2781 2030,2781 2075,2781 2120,2781 2165,2781" />
+                <TextEquiv>
+                    <Unicode>solo puedo decir que en dicho día se disputará</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1258,2846 2179,2838 2152,2795 1258,2808" />
+                <Baseline points="1268,2832 1313,2832 1358,2832 1403,2832 1448,2832 1493,2832 1538,2832 1583,2832 1628,2832 1673,2832 1718,2832 1763,2831 1808,2831 1853,2831 1898,2831 1943,2832 1988,2832 2033,2832 2078,2832 2123,2832 2168,2832" />
+                <TextEquiv>
+                    <Unicode>un colosal handicap entre los caballos de pri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1265,2893 2050,2899 2174,2893 2174,2855 1265,2857" />
+                <Baseline points="1275,2882 1319,2882 1363,2883 1408,2883 1452,2882 1497,2883 1541,2883 1585,2883 1630,2883 1674,2883 1719,2883 1763,2883 1807,2882 1852,2883 1896,2882 1941,2883 1985,2882 2029,2883 2074,2883 2118,2882 2163,2883" />
+                <TextEquiv>
+                    <Unicode>mera y segunda series. Es probable que en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1248,2941 2186,2944 2150,2898 1248,2904" />
+                <Baseline points="1259,2933 1304,2933 1350,2933 1396,2933 1442,2933 1488,2933 1533,2933 1579,2933 1625,2933 1671,2933 1717,2933 1762,2933 1808,2933 1854,2931 1900,2931 1946,2931 1991,2931 2037,2931 2083,2932 2129,2933 2175,2933" />
+                <TextEquiv>
+                    <Unicode>dicho handicap corran caballos de la talla de Rik,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1260,2993 2185,2989 2185,2953 2143,2945 1812,2968 1260,2951" />
+                <Baseline points="1271,2984 1316,2984 1361,2984 1406,2984 1451,2984 1497,2984 1542,2982 1587,2982 1632,2984 1677,2984 1723,2984 1768,2984 1813,2984 1858,2984 1903,2984 1949,2984 1994,2984 2039,2984 2084,2984 2129,2984 2175,2984" />
+                <TextEquiv>
+                    <Unicode>Hottentot, Iskandar, Gaucho y Handy. ¿Quién</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1257,3047 2179,3035 2137,3001 1257,3000" />
+                <Baseline points="1268,3033 1313,3033 1358,3033 1403,3033 1448,3033 1493,3033 1538,3033 1583,3035 1628,3035 1673,3035 1718,3035 1763,3035 1808,3035 1853,3035 1898,3035 1943,3035 1988,3035 2033,3035 2078,3033 2123,3033 2169,3032" />
+                <TextEquiv>
+                    <Unicode>de ellos vencerá? Ese es el problema y la in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1261,3100 1320,3104 1358,3096 1371,3100 1423,3096 1423,3070 1402,3070 1390,3058 1377,3058 1369,3049 1339,3049 1324,3058 1286,3049 1278,3058 1261,3058" />
+                <Baseline points="1272,3087 1300,3087 1328,3087 1356,3087 1384,3087 1413,3087" />
+                <TextEquiv>
+                    <Unicode>cógnita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hipica:
+De las carreras del Domingo próximo, 3 de julio
+solo puedo decir que en dicho día se disputará
+un colosal handicap entre los caballos de pri¬
+mera y segunda series. Es probable que en
+dicho handicap corran caballos de la talla de Rik,
+Hottentot, Iskandar, Gaucho y Handy. ¿Quién
+de ellos vencerá? Ese es el problema y la in¬
+cógnita.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1063,578 1444,578 1444,587 1063,587" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1649,1803 1810,1803 1810,1809 1649,1809" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="1642,2621 1803,2621 1803,2627 1642,2627" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

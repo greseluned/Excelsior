@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-07-12T13:12:35.692+02:00</Created>
+        <LastChange>2021-11-03T17:26:20.947+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93781084" pageNr="209" tsid="236400028" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BIYPAQMCPAIPCDDJAKTOYNGA" xmlUrl="https://files.transkribus.eu/Get?id=GHKCFFEUAOZZRPZLQSVEWVEV" imageId="17244402" />
+    </Metadata>
+    <Page imageFilename="0209_p209.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="0,0 2478,0 2478,3506 0,3506" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982463561" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 2478,0 2478,3398 0,3398" />
+        </GraphicRegion>
+        <TableRegion id="tbl_2_2" custom="readingOrder {index:1;}">
+            <Coords points="628,750 2170,750 2170,970 628,970" />
+            <TableCell row="0" col="0" type="paragraph" id="r_2_1_1">
+                <Coords points="628,750 948,750 948,821 628,821" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" type="paragraph" id="r_2_1_2">
+                <Coords points="948,750 1005,750 1005,821 948,821" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="2" type="paragraph" id="r_2_1_3">
+                <Coords points="1005,750 1203,750 1203,821 1005,821" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="3" type="paragraph" id="r_2_1_4">
+                <Coords points="1203,750 1231,750 1231,821 1203,821" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="4" type="paragraph" id="r_2_1_5">
+                <Coords points="1231,750 1828,750 1828,821 1231,821" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="5" type="paragraph" id="r_2_1_6">
+                <Coords points="1828,750 2170,750 2170,821 1828,821" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" type="paragraph" id="r_2_2_1">
+                <Coords points="628,821 948,821 948,836 628,836" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" type="paragraph" id="r_2_2_2">
+                <Coords points="948,821 1005,821 1005,836 948,836" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="2" type="paragraph" id="r_2_2_3">
+                <Coords points="1005,821 1203,821 1203,836 1005,836" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="3" type="paragraph" id="r_2_2_4">
+                <Coords points="1203,821 1231,821 1231,836 1203,836" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="4" orientation="0.0" type="paragraph" id="r_2_2_5">
+                <Coords points="1231,821 1828,821 1828,836 1231,836" />
+                <TextLine id="r_2_2_5l1" custom="readingOrder {index:0;}">
+                    <Coords points="1394,835 1419,837 1444,840 1469,841 1494,842 1519,843 1544,843 1569,843 1594,843 1619,842 1644,841 1669,840 1694,840 1719,840 1744,840 1769,840 1794,840 1820,841 1820,811 1794,810 1769,810 1744,810 1719,810 1694,810 1669,810 1644,811 1619,812 1594,813 1569,813 1544,813 1519,813 1494,812 1469,811 1444,810 1419,807 1394,805" />
+                    <Baseline points="1394,825 1419,827 1444,830 1469,831 1494,832 1519,833 1544,833 1569,833 1594,833 1619,832 1644,831 1669,830 1694,830 1719,830 1744,830 1769,830 1794,830 1820,831" />
+                    <TextEquiv>
+                        <Unicode>AOA</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_2_2_5l2" custom="readingOrder {index:1;}">
+                    <Coords points="1617,847 1652,847 1688,847 1688,817 1652,817 1617,817" />
+                    <Baseline points="1617,837 1652,837 1688,837" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="5" orientation="0.0" type="paragraph" id="r_2_2_6">
+                <Coords points="1828,821 2170,821 2170,836 1828,836" />
+                <TextLine id="r_2_2_6l1" custom="readingOrder {index:0;}">
+                    <Coords points="1835,878 1861,882 1887,883 1914,883 1940,883 1967,884 1967,734 1940,733 1914,733 1887,733 1861,732 1835,728" />
+                    <Baseline points="1835,828 1861,832 1887,833 1914,833 1940,833 1967,834" />
+                    <TextEquiv>
+                        <Unicode>O</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="r_2_2_6l2" custom="readingOrder {index:1;}">
+                    <Coords points="1986,890 2001,893 2001,743 1986,740" />
+                    <Baseline points="1986,840 2001,843" />
+                    <TextEquiv>
+                        <Unicode />
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" type="paragraph" id="r_2_3_1">
+                <Coords points="628,836 948,836 948,863 628,863" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" type="paragraph" id="r_2_3_2">
+                <Coords points="948,836 1005,836 1005,863 948,863" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="2" type="paragraph" id="r_2_3_3">
+                <Coords points="1005,836 1203,836 1203,863 1005,863" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="3" type="paragraph" id="r_2_3_4">
+                <Coords points="1203,836 1231,836 1231,863 1203,863" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="4" type="paragraph" id="r_2_3_5">
+                <Coords points="1231,836 1828,836 1828,863 1231,863" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="5" type="paragraph" id="r_2_3_6">
+                <Coords points="1828,836 2170,836 2170,863 1828,863" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" type="paragraph" id="r_2_4_1">
+                <Coords points="628,863 948,863 948,914 628,914" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" type="paragraph" id="r_2_4_2">
+                <Coords points="948,863 1005,863 1005,914 948,914" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="2" type="paragraph" id="r_2_4_3">
+                <Coords points="1005,863 1203,863 1203,914 1005,914" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="3" type="paragraph" id="r_2_4_4">
+                <Coords points="1203,863 1231,863 1231,914 1203,914" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="4" type="paragraph" id="r_2_4_5">
+                <Coords points="1231,863 1828,863 1828,914 1231,914" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="5" type="paragraph" id="r_2_4_6">
+                <Coords points="1828,863 2170,863 2170,914 1828,914" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" type="paragraph" id="r_2_5_1">
+                <Coords points="628,914 948,914 948,970 628,970" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" type="paragraph" id="r_2_5_2">
+                <Coords points="948,914 1005,914 1005,970 948,970" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="2" type="paragraph" id="r_2_5_3">
+                <Coords points="1005,914 1203,914 1203,970 1005,970" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="3" type="paragraph" id="r_2_5_4">
+                <Coords points="1203,914 1231,914 1231,970 1203,970" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="4" type="paragraph" id="r_2_5_5">
+                <Coords points="1231,914 1828,914 1828,970 1231,970" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="5" type="paragraph" id="r_2_5_6">
+                <Coords points="1828,914 2170,914 2170,970 1828,970" />
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1105,3449 1381,3449 1381,3506 1105,3506" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1970,3446 2415,3446 2415,3506 1970,3506" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="896,9 1024,9 1024,12 896,12" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1474,3394 1639,3394 1639,3408 1474,3408" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1901,1333 1916,1333 1916,1513 1901,1513" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="2416,368 2419,368 2419,464 2416,464" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="2424,1560 2427,1560 2427,1728 2424,1728" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="2424,1746 2429,1746 2429,2216 2424,2216" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="2427,2649 2432,2649 2432,3398 2427,3398" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1057,716 1099,716 1099,720 1057,720" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1999,2155 2005,2155 2005,2248 1999,2248" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="2424,1658 2428,1658 2428,1719 2424,1719" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1538,536 1633,536 1633,625 1538,625" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

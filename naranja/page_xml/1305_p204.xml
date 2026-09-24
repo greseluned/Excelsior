@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:37.365+02:00</Created>
+        <LastChange>2021-06-08T15:18:55.254+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782228" pageNr="1305" tsid="236401547" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=PYIFKMMLRLZIQVOWJZZXBXPR" xmlUrl="https://files.transkribus.eu/Get?id=NDLVVZUYDNCUCDRXWMQDLNBY" imageId="17247188" />
+    </Metadata>
+    <Page imageFilename="1305_p204.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="193,260 2286,260 2286,3240 193,3240" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982718006" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="237,270 2286,270 2286,3156 237,3156" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="202,260 1298,260 1298,363 202,363" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="203,307 1299,307 1274,259 203,260" />
+                <Baseline points="209,296 263,295 317,294 371,294 425,294 479,294 533,294 588,294 642,295 696,296 750,296 804,297 858,297 912,299 967,299 1021,299 1075,300 1129,300 1183,300 1237,300 1292,300" />
+                <TextEquiv>
+                    <Unicode>LA LLEGADA DEL ELENCO DE LA COMPAÑIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="244,356 1260,364 1239,316 245,307" />
+                <Baseline points="252,347 302,347 352,347 402,347 452,347 502,348 552,348 602,348 652,349 702,350 752,350 802,350 852,351 902,351 952,351 1002,352 1052,353 1102,353 1152,353 1202,354 1253,354" />
+                <TextEquiv>
+                    <Unicode>ESPAÑOLA DE ZARZUELAS Y OPERETAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LA LLEGADA DEL ELENCO DE LA COMPAÑIA
+ESPAÑOLA DE ZARZUELAS Y OPERETAS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="193,407 1318,407 1318,831 193,831" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="276,448 1109,466 1277,460 1290,427 276,415" />
+                <Baseline points="282,440 332,440 382,441 432,441 482,441 532,441 582,441 632,443 682,443 732,443 782,444 832,444 882,444 932,446 982,446 1032,447 1082,447 1132,447 1182,449 1232,449 1283,450" />
+                <TextEquiv>
+                    <Unicode>Foto de la derecha: La eximia actriz y cantan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="196,491 1120,506 1295,498 1296,464 196,455" />
+                <Baseline points="203,485 257,485 311,483 365,483 420,483 474,483 528,483 583,485 637,485 691,485 746,485 800,486 854,486 908,488 963,488 1017,489 1071,489 1126,489 1180,491 1234,491 1289,492" />
+                <TextEquiv>
+                    <Unicode>te hispano-filipina, Srta. Conchita Panadés, que en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="196,540 1255,548 1302,508 196,494" />
+                <Baseline points="203,528 257,528 312,527 366,527 421,527 476,527 530,527 585,527 639,528 694,528 749,528 803,530 858,530 912,530 967,531 1022,531 1076,531 1131,533 1185,533 1240,533 1295,533" />
+                <TextEquiv>
+                    <Unicode>la noche del debut de la compañía obtuvo un triunfo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="202,579 1179,595 1296,585 1297,548 202,544" />
+                <Baseline points="209,570 263,570 317,569 371,569 425,569 479,569 533,569 587,569 641,570 695,570 749,570 803,572 857,572 911,573 965,573 1019,573 1073,575 1127,575 1181,575 1235,576 1289,576" />
+                <TextEquiv>
+                    <Unicode>resonante.—Foto inferior: El clenco de la compañía</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="203,627 1291,627 1291,595 1122,582 203,586" />
+                <Baseline points="210,612 263,612 317,612 371,612 424,612 478,612 532,612 585,612 639,612 693,614 747,614 800,614 854,615 908,615 961,617 1015,617 1069,617 1122,617 1176,618 1230,618 1284,618" />
+                <TextEquiv>
+                    <Unicode>con su Director el popular Pepe Viñas (en el centro.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="196,666 1287,667 1303,634 196,632" />
+                <Baseline points="203,654 257,654 312,654 366,656 421,656 476,656 530,656 585,656 639,656 694,656 749,657 803,657 858,657 912,657 967,659 1022,659 1076,659 1131,659 1185,660 1240,660 1295,660" />
+                <TextEquiv>
+                    <Unicode>al lado de la Srta. Panadés), en las escalinatas del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="191,707 1279,714 1295,668 191,670" />
+                <Baseline points="198,699 252,698 306,698 361,698 415,698 470,698 524,698 579,699 633,699 688,699 742,699 796,701 851,701 905,701 960,701 1014,702 1069,702 1123,702 1178,702 1232,702 1287,702" />
+                <TextEquiv>
+                    <Unicode>Monumento de Rizal donde la Srta. Panadés depositó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="203,755 1296,745 1254,707 203,716" />
+                <Baseline points="209,741 263,741 317,740 371,740 425,740 479,740 533,740 587,740 641,741 695,741 749,741 803,743 857,743 911,743 965,744 1019,744 1073,744 1127,744 1181,744 1235,744 1289,744" />
+                <TextEquiv>
+                    <Unicode>una corona de flores inmediatamente después de de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="196,795 386,796 412,771 433,772 433,761 410,755 299,757 287,747 269,755 196,755" />
+                <Baseline points="203,786 230,783 258,782 286,782 314,782 341,783 369,785 397,786 425,789" />
+                <TextEquiv>
+                    <Unicode>sembarcar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="982,830 1034,833 1078,821 1287,835 1295,834 1296,795 1155,794 1125,804 1088,795 1077,805 983,796" />
+                <Baseline points="990,818 1017,819 1044,821 1071,821 1098,822 1125,822 1153,822 1180,822 1207,821 1234,821 1261,821 1289,822" />
+                <TextEquiv>
+                    <Unicode>Foto—J. NAVARRO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto de la derecha: La eximia actriz y cantan¬
+te hispano-filipina, Srta. Conchita Panadés, que en
+la noche del debut de la compañía obtuvo un triunfo
+resonante.—Foto inferior: El clenco de la compañía
+con su Director el popular Pepe Viñas (en el centro.
+al lado de la Srta. Panadés), en las escalinatas del
+Monumento de Rizal donde la Srta. Panadés depositó
+una corona de flores inmediatamente después de de¬
+sembarcar
+Foto—J. NAVARRO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="226,3179 2100,3179 2100,3240 226,3240" />
+        </GraphicRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="624,376 855,376 855,382 624,382" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="1671,686 1835,686 1835,698 1671,698" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="213,871 1326,871 1326,881 213,881" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="214,885 1338,885 1338,896 214,896" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="2073,1628 2276,1628 2276,1640 2073,1640" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="794,1708 1139,1708 1139,1728 794,1728" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="645,1915 928,1915 928,1927 645,1927" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="598,2028 978,2028 978,2039 598,2039" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="535,2149 1297,2149 1297,2176 535,2176" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="531,2167 705,2167 705,2178 531,2178" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="758,2176 1117,2176 1117,2194 758,2194" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="847,2299 1091,2299 1091,2309 847,2309" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="1119,2301 1335,2301 1335,2314 1119,2314" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="327,3220 2099,3220 2099,3235 327,3235" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="213,872 235,872 235,3016 213,3016" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="228,3032 237,3032 237,3217 228,3217" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="2053,1629 2065,1629 2065,3201 2053,3201" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="2071,1631 2083,1631 2083,2245 2071,2245" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="2072,2245 2094,2245 2094,3191 2072,3191" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="2087,2648 2103,2648 2103,3229 2087,3229" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="1100,2201 1109,2201 1109,2299 1100,2299" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:25;}">
+            <Coords points="434,1957 458,1957 458,1961 434,1961" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:26;}">
+            <Coords points="909,2033 947,2033 947,2039 909,2039" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:27;}">
+            <Coords points="1074,3099 1114,3099 1114,3103 1074,3103" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+            <Coords points="2073,2346 2074,2346 2074,2393 2073,2393" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

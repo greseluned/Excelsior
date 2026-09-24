@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:26.616+02:00</Created>
+        <LastChange>2021-10-29T19:50:54.958+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781484" pageNr="615" tsid="236400681" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KFGVKCITZCEUFKEDRCAXLCWM" xmlUrl="https://files.transkribus.eu/Get?id=HXIGXJKJQWYYLFJMMLNZWRMW" imageId="17244861" />
+    </Metadata>
+    <Page imageFilename="0615_p151.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982558844" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+                <RegionRefIndexed index="3" regionRef="r4" />
+                <RegionRefIndexed index="4" regionRef="r5" />
+                <RegionRefIndexed index="5" regionRef="r6" />
+                <RegionRefIndexed index="6" regionRef="r7" />
+                <RegionRefIndexed index="7" regionRef="r8" />
+                <RegionRefIndexed index="8" regionRef="r9" />
+                <RegionRefIndexed index="9" regionRef="r10" />
+                <RegionRefIndexed index="10" regionRef="r11" />
+                <RegionRefIndexed index="11" regionRef="r12" />
+                <RegionRefIndexed index="12" regionRef="r13" />
+                <RegionRefIndexed index="13" regionRef="r14" />
+                <RegionRefIndexed index="14" regionRef="r15" />
+                <RegionRefIndexed index="15" regionRef="r16" />
+                <RegionRefIndexed index="16" regionRef="r17" />
+                <RegionRefIndexed index="17" regionRef="r18" />
+                <RegionRefIndexed index="18" regionRef="r19" />
+                <RegionRefIndexed index="19" regionRef="r20" />
+                <RegionRefIndexed index="20" regionRef="r21" />
+                <RegionRefIndexed index="21" regionRef="r22" />
+                <RegionRefIndexed index="22" regionRef="r23" />
+                <RegionRefIndexed index="23" regionRef="r24" />
+                <RegionRefIndexed index="24" regionRef="r25" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1734,2659 1734,2716 1770,2716 1770,2659" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1749,2689 1769,2692 1769,2662 1749,2659" />
+                <Baseline points="1749,2679 1769,2682" />
+                <TextEquiv>
+                    <Unicode>*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1734,2716 1770,2713 1770,2683 1734,2686" />
+                <Baseline points="1734,2706 1770,2703" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>*
+E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1742,2262 1742,2407 1778,2407 1778,2262" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1749,2311 1770,2314 1770,2265 1749,2262" />
+                <Baseline points="1749,2295 1770,2298" />
+                <TextEquiv>
+                    <Unicode>—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1742,2377 1778,2407 1778,2358 1742,2328" />
+                <Baseline points="1742,2361 1778,2391" />
+                <TextEquiv>
+                    <Unicode>R</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>—
+R</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1782,2999 1782,3139 1821,3139 1821,2999" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1782,3065 1821,3059 1821,2999 1782,3005" />
+                <Baseline points="1782,3045 1821,3039" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="1805,3139 1821,3139 1821,3079 1805,3079" />
+                <Baseline points="1805,3119 1821,3119" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S
+E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="1815,2581 1815,2737 1829,2737 1829,2581" />
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1815,2737 1829,2731 1829,2581 1815,2587" />
+                <Baseline points="1815,2687 1829,2681" />
+                <TextEquiv>
+                    <Unicode>S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:4;}">
+            <Coords points="1815,2285 1815,2441 1830,2441 1830,2285" />
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="1815,2435 1830,2441 1830,2291 1815,2285" />
+                <Baseline points="1815,2385 1830,2391" />
+                <TextEquiv>
+                    <Unicode>é</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>é</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:5;}">
+            <Coords points="1869,1819 1869,1969 1884,1969 1884,1819" />
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="1869,1969 1884,1969 1884,1819 1869,1819" />
+                <Baseline points="1869,1919 1884,1919" />
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r7" custom="readingOrder {index:6;}">
+            <Coords points="1863,2655 1863,2751 1904,2751 1904,2655" />
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="1863,2694 1899,2697 1899,2658 1863,2655" />
+                <Baseline points="1863,2681 1899,2684" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l2" custom="readingOrder {index:1;}">
+                <Coords points="1878,2748 1904,2751 1904,2712 1878,2709" />
+                <Baseline points="1878,2735 1904,2738" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r8" custom="readingOrder {index:7;}">
+            <Coords points="1884,3109 1884,3263 1946,3263 1946,3109" />
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="1884,3262 1915,3259 1946,3263 1946,3113 1915,3109 1884,3112" />
+                <Baseline points="1884,3212 1915,3209 1946,3213" />
+                <TextEquiv>
+                    <Unicode>C</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>C</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r9" custom="readingOrder {index:8;}">
+            <Coords points="1923,1828 1923,1982 1938,1982 1938,1828" />
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="1923,1982 1938,1978 1938,1828 1923,1832" />
+                <Baseline points="1923,1932 1938,1928" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r10" custom="readingOrder {index:9;}">
+            <Coords points="1916,2311 1916,2476 1947,2476 1947,2311" />
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="1917,2349 1947,2348 1947,2311 1917,2312" />
+                <Baseline points="1917,2337 1947,2336" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l2" custom="readingOrder {index:1;}">
+                <Coords points="1922,2449 1937,2451 1937,2421 1922,2419" />
+                <Baseline points="1922,2439 1937,2441" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l3" custom="readingOrder {index:2;}">
+                <Coords points="1916,2473 1946,2476 1946,2446 1916,2443" />
+                <Baseline points="1916,2463 1946,2466" />
+                <TextEquiv>
+                    <Unicode>N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S
+E
+N</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r11" custom="readingOrder {index:10;}">
+            <Coords points="1971,1721 1971,1877 1989,1877 1989,1721" />
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="1971,1877 1989,1871 1989,1721 1971,1727" />
+                <Baseline points="1971,1827 1989,1821" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r12" custom="readingOrder {index:11;}">
+            <Coords points="1961,2112 1961,2377 2004,2377 2004,2112" />
+            <TextLine id="r12l1" custom="readingOrder {index:0;}">
+                <Coords points="1979,2223 1994,2226 1994,2115 1979,2112" />
+                <Baseline points="1979,2186 1994,2189" />
+                <TextEquiv>
+                    <Unicode>N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l2" custom="readingOrder {index:1;}">
+                <Coords points="1961,2371 2004,2377 2004,2266 1961,2260" />
+                <Baseline points="1961,2334 2004,2340" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>N
+A</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r13" custom="readingOrder {index:12;}">
+            <Coords points="1970,3110 1970,3266 2000,3266 2000,3110" />
+            <TextLine id="r13l1" custom="readingOrder {index:0;}">
+                <Coords points="1970,3260 2000,3266 2000,3116 1970,3110" />
+                <Baseline points="1970,3210 2000,3216" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r14" custom="readingOrder {index:13;}">
+            <Coords points="2016,2977 2016,3240 2066,3240 2066,2977" />
+            <TextLine id="r14l1" custom="readingOrder {index:0;}">
+                <Coords points="2016,3032 2037,3035 2037,2980 2016,2977" />
+                <Baseline points="2016,3014 2037,3017" />
+                <TextEquiv>
+                    <Unicode>r.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l2" custom="readingOrder {index:1;}">
+                <Coords points="2030,3119 2046,3121 2046,3078 2030,3076" />
+                <Baseline points="2030,3105 2046,3107" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l3" custom="readingOrder {index:2;}">
+                <Coords points="2018,3176 2051,3182 2051,3139 2018,3133" />
+                <Baseline points="2018,3162 2051,3168" />
+                <TextEquiv>
+                    <Unicode>*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l4" custom="readingOrder {index:3;}">
+                <Coords points="2021,3234 2066,3240 2066,3185 2021,3179" />
+                <Baseline points="2021,3216 2066,3222" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>r.
+A
+*
+S</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r15" custom="readingOrder {index:14;}">
+            <Coords points="1982,1596 1982,1914 2105,1914 2105,1596" />
+            <TextLine id="r15l1" custom="readingOrder {index:0;}">
+                <Coords points="1982,1679 2012,1677 2043,1677 2074,1679 2105,1680 2105,1599 2074,1598 2043,1596 2012,1596 1982,1598" />
+                <Baseline points="1982,1652 2012,1650 2043,1650 2074,1652 2105,1653" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l2" custom="readingOrder {index:1;}">
+                <Coords points="2052,1825 2094,1825 2094,1759 2052,1759" />
+                <Baseline points="2052,1803 2094,1803" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l3" custom="readingOrder {index:2;}">
+                <Coords points="2034,1914 2052,1914 2052,1848 2034,1848" />
+                <Baseline points="2034,1892 2052,1892" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r16" custom="readingOrder {index:15;}">
+            <Coords points="2046,2236 2046,2420 2084,2420 2084,2236" />
+            <TextLine id="r16l1" custom="readingOrder {index:0;}">
+                <Coords points="2046,2420 2084,2386 2084,2236 2046,2270" />
+                <Baseline points="2046,2370 2084,2336" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r17" custom="readingOrder {index:16;}">
+            <Coords points="2081,2345 2081,2504 2114,2504 2114,2345" />
+            <TextLine id="r17l1" custom="readingOrder {index:0;}">
+                <Coords points="2081,2495 2114,2504 2114,2354 2081,2345" />
+                <Baseline points="2081,2445 2114,2454" />
+                <TextEquiv>
+                    <Unicode>N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>N</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r18" custom="readingOrder {index:17;}">
+            <Coords points="2103,1771 2103,1922 2118,1922 2118,1771" />
+            <TextLine id="r18l1" custom="readingOrder {index:0;}">
+                <Coords points="2103,1921 2118,1922 2118,1772 2103,1771" />
+                <Baseline points="2103,1871 2118,1872" />
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r19" custom="readingOrder {index:18;}">
+            <Coords points="2081,3006 2081,3159 2159,3159 2159,3006" />
+            <TextLine id="r19l1" custom="readingOrder {index:0;}">
+                <Coords points="2102,3046 2117,3036 2117,3006 2102,3016" />
+                <Baseline points="2102,3036 2117,3026" />
+                <TextEquiv>
+                    <Unicode>.S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l2" custom="readingOrder {index:1;}">
+                <Coords points="2109,3060 2124,3063 2124,3033 2109,3030" />
+                <Baseline points="2109,3050 2124,3053" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l3" custom="readingOrder {index:2;}">
+                <Coords points="2081,3130 2107,3135 2133,3140 2159,3145 2159,3115 2133,3110 2107,3105 2081,3100" />
+                <Baseline points="2081,3120 2107,3125 2133,3130 2159,3135" />
+                <TextEquiv>
+                    <Unicode>S,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l4" custom="readingOrder {index:3;}">
+                <Coords points="2136,3156 2151,3159 2151,3129 2136,3126" />
+                <Baseline points="2136,3146 2151,3149" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>.S
+2
+S,
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r20" custom="readingOrder {index:19;}">
+            <Coords points="2154,2498 2154,2651 2169,2651 2169,2498" />
+            <TextLine id="r20l1" custom="readingOrder {index:0;}">
+                <Coords points="2154,2648 2169,2651 2169,2501 2154,2498" />
+                <Baseline points="2154,2598 2169,2601" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r21" custom="readingOrder {index:20;}">
+            <Coords points="2109,1702 2109,2112 2187,2112 2187,1702" />
+            <TextLine id="r21l1" custom="readingOrder {index:0;}">
+                <Coords points="2114,1768 2132,1754 2132,1702 2114,1716" />
+                <Baseline points="2114,1751 2132,1737" />
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l2" custom="readingOrder {index:1;}">
+                <Coords points="2121,1812 2154,1823 2187,1830 2187,1791 2154,1784 2121,1773" />
+                <Baseline points="2121,1799 2154,1810 2187,1817" />
+                <TextEquiv>
+                    <Unicode>R. 5)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l3" custom="readingOrder {index:2;}">
+                <Coords points="2166,1934 2163,1909 2168,1884 2168,1830 2163,1855 2166,1880" />
+                <Baseline points="2166,1916 2163,1891 2168,1866" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l4" custom="readingOrder {index:3;}">
+                <Coords points="2109,1986 2134,1979 2159,1977 2184,1977 2184,1923 2159,1923 2134,1925 2109,1932" />
+                <Baseline points="2109,1968 2134,1961 2159,1959 2184,1959" />
+                <TextEquiv>
+                    <Unicode>E E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l5" custom="readingOrder {index:4;}">
+                <Coords points="2139,2112 2187,2096 2187,2042 2139,2058" />
+                <Baseline points="2139,2094 2187,2078" />
+                <TextEquiv>
+                    <Unicode>.9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3
+R. 5)
+
+E E
+.9</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r22" custom="readingOrder {index:21;}">
+            <Coords points="2159,2827 2159,2983 2174,2983 2174,2827" />
+            <TextLine id="r22l1" custom="readingOrder {index:0;}">
+                <Coords points="2159,2983 2174,2977 2174,2827 2159,2833" />
+                <Baseline points="2159,2933 2174,2927" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r23" custom="readingOrder {index:22;}">
+            <Coords points="2169,3113 2169,3266 2184,3266 2184,3113" />
+            <TextLine id="r23l1" custom="readingOrder {index:0;}">
+                <Coords points="2169,3263 2184,3266 2184,3116 2169,3113" />
+                <Baseline points="2169,3213 2184,3216" />
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r24" custom="readingOrder {index:23;}">
+            <Coords points="2201,2593 2201,2878 2250,2878 2250,2593" />
+            <TextLine id="r24l1" custom="readingOrder {index:0;}">
+                <Coords points="2205,2671 2226,2671 2226,2593 2205,2593" />
+                <Baseline points="2205,2645 2226,2645" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r24l2" custom="readingOrder {index:1;}">
+                <Coords points="2220,2809 2250,2815 2250,2772 2220,2766" />
+                <Baseline points="2220,2795 2250,2801" />
+                <TextEquiv>
+                    <Unicode>*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r24l3" custom="readingOrder {index:2;}">
+                <Coords points="2201,2878 2226,2869 2226,2791 2201,2800" />
+                <Baseline points="2201,2852 2226,2843" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+*
+S</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r25" custom="readingOrder {index:24;}">
+            <Coords points="2226,2440 2226,2594 2250,2594 2250,2440" />
+            <TextLine id="r25l1" custom="readingOrder {index:0;}">
+                <Coords points="2226,2590 2250,2594 2250,2444 2226,2440" />
+                <Baseline points="2226,2540 2250,2544" />
+                <TextEquiv>
+                    <Unicode>S0</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S0</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

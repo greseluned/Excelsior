@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:45:19.442+02:00</Created>
+        <LastChange>2021-06-08T16:53:59.087+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782457" pageNr="1515" tsid="236401852" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=OKXAROSOJCTFAWHBHZPRTKSG" xmlUrl="https://files.transkribus.eu/Get?id=GHJYXULOGZUUTJOOGWRYOMPN" imageId="17247886" />
+    </Metadata>
+    <Page imageFilename="1515_p414.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="188,282 2280,282 2280,3214 188,3214" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982767330" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="188,282 2275,282 2275,1751 188,1751" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="197,1384 1222,1384 1222,3208 197,3208" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="242,1425 863,1416 892,1435 1084,1427 1104,1392 242,1393" />
+                <Baseline points="248,1413 290,1413 333,1415 375,1415 418,1416 460,1416 503,1416 545,1416 588,1416 630,1416 673,1416 715,1416 758,1416 800,1416 843,1416 885,1416 928,1416 970,1416 1013,1416 1055,1418 1098,1418" />
+                <TextEquiv>
+                    <Unicode>Aleng Ipang era una mujer pueblerina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="203,1480 1089,1483 1089,1455 1039,1443 829,1443 806,1466 706,1444 203,1450" />
+                <Baseline points="209,1473 252,1473 296,1473 339,1474 383,1475 427,1475 470,1475 514,1476 558,1476 601,1476 645,1476 689,1478 732,1478 776,1478 820,1478 863,1478 907,1478 951,1478 994,1478 1038,1478 1082,1478" />
+                <TextEquiv>
+                    <Unicode>en el concepto más vulgar. Mascaba bu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="209,1555 1096,1545 1096,1513 1007,1500 831,1524 798,1500 209,1507" />
+                <Baseline points="215,1538 258,1538 302,1536 346,1536 389,1536 433,1535 477,1535 520,1535 564,1536 608,1536 652,1536 695,1536 739,1536 783,1538 826,1538 870,1538 914,1538 957,1538 1001,1539 1045,1539 1089,1539" />
+                <TextEquiv>
+                    <Unicode>yo, hacia los menesteres de la casa e iba a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="208,1611 1088,1603 1047,1564 989,1590 920,1564 208,1573" />
+                <Baseline points="215,1598 258,1598 301,1598 345,1598 388,1598 431,1598 475,1598 518,1598 561,1598 605,1598 648,1599 691,1599 735,1599 778,1599 821,1599 865,1599 908,1599 951,1599 995,1599 1038,1598 1082,1598" />
+                <TextEquiv>
+                    <Unicode>misa los domingos y días de guardar. Ha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="216,1671 1102,1659 1063,1627 216,1636" />
+                <Baseline points="222,1658 265,1658 309,1658 352,1658 396,1658 440,1658 483,1658 527,1658 571,1658 614,1658 658,1658 702,1658 745,1658 789,1658 833,1658 876,1658 920,1659 964,1659 1007,1659 1051,1659 1095,1659" />
+                <TextEquiv>
+                    <Unicode>cia doce años que el padre Troadio había</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="203,1730 1094,1729 1094,1700 1044,1684 950,1707 854,1684 605,1706 547,1683 203,1690" />
+                <Baseline points="209,1718 255,1718 301,1718 347,1718 394,1718 440,1718 486,1719 532,1719 579,1719 625,1719 671,1719 717,1721 764,1721 810,1721 856,1721 902,1721 949,1721 995,1722 1041,1722 1088,1722" />
+                <TextEquiv>
+                    <Unicode>bendecido su unión con Mang Doro, y Dios</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="202,1782 1092,1788 1092,1757 937,1747 793,1748 769,1771 688,1748 202,1752" />
+                <Baseline points="209,1776 252,1776 296,1778 340,1778 384,1778 428,1779 471,1779 515,1779 559,1779 603,1781 647,1781 690,1781 734,1781 778,1781 822,1781 866,1781 909,1781 953,1781 997,1781 1041,1782 1085,1782" />
+                <TextEquiv>
+                    <Unicode>les había dado tres frutos. La mujer cum¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="213,1859 1212,1854 1212,1821 1168,1807 307,1831 213,1803" />
+                <Baseline points="219,1841 268,1841 317,1841 366,1841 416,1841 465,1841 514,1841 564,1841 613,1841 662,1841 712,1841 761,1842 810,1842 859,1842 909,1842 958,1842 1007,1844 1057,1844 1106,1844 1155,1844 1205,1845" />
+                <TextEquiv>
+                    <Unicode>plia, como podía, con todos los preceptos de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="215,1914 1213,1905 1136,1868 215,1868" />
+                <Baseline points="221,1902 270,1902 319,1902 368,1902 418,1902 467,1902 516,1902 565,1902 615,1902 664,1904 713,1904 762,1904 812,1904 861,1904 910,1905 959,1905 1009,1905 1058,1905 1107,1905 1156,1904 1206,1904" />
+                <TextEquiv>
+                    <Unicode>lglesia y por el pueblo pasaba como una de tan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="216,1971 1036,1962 1191,1986 1210,1940 216,1932" />
+                <Baseline points="222,1961 271,1962 320,1962 369,1962 418,1964 467,1964 516,1964 565,1964 614,1964 663,1964 712,1964 761,1965 810,1965 859,1965 908,1965 957,1965 1006,1967 1055,1967 1104,1968 1153,1970 1203,1971" />
+                <TextEquiv>
+                    <Unicode>tas almas que practicaban el bien a su modo, y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="214,2035 1218,2021 1069,1987 214,1988" />
+                <Baseline points="221,2024 270,2024 320,2024 369,2024 419,2024 468,2024 518,2024 567,2025 617,2025 666,2025 716,2025 765,2025 815,2025 864,2025 914,2025 963,2025 1013,2025 1062,2024 1112,2024 1161,2024 1211,2024" />
+                <TextEquiv>
+                    <Unicode>hasta había llegado a infundir respeto y benevo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="204,2086 223,2096 254,2093 293,2099 307,2095 344,2098 351,2097 352,2073 338,2073 328,2061 304,2051 275,2062 239,2060 231,2052 205,2051" />
+                <Baseline points="210,2081 237,2082 264,2083 291,2084 318,2085 345,2087" />
+                <TextEquiv>
+                    <Unicode>lencia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="260,2151 1209,2162 1209,2120 260,2116" />
+                <Baseline points="267,2147 313,2147 360,2148 407,2148 454,2148 501,2148 547,2150 594,2150 641,2150 688,2150 735,2150 781,2150 828,2151 875,2151 922,2151 969,2151 1015,2151 1062,2151 1109,2151 1156,2150 1203,2150" />
+                <TextEquiv>
+                    <Unicode>Yo le había visto y conocido. Viviamos a una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="202,2214 1206,2219 1182,2179 202,2190" />
+                <Baseline points="209,2210 258,2208 308,2208 357,2208 407,2208 456,2208 506,2210 555,2210 605,2210 654,2210 704,2210 753,2211 803,2211 852,2211 902,2211 951,2211 1001,2211 1050,2211 1100,2211 1149,2211 1199,2211" />
+                <TextEquiv>
+                    <Unicode>esquina de su casa, y cuando salia del colegio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="215,2292 1221,2278 1183,2236 1026,2259 988,2235 215,2243" />
+                <Baseline points="221,2271 270,2270 320,2270 369,2270 419,2270 469,2270 518,2270 568,2270 618,2270 667,2270 717,2270 767,2271 816,2271 866,2271 916,2271 965,2273 1015,2273 1065,2273 1114,2273 1164,2271 1214,2271" />
+                <TextEquiv>
+                    <Unicode>para las vacaciones de verano, habría ido más</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l16" custom="readingOrder {index:15;}">
+                <Coords points="221,2339 1209,2338 1191,2296 221,2299" />
+                <Baseline points="227,2331 275,2330 324,2330 373,2330 422,2330 471,2330 519,2330 568,2330 617,2331 666,2331 715,2331 763,2333 812,2333 861,2333 910,2333 959,2333 1007,2333 1056,2333 1105,2333 1154,2333 1203,2331" />
+                <TextEquiv>
+                    <Unicode>de una vez a jugar con los hijos de aquel matri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l17" custom="readingOrder {index:16;}">
+                <Coords points="215,2402 1206,2403 1206,2368 215,2363" />
+                <Baseline points="221,2391 272,2390 324,2390 375,2390 427,2391 478,2391 530,2391 581,2393 633,2393 684,2393 736,2394 787,2394 839,2394 890,2394 942,2394 993,2394 1045,2394 1096,2394 1148,2394 1200,2393" />
+                <TextEquiv>
+                    <Unicode>monio. Repito que Aleng Ipang no era una</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l18" custom="readingOrder {index:17;}">
+                <Coords points="220,2460 1160,2475 1218,2427 220,2426" />
+                <Baseline points="227,2450 276,2450 325,2450 374,2450 423,2450 473,2450 522,2450 571,2451 620,2451 669,2453 719,2453 768,2454 817,2454 866,2454 915,2454 965,2454 1014,2454 1063,2454 1112,2454 1161,2453 1211,2451" />
+                <TextEquiv>
+                    <Unicode>mujer de malas costumbres ni estaba roida por</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l19" custom="readingOrder {index:18;}">
+                <Coords points="210,2521 1215,2523 1191,2480 430,2503 210,2481" />
+                <Baseline points="216,2510 265,2511 315,2511 364,2511 414,2511 464,2512 513,2513 563,2513 613,2513 662,2514 712,2514 762,2514 811,2514 861,2514 911,2516 960,2516 1010,2516 1060,2516 1109,2516 1159,2516 1209,2516" />
+                <TextEquiv>
+                    <Unicode>los vicios, como es caso de muchas hembras de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l20" custom="readingOrder {index:19;}">
+                <Coords points="217,2587 1220,2585 1220,2552 1161,2539 218,2548" />
+                <Baseline points="224,2571 273,2571 323,2571 372,2571 422,2571 471,2571 521,2571 570,2573 620,2573 669,2573 719,2574 768,2574 818,2576 867,2576 917,2576 966,2577 1016,2577 1065,2577 1115,2577 1164,2576 1214,2576" />
+                <TextEquiv>
+                    <Unicode>pueblos y ciudades, y hasta juraría que bien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l21" custom="readingOrder {index:20;}">
+                <Coords points="215,2642 1221,2644 1211,2612 942,2600 215,2605" />
+                <Baseline points="221,2631 270,2631 320,2633 370,2633 419,2633 469,2634 519,2634 568,2634 618,2634 668,2636 718,2636 767,2636 817,2636 867,2636 916,2636 966,2636 1016,2636 1065,2636 1115,2636 1165,2636 1215,2636" />
+                <TextEquiv>
+                    <Unicode>serviria de modelo y espejo para ciertas esposas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l22" custom="readingOrder {index:21;}">
+                <Coords points="209,2696 1221,2706 1179,2659 959,2687 924,2660 787,2688 754,2660 209,2671" />
+                <Baseline points="215,2690 265,2690 315,2691 365,2691 415,2691 465,2693 515,2693 565,2694 615,2694 665,2694 715,2694 765,2696 815,2696 865,2696 915,2696 965,2697 1015,2697 1065,2697 1115,2697 1165,2697 1215,2696" />
+                <TextEquiv>
+                    <Unicode>extraviadas, cuya conducta sólo da pábulo a la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l23" custom="readingOrder {index:22;}">
+                <Coords points="216,2760 1149,2769 1103,2722 824,2747 751,2723 216,2729" />
+                <Baseline points="222,2753 268,2753 314,2753 360,2754 406,2754 452,2754 498,2754 544,2754 590,2754 636,2756 682,2756 728,2756 774,2756 820,2756 866,2757 912,2757 958,2757 1004,2757 1050,2757 1096,2757 1143,2757" />
+                <TextEquiv>
+                    <Unicode>murmuración más impiadosa y destemplada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l24" custom="readingOrder {index:23;}">
+                <Coords points="264,2825 1215,2834 1215,2794 1175,2788 449,2807 264,2780" />
+                <Baseline points="270,2816 319,2816 368,2816 418,2817 467,2817 517,2819 566,2819 615,2819 665,2820 714,2820 764,2820 813,2820 863,2820 912,2820 961,2820 1011,2820 1060,2820 1110,2820 1159,2819 1209,2819" />
+                <TextEquiv>
+                    <Unicode>Lo malo es que poco a poco circuló entre los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l25" custom="readingOrder {index:24;}">
+                <Coords points="215,2882 1221,2891 1221,2859 908,2845 215,2852" />
+                <Baseline points="221,2874 270,2876 320,2876 370,2877 419,2879 469,2879 519,2880 568,2880 618,2881 668,2882 718,2882 767,2882 817,2882 867,2882 916,2882 966,2883 1016,2883 1065,2883 1115,2883 1165,2883 1215,2883" />
+                <TextEquiv>
+                    <Unicode>vecinos el rumor de que Aleng lpang era muy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l26" custom="readingOrder {index:25;}">
+                <Coords points="221,2947 1213,2955 1213,2906 221,2914" />
+                <Baseline points="227,2939 278,2939 330,2939 381,2939 433,2939 484,2939 536,2940 587,2940 639,2940 690,2940 742,2942 793,2942 845,2942 896,2942 948,2942 999,2943 1051,2943 1102,2943 1154,2943 1206,2943" />
+                <TextEquiv>
+                    <Unicode>avara. El rumor fué transmitido por la vecindad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l27" custom="readingOrder {index:26;}">
+                <Coords points="221,3010 1222,3010 1176,2972 221,2981" />
+                <Baseline points="227,3003 276,3002 325,3002 375,3002 424,3002 474,3002 523,3002 572,3003 622,3003 671,3003 721,3005 770,3005 819,3006 869,3006 918,3006 968,3008 1017,3008 1066,3008 1116,3008 1165,3008 1215,3006" />
+                <TextEquiv>
+                    <Unicode>al barrio y del barrio se propagó por la pobla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l28" custom="readingOrder {index:27;}">
+                <Coords points="225,3074 1216,3086 1177,3036 225,3039" />
+                <Baseline points="231,3065 279,3065 328,3066 377,3066 426,3066 475,3066 524,3068 573,3068 622,3068 671,3068 720,3069 768,3069 817,3069 866,3069 915,3069 964,3071 1013,3071 1062,3071 1111,3072 1160,3072 1209,3072" />
+                <TextEquiv>
+                    <Unicode>ción. Se decía que la mujer, codiciosa de todo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l29" custom="readingOrder {index:28;}">
+                <Coords points="223,3141 1214,3138 1201,3108 1095,3100 223,3107" />
+                <Baseline points="230,3128 278,3128 327,3128 376,3129 425,3129 474,3129 523,3129 572,3129 621,3131 670,3131 719,3131 767,3131 816,3131 865,3131 914,3131 963,3132 1012,3132 1061,3132 1110,3134 1159,3134 1208,3135" />
+                <TextEquiv>
+                    <Unicode>se negaba a dar la menor perrilla a ningún mu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l30" custom="readingOrder {index:29;}">
+                <Coords points="227,3203 1223,3202 1223,3172 1135,3164 227,3165" />
+                <Baseline points="234,3191 283,3191 332,3192 381,3192 430,3192 479,3194 528,3194 578,3194 627,3194 676,3194 725,3194 774,3195 823,3195 872,3195 922,3195 971,3195 1020,3195 1069,3195 1118,3195 1167,3195 1217,3195" />
+                <TextEquiv>
+                    <Unicode>chacho del lugar y hasta había roto la costum¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aleng Ipang era una mujer pueblerina
+en el concepto más vulgar. Mascaba bu¬
+yo, hacia los menesteres de la casa e iba a
+misa los domingos y días de guardar. Ha¬
+cia doce años que el padre Troadio había
+bendecido su unión con Mang Doro, y Dios
+les había dado tres frutos. La mujer cum¬
+plia, como podía, con todos los preceptos de la
+lglesia y por el pueblo pasaba como una de tan¬
+tas almas que practicaban el bien a su modo, y
+hasta había llegado a infundir respeto y benevo¬
+lencia.
+Yo le había visto y conocido. Viviamos a una
+esquina de su casa, y cuando salia del colegio
+para las vacaciones de verano, habría ido más
+de una vez a jugar con los hijos de aquel matri¬
+monio. Repito que Aleng Ipang no era una
+mujer de malas costumbres ni estaba roida por
+los vicios, como es caso de muchas hembras de
+pueblos y ciudades, y hasta juraría que bien
+serviria de modelo y espejo para ciertas esposas
+extraviadas, cuya conducta sólo da pábulo a la
+murmuración más impiadosa y destemplada.
+Lo malo es que poco a poco circuló entre los
+vecinos el rumor de que Aleng lpang era muy
+avara. El rumor fué transmitido por la vecindad
+al barrio y del barrio se propagó por la pobla¬
+ción. Se decía que la mujer, codiciosa de todo,
+se negaba a dar la menor perrilla a ningún mu¬
+chacho del lugar y hasta había roto la costum¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1263,1439 2280,1439 2280,3214 1263,3214" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1836,1483 2255,1483 2255,1439 2144,1436 2031,1459 1990,1444 1911,1458 1836,1436" />
+                <Baseline points="1842,1473 1867,1472 1892,1472 1918,1472 1943,1472 1969,1472 1994,1473 2020,1473 2045,1473 2070,1473 2096,1473 2121,1473 2147,1472 2172,1472 2198,1471 2223,1470 2249,1469" />
+                <TextEquiv>
+                    <Unicode>bre, tan arraigada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1833,1539 1888,1547 1907,1535 1934,1548 1964,1537 1981,1553 2073,1547 2084,1535 2223,1541 2262,1531 2262,1509 2184,1504 2159,1520 2110,1500 2082,1522 2035,1500 1976,1513 1947,1500 1914,1513 1832,1510" />
+                <Baseline points="1839,1533 1865,1535 1891,1535 1917,1535 1943,1535 1969,1534 1995,1533 2021,1533 2047,1533 2073,1533 2099,1533 2125,1532 2151,1531 2177,1530 2203,1530 2229,1529 2256,1529" />
+                <TextEquiv>
+                    <Unicode>en el país, de con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1829,1598 1919,1607 1975,1585 2011,1609 2034,1609 2054,1589 2079,1610 2239,1604 2265,1599 2265,1571 2223,1556 2176,1567 2138,1556 2074,1574 1915,1572 1897,1559 1829,1578" />
+                <Baseline points="1835,1593 1861,1593 1888,1593 1914,1593 1941,1593 1967,1593 1994,1593 2020,1593 2047,1593 2073,1593 2100,1593 2126,1593 2153,1593 2179,1593 2206,1592 2232,1592 2259,1592" />
+                <TextEquiv>
+                    <Unicode>ceder un puñadito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1842,1666 1887,1667 1900,1655 1912,1667 2010,1667 2029,1656 2046,1668 2072,1657 2087,1667 2256,1657 2256,1630 2240,1620 2152,1620 2136,1637 2096,1620 2030,1636 1842,1620" />
+                <Baseline points="1848,1656 1873,1655 1898,1655 1923,1653 1948,1653 1973,1653 1998,1653 2023,1653 2049,1653 2074,1653 2099,1653 2124,1653 2149,1653 2174,1652 2199,1652 2224,1652 2250,1652" />
+                <TextEquiv>
+                    <Unicode>de arroz a la fami¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1838,1722 2007,1729 2072,1708 2087,1723 2135,1716 2159,1731 2254,1723 2254,1691 2209,1677 2136,1702 2104,1688 1992,1683 1907,1703 1888,1684 1838,1684" />
+                <Baseline points="1844,1713 1869,1713 1894,1713 1919,1713 1944,1713 1969,1713 1995,1713 2020,1713 2045,1712 2070,1712 2095,1712 2121,1712 2146,1712 2171,1713 2196,1713 2221,1714 2247,1715" />
+                <TextEquiv>
+                    <Unicode>lía vecina a quien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1837,1786 2159,1787 2203,1770 2224,1787 2253,1784 2252,1736 2170,1763 2136,1741 2023,1740 2000,1764 1969,1764 1936,1741 1885,1751 1837,1742" />
+                <Baseline points="1844,1775 1869,1775 1894,1775 1919,1775 1944,1775 1969,1776 1994,1776 2019,1775 2045,1775 2070,1775 2095,1775 2120,1775 2145,1775 2170,1774 2195,1773 2220,1773 2246,1773" />
+                <TextEquiv>
+                    <Unicode>había faltado el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1832,1844 2111,1843 2121,1833 2135,1843 2216,1842 2216,1821 2175,1802 2144,1804 2130,1818 2112,1804 2064,1803 2042,1824 2003,1802 1832,1814" />
+                <Baseline points="1838,1835 1864,1835 1891,1835 1917,1835 1944,1835 1970,1835 1997,1835 2024,1835 2050,1835 2077,1835 2103,1835 2130,1835 2156,1835 2183,1835 2210,1836" />
+                <TextEquiv>
+                    <Unicode>condumio del día.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1295,1900 2263,1905 2263,1876 2079,1868 1295,1879" />
+                <Baseline points="1302,1898 1349,1898 1397,1898 1445,1898 1492,1898 1540,1899 1588,1899 1635,1899 1683,1899 1731,1899 1779,1899 1826,1899 1874,1899 1922,1898 1969,1898 2017,1898 2065,1898 2112,1898 2160,1898 2208,1898 2256,1899" />
+                <TextEquiv>
+                    <Unicode>Así Aleng Ipang fué creándose una fama ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1265,1968 2263,1962 2224,1932 1265,1924" />
+                <Baseline points="1272,1959 1321,1959 1370,1958 1419,1958 1468,1958 1518,1958 1567,1958 1616,1959 1665,1959 1714,1959 1764,1959 1813,1959 1862,1959 1911,1959 1960,1959 2010,1959 2059,1959 2108,1959 2157,1959 2206,1958 2256,1958" />
+                <TextEquiv>
+                    <Unicode>ligna por los contornes. Ella, a su vez, se com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1265,2035 2256,2026 2256,2000 2135,1987 1729,2010 1265,1990" />
+                <Baseline points="1271,2019 1322,2019 1374,2019 1425,2019 1477,2019 1528,2019 1580,2019 1631,2019 1683,2019 1734,2019 1786,2021 1837,2021 1889,2021 1940,2021 1992,2021 2043,2021 2095,2021 2146,2021 2198,2021 2250,2021" />
+                <TextEquiv>
+                    <Unicode>portaba en tal forma, con hasta presunción na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1268,2091 2252,2091 2252,2061 2046,2045 1975,2068 1934,2044 1269,2052" />
+                <Baseline points="1275,2078 1323,2078 1372,2078 1420,2079 1469,2079 1517,2079 1566,2079 1614,2080 1663,2081 1711,2081 1760,2081 1809,2081 1857,2082 1906,2082 1954,2082 2003,2082 2051,2082 2100,2082 2148,2082 2197,2082 2246,2082" />
+                <TextEquiv>
+                    <Unicode>cida de su situación de conocida holgura, que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1268,2155 2253,2148 2253,2118 2175,2108 1268,2115" />
+                <Baseline points="1275,2139 1323,2139 1372,2139 1420,2139 1469,2139 1518,2141 1566,2141 1615,2141 1663,2141 1712,2141 1761,2141 1809,2141 1858,2141 1906,2141 1955,2141 2004,2141 2052,2142 2101,2142 2149,2142 2198,2142 2247,2142" />
+                <TextEquiv>
+                    <Unicode>poco a poco fué menguándose, al punto de desa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1265,2219 2252,2208 2252,2183 2176,2166 2086,2188 2015,2164 1265,2172" />
+                <Baseline points="1271,2201 1319,2201 1368,2201 1417,2201 1466,2201 1514,2201 1563,2201 1612,2201 1661,2201 1709,2201 1758,2201 1807,2202 1856,2202 1904,2202 1953,2202 2002,2202 2051,2202 2099,2202 2148,2202 2197,2201 2246,2201" />
+                <TextEquiv>
+                    <Unicode>parecer, el cariño que el pueblo le había profesa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1269,2275 1321,2262 1351,2274 1395,2262 1408,2275 1737,2275 1737,2240 1640,2228 1509,2248 1456,2229 1269,2231" />
+                <Baseline points="1275,2261 1300,2261 1325,2261 1351,2261 1376,2261 1401,2261 1427,2261 1452,2261 1477,2261 1503,2261 1528,2261 1553,2261 1579,2261 1604,2262 1629,2262 1655,2262 1680,2262 1705,2262 1731,2262" />
+                <TextEquiv>
+                    <Unicode>do en años anteriores.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1307,2339 2123,2348 2259,2339 2260,2301 1307,2289" />
+                <Baseline points="1313,2325 1360,2324 1407,2324 1454,2324 1501,2324 1548,2325 1595,2325 1642,2325 1689,2325 1736,2325 1783,2327 1830,2327 1877,2327 1924,2327 1971,2327 2018,2328 2065,2328 2112,2328 2159,2328 2206,2327 2253,2327" />
+                <TextEquiv>
+                    <Unicode>La verdad es que aquella mujer, al cumplir los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1263,2396 2022,2409 2269,2383 2192,2356 1263,2361" />
+                <Baseline points="1269,2385 1318,2385 1368,2385 1417,2387 1467,2387 1517,2387 1566,2387 1616,2387 1666,2387 1715,2387 1765,2387 1815,2387 1864,2387 1914,2387 1964,2387 2013,2387 2063,2387 2113,2387 2162,2387 2212,2387 2262,2385" />
+                <TextEquiv>
+                    <Unicode>cuarenta y cinco años, comenzó a repeler el tra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1270,2458 2175,2466 2256,2459 2257,2422 1271,2413" />
+                <Baseline points="1277,2447 1325,2447 1374,2447 1422,2447 1471,2447 1520,2447 1568,2447 1617,2447 1666,2447 1714,2447 1763,2447 1812,2447 1860,2448 1909,2448 1958,2448 2006,2448 2055,2448 2104,2448 2152,2448 2201,2450 2250,2450" />
+                <TextEquiv>
+                    <Unicode>to de la vecindad, encerrándose en su casa, para</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1263,2519 2259,2515 2240,2484 2030,2472 1263,2485" />
+                <Baseline points="1269,2508 1318,2508 1367,2508 1416,2508 1465,2508 1515,2508 1564,2508 1613,2508 1662,2508 1711,2508 1761,2508 1810,2508 1859,2508 1908,2510 1957,2510 2007,2510 2056,2510 2105,2510 2154,2510 2203,2510 2253,2510" />
+                <TextEquiv>
+                    <Unicode>contar, según unos, los dineros guardados, y pa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1260,2577 2269,2571 2076,2532 1260,2545" />
+                <Baseline points="1266,2567 1315,2567 1365,2568 1415,2568 1465,2568 1515,2568 1564,2568 1614,2570 1664,2570 1714,2570 1764,2570 1813,2570 1863,2570 1913,2570 1963,2570 2013,2571 2062,2571 2112,2571 2162,2571 2212,2570 2262,2570" />
+                <TextEquiv>
+                    <Unicode>ra retener—según otros,— la mendicidad pega¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l20" custom="readingOrder {index:19;}">
+                <Coords points="1271,2647 2273,2632 2273,2607 2193,2596 1271,2597" />
+                <Baseline points="1277,2630 1326,2630 1376,2630 1425,2630 1475,2630 1524,2630 1574,2630 1623,2630 1673,2630 1722,2630 1772,2630 1821,2630 1871,2630 1920,2630 1970,2630 2019,2631 2069,2631 2118,2631 2168,2631 2217,2631 2267,2631" />
+                <TextEquiv>
+                    <Unicode>josa de los demás. Acabó por no ir siquiera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l21" custom="readingOrder {index:20;}">
+                <Coords points="1261,2699 1279,2705 1301,2694 1313,2704 1425,2702 1425,2682 1404,2668 1375,2668 1361,2654 1343,2668 1305,2667 1300,2672 1297,2668 1262,2668" />
+                <Baseline points="1268,2691 1293,2690 1318,2690 1343,2690 1368,2690 1393,2691 1419,2693" />
+                <TextEquiv>
+                    <Unicode>a misa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l22" custom="readingOrder {index:21;}">
+                <Coords points="1351,2763 2271,2754 2241,2722 1351,2725" />
+                <Baseline points="1358,2754 1403,2754 1448,2754 1494,2756 1539,2756 1584,2756 1630,2756 1675,2756 1720,2756 1766,2756 1811,2756 1856,2756 1902,2756 1947,2756 1992,2756 2038,2756 2083,2756 2128,2756 2174,2756 2219,2756 2265,2756" />
+                <TextEquiv>
+                    <Unicode>-Aling Ipang se ha vuelto mala, solían decir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l23" custom="readingOrder {index:22;}">
+                <Coords points="1265,2827 1328,2827 1341,2813 1400,2830 1544,2816 1793,2827 1793,2795 1736,2780 1640,2780 1624,2796 1574,2780 1480,2795 1265,2777" />
+                <Baseline points="1271,2813 1296,2813 1322,2814 1348,2814 1374,2814 1400,2814 1425,2814 1451,2814 1477,2814 1503,2814 1529,2814 1554,2814 1580,2814 1606,2814 1632,2813 1658,2813 1683,2813 1709,2813 1735,2813 1761,2814 1787,2814" />
+                <TextEquiv>
+                    <Unicode>las viejas en las tiendas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l24" custom="readingOrder {index:23;}">
+                <Coords points="1313,2883 2271,2884 2271,2859 2104,2843 1313,2860" />
+                <Baseline points="1319,2874 1366,2875 1413,2876 1460,2876 1508,2877 1555,2877 1602,2877 1650,2878 1697,2879 1744,2879 1792,2879 1839,2879 1886,2879 1933,2879 1981,2879 2028,2880 2075,2880 2123,2880 2170,2880 2217,2880 2265,2880" />
+                <TextEquiv>
+                    <Unicode>—Y muy avara,—subrayaban los chiquilios que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l25" custom="readingOrder {index:24;}">
+                <Coords points="1267,2954 2271,2947 2191,2908 1952,2908 1928,2932 1887,2908 1267,2917" />
+                <Baseline points="1274,2942 1323,2942 1373,2942 1422,2942 1472,2942 1521,2943 1571,2943 1620,2943 1670,2943 1719,2943 1769,2943 1818,2943 1868,2943 1917,2942 1967,2942 2016,2942 2066,2942 2115,2942 2165,2942 2214,2943 2264,2943" />
+                <TextEquiv>
+                    <Unicode>no pedían coger el menor fruto del guayabal en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l26" custom="readingOrder {index:25;}">
+                <Coords points="1277,3018 2274,3007 2274,2982 2147,2971 1727,2996 1277,2978" />
+                <Baseline points="1283,3005 1332,3005 1381,3005 1430,3005 1480,3005 1529,3006 1578,3006 1627,3006 1677,3006 1726,3006 1775,3006 1824,3006 1874,3006 1923,3006 1972,3006 2021,3006 2071,3006 2120,3005 2169,3005 2218,3005 2268,3005" />
+                <TextEquiv>
+                    <Unicode>el solar de su casa, porque ilovian piedras e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l27" custom="readingOrder {index:26;}">
+                <Coords points="1262,3071 1280,3083 1443,3083 1443,3058 1422,3044 1365,3035 1342,3044 1296,3045 1287,3036 1262,3043" />
+                <Baseline points="1268,3066 1296,3069 1324,3069 1352,3068 1380,3068 1408,3069 1437,3071" />
+                <TextEquiv>
+                    <Unicode>insultos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l28" custom="readingOrder {index:27;}">
+                <Coords points="1352,3148 2266,3146 2239,3100 1352,3112" />
+                <Baseline points="1358,3134 1403,3134 1448,3134 1493,3135 1538,3135 1583,3135 1628,3135 1673,3135 1718,3135 1763,3135 1808,3135 1853,3135 1898,3135 1943,3135 1988,3135 2033,3135 2078,3135 2123,3134 2168,3134 2213,3134 2259,3134" />
+                <TextEquiv>
+                    <Unicode>-¡Dios la castigará!—voceaba unánimamente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l29" custom="readingOrder {index:28;}">
+                <Coords points="1271,3209 2271,3201 2240,3164 1271,3173" />
+                <Baseline points="1277,3197 1326,3198 1375,3198 1425,3198 1474,3198 1524,3198 1573,3198 1622,3200 1672,3200 1721,3200 1771,3200 1820,3200 1869,3200 1919,3200 1968,3200 2018,3200 2067,3200 2116,3200 2166,3200 2215,3198 2265,3198" />
+                <TextEquiv>
+                    <Unicode>el pueblo, ahito de verla sola y con la cara avi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bre, tan arraigada
+en el país, de con¬
+ceder un puñadito
+de arroz a la fami¬
+lía vecina a quien
+había faltado el
+condumio del día.
+Así Aleng Ipang fué creándose una fama ma¬
+ligna por los contornes. Ella, a su vez, se com¬
+portaba en tal forma, con hasta presunción na¬
+cida de su situación de conocida holgura, que
+poco a poco fué menguándose, al punto de desa¬
+parecer, el cariño que el pueblo le había profesa¬
+do en años anteriores.
+La verdad es que aquella mujer, al cumplir los
+cuarenta y cinco años, comenzó a repeler el tra¬
+to de la vecindad, encerrándose en su casa, para
+contar, según unos, los dineros guardados, y pa¬
+ra retener—según otros,— la mendicidad pega¬
+josa de los demás. Acabó por no ir siquiera
+a misa.
+-Aling Ipang se ha vuelto mala, solían decir
+las viejas en las tiendas.
+—Y muy avara,—subrayaban los chiquilios que
+no pedían coger el menor fruto del guayabal en
+el solar de su casa, porque ilovian piedras e
+insultos.
+-¡Dios la castigará!—voceaba unánimamente
+el pueblo, ahito de verla sola y con la cara avi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1335,1334 1479,1334 1479,1343 1335,1343" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1918,431 2011,431 2011,540 1918,540" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

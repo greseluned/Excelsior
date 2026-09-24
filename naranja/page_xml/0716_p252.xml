@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:46:59.707+02:00</Created>
+        <LastChange>2021-10-29T20:27:36.108+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781574" pageNr="716" tsid="236400859" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=QLAVOLFWMPBZXWPRJEYWGPPS" xmlUrl="https://files.transkribus.eu/Get?id=XIAQOGIKCLOGXEYBRDKHHECH" imageId="17245615" />
+    </Metadata>
+    <Page imageFilename="0716_p252.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982582167" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+                <RegionRefIndexed index="2" regionRef="r3" />
+                <RegionRefIndexed index="3" regionRef="r4" />
+                <RegionRefIndexed index="4" regionRef="r5" />
+                <RegionRefIndexed index="5" regionRef="r6" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="360,1556 360,1730 528,1730 528,1556" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="360,1706 388,1709 416,1711 444,1714 472,1718 500,1724 528,1730 528,1580 500,1574 472,1568 444,1564 416,1561 388,1559 360,1556" />
+                <Baseline points="360,1656 388,1659 416,1661 444,1664 472,1668 500,1674 528,1680" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1140,2566 1140,2716 1163,2716 1163,2566" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1140,2716 1163,2716 1163,2566 1140,2566" />
+                <Baseline points="1140,2666 1163,2666" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1146,3037 1146,3199 1212,3199 1212,3037" />
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="1146,3187 1179,3191 1212,3199 1212,3049 1179,3041 1146,3037" />
+                <Baseline points="1146,3137 1179,3141 1212,3149" />
+                <TextEquiv>
+                    <Unicode>E. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="1215,2926 1215,3077 1233,3077 1233,2926" />
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1215,3076 1233,3077 1233,2927 1215,2926" />
+                <Baseline points="1215,3026 1233,3027" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:4;}">
+            <Coords points="1236,2528 1236,2684 1251,2684 1251,2528" />
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="1236,2678 1251,2684 1251,2534 1236,2528" />
+                <Baseline points="1236,2628 1251,2634" />
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:5;}">
+            <Coords points="1244,2988 1244,3130 1283,3130 1283,2988" />
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="1254,3034 1283,3018 1283,2988 1254,3004" />
+                <Baseline points="1254,3024 1283,3008" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="1244,3087 1260,3081 1260,3051 1244,3057" />
+                <Baseline points="1244,3077 1260,3071" />
+                <TextEquiv>
+                    <Unicode>X</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="1253,3109 1278,3130 1278,3100 1253,3079" />
+                <Baseline points="1253,3099 1278,3120" />
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S
+X
+3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

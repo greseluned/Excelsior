@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:43:40.249+02:00</Created>
+        <LastChange>2021-06-08T15:55:20.140+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782331" pageNr="1387" tsid="236401658" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=JTOOHGRTMIHTKZJJEMMVAKCL" xmlUrl="https://files.transkribus.eu/Get?id=IXRGJPHALHIYNGKVKZXTZLGX" imageId="17247528" />
+    </Metadata>
+    <Page imageFilename="1387_p286.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="297,502 1776,502 1776,3188 297,3188" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982736762" caption="Regions reading order">
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="477,502 1045,502 1045,1282 477,1282" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="786,1358 1128,1358 1128,2471 786,2471" />
+        </GraphicRegion>
+        <GraphicRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="499,2629 713,2629 713,2866 499,2866" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="297,3031 1126,3031 1126,3188 297,3188" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="291,3083 1130,3079 1130,3044 1087,3028 291,3032" />
+                <Baseline points="296,3071 337,3071 378,3071 420,3071 461,3071 503,3071 544,3069 586,3069 627,3069 669,3069 710,3069 751,3068 793,3068 834,3068 876,3068 917,3068 959,3069 1000,3069 1042,3069 1083,3071 1125,3072" />
+                <TextEquiv>
+                    <Unicode>Las actrices Srtas. Beatriz Cerrillo,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="294,3137 1126,3140 1126,3103 988,3091 294,3100" />
+                <Baseline points="299,3128 340,3129 381,3129 422,3129 463,3129 504,3129 545,3129 586,3129 627,3129 668,3129 710,3129 751,3129 792,3128 833,3128 874,3128 915,3128 956,3128 997,3128 1038,3128 1079,3129 1121,3129" />
+                <TextEquiv>
+                    <Unicode>Sarah Rivera y Enriqueta Torres.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="577,3186 848,3186 866,3174 866,3165 817,3150 714,3150 684,3170 664,3157 637,3165 577,3158" />
+                <Baseline points="582,3177 607,3177 632,3177 658,3177 683,3177 708,3177 734,3177 759,3177 784,3177 810,3177 835,3177 861,3177" />
+                <TextEquiv>
+                    <Unicode>Por L.. ESTEBAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Las actrices Srtas. Beatriz Cerrillo,
+Sarah Rivera y Enriqueta Torres.
+Por L.. ESTEBAN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="1588,1050 1776,1050 1776,1065 1588,1065" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1254,1091 1450,1091 1450,1108 1254,1108" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

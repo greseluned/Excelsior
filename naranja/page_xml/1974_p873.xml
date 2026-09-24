@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:51:11.111+02:00</Created>
+        <LastChange>2021-06-08T20:37:25.865+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782905" pageNr="1974" tsid="236402473" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=YBGGNBCDDQKDAENCXPKETAJF" xmlUrl="https://files.transkribus.eu/Get?id=WGJUZNRLBBUNBWUAXYKOAVOD" imageId="17249116" />
+    </Metadata>
+    <Page imageFilename="1974_p873.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="224,280 2256,280 2256,3215 224,3215" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982871209" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="224,280 2256,280 2256,3215 224,3215" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="544,1519 1930,1519 1930,1817 544,1817" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="627,1563 1926,1568 1926,1522 1824,1514 627,1510" />
+                <Baseline points="635,1551 699,1550 763,1550 827,1550 891,1550 955,1550 1019,1550 1083,1550 1147,1551 1211,1551 1276,1551 1340,1553 1404,1553 1468,1553 1532,1554 1596,1554 1660,1556 1724,1556 1788,1557 1852,1557 1917,1559" />
+                <TextEquiv>
+                    <Unicode>Grupo general de los que asistieron al animado party dado en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="540,1597 1934,1603 1743,1559 540,1559" />
+                <Baseline points="548,1590 616,1590 685,1590 754,1590 823,1592 892,1592 961,1592 1029,1592 1098,1593 1167,1593 1236,1593 1305,1595 1374,1595 1443,1596 1511,1596 1580,1596 1649,1598 1718,1598 1787,1598 1856,1598 1925,1598" />
+                <TextEquiv>
+                    <Unicode>la residencia de los Sres, de Moreno (D. Rafael) con motivo de ce¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="549,1652 1848,1654 1802,1603 549,1600" />
+                <Baseline points="557,1635 621,1635 685,1634 749,1634 813,1634 877,1634 941,1634 1005,1635 1069,1635 1133,1635 1198,1637 1262,1637 1326,1638 1390,1638 1454,1638 1518,1640 1582,1640 1646,1640 1710,1641 1774,1641 1839,1641" />
+                <TextEquiv>
+                    <Unicode>lebrar sus cumpleaños su hija Elena que fué muy felicitada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="624,1716 1849,1740 1939,1696 829,1688 625,1650" />
+                <Baseline points="633,1709 697,1710 762,1710 827,1712 892,1712 957,1712 1021,1713 1086,1713 1151,1715 1216,1715 1281,1715 1345,1716 1410,1716 1475,1717 1540,1718 1605,1718 1669,1719 1734,1719 1799,1719 1864,1720 1929,1721" />
+                <TextEquiv>
+                    <Unicode>De la reunión celebrada en la residencia de los Sres. de Gil de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="547,1772 1840,1772 1840,1738 1753,1725 547,1710" />
+                <Baseline points="555,1757 618,1757 682,1758 746,1758 810,1758 874,1758 938,1758 1001,1760 1065,1760 1129,1760 1193,1760 1257,1761 1321,1761 1385,1761 1448,1761 1512,1763 1576,1763 1640,1763 1704,1763 1768,1763 1832,1764" />
+                <TextEquiv>
+                    <Unicode>Montes con motivo de la fiesta patronal del distrito de Paco.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1635,1824 1724,1814 1736,1826 1759,1826 1786,1812 1857,1817 1876,1831 1896,1831 1922,1819 1922,1774 1809,1785 1790,1772 1754,1779 1735,1772 1710,1786 1635,1774" />
+                <Baseline points="1644,1809 1671,1809 1698,1809 1725,1809 1752,1809 1779,1809 1806,1809 1833,1809 1860,1809 1887,1809 1914,1809" />
+                <TextEquiv>
+                    <Unicode>Fotos—A. OVEJAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Grupo general de los que asistieron al animado party dado en
+la residencia de los Sres, de Moreno (D. Rafael) con motivo de ce¬
+lebrar sus cumpleaños su hija Elena que fué muy felicitada.
+De la reunión celebrada en la residencia de los Sres. de Gil de
+Montes con motivo de la fiesta patronal del distrito de Paco.
+Fotos—A. OVEJAS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:2;}">
+            <Coords points="228,282 2251,282 2251,291 228,291" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="252,300 2214,300 2214,313 252,313" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="228,401 431,401 431,409 228,409" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="1536,505 1785,505 1785,518 1536,518" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="533,1481 871,1481 871,1487 533,1487" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="885,1484 1491,1484 1491,1492 885,1492" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1546,1490 1949,1490 1949,1497 1546,1497" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="231,1676 410,1676 410,1681 231,1681" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="248,1692 351,1692 351,1697 248,1697" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="527,1851 658,1851 658,1855 527,1855" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="881,1856 1032,1856 1032,1861 881,1861" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1250,1860 1638,1860 1638,1867 1250,1867" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1754,1865 1939,1865 1939,1870 1754,1870" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="336,3179 1852,3179 1852,3187 336,3187" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1873,3180 2188,3180 2188,3185 1873,3185" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="325,3190 1850,3190 1850,3196 325,3196" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1963,3190 2197,3190 2197,3196 1963,3196" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="235,3206 2247,3206 2247,3213 235,3213" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="226,286 233,286 233,408 226,408" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="231,1678 241,1678 241,3211 231,3211" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="246,1759 258,1759 258,3194 246,3194" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="286,1069 297,1069 297,1210 286,1210" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="390,402 395,402 395,597 390,597" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="397,402 411,402 411,606 397,606" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="524,1482 532,1482 532,1851 524,1851" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="2233,1803 2242,1803 2242,3125 2233,3125" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="2242,1674 2253,1674 2253,3211 2242,3211" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="2244,283 2254,283 2254,1516 2244,1516" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:30;}">
+            <Coords points="1586,509 1686,509 1686,511 1586,511" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:31;}">
+            <Coords points="1773,1281 1775,1281 1775,1307 1773,1307" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:32;}">
+            <Coords points="2139,2308 2142,2308 2142,2358 2139,2358" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_34" custom="readingOrder {index:33;}">
+            <Coords points="956,2067 1122,2067 1122,2178 956,2178" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

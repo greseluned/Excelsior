@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:46:38.872+02:00</Created>
+        <LastChange>2021-06-08T17:43:53.911+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782567" pageNr="1618" tsid="236401883" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LXGXDLKICNEJBLORJAWFDOBT" xmlUrl="https://files.transkribus.eu/Get?id=RJBESGEIEYIHPYNNYXYMVBSJ" imageId="17248094" />
+    </Metadata>
+    <Page imageFilename="1618_p517.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="133,176 2352,176 2352,3345 133,3345" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982790761" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="138,176 2352,176 2352,3345 138,3345" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="384,2756 1526,2756 1526,3206 384,3206" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="380,2812 1421,2812 1524,2800 1524,2759 379,2774" />
+                <Baseline points="386,2805 442,2805 499,2804 555,2804 612,2803 668,2802 725,2802 781,2802 838,2801 894,2801 951,2801 1008,2801 1064,2799 1121,2799 1177,2799 1234,2798 1290,2798 1347,2796 1403,2795 1460,2794 1517,2792" />
+                <TextEquiv>
+                    <Unicode>Foto inferior: Los tres distinguidos aviadores chi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="425,2877 1509,2867 1508,2826 1433,2814 989,2821 941,2850 799,2820 424,2836" />
+                <Baseline points="431,2864 484,2864 538,2864 591,2864 645,2862 698,2862 752,2862 805,2861 859,2861 912,2859 966,2859 1020,2859 1073,2858 1127,2858 1180,2856 1234,2856 1287,2856 1341,2856 1394,2856 1448,2856 1502,2856" />
+                <TextEquiv>
+                    <Unicode>nos, Sres. Lu Chin Ten, Emilio Gotameo y Chiong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="436,2924 1485,2916 1472,2884 1323,2873 436,2904" />
+                <Baseline points="443,2922 494,2922 546,2922 598,2922 650,2922 701,2921 753,2921 805,2921 857,2920 908,2919 960,2919 1012,2918 1064,2918 1115,2916 1167,2916 1219,2915 1271,2913 1322,2913 1374,2912 1426,2910 1478,2909" />
+                <TextEquiv>
+                    <Unicode>Seng Sun, que a su llegada fueron cordialmen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="460,2977 1472,2977 1471,2944 1351,2931 460,2956" />
+                <Baseline points="467,2979 516,2979 566,2979 616,2979 666,2978 716,2978 766,2978 815,2978 865,2976 915,2976 965,2976 1015,2975 1065,2975 1115,2975 1164,2973 1214,2973 1264,2972 1314,2972 1364,2971 1414,2970 1464,2970" />
+                <TextEquiv>
+                    <Unicode>te recibidos por el Presidente de la Cámara</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="503,3050 1311,3051 1465,3025 1262,2992 1116,3019 963,2995 930,3019 502,3009" />
+                <Baseline points="510,3039 557,3038 604,3038 652,3036 699,3036 746,3036 794,3035 841,3035 888,3035 936,3035 983,3034 1030,3033 1078,3033 1125,3033 1172,3033 1220,3032 1267,3032 1314,3030 1362,3030 1409,3029 1457,3027" />
+                <TextEquiv>
+                    <Unicode>de Comercio china de está ciudad y otros</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="574,3102 1248,3107 1344,3099 1344,3060 574,3073" />
+                <Baseline points="582,3095 619,3095 657,3095 695,3095 733,3095 770,3095 808,3093 846,3093 884,3093 921,3093 959,3093 997,3093 1035,3092 1072,3092 1110,3092 1148,3090 1186,3090 1223,3090 1261,3089 1299,3087 1337,3086" />
+                <TextEquiv>
+                    <Unicode>digndatarios de dicha prestigiosa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="874,3163 1065,3163 1065,3121 1047,3112 1032,3112 1020,3123 1000,3116 942,3116 935,3123 897,3123 874,3133" />
+                <Baseline points="882,3153 907,3153 932,3153 957,3153 983,3153 1008,3153 1033,3153 1059,3153" />
+                <TextEquiv>
+                    <Unicode>entidad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1148,3211 1498,3203 1497,3161 1148,3171" />
+                <Baseline points="1155,3198 1180,3198 1206,3198 1232,3197 1258,3197 1284,3197 1310,3195 1335,3195 1361,3195 1387,3194 1413,3194 1439,3194 1465,3194 1491,3195" />
+                <TextEquiv>
+                    <Unicode>Fotos -SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto inferior: Los tres distinguidos aviadores chi¬
+nos, Sres. Lu Chin Ten, Emilio Gotameo y Chiong
+Seng Sun, que a su llegada fueron cordialmen¬
+te recibidos por el Presidente de la Cámara
+de Comercio china de esta ciudad y otros
+digndatarios de dicha prestigiosa
+entidad.
+Fotos -SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="149,217 1039,217 1039,527 149,527" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="147,269 1033,259 1033,226 968,212 900,237 714,212 548,239 526,218 147,218" />
+                <Baseline points="155,257 198,257 242,258 285,258 329,258 372,257 416,257 459,257 503,257 546,256 590,255 634,255 677,255 721,254 764,254 808,254 851,254 895,254 938,254 982,254 1026,254" />
+                <TextEquiv>
+                    <Unicode>PROMINENTES PASAGEROS LLE-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="161,330 991,331 999,280 161,289" />
+                <Baseline points="168,324 209,324 250,323 291,323 332,321 374,321 415,321 456,321 497,320 538,320 580,320 621,320 662,320 703,320 744,320 786,320 827,320 868,320 909,320 950,320 992,320" />
+                <TextEquiv>
+                    <Unicode>GADOS A MANILA EN LOS TRAS¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="221,396 551,395 573,372 609,394 923,395 961,379 961,349 221,356" />
+                <Baseline points="228,390 264,389 300,388 336,387 373,386 409,386 445,384 482,384 518,384 554,383 591,383 627,383 663,383 699,383 736,383 772,383 808,383 845,383 881,383 917,383 954,384" />
+                <TextEquiv>
+                    <Unicode>ATLANTICOS “EMPRESS OF</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="275,458 454,463 483,439 527,460 554,440 640,463 891,456 890,411 296,412 275,427" />
+                <Baseline points="282,455 312,453 342,451 372,450 402,449 432,447 462,447 492,446 522,446 552,446 583,444 613,444 643,444 673,444 703,446 733,446 763,446 793,447 823,447 853,449 884,449" />
+                <TextEquiv>
+                    <Unicode>JAPAN" Y "PRESIDENT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="442,530 690,525 748,497 748,485 729,475 442,479" />
+                <Baseline points="449,519 475,518 502,517 528,516 555,516 581,515 608,515 634,515 661,516 687,516 714,519 741,521" />
+                <TextEquiv>
+                    <Unicode>GARFIELD”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PROMINENTES PASAGEROS LLE-
+GADOS A MANILA EN LOS TRAS¬
+ATLANTICOS “EMPRESS OF
+JAPAN" Y "PRESIDENT
+GARFIELD”</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="145,630 1037,630 1037,1041 145,1041" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="190,681 1034,666 1034,638 973,626 922,648 799,627 773,653 727,627 190,635" />
+                <Baseline points="198,669 239,669 280,668 322,668 363,668 405,668 446,668 487,668 529,669 570,669 612,669 653,669 694,669 736,669 777,668 819,668 860,668 901,666 943,666 984,665 1026,663" />
+                <TextEquiv>
+                    <Unicode>Foto de la derecha: La Srta. Mil¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="140,739 1039,732 993,688 899,712 863,687 140,703" />
+                <Baseline points="147,732 191,731 235,731 279,729 323,729 368,729 412,729 456,729 500,729 544,729 589,729 633,729 677,729 721,729 765,729 810,728 854,728 898,728 942,728 986,726 1031,726" />
+                <TextEquiv>
+                    <Unicode>dred Dawn y el Sr. Harry Sands, artis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="142,806 1042,794 1010,747 840,747 814,772 773,747 511,773 142,756" />
+                <Baseline points="149,792 193,792 237,792 281,792 326,792 370,792 414,792 459,791 503,791 547,791 592,791 636,791 680,791 724,789 769,789 813,789 857,789 902,788 946,788 990,788 1035,788" />
+                <TextEquiv>
+                    <Unicode>tas procedentes del Emporio de la ci¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="148,867 441,872 474,840 525,866 1033,860 1032,820 926,811 761,840 718,812 148,827" />
+                <Baseline points="156,855 199,855 243,854 286,854 330,854 373,854 417,854 460,854 504,854 547,854 591,854 634,854 678,854 721,854 765,852 808,852 852,852 895,852 939,851 982,851 1026,849" />
+                <TextEquiv>
+                    <Unicode>nematografía, Hollywood, que vienen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="148,923 983,922 1038,884 148,889" />
+                <Baseline points="156,915 199,915 243,914 287,914 331,914 374,914 418,912 462,912 506,912 549,912 593,912 637,912 681,911 724,911 768,911 812,911 856,910 899,909 943,909 987,908 1031,908" />
+                <TextEquiv>
+                    <Unicode>contratados por el Teatro Metropolita¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="148,981 583,996 731,967 863,985 898,959 1038,979 1038,928 148,948" />
+                <Baseline points="156,974 199,974 243,974 287,974 331,974 374,974 418,974 462,974 506,973 549,972 593,972 637,971 681,971 724,971 768,969 812,969 856,969 899,969 943,969 987,968 1031,968" />
+                <TextEquiv>
+                    <Unicode>no, de está capital, para actuar en el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="155,1043 300,1044 320,1035 320,1020 303,1020 282,1002 235,1004 212,1001 208,996 156,1000" />
+                <Baseline points="162,1031 187,1032 212,1032 237,1031 262,1031 287,1032 312,1034" />
+                <TextEquiv>
+                    <Unicode>mismo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto de la derecha: La Srta. Mil¬
+dred Dawn y el Sr. Harry Sands, artis¬
+tas procedentes del Emporio de la ci¬
+nematografía, Hollywood, que vienen
+contratados por el Teatro Metropolita¬
+no, de esta capital, para actuar en el
+mismo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1362,1614 2255,1614 2255,1963 1362,1963" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1397,1658 2251,1663 2251,1624 2161,1612 1397,1617" />
+                <Baseline points="1403,1647 1445,1647 1487,1649 1529,1649 1571,1650 1613,1650 1655,1652 1697,1652 1739,1652 1781,1652 1823,1652 1865,1652 1907,1652 1949,1653 1991,1653 2033,1653 2075,1653 2117,1653 2159,1653 2201,1652 2244,1652" />
+                <TextEquiv>
+                    <Unicode>Foto de la izquierda: El Comandante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1360,1724 1444,1703 2247,1724 2248,1684 1360,1682" />
+                <Baseline points="1367,1710 1410,1710 1454,1710 1498,1710 1541,1710 1585,1710 1629,1712 1672,1712 1716,1712 1760,1712 1804,1712 1847,1712 1891,1712 1935,1713 1978,1713 2022,1713 2066,1713 2109,1713 2153,1713 2197,1713 2241,1715" />
+                <TextEquiv>
+                    <Unicode>del ejército de los Estados Unidos Sr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1354,1779 1928,1788 1985,1757 2023,1788 2117,1791 2152,1761 2237,1787 2247,1730 1354,1738" />
+                <Baseline points="1361,1769 1407,1769 1453,1770 1499,1770 1546,1772 1592,1772 1638,1772 1684,1772 1731,1770 1777,1770 1823,1770 1869,1770 1916,1770 1962,1770 2008,1770 2054,1770 2101,1772 2147,1773 2193,1773 2240,1775" />
+                <TextEquiv>
+                    <Unicode>Lull, que forma parte del “Staff" del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1364,1835 2168,1851 2247,1842 2248,1802 1894,1817 1365,1789" />
+                <Baseline points="1371,1826 1414,1826 1458,1827 1501,1827 1545,1827 1588,1827 1632,1829 1675,1829 1719,1829 1762,1830 1806,1830 1849,1832 1893,1832 1936,1832 1980,1833 2023,1833 2067,1833 2110,1833 2154,1833 2197,1833 2241,1833" />
+                <TextEquiv>
+                    <Unicode>Palacio de Malacañang, que ha llegado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1361,1908 2244,1906 2258,1867 1362,1860" />
+                <Baseline points="1368,1889 1412,1887 1456,1887 1500,1886 1544,1886 1588,1886 1632,1887 1676,1887 1720,1888 1764,1889 1809,1889 1853,1890 1897,1890 1941,1892 1985,1892 2029,1893 2073,1893 2117,1893 2161,1893 2205,1893 2250,1892" />
+                <TextEquiv>
+                    <Unicode>para asumir las funciones de su elevado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1354,1952 1365,1956 1423,1955 1435,1962 1457,1963 1465,1956 1501,1962 1502,1930 1493,1930 1484,1919 1468,1922 1463,1916 1449,1916 1424,1922 1378,1915 1369,1924 1355,1925" />
+                <Baseline points="1362,1949 1388,1946 1414,1946 1441,1948 1467,1950 1494,1949" />
+                <TextEquiv>
+                    <Unicode>cargo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Foto de la izquierda: El Comandante
+del ejército de los Estados Unidos Sr.
+Lull, que forma parte del “Staff" del
+Palacio de Malacañang, que ha llegado
+para asumir las funciones de su elevado
+cargo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:5;}">
+            <Coords points="461,575 692,575 692,582 461,582" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="693,1187 1193,1187 1193,1199 693,1199" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:7;}">
+            <Coords points="147,1188 568,1188 568,1201 147,1201" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="2040,1238 2335,1238 2335,1252 2040,1252" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="2036,1259 2336,1259 2336,1270 2036,1270" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="2029,1275 2335,1275 2335,1287 2029,1287" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1164,1457 2043,1457 2043,1481 1164,1481" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1249,1482 2044,1482 2044,1498 1249,1498" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="1252,2080 2347,2080 2347,2101 1252,2101" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="144,2374 534,2374 534,2393 144,2393" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="154,2634 1753,2634 1753,2652 154,2652" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1622,3220 2321,3220 2321,3245 1622,3245" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1611,3265 2344,3265 2344,3284 1611,3284" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1607,3287 2336,3287 2336,3305 1607,3305" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="265,3325 1611,3325 1611,3342 265,3342" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="133,1196 159,1196 159,2390 133,2390" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="516,2376 535,2376 535,2650 516,2650" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:22;}">
+            <Coords points="1249,1482 1265,1482 1265,2091 1249,2091" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:23;}">
+            <Coords points="2245,439 2260,439 2260,920 2245,920" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:24;}">
+            <Coords points="2246,1088 2260,1088 2260,1251 2246,1251" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:25;}">
+            <Coords points="2262,376 2278,376 2278,928 2262,928" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:26;}">
+            <Coords points="2330,2087 2350,2087 2350,3247 2330,3247" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:27;}">
+            <Coords points="157,2205 158,2205 158,2229 157,2229" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:28;}">
+            <Coords points="2046,2767 2049,2767 2049,2807 2046,2807" />
+        </SeparatorRegion>
+        <GraphicRegion id="r_30" custom="readingOrder {index:29;}">
+            <Coords points="554,2247 734,2247 734,2273 554,2273" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

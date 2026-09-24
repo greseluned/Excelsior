@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:45:07.866+02:00</Created>
+        <LastChange>2021-06-08T16:46:53.289+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782449" pageNr="1500" tsid="236401824" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=BNBRTZCMJSZYYYLFQNUHZQNL" xmlUrl="https://files.transkribus.eu/Get?id=ONZKOPTGKXNNBPUXUGRLYIFB" imageId="17247856" />
+    </Metadata>
+    <Page imageFilename="1500_p399.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="228,347 2239,347 2239,3223 228,3223" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982763837" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="519,603 1968,603 1968,782 519,782" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="375,969 2097,969 2097,2894 375,2894" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="761,1023 1688,1040 1712,1001 1665,964 1424,963 1377,992 1335,963 760,983" />
+                <Baseline points="768,1019 814,1020 861,1020 908,1020 955,1020 1002,1020 1048,1020 1095,1019 1142,1019 1189,1017 1236,1017 1282,1016 1329,1016 1376,1014 1423,1014 1470,1016 1516,1016 1563,1017 1610,1019 1657,1021 1704,1025" />
+                <TextEquiv>
+                    <Unicode>DE LEGITIMO CUERO,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="654,1148 1798,1149 1810,1112 1759,1082 1356,1082 654,1116" />
+                <Baseline points="662,1143 719,1142 776,1142 833,1140 890,1140 947,1140 1004,1139 1061,1139 1118,1137 1175,1137 1232,1137 1289,1137 1346,1136 1403,1136 1460,1136 1517,1136 1574,1137 1631,1137 1688,1137 1745,1137 1802,1139" />
+                <TextEquiv>
+                    <Unicode>COLORES MARRON Y NEGRO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="907,1391 1520,1396 1547,1382 1547,1332 1097,1323 907,1340" />
+                <Baseline points="915,1383 946,1383 977,1385 1008,1385 1039,1385 1071,1385 1102,1385 1133,1384 1164,1383 1195,1383 1227,1383 1258,1383 1289,1383 1320,1383 1351,1383 1383,1383 1414,1383 1445,1383 1476,1383 1507,1385 1539,1385" />
+                <TextEquiv>
+                    <Unicode>DE 16 PULGADAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="700,1549 1737,1548 1770,1488 824,1466 699,1517" />
+                <Baseline points="707,1541 759,1541 812,1539 865,1539 918,1539 971,1538 1023,1538 1076,1538 1129,1538 1182,1539 1235,1539 1287,1539 1340,1539 1393,1539 1446,1539 1499,1538 1551,1538 1604,1538 1657,1537 1710,1536 1763,1535" />
+                <TextEquiv>
+                    <Unicode>A P22.50, P25.00 y P30.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="913,1791 1535,1796 1552,1786 1551,1733 1085,1726 912,1743" />
+                <Baseline points="920,1787 951,1787 982,1787 1013,1787 1044,1787 1076,1787 1107,1787 1138,1787 1169,1787 1200,1787 1232,1787 1263,1785 1294,1785 1325,1785 1356,1785 1388,1785 1419,1785 1450,1785 1481,1785 1512,1784 1544,1784" />
+                <TextEquiv>
+                    <Unicode>DE 17 PULGADAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1030,1955 1121,1955 1136,1940 1152,1955 1208,1942 1222,1956 1406,1956 1446,1938 1446,1904 1397,1871 1320,1888 1297,1875 1150,1876 1124,1902 1086,1876 1029,1921" />
+                <Baseline points="1037,1946 1062,1946 1087,1946 1112,1946 1137,1945 1162,1944 1187,1944 1212,1944 1238,1943 1263,1943 1288,1943 1313,1943 1338,1943 1363,1943 1388,1943 1413,1944 1439,1944" />
+                <TextEquiv>
+                    <Unicode>A P50.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1138,2395 1201,2387 1232,2365 1271,2391 1340,2394 1341,2334 1330,2333 1299,2300 1274,2291 1238,2262 1140,2323" />
+                <Baseline points="1146,2378 1172,2379 1199,2379 1225,2378 1252,2376 1278,2377 1305,2380 1332,2387" />
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="618,2796 1853,2794 1794,2707 1661,2706 1615,2746 1562,2707 964,2706 906,2744 865,2708 761,2744 618,2708" />
+                <Baseline points="626,2790 690,2790 754,2790 818,2789 882,2789 946,2789 1010,2789 1075,2789 1139,2789 1203,2789 1267,2790 1331,2790 1395,2790 1460,2790 1524,2792 1588,2792 1652,2793 1716,2793 1780,2795 1845,2796" />
+                <TextEquiv>
+                    <Unicode>H. E. HEACOCK CO.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="969,2889 1127,2897 1236,2880 1251,2895 1342,2899 1507,2884 1465,2843 969,2842" />
+                <Baseline points="977,2879 1003,2879 1029,2880 1055,2880 1081,2881 1107,2882 1133,2882 1159,2882 1185,2882 1211,2882 1238,2882 1264,2882 1290,2882 1316,2882 1342,2882 1368,2882 1394,2883 1420,2883 1446,2884 1472,2885 1499,2886" />
+                <TextEquiv>
+                    <Unicode>ESCOLTA Y DAVID.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DE LEGITIMO CUERO,
+COLORES MARRON Y NEGRO.
+DE 16 PULGADAS
+A P22.50, P25.00 y P30.00
+DE 17 PULGADAS
+A P50.00
+S
+H. E. HEACOCK CO.
+ESCOLTA Y DAVID.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:2;}">
+            <Coords points="1175,430 2075,430 2075,438 1175,438" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="416,434 1139,434 1139,439 416,439" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="521,608 1504,608 1504,616 521,616" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="398,3057 1007,3057 1007,3064 398,3064" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="1101,3061 1179,3061 1179,3064 1101,3064" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="230,2801 244,2801 244,3202 230,3202" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="1824,762 1964,762 1964,773 1824,773" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="371,3199 2141,3199 2141,3223 371,3223" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="228,347 251,347 251,2724 228,2724" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="2222,2836 2239,2836 2239,3121 2222,3121" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

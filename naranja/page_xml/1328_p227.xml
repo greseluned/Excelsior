@@ -1,0 +1,669 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T10:42:55.063+02:00</Created>
+        <LastChange>2021-06-08T15:30:53.681+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782260" pageNr="1328" tsid="236401427" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GCYJAHZNGVWPDQCSJAGHWJRK" xmlUrl="https://files.transkribus.eu/Get?id=KWERINCOWVDGJVZRTPECKMXF" imageId="17247282" />
+    </Metadata>
+    <Page imageFilename="1328_p227.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="197,264 2278,264 2278,3217 197,3217" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982723133" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="7" regionRef="r_8_1" />
+                <RegionRefIndexed index="8" regionRef="r_9_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="211,264 2267,264 2267,518 211,518" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="221,380 1183,356 1309,396 1343,362 1528,371 1544,301 1205,266 1151,313 1051,266 978,317 903,267 734,299 421,267 364,318 220,271" />
+                <Baseline points="228,362 293,362 358,363 424,363 489,363 555,363 620,363 685,362 751,362 816,362 882,360 947,360 1012,360 1078,359 1143,359 1209,359 1274,359 1339,359 1405,359 1470,360 1536,362" />
+                <TextEquiv>
+                    <Unicode>La Compañía de Opera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1083,503 1541,508 1592,459 1646,508 2192,508 2245,465 2245,400 2073,432 1918,403 1870,450 1636,395 1549,444 1083,409" />
+                <Baseline points="1092,494 1149,494 1206,494 1263,495 1321,495 1378,495 1435,495 1492,495 1550,495 1607,495 1664,497 1721,497 1779,497 1836,497 1893,497 1950,495 2008,495 2065,495 2122,494 2179,494 2237,492" />
+                <TextEquiv>
+                    <Unicode>Italiana "San Carlo"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La Compañía de Opera
+Italiana "San Carlo"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="197,651 1221,651 1221,2396 197,2396" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="241,699 1128,699 1213,691 1213,647 241,658" />
+                <Baseline points="249,689 296,689 344,689 392,689 440,689 488,689 535,689 583,689 631,687 679,687 727,687 774,687 822,686 870,686 918,686 966,686 1013,686 1061,684 1109,684 1157,684 1205,686" />
+                <TextEquiv>
+                    <Unicode>En el Teatro Metropolitano debutará el día 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="192,759 1222,753 1205,722 1110,713 997,738 950,713 192,727" />
+                <Baseline points="201,753 251,753 302,752 352,752 403,750 454,750 504,750 555,750 606,749 656,749 707,749 758,749 808,749 859,749 910,749 960,749 1011,749 1062,749 1112,749 1163,749 1214,749" />
+                <TextEquiv>
+                    <Unicode>de noviembre venidero la Compañía de Opera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="190,823 1208,828 1208,779 190,785" />
+                <Baseline points="198,816 248,815 298,815 348,813 398,813 448,813 498,812 548,812 598,812 648,812 698,812 748,812 798,812 848,813 898,813 948,813 998,812 1048,812 1098,812 1148,812 1199,812" />
+                <TextEquiv>
+                    <Unicode>Italiana “San Carlo", de la que tenemos muy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="192,884 605,886 605,865 542,839 519,851 408,842 356,862 328,850 192,850" />
+                <Baseline points="201,876 227,876 253,878 280,876 306,876 333,876 359,875 385,875 412,873 438,873 465,873 491,873 517,873 544,874 570,876 597,878" />
+                <TextEquiv>
+                    <Unicode>buenas referencias.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="243,952 1217,947 1207,898 243,904" />
+                <Baseline points="251,938 298,938 346,938 394,938 442,938 490,938 538,938 585,938 633,938 681,938 729,938 777,938 825,938 873,938 920,938 968,938 1016,936 1064,936 1112,936 1160,935 1208,935" />
+                <TextEquiv>
+                    <Unicode>Su elenco lo forman, la soprano ligera Valdi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="189,1007 1184,1011 1205,970 189,974" />
+                <Baseline points="198,1002 250,1002 303,1001 355,1001 408,1001 460,1001 513,1001 566,999 618,999 671,999 723,999 776,999 828,998 881,998 934,998 986,998 1039,998 1091,998 1144,999 1197,999" />
+                <TextEquiv>
+                    <Unicode>Nella, la soprano dramática Moretti Susi, la so¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="206,1083 1211,1066 1168,1027 206,1035" />
+                <Baseline points="215,1064 264,1062 313,1062 363,1062 412,1062 462,1061 511,1061 560,1061 610,1061 659,1062 709,1062 758,1062 807,1062 857,1062 906,1062 956,1062 1005,1061 1054,1061 1104,1061 1153,1059 1203,1059" />
+                <TextEquiv>
+                    <Unicode>prano lírica Garrotto Anunciatta, la soprano Va¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="188,1133 1211,1124 1157,1083 188,1101" />
+                <Baseline points="197,1125 247,1125 297,1125 347,1125 398,1125 448,1125 498,1125 548,1125 599,1125 649,1125 699,1125 749,1125 800,1125 850,1125 900,1124 950,1124 1001,1124 1051,1124 1101,1122 1151,1122 1202,1121" />
+                <TextEquiv>
+                    <Unicode>lentino Valentina, las mezzo sopranos Galli Ga¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="207,1203 1094,1181 1143,1212 1215,1195 1215,1153 207,1155" />
+                <Baseline points="215,1188 264,1188 314,1187 363,1187 413,1185 462,1185 512,1185 561,1185 611,1185 660,1185 710,1185 760,1187 809,1187 859,1187 908,1187 958,1187 1007,1187 1057,1187 1106,1185 1156,1185 1206,1184" />
+                <TextEquiv>
+                    <Unicode>briella y Breschini Silvia, el tenor ligero Royo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="200,1263 1226,1245 1226,1220 1120,1209 979,1232 378,1213 349,1238 200,1215" />
+                <Baseline points="209,1251 259,1251 309,1251 360,1250 410,1250 461,1250 511,1250 562,1250 612,1250 663,1250 713,1250 763,1250 814,1250 864,1250 915,1250 965,1250 1016,1249 1066,1248 1117,1248 1167,1247 1218,1247" />
+                <TextEquiv>
+                    <Unicode>Mario, el tenor lírico Poerio Lorenzo, el barítono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="206,1326 1214,1316 1214,1283 1158,1272 527,1275 497,1300 206,1277" />
+                <Baseline points="215,1313 264,1314 314,1314 363,1314 413,1314 462,1314 512,1313 561,1313 611,1313 660,1313 710,1313 760,1313 809,1311 859,1311 908,1311 958,1311 1007,1311 1057,1310 1106,1310 1156,1310 1206,1310" />
+                <TextEquiv>
+                    <Unicode>Cavallo Mino, el tenor dramático Tamburini Ar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="198,1384 1206,1387 1220,1341 198,1351" />
+                <Baseline points="206,1376 256,1376 306,1376 356,1376 407,1376 457,1376 507,1376 558,1376 608,1374 658,1374 709,1374 759,1374 809,1374 859,1374 910,1373 960,1373 1010,1373 1061,1373 1111,1374 1161,1374 1212,1374" />
+                <TextEquiv>
+                    <Unicode>turo, el tenor comprimario Giorgianni Carlo, el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="199,1451 1220,1435 1189,1402 199,1403" />
+                <Baseline points="207,1440 257,1439 307,1439 357,1437 408,1437 458,1437 508,1437 558,1437 609,1437 659,1437 709,1437 759,1437 810,1437 860,1437 910,1437 960,1437 1011,1436 1061,1436 1111,1434 1161,1434 1212,1433" />
+                <TextEquiv>
+                    <Unicode>bajo Balzan Luigi, el barítono Scamuzzi, ya cono¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="196,1511 1206,1507 1222,1472 196,1480" />
+                <Baseline points="204,1502 254,1502 305,1501 355,1500 406,1500 456,1500 507,1500 557,1500 608,1500 658,1500 709,1500 759,1499 810,1499 860,1499 911,1499 961,1499 1012,1499 1062,1497 1113,1497 1163,1497 1214,1496" />
+                <TextEquiv>
+                    <Unicode>cido de nuestro público por haber actuado en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="196,1580 1210,1567 1185,1531 196,1532" />
+                <Baseline points="204,1566 253,1565 303,1565 353,1563 403,1563 453,1563 503,1562 553,1562 603,1562 653,1562 703,1562 752,1562 802,1562 852,1562 902,1562 952,1562 1002,1562 1052,1560 1102,1560 1152,1559 1202,1559" />
+                <TextEquiv>
+                    <Unicode>Manila en años anteriores en diferentes compa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l16" custom="readingOrder {index:15;}">
+                <Coords points="207,1637 1212,1623 1159,1584 207,1594" />
+                <Baseline points="216,1629 265,1628 314,1627 364,1626 413,1626 462,1625 512,1625 561,1624 610,1623 660,1623 709,1623 758,1623 808,1623 857,1623 906,1622 956,1622 1005,1622 1054,1622 1104,1622 1153,1622 1203,1620" />
+                <TextEquiv>
+                    <Unicode>ñías, el tenor Arturo Vincenzo y el bajo Artibo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l17" custom="readingOrder {index:16;}">
+                <Coords points="195,1699 1136,1699 1214,1692 1214,1665 195,1668" />
+                <Baseline points="204,1691 254,1690 304,1689 354,1689 404,1689 454,1688 504,1688 554,1688 604,1688 654,1688 705,1686 755,1686 805,1686 855,1686 905,1685 955,1685 1005,1685 1055,1685 1105,1684 1155,1683 1206,1683" />
+                <TextEquiv>
+                    <Unicode>ro Mauceri, también aquí conocido de otras tem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l18" custom="readingOrder {index:17;}">
+                <Coords points="201,1772 611,1743 1220,1755 1220,1708 776,1737 200,1723" />
+                <Baseline points="209,1754 259,1752 309,1752 359,1751 409,1751 459,1749 509,1749 559,1749 609,1749 659,1749 710,1748 760,1748 810,1748 860,1748 910,1748 960,1748 1010,1746 1060,1746 1110,1746 1160,1745 1211,1745" />
+                <TextEquiv>
+                    <Unicode>poradas de ópera. El Sr. Puccelli Gino es el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l19" custom="readingOrder {index:18;}">
+                <Coords points="207,1827 439,1827 457,1812 534,1831 647,1823 660,1799 604,1778 570,1788 409,1778 398,1790 206,1778" />
+                <Baseline points="215,1812 240,1813 266,1814 291,1814 317,1814 343,1814 368,1814 394,1812 420,1812 445,1811 471,1811 497,1810 522,1809 548,1809 574,1809 599,1811 625,1812 651,1814" />
+                <TextEquiv>
+                    <Unicode>Director de orquesta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l20" custom="readingOrder {index:19;}">
+                <Coords points="244,1892 1214,1875 1214,1847 1024,1834 928,1856 244,1843" />
+                <Baseline points="252,1875 299,1875 347,1875 395,1875 442,1875 490,1874 538,1874 585,1874 633,1874 681,1874 729,1872 776,1872 824,1872 872,1872 919,1872 967,1872 1015,1871 1062,1871 1110,1871 1158,1871 1206,1871" />
+                <TextEquiv>
+                    <Unicode>Forma parte también del elenco de la compa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l21" custom="readingOrder {index:20;}">
+                <Coords points="192,1952 1176,1939 1087,1898 192,1918" />
+                <Baseline points="201,1941 249,1941 297,1940 345,1940 394,1940 442,1938 490,1938 539,1938 587,1937 635,1937 684,1937 732,1935 780,1935 828,1935 877,1935 925,1934 973,1934 1022,1934 1070,1934 1118,1935 1167,1935" />
+                <TextEquiv>
+                    <Unicode>ñía, un cuerpo de baile de notables bailarinas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l22" custom="readingOrder {index:21;}">
+                <Coords points="232,2009 1142,2009 1210,1987 1210,1954 232,1983" />
+                <Baseline points="240,2004 288,2003 336,2003 384,2001 432,2001 480,2000 528,2000 576,2000 624,1998 672,1998 721,1998 769,1998 817,1997 865,1997 913,1997 961,1997 1009,1997 1057,1995 1105,1995 1153,1995 1202,1995" />
+                <TextEquiv>
+                    <Unicode>La compañía debutará con la ópera “Traviata”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l23" custom="readingOrder {index:22;}">
+                <Coords points="195,2088 1113,2075 1214,2059 1214,2035 194,2045" />
+                <Baseline points="203,2070 253,2068 303,2066 353,2065 403,2064 453,2063 503,2063 554,2061 604,2061 654,2061 704,2061 754,2061 804,2061 854,2060 905,2060 955,2060 1005,2060 1055,2058 1105,2058 1155,2057 1206,2055" />
+                <TextEquiv>
+                    <Unicode>y después interpretará las siguientes: Tosca, Ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l24" custom="readingOrder {index:23;}">
+                <Coords points="207,2142 1202,2129 1201,2093 1165,2083 1121,2107 1080,2083 777,2085 755,2109 206,2091" />
+                <Baseline points="215,2129 263,2128 312,2127 361,2127 410,2127 459,2126 508,2126 557,2126 606,2124 655,2124 704,2123 752,2123 801,2123 850,2122 899,2121 948,2121 997,2121 1046,2121 1095,2120 1144,2120 1193,2120" />
+                <TextEquiv>
+                    <Unicode>dame Butterfly, Rigoletto, Trovador, Lucia, Bo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l25" custom="readingOrder {index:24;}">
+                <Coords points="196,2204 1178,2196 1215,2188 1215,2142 196,2157" />
+                <Baseline points="204,2190 254,2190 304,2189 354,2189 404,2189 455,2187 505,2187 555,2187 605,2186 655,2186 706,2186 756,2184 806,2184 856,2184 906,2184 957,2183 1007,2183 1057,2183 1107,2183 1157,2183 1208,2183" />
+                <TextEquiv>
+                    <Unicode>heme, Carmen. Lucia, Manon, Fausto, Forza del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l26" custom="readingOrder {index:25;}">
+                <Coords points="198,2264 1084,2268 1209,2259 1223,2230 197,2219" />
+                <Baseline points="206,2252 256,2252 306,2250 357,2250 407,2249 458,2249 508,2249 559,2247 609,2247 660,2247 710,2247 760,2247 811,2246 861,2246 912,2246 962,2246 1013,2246 1063,2246 1114,2246 1164,2246 1215,2247" />
+                <TextEquiv>
+                    <Unicode>Destino, Sonánbula y Aida los días 2, 3, 4, 5,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l27" custom="readingOrder {index:26;}">
+                <Coords points="195,2320 1206,2323 1224,2276 194,2291" />
+                <Baseline points="203,2316 253,2316 304,2316 354,2315 405,2315 456,2313 506,2313 557,2313 607,2312 658,2312 709,2310 759,2310 810,2310 860,2309 911,2309 962,2309 1012,2309 1063,2309 1113,2309 1164,2309 1215,2309" />
+                <TextEquiv>
+                    <Unicode>6, 7, 8, 9, 10, 11, 12, 13, 14 y 15 de noviembre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l28" custom="readingOrder {index:27;}">
+                <Coords points="205,2388 288,2396 296,2388 560,2383 560,2364 504,2339 445,2350 368,2350 355,2339 326,2353 205,2348" />
+                <Baseline points="212,2376 238,2376 264,2376 290,2376 316,2376 342,2375 368,2375 395,2375 421,2375 447,2375 473,2375 499,2376 525,2377 552,2378" />
+                <TextEquiv>
+                    <Unicode>respectivamente.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>En el Teatro Metropolitano debutará el día 19
+de noviembre venidero la Compañía de Opera
+Italiana “San Carlo", de la que tenemos muy
+buenas referencias.
+Su elenco lo forman, la soprano ligera Valdi
+Nella, la soprano dramática Moretti Susi, la so¬
+prano lírica Garrotto Anunciatta, la soprano Va¬
+lentino Valentina, las mezzo sopranos Galli Ga¬
+briella y Breschini Silvia, el tenor ligero Royo
+Mario, el tenor lírico Poerio Lorenzo, el barítono
+Cavallo Mino, el tenor dramático Tamburini Ar¬
+turo, el tenor comprimario Giorgianni Carlo, el
+bajo Balzan Luigi, el barítono Scamuzzi, ya cono¬
+cido de nuestro público por haber actuado en
+Manila en años anteriores en diferentes compa¬
+ñías, el tenor Arturo Vincenzo y el bajo Artibo¬
+ro Mauceri, también aquí conocido de otras tem¬
+poradas de ópera. El Sr. Puccelli Gino es el
+Director de orquesta.
+Forma parte también del elenco de la compa¬
+ñía, un cuerpo de baile de notables bailarinas.
+La compañía debutará con la ópera “Traviata”
+y después interpretará las siguientes: Tosca, Ma¬
+dame Butterfly, Rigoletto, Trovador, Lucia, Bo¬
+heme, Carmen. Lucia, Manon, Fausto, Forza del
+Destino, Sonánbula y Aida los días 2, 3, 4, 5,
+6, 7, 8, 9, 10, 11, 12, 13, 14 y 15 de noviembre,
+respectivamente.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="330,2541 1092,2541 1092,2734 330,2734" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="432,2638 943,2648 985,2626 985,2580 926,2555 883,2572 852,2547 806,2581 759,2547 705,2578 568,2578 528,2539 477,2540 432,2570" />
+                <Baseline points="441,2633 467,2633 494,2633 521,2633 548,2633 575,2633 601,2631 628,2631 655,2631 682,2631 709,2631 735,2631 762,2630 789,2630 816,2630 843,2630 869,2630 896,2629 923,2628 950,2628 977,2628" />
+                <TextEquiv>
+                    <Unicode>Coccelalot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="325,2736 1089,2726 1088,2682 566,2683 544,2706 324,2687" />
+                <Baseline points="333,2721 370,2721 407,2721 445,2720 482,2720 519,2720 557,2718 594,2718 631,2718 669,2717 706,2717 743,2717 781,2717 818,2717 855,2717 893,2715 930,2715 967,2715 1005,2715 1042,2715 1080,2715" />
+                <TextEquiv>
+                    <Unicode>REVISTA DECENAL ILUSTRADA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Coccelalot
+REVISTA DECENAL ILUSTRADA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="212,2743 1215,2743 1215,3064 212,3064" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="370,2791 1035,2788 1064,2744 370,2749" />
+                <Baseline points="378,2781 411,2781 445,2780 479,2780 513,2780 547,2779 581,2778 615,2778 649,2778 683,2777 717,2777 750,2777 784,2777 818,2777 852,2777 886,2775 920,2775 954,2775 988,2775 1022,2775 1056,2775" />
+                <TextEquiv>
+                    <Unicode>PRECIOS DE SUSCRIPCION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="208,2869 1199,2855 1222,2813 208,2819" />
+                <Baseline points="216,2853 265,2852 315,2850 365,2849 415,2849 465,2849 515,2849 565,2849 615,2849 665,2849 715,2849 764,2849 814,2849 864,2849 914,2849 964,2848 1014,2847 1064,2846 1114,2844 1164,2841 1214,2840" />
+                <TextEquiv>
+                    <Unicode>En Manila—al mes -- ₱1.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="208,2925 1216,2916 1216,2865 1042,2893 960,2867 208,2876" />
+                <Baseline points="216,2913 265,2911 315,2909 364,2909 414,2907 464,2906 513,2906 563,2904 612,2904 662,2904 712,2904 761,2904 811,2906 860,2906 910,2906 960,2906 1009,2906 1059,2906 1108,2904 1158,2904 1208,2903" />
+                <TextEquiv>
+                    <Unicode>En Provincias—Trimestre adelantado.- 3.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="207,2981 1223,2967 1200,2927 1063,2952 207,2934" />
+                <Baseline points="215,2972 265,2970 315,2969 365,2969 415,2967 465,2967 515,2966 565,2966 615,2966 665,2966 715,2966 765,2966 815,2966 865,2965 915,2964 965,2964 1015,2964 1065,2963 1115,2963 1165,2961 1215,2961" />
+                <TextEquiv>
+                    <Unicode>En el Extranjero—Semestre adelantado.. 10.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="412,3057 991,3051 1011,3015 731,3002 670,3024 574,3004 412,3018" />
+                <Baseline points="420,3041 449,3042 478,3042 507,3043 536,3044 565,3044 594,3044 623,3042 652,3042 681,3042 711,3042 740,3041 769,3041 798,3041 827,3041 856,3039 885,3039 914,3039 943,3039 972,3041 1002,3041" />
+                <TextEquiv>
+                    <Unicode>Dirección y Administración:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PRECIOS DE SUSCRIPCION
+En Manila—al mes -- ₱1.00
+En Provincias—Trimestre adelantado.- 3.00
+En el Extranjero—Semestre adelantado.. 10.00
+Dirección y Administración:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="238,3066 1216,3066 1216,3216 238,3216" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="231,3116 1151,3115 1210,3099 1210,3066 231,3067" />
+                <Baseline points="240,3105 288,3104 336,3104 384,3102 432,3102 480,3102 528,3102 576,3102 624,3102 672,3102 721,3102 769,3102 817,3102 865,3102 913,3101 961,3101 1009,3101 1057,3101 1105,3099 1153,3099 1202,3098" />
+                <TextEquiv>
+                    <Unicode>STA. POTENCIANA No. 32, INTRAMUROS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="550,3172 761,3179 771,3170 812,3176 827,3163 879,3170 890,3167 891,3124 840,3124 818,3140 784,3126 760,3145 735,3129 712,3137 702,3127 550,3128" />
+                <Baseline points="558,3161 585,3162 612,3162 639,3162 666,3162 693,3163 720,3164 747,3164 774,3164 801,3164 828,3163 855,3162 882,3162" />
+                <TextEquiv>
+                    <Unicode>MANILA, I. F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="941,3210 1015,3219 1062,3209 1223,3212 1222,3174 1201,3166 1070,3168 1051,3188 1024,3165 941,3166" />
+                <Baseline points="950,3203 976,3204 1003,3204 1029,3203 1056,3203 1082,3201 1109,3200 1135,3200 1162,3201 1188,3201 1215,3204" />
+                <TextEquiv>
+                    <Unicode>TEL. 2-16-54</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="219,3220 424,3220 443,3207 465,3220 510,3219 541,3195 572,3194 572,3176 522,3170 368,3168 322,3180 304,3167 219,3169" />
+                <Baseline points="228,3206 253,3206 279,3206 305,3206 331,3204 357,3204 383,3203 408,3203 434,3203 460,3203 486,3203 512,3203 538,3204 564,3206" />
+                <TextEquiv>
+                    <Unicode>P. O. BOX 149</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>STA. POTENCIANA No. 32, INTRAMUROS
+MANILA, I. F.
+TEL. 2-16-54
+P. O. BOX 149</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1255,648 2278,648 2278,2071 1255,2071" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1293,687 2273,697 2273,660 2199,651 1293,656" />
+                <Baseline points="1301,686 1349,686 1397,686 1445,686 1493,686 1541,687 1589,687 1638,687 1686,687 1734,687 1782,687 1830,687 1878,687 1926,686 1975,686 2023,686 2071,686 2119,686 2167,686 2215,687 2264,687" />
+                <TextEquiv>
+                    <Unicode>Los precios de las localidades son económicos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1251,761 2277,751 2244,715 1251,722" />
+                <Baseline points="1259,749 1309,749 1359,749 1410,749 1460,749 1511,749 1561,749 1612,749 1662,749 1713,749 1763,749 1813,749 1864,750 1914,750 1965,750 2015,750 2066,750 2116,750 2167,750 2217,750 2268,750" />
+                <TextEquiv>
+                    <Unicode>y están al alcance de todos, pues se han hecho lo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1252,818 2269,816 2269,787 2139,773 1960,771 1932,798 1856,770 1252,779" />
+                <Baseline points="1259,810 1309,810 1359,809 1409,809 1459,809 1509,810 1559,810 1609,810 1659,810 1709,810 1760,810 1810,810 1860,812 1910,812 1960,812 2010,812 2060,812 2110,812 2160,813 2210,813 2261,813" />
+                <TextEquiv>
+                    <Unicode>más módicos posibles en vista de las circuns¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1251,875 1408,876 1433,867 1433,852 1423,852 1405,834 1348,827 1340,835 1286,835 1279,828 1251,828" />
+                <Baseline points="1259,861 1286,863 1314,864 1341,864 1369,863 1396,863 1424,864" />
+                <TextEquiv>
+                    <Unicode>tancias.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1299,936 2269,929 2256,898 2147,892 1299,890" />
+                <Baseline points="1307,926 1354,926 1402,927 1450,927 1497,927 1545,927 1593,929 1640,929 1688,929 1736,929 1784,929 1831,929 1879,929 1927,929 1974,929 2022,927 2070,927 2117,927 2165,927 2213,926 2261,926" />
+                <TextEquiv>
+                    <Unicode>Para los amantes de la buena música, de la ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1260,1003 2270,1003 2270,962 2183,978 2134,949 1586,978 1260,956" />
+                <Baseline points="1268,990 1317,990 1367,990 1416,992 1466,992 1516,992 1565,992 1615,992 1665,992 1714,992 1764,992 1814,992 1863,992 1913,992 1963,992 2012,992 2062,992 2112,992 2161,992 2211,992 2261,993" />
+                <TextEquiv>
+                    <Unicode>dadera música, se prepara una temporada que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1263,1062 2265,1062 2265,1027 2202,1014 2076,1039 1263,1019" />
+                <Baseline points="1271,1053 1320,1053 1369,1052 1418,1052 1468,1052 1517,1052 1566,1052 1615,1052 1665,1053 1714,1053 1763,1053 1812,1053 1862,1053 1911,1053 1960,1053 2009,1053 2059,1052 2108,1052 2157,1052 2206,1052 2256,1052" />
+                <TextEquiv>
+                    <Unicode>deseamos de todas veras sea un éxito completo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1260,1124 2270,1117 2231,1074 1260,1088" />
+                <Baseline points="1268,1113 1317,1113 1367,1113 1416,1115 1466,1115 1516,1115 1565,1115 1615,1115 1665,1115 1714,1115 1764,1115 1814,1116 1863,1116 1913,1116 1963,1116 2012,1115 2062,1115 2112,1115 2161,1115 2211,1114 2261,1113" />
+                <TextEquiv>
+                    <Unicode>artística y económicamente hablando, pues de de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1251,1184 2265,1186 2247,1147 2095,1139 1251,1153" />
+                <Baseline points="1259,1178 1311,1178 1364,1178 1416,1178 1469,1178 1521,1178 1574,1178 1627,1179 1679,1179 1732,1179 1784,1179 1837,1179 1889,1179 1942,1179 1995,1178 2047,1178 2100,1178 2152,1178 2205,1176 2258,1176" />
+                <TextEquiv>
+                    <Unicode>sear es que, por el bien del Arte, las tempora¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1255,1252 2270,1243 2230,1202 1870,1226 1255,1207" />
+                <Baseline points="1263,1242 1315,1241 1368,1241 1420,1241 1473,1241 1525,1241 1578,1241 1631,1241 1683,1241 1736,1241 1788,1241 1841,1240 1893,1239 1946,1239 1999,1239 2051,1239 2104,1238 2156,1238 2209,1238 2262,1238" />
+                <TextEquiv>
+                    <Unicode>das de ópera sean periódicas, o lo que es lo mis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l11" custom="readingOrder {index:10;}">
+                <Coords points="1263,1316 2279,1308 2279,1276 2019,1287 1958,1258 1263,1275" />
+                <Baseline points="1271,1305 1321,1304 1371,1304 1421,1304 1471,1304 1521,1304 1571,1304 1621,1302 1671,1302 1721,1302 1771,1302 1821,1302 1871,1302 1921,1301 1971,1301 2021,1301 2071,1301 2121,1301 2171,1302 2221,1302 2271,1302" />
+                <TextEquiv>
+                    <Unicode>mo que todos los años visite Manila, aunque sea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l12" custom="readingOrder {index:11;}">
+                <Coords points="1257,1383 1342,1359 1792,1386 2263,1365 2185,1323 2011,1351 1975,1327 1257,1338" />
+                <Baseline points="1265,1367 1314,1365 1364,1365 1413,1365 1463,1365 1512,1364 1562,1364 1611,1364 1661,1364 1710,1364 1760,1364 1809,1365 1859,1365 1908,1365 1958,1364 2007,1364 2057,1364 2106,1364 2156,1362 2205,1362 2255,1361" />
+                <TextEquiv>
+                    <Unicode>por una corta temporada, como la de la Com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l13" custom="readingOrder {index:12;}">
+                <Coords points="1257,1444 2235,1436 2273,1400 1256,1400" />
+                <Baseline points="1265,1428 1317,1428 1370,1428 1422,1427 1475,1427 1527,1427 1580,1427 1633,1427 1685,1427 1738,1427 1790,1427 1843,1425 1895,1425 1948,1425 2001,1425 2053,1425 2106,1424 2158,1424 2211,1424 2264,1424" />
+                <TextEquiv>
+                    <Unicode>pañía “San Carlo", que solo dará quince funcio¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l14" custom="readingOrder {index:13;}">
+                <Coords points="1263,1498 2168,1500 2144,1459 2071,1451 1263,1461" />
+                <Baseline points="1271,1488 1315,1490 1359,1490 1404,1490 1448,1491 1493,1491 1537,1491 1582,1490 1626,1490 1671,1490 1715,1490 1759,1490 1804,1488 1848,1488 1893,1488 1937,1488 1982,1487 2026,1487 2071,1487 2115,1485 2160,1485" />
+                <TextEquiv>
+                    <Unicode>nes, una buena compañía de ópera italiana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l15" custom="readingOrder {index:14;}">
+                <Coords points="1299,1564 2282,1552 2282,1525 2228,1514 1299,1515" />
+                <Baseline points="1307,1551 1355,1553 1403,1553 1452,1554 1500,1554 1548,1554 1597,1554 1645,1553 1693,1553 1742,1553 1790,1553 1838,1551 1887,1551 1935,1551 1983,1550 2032,1550 2080,1550 2128,1550 2177,1551 2225,1551 2274,1551" />
+                <TextEquiv>
+                    <Unicode>Por primera vez se celebrará una temporada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l16" custom="readingOrder {index:15;}">
+                <Coords points="1263,1626 2270,1629 2269,1586 2202,1578 1263,1580" />
+                <Baseline points="1272,1617 1321,1617 1371,1616 1420,1616 1470,1616 1519,1616 1569,1616 1618,1614 1668,1614 1717,1614 1767,1614 1816,1614 1866,1614 1915,1613 1965,1613 2014,1613 2064,1613 2113,1613 2163,1613 2212,1614 2262,1614" />
+                <TextEquiv>
+                    <Unicode>de ópera en el Teatro Metropolitano, que tan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l17" custom="readingOrder {index:16;}">
+                <Coords points="1251,1683 2261,1691 2276,1649 1251,1652" />
+                <Baseline points="1259,1677 1309,1677 1359,1677 1410,1677 1460,1676 1511,1676 1561,1676 1611,1676 1662,1676 1712,1676 1763,1676 1813,1677 1863,1677 1914,1677 1964,1677 2015,1676 2065,1676 2115,1676 2166,1675 2216,1674 2267,1673" />
+                <TextEquiv>
+                    <Unicode>excelentes condiciones acústicas tiene para esa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l18" custom="readingOrder {index:17;}">
+                <Coords points="1261,1751 2168,1756 2271,1747 2271,1703 1261,1715" />
+                <Baseline points="1269,1740 1318,1740 1368,1740 1417,1739 1467,1739 1517,1739 1566,1739 1616,1739 1666,1739 1715,1739 1765,1739 1815,1737 1864,1737 1914,1737 1964,1737 2013,1737 2063,1737 2113,1737 2162,1737 2212,1737 2262,1737" />
+                <TextEquiv>
+                    <Unicode>clase de audiciones, por lo que no dudamos podrá</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l19" custom="readingOrder {index:18;}">
+                <Coords points="1248,1812 2264,1812 2276,1774 1248,1777" />
+                <Baseline points="1256,1803 1306,1803 1357,1802 1407,1802 1458,1802 1509,1800 1559,1800 1610,1800 1660,1800 1711,1800 1762,1799 1812,1799 1863,1799 1913,1799 1964,1799 2015,1799 2065,1799 2116,1799 2166,1799 2217,1800 2268,1800" />
+                <TextEquiv>
+                    <Unicode>apreciar mejor el público las cualidades de las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l20" custom="readingOrder {index:19;}">
+                <Coords points="1252,1865 1748,1873 1748,1852 1678,1827 1252,1837" />
+                <Baseline points="1260,1862 1285,1862 1310,1863 1335,1863 1361,1863 1386,1863 1411,1863 1436,1863 1462,1862 1487,1862 1512,1862 1537,1862 1563,1862 1588,1862 1613,1862 1638,1863 1664,1863 1689,1863 1714,1865 1740,1866" />
+                <TextEquiv>
+                    <Unicode>voces de los cantantes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l21" custom="readingOrder {index:20;}">
+                <Coords points="1294,1937 2276,1927 2276,1901 2143,1891 1294,1896" />
+                <Baseline points="1302,1925 1350,1926 1398,1926 1446,1928 1495,1928 1543,1928 1591,1928 1639,1928 1688,1928 1736,1928 1784,1928 1832,1928 1881,1928 1929,1928 1977,1928 2025,1928 2074,1928 2122,1928 2170,1928 2218,1929 2267,1929" />
+                <TextEquiv>
+                    <Unicode>El abono abierto por la Compañía se ha cu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l22" custom="readingOrder {index:21;}">
+                <Coords points="1255,2004 2270,1997 2270,1961 2162,1950 1962,1976 1255,1955" />
+                <Baseline points="1263,1991 1315,1991 1368,1991 1420,1991 1473,1989 1525,1989 1578,1989 1631,1989 1683,1989 1736,1989 1788,1989 1841,1989 1893,1989 1946,1989 1999,1989 2051,1989 2104,1989 2156,1989 2209,1989 2262,1989" />
+                <TextEquiv>
+                    <Unicode>bierto, según tenemos entendido, en una forma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l23" custom="readingOrder {index:22;}">
+                <Coords points="1262,2065 2079,2062 2079,2038 2015,2010 1873,2032 1262,2025" />
+                <Baseline points="1271,2055 1313,2055 1355,2054 1397,2054 1439,2052 1481,2052 1523,2052 1565,2052 1607,2052 1649,2052 1691,2052 1733,2052 1775,2052 1817,2052 1859,2052 1901,2052 1943,2052 1985,2052 2027,2052 2070,2052" />
+                <TextEquiv>
+                    <Unicode>que ha excedido a lo que se esperaba.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Los precios de las localidades son económicos
+y están al alcance de todos, pues se han hecho lo
+más módicos posibles en vista de las circuns¬
+tancias.
+Para los amantes de la buena música, de la ver¬
+dadera música, se prepara una temporada que
+deseamos de todas veras sea un éxito completo
+artística y económicamente hablando, pues de de¬
+sear es que, por el bien del Arte, las tempora¬
+das de ópera sean periódicas, o lo que es lo mis¬
+mo que todos los años visite Manila, aunque sea
+por una corta temporada, como la de la Com¬
+pañía “San Carlo", que solo dará quince funcio¬
+nes, una buena compañía de ópera italiana.
+Por primera vez se celebrará una temporada
+de ópera en el Teatro Metropolitano, que tan
+excelentes condiciones acústicas tiene para esa
+clase de audiciones, por lo que no dudamos podrá
+apreciar mejor el público las cualidades de las
+voces de los cantantes.
+El abono abierto por la Compañía se ha cu¬
+bierto, según tenemos entendido, en una forma
+que ha excedido a lo que se esperaba.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1276,2224 2252,2224 2252,2957 1276,2957" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="1265,2983 2274,2983 2274,3214 1265,3214" />
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1323,3023 2217,3029 2275,3023 2275,2989 1323,3000" />
+                <Baseline points="1331,3017 1377,3018 1424,3018 1471,3020 1518,3020 1565,3021 1611,3021 1658,3021 1705,3021 1752,3021 1799,3020 1845,3020 1892,3020 1939,3018 1986,3018 2033,3018 2079,3017 2126,3017 2173,3017 2220,3017 2267,3017" />
+                <TextEquiv>
+                    <Unicode>—Pues, sí, señor; nosotros no hemos ido a ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1260,3075 2255,3077 2283,3037 1260,3039" />
+                <Baseline points="1268,3065 1318,3065 1368,3066 1418,3066 1469,3066 1519,3066 1569,3066 1620,3066 1670,3065 1720,3065 1771,3065 1821,3065 1871,3063 1921,3063 1972,3063 2022,3063 2072,3062 2123,3062 2173,3062 2223,3062 2274,3062" />
+                <TextEquiv>
+                    <Unicode>el Vesubio porque... como mi marido es médico</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1260,3132 2178,3124 2270,3116 2270,3080 1260,3082" />
+                <Baseline points="1268,3111 1317,3111 1367,3111 1417,3111 1466,3111 1516,3110 1566,3110 1615,3110 1665,3110 1715,3110 1765,3110 1814,3110 1864,3110 1914,3110 1963,3110 2013,3110 2063,3110 2112,3108 2162,3108 2212,3108 2262,3108" />
+                <TextEquiv>
+                    <Unicode>y se dedica a enfermedades de la piel..., pues</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1266,3171 1793,3169 1793,3136 1770,3126 1266,3131" />
+                <Baseline points="1274,3156 1299,3156 1325,3156 1350,3156 1376,3156 1401,3156 1427,3156 1452,3156 1478,3156 1503,3156 1529,3156 1555,3156 1580,3156 1606,3156 1631,3156 1657,3156 1682,3156 1708,3156 1733,3156 1759,3156 1785,3155" />
+                <TextEquiv>
+                    <Unicode>está harto de erupciones.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1650,3208 2053,3212 2087,3191 2109,3212 2276,3210 2275,3161 1770,3162 1732,3180 1678,3164 1650,3180" />
+                <Baseline points="1658,3200 1688,3200 1719,3200 1749,3198 1780,3198 1810,3198 1841,3198 1871,3198 1902,3198 1932,3198 1963,3198 1993,3198 2024,3198 2054,3198 2085,3198 2115,3198 2146,3198 2176,3198 2207,3198 2237,3198 2268,3197" />
+                <TextEquiv>
+                    <Unicode>—De “Buen Humor” Madrid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>—Pues, sí, señor; nosotros no hemos ido a ver
+el Vesubio porque... como mi marido es médico
+y se dedica a enfermedades de la piel..., pues
+está harto de erupciones.
+—De “Buen Humor” Madrid.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_9_1" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="218,3171 527,3171 527,3217 218,3217" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:9;}">
+            <Coords points="1038,554 1435,554 1435,565 1038,565" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:10;}">
+            <Coords points="1277,2136 2258,2136 2258,2143 1277,2143" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:11;}">
+            <Coords points="1279,2228 1558,2228 1558,2240 1279,2240" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:12;}">
+            <Coords points="1676,2224 2248,2224 2248,2242 1676,2242" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:13;}">
+            <Coords points="225,2454 1155,2454 1155,2470 225,2470" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:14;}">
+            <Coords points="1279,2937 2251,2937 2251,2952 1279,2952" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:15;}">
+            <Coords points="1278,2229 1290,2229 1290,2949 1278,2949" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:16;}">
+            <Coords points="1316,2638 1324,2638 1324,2766 1316,2766" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:17;}">
+            <Coords points="1825,2715 1836,2715 1836,2887 1825,2887" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:18;}">
+            <Coords points="1875,2729 1889,2729 1889,2914 1875,2914" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:19;}">
+            <Coords points="2142,2277 2160,2277 2160,2628 2142,2628" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:20;}">
+            <Coords points="2239,2225 2251,2225 2251,2952 2239,2952" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:21;}">
+            <Coords points="630,2843 1062,2843 1062,2853 630,2853" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

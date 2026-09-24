@@ -1,0 +1,645 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:51:19.608+02:00</Created>
+        <LastChange>2021-06-08T20:42:18.458+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782960" pageNr="1984" tsid="236402509" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NWJYXMYTVAOFIWSEVCLNFOJO" xmlUrl="https://files.transkribus.eu/Get?id=GNEVLXKOHJCFQXBNNFIFVLFW" imageId="17249155" />
+    </Metadata>
+    <Page imageFilename="1984_p883.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="216,287 2248,287 2248,3218 216,3218" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982873365" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1" />
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="6" regionRef="r_7_1" />
+                <RegionRefIndexed index="7" regionRef="r_8_1" />
+                <RegionRefIndexed index="8" regionRef="r_9_1" />
+                <RegionRefIndexed index="9" regionRef="r_10_1" />
+                <RegionRefIndexed index="10" regionRef="r_11_1" />
+                <RegionRefIndexed index="11" regionRef="r_12_1" />
+                <RegionRefIndexed index="12" regionRef="r_13_1" />
+                <RegionRefIndexed index="13" regionRef="r_14_1" />
+                <RegionRefIndexed index="14" regionRef="r_15_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="320,340 1118,340 1118,608 320,608" />
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="521,384 533,384 551,397 589,393 589,358 578,358 574,354 521,354" />
+                <Baseline points="531,384 579,384" />
+                <TextEquiv>
+                    <Unicode>n5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l2" custom="readingOrder {index:1;}">
+                <Coords points="341,434 1096,436 1115,430 1115,355 821,367 739,341 618,354 562,408 505,359 340,351" />
+                <Baseline points="351,420 388,422 426,422 463,423 501,424 539,425 576,425 614,425 652,425 689,425 727,425 765,425 802,424 840,423 878,423 915,423 953,422 991,422 1028,420 1066,420 1104,420" />
+                <TextEquiv>
+                    <Unicode>TLPRAS COMPARIA DE SECUROS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l3" custom="readingOrder {index:2;}">
+                <Coords points="448,478 478,493 947,491 977,476 977,437 448,444" />
+                <Baseline points="458,476 483,477 508,477 534,479 559,479 585,480 610,480 635,480 661,480 686,480 712,480 737,480 762,480 788,479 813,479 839,479 864,479 889,479 915,478 940,477 966,477" />
+                <TextEquiv>
+                    <Unicode>"FILIPINAS BUILDING"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l4" custom="readingOrder {index:3;}">
+                <Coords points="526,552 895,550 919,539 919,524 884,505 526,507" />
+                <Baseline points="537,542 563,542 590,542 616,542 643,542 669,542 696,542 723,542 749,541 776,540 802,540 829,540 855,539 882,539 909,539" />
+                <TextEquiv>
+                    <Unicode>21 PLAZA MORAGA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_1_1l5" custom="readingOrder {index:4;}">
+                <Coords points="632,612 809,611 809,575 792,569 709,571 688,569 679,560 632,560" />
+                <Baseline points="644,599 669,600 695,600 721,600 746,600 772,599 798,600" />
+                <TextEquiv>
+                    <Unicode>MANILA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>n5
+TLPRAS COMPARIA DE SECUROS
+"FILIPINAS BUILDING"
+21 PLAZA MORAGA
+MANILA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="274,656 1162,656 1162,1670 274,1670" />
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="482,701 949,701 949,652 482,659" />
+                <Baseline points="492,693 518,692 544,692 570,691 597,690 623,690 649,690 676,690 702,690 728,690 754,690 781,690 807,690 833,690 860,690 886,689 912,689 939,689" />
+                <TextEquiv>
+                    <Unicode>Aceptamos Seguros de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="340,773 470,774 472,727 442,726 431,736 425,729 342,726" />
+                <Baseline points="351,761 378,762 405,764 432,765 459,764" />
+                <TextEquiv>
+                    <Unicode>VIDA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="413,836 672,837 699,828 699,785 413,785" />
+                <Baseline points="425,822 451,824 477,824 504,824 530,822 557,822 583,822 609,821 636,821 662,821 689,822" />
+                <TextEquiv>
+                    <Unicode>INCENDIOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="497,883 520,896 776,896 821,885 821,863 793,849 537,844 496,860" />
+                <Baseline points="507,884 532,884 557,884 582,884 608,884 633,882 658,882 683,882 709,881 734,881 759,882 784,882 810,884" />
+                <TextEquiv>
+                    <Unicode>MOBILIARIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l5" custom="readingOrder {index:4;}">
+                <Coords points="594,957 903,956 920,950 920,907 593,906" />
+                <Baseline points="605,944 630,945 655,945 681,945 706,944 731,944 757,942 782,942 807,942 833,941 858,941 883,941 909,942" />
+                <TextEquiv>
+                    <Unicode>MERCANCIAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l6" custom="readingOrder {index:5;}">
+                <Coords points="673,1003 703,1016 863,1014 878,1029 895,1014 923,1006 923,972 906,968 673,969" />
+                <Baseline points="684,1002 709,1001 734,1001 760,1001 785,1002 810,1002 836,1002 861,1002 886,1002 912,1001" />
+                <TextEquiv>
+                    <Unicode>VAPORES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l7" custom="readingOrder {index:6;}">
+                <Coords points="743,1075 973,1079 1091,1069 1090,1026 742,1026" />
+                <Baseline points="753,1064 778,1065 803,1065 828,1065 853,1064 878,1064 903,1063 928,1062 953,1062 978,1062 1003,1061 1028,1061 1053,1062 1079,1064" />
+                <TextEquiv>
+                    <Unicode>AUTOMOVILES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l8" custom="readingOrder {index:7;}">
+                <Coords points="420,1132 685,1143 708,1121 729,1140 962,1140 1009,1125 1009,1089 420,1088" />
+                <Baseline points="431,1127 459,1125 487,1125 516,1125 544,1125 573,1125 601,1124 629,1124 658,1124 686,1124 715,1124 743,1125 771,1125 800,1125 828,1125 857,1125 885,1125 913,1124 942,1124 970,1124 999,1124" />
+                <TextEquiv>
+                    <Unicode>FIANZAS y GARANTIAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l9" custom="readingOrder {index:8;}">
+                <Coords points="378,1187 997,1197 1012,1212 1055,1195 1054,1148 1037,1146 378,1149" />
+                <Baseline points="389,1187 421,1187 454,1187 487,1187 519,1187 552,1187 585,1187 617,1185 650,1185 683,1185 716,1185 748,1185 781,1185 814,1185 846,1185 879,1185 912,1185 944,1185 977,1185 1010,1185 1043,1185" />
+                <TextEquiv>
+                    <Unicode>PRESTAMOS HIPOTECARIOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l10" custom="readingOrder {index:9;}">
+                <Coords points="274,1284 1151,1277 1151,1228 274,1233" />
+                <Baseline points="285,1268 327,1268 370,1268 413,1269 456,1269 498,1269 541,1269 584,1269 627,1269 669,1269 712,1269 755,1269 798,1269 840,1268 883,1268 926,1268 969,1268 1011,1268 1054,1268 1097,1268 1140,1268" />
+                <TextEquiv>
+                    <Unicode>SE ALQUILA LOCAL PARA OFICINAS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l11" custom="readingOrder {index:10;}">
+                <Coords points="274,1363 348,1363 363,1372 462,1365 470,1356 583,1364 598,1360 599,1322 528,1312 483,1327 355,1314 274,1324" />
+                <Baseline points="285,1349 310,1350 335,1350 360,1350 386,1350 411,1350 436,1350 461,1350 487,1350 512,1351 537,1352 562,1353 588,1355" />
+                <TextEquiv>
+                    <Unicode>Dirijanse a la:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l12" custom="readingOrder {index:11;}">
+                <Coords points="307,1421 1145,1415 1120,1377 307,1376" />
+                <Baseline points="318,1412 358,1412 399,1413 440,1413 481,1413 522,1413 562,1413 603,1413 644,1413 685,1413 726,1413 766,1413 807,1413 848,1413 889,1413 930,1413 970,1413 1011,1413 1052,1413 1093,1413 1134,1413" />
+                <TextEquiv>
+                    <Unicode>OFICINA CENTRAL, CUARTO No. 205</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l13" custom="readingOrder {index:12;}">
+                <Coords points="336,1521 477,1550 1036,1543 1078,1516 1079,1484 336,1487" />
+                <Baseline points="347,1515 383,1520 419,1524 455,1527 491,1529 527,1530 563,1532 599,1532 635,1532 671,1532 707,1532 743,1531 779,1530 815,1530 851,1529 887,1529 923,1527 959,1527 995,1529 1031,1529 1067,1530" />
+                <TextEquiv>
+                    <Unicode>"FILIPINAS BUILDING"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l14" custom="readingOrder {index:13;}">
+                <Coords points="433,1606 979,1605 1011,1598 1011,1568 432,1563" />
+                <Baseline points="444,1599 471,1598 499,1598 527,1598 555,1597 583,1596 611,1596 638,1596 666,1596 694,1596 722,1596 750,1596 778,1595 806,1595 833,1595 861,1595 889,1595 917,1595 945,1595 973,1595 1001,1595" />
+                <TextEquiv>
+                    <Unicode>Teléfonos 2-17-63 y 2-17-64</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_1l15" custom="readingOrder {index:14;}">
+                <Coords points="424,1676 1015,1663 1015,1640 974,1616 863,1617 842,1638 797,1617 744,1638 703,1617 575,1618 552,1641 528,1618 488,1637 424,1618" />
+                <Baseline points="434,1658 462,1658 491,1658 519,1658 548,1658 576,1658 605,1658 633,1658 662,1658 690,1658 719,1658 748,1658 776,1658 805,1658 833,1658 862,1658 890,1658 919,1656 947,1656 976,1656 1005,1655" />
+                <TextEquiv>
+                    <Unicode>P. O. Box No. 745, Manila</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aceptamos Seguros de
+VIDA
+INCENDIOS
+MOBILIARIO
+MERCANCIAS
+VAPORES
+AUTOMOVILES
+FIANZAS y GARANTIAS
+PRESTAMOS HIPOTECARIOS
+SE ALQUILA LOCAL PARA OFICINAS
+Dirijanse a la:
+OFICINA CENTRAL, CUARTO No. 205
+"FILIPINAS BUILDING"
+Teléfonos 2-17-63 y 2-17-64
+P. O. Box No. 745, Manila</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1338,402 2170,402 2170,452 1338,452" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1343,450 2164,449 2164,410 2047,401 1343,401" />
+                <Baseline points="1353,437 1393,438 1433,438 1473,440 1513,440 1553,440 1593,440 1633,440 1673,440 1713,440 1753,440 1793,440 1833,440 1873,440 1913,440 1953,440 1993,440 2033,441 2073,441 2113,441 2154,443" />
+                <TextEquiv>
+                    <Unicode>Para Pintar Mejor—Le Recomendamos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Para Pintar Mejor—Le Recomendamos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="1584,528 1920,528 1920,1000 1584,1000" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1336,1052 2168,1052 2168,1588 1336,1588" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1436,1103 2038,1109 2068,1094 2068,1047 1829,1050 1814,1065 1436,1048" />
+                <Baseline points="1446,1091 1476,1091 1507,1091 1537,1091 1568,1091 1598,1092 1629,1092 1659,1092 1690,1094 1720,1094 1751,1094 1782,1094 1812,1095 1843,1095 1873,1095 1904,1095 1934,1095 1965,1094 1995,1094 2026,1092 2057,1092" />
+                <TextEquiv>
+                    <Unicode>PINTURAS y ACEITES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1588,1270 1655,1269 1686,1237 1746,1271 1793,1269 1817,1245 1881,1277 1949,1255 1949,1196 1912,1183 1863,1183 1825,1202 1806,1183 1740,1181 1695,1201 1663,1180 1588,1178" />
+                <Baseline points="1599,1254 1625,1253 1651,1253 1677,1253 1703,1254 1729,1254 1755,1254 1781,1254 1807,1253 1833,1253 1859,1253 1885,1253 1911,1252 1938,1251" />
+                <TextEquiv>
+                    <Unicode>Y CO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1340,1389 1799,1375 1831,1397 2149,1397 2171,1348 2137,1328 1341,1325" />
+                <Baseline points="1350,1376 1390,1376 1431,1377 1471,1377 1512,1377 1552,1377 1593,1377 1633,1377 1674,1377 1714,1377 1755,1377 1795,1377 1836,1377 1876,1377 1917,1379 1957,1379 1998,1380 2038,1380 2079,1382 2119,1383 2160,1385" />
+                <TextEquiv>
+                    <Unicode>YNCHAUSTI Y COMPAÑIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1477,1502 2036,1491 2036,1467 1992,1456 1477,1457" />
+                <Baseline points="1487,1488 1513,1488 1540,1488 1567,1488 1594,1488 1621,1488 1648,1488 1675,1488 1702,1488 1729,1488 1756,1488 1782,1488 1809,1488 1836,1490 1863,1490 1890,1490 1917,1490 1944,1491 1971,1491 1998,1491 2025,1491" />
+                <TextEquiv>
+                    <Unicode>ESTADLBCIMIENTO Y FABRICA:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1434,1580 1965,1589 2068,1572 2068,1540 2047,1529 1434,1538" />
+                <Baseline points="1445,1572 1475,1571 1506,1571 1536,1571 1567,1571 1598,1572 1628,1572 1659,1572 1690,1572 1720,1572 1751,1574 1782,1574 1812,1574 1843,1574 1874,1574 1904,1574 1935,1574 1966,1574 1996,1572 2027,1572 2058,1571" />
+                <TextEquiv>
+                    <Unicode>348 Tanduay, Tel. 2-27-50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PINTURAS y ACEITES
+Y CO
+YNCHAUSTI Y COMPAÑIA
+ESTADLBCIMIENTO Y FABRICA:
+348 Tanduay, Tel. 2-27-50</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="216,1782 342,1782 342,1820 216,1820" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_7_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="478,1866 1504,1866 1504,2058 478,2058" />
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="476,1923 894,1925 924,1903 950,1925 1289,1918 1289,1890 1246,1865 623,1865 595,1893 565,1865 476,1865" />
+                <Baseline points="486,1910 525,1910 565,1911 604,1911 644,1911 684,1911 723,1911 763,1911 802,1911 842,1910 882,1910 921,1910 961,1910 1000,1910 1040,1910 1080,1910 1119,1911 1159,1911 1198,1911 1238,1911 1278,1911" />
+                <TextEquiv>
+                    <Unicode>LA ULTIMA PALABRA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="469,1980 670,1994 727,1979 1052,1981 1052,1956 1020,1937 761,1930 727,1962 702,1937 668,1954 650,1937 469,1933" />
+                <Baseline points="479,1977 507,1977 535,1979 563,1979 591,1977 619,1977 647,1977 675,1977 703,1977 731,1977 760,1976 788,1976 816,1976 844,1976 872,1976 900,1976 928,1976 956,1977 984,1977 1012,1979 1041,1980" />
+                <TextEquiv>
+                    <Unicode>DE LA CIENCIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="469,2055 1484,2062 1506,1998 469,2010" />
+                <Baseline points="479,2043 529,2045 580,2045 631,2045 682,2045 732,2045 783,2045 834,2045 885,2045 935,2045 986,2045 1037,2045 1088,2045 1138,2045 1189,2045 1240,2045 1291,2045 1341,2045 1392,2045 1443,2045 1494,2046" />
+                <TextEquiv>
+                    <Unicode>EN MATERIA DE NUTRICION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>LA ULTIMA PALABRA
+DE LA CIENCIA
+EN MATERIA DE NUTRICION</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="702,2094 2104,2094 2104,2896 702,2896" />
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="700,2229 2096,2237 1953,2128 1748,2180 1650,2126 1507,2190 1450,2145 1281,2144 1161,2201 1072,2124 846,2161 701,2124" />
+                <Baseline points="710,2223 778,2220 847,2219 916,2217 985,2216 1053,2216 1122,2214 1191,2214 1260,2214 1328,2214 1397,2214 1466,2216 1535,2216 1603,2217 1672,2219 1741,2219 1810,2220 1878,2222 1947,2223 2016,2225 2085,2228" />
+                <TextEquiv>
+                    <Unicode>VITAVUS: con SHOVULAI:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="788,2318 2107,2311 2037,2272 789,2267" />
+                <Baseline points="800,2304 864,2304 929,2303 994,2303 1059,2303 1124,2303 1188,2303 1253,2304 1318,2304 1383,2304 1448,2305 1512,2306 1577,2306 1642,2307 1707,2307 1772,2307 1836,2309 1901,2309 1966,2309 2031,2310 2096,2310" />
+                <TextEquiv>
+                    <Unicode>Haciendo uso de los vastos recursos de que disponen, los Labo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="708,2363 2101,2359 2065,2319 708,2324" />
+                <Baseline points="719,2349 787,2348 856,2347 924,2346 993,2346 1062,2346 1130,2345 1199,2345 1267,2345 1336,2346 1405,2346 1473,2346 1542,2346 1610,2348 1679,2348 1748,2349 1816,2349 1885,2351 1953,2351 2022,2352 2091,2352" />
+                <TextEquiv>
+                    <Unicode>ratorios Squibb han perfeccionado la preparación de un extracto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l4" custom="readingOrder {index:3;}">
+                <Coords points="705,2400 2103,2396 1911,2352 705,2363" />
+                <Baseline points="716,2390 784,2388 853,2388 922,2387 991,2387 1060,2387 1129,2387 1197,2387 1266,2387 1335,2387 1404,2388 1473,2388 1542,2389 1611,2390 1679,2390 1748,2391 1817,2391 1886,2393 1955,2393 2024,2394 2093,2394" />
+                <TextEquiv>
+                    <Unicode>obtenido exclusivamente de embriones de trigo, y que se llama VI¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l5" custom="readingOrder {index:4;}">
+                <Coords points="715,2442 796,2446 809,2435 899,2446 918,2433 971,2452 999,2441 1114,2442 1114,2406 1078,2398 962,2394 916,2413 892,2394 715,2399" />
+                <Baseline points="725,2430 750,2430 775,2430 800,2430 826,2430 851,2430 876,2429 901,2429 927,2429 952,2427 977,2427 1002,2427 1028,2427 1053,2429 1078,2430 1104,2432" />
+                <TextEquiv>
+                    <Unicode>TAVOSA SQUIBB.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l6" custom="readingOrder {index:5;}">
+                <Coords points="790,2483 2096,2489 2070,2440 790,2443" />
+                <Baseline points="800,2472 864,2472 928,2471 992,2471 1057,2471 1121,2471 1185,2471 1249,2471 1314,2471 1378,2471 1442,2471 1506,2471 1571,2471 1635,2472 1699,2472 1763,2472 1828,2472 1892,2474 1956,2474 2020,2475 2085,2475" />
+                <TextEquiv>
+                    <Unicode>El polvo de estos embriones malteados tiene un sabor agradable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l7" custom="readingOrder {index:6;}">
+                <Coords points="696,2529 2098,2534 2098,2491 2009,2484 696,2489" />
+                <Baseline points="707,2514 776,2514 845,2514 914,2514 983,2513 1052,2513 1121,2513 1190,2513 1259,2513 1328,2513 1397,2513 1466,2513 1535,2514 1604,2514 1673,2514 1742,2514 1811,2514 1880,2514 1949,2516 2018,2516 2087,2516" />
+                <TextEquiv>
+                    <Unicode>y su valor alimenticio es colosal. Por medio de las comparaciones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l8" custom="readingOrder {index:7;}">
+                <Coords points="712,2570 1900,2577 2095,2537 712,2532" />
+                <Baseline points="722,2556 790,2555 858,2555 926,2553 994,2553 1062,2553 1130,2553 1198,2553 1266,2553 1334,2555 1403,2555 1471,2555 1539,2555 1607,2556 1675,2556 1743,2556 1811,2556 1879,2556 1947,2556 2015,2556 2084,2555" />
+                <TextEquiv>
+                    <Unicode>y pruebas efectuadas se ha demostrado que la Vitavosa Squibb con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l9" custom="readingOrder {index:8;}">
+                <Coords points="708,2609 2101,2607 2005,2562 708,2573" />
+                <Baseline points="719,2595 787,2595 856,2595 924,2595 993,2595 1062,2595 1130,2595 1199,2597 1267,2597 1336,2597 1405,2597 1473,2597 1542,2597 1610,2597 1679,2597 1748,2598 1816,2598 1885,2598 1953,2598 2022,2598 2091,2598" />
+                <TextEquiv>
+                    <Unicode>tiene 100 veces más Vitamina B y 40 veces más hierro que la leche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l10" custom="readingOrder {index:9;}">
+                <Coords points="710,2657 2099,2642 2027,2605 710,2610" />
+                <Baseline points="722,2640 790,2639 858,2639 926,2639 995,2639 1063,2639 1131,2639 1200,2639 1268,2639 1336,2639 1405,2639 1473,2639 1541,2639 1609,2640 1678,2640 1746,2640 1814,2640 1883,2639 1951,2639 2019,2639 2088,2637" />
+                <TextEquiv>
+                    <Unicode>pura y fresca. Además, suministra en abundancia las sales mine¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l11" custom="readingOrder {index:10;}">
+                <Coords points="697,2682 1739,2693 1739,2652 1666,2648 698,2660" />
+                <Baseline points="708,2682 759,2681 810,2679 861,2679 912,2678 963,2678 1014,2678 1065,2678 1116,2678 1167,2679 1218,2679 1269,2679 1320,2681 1371,2681 1422,2681 1473,2681 1524,2681 1575,2681 1626,2681 1677,2681 1728,2681" />
+                <TextEquiv>
+                    <Unicode>rales que se desarrollan en el embrión del trigo:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l12" custom="readingOrder {index:11;}">
+                <Coords points="787,2730 2042,2735 2089,2690 787,2693" />
+                <Baseline points="797,2720 861,2720 925,2720 989,2720 1053,2720 1117,2720 1181,2720 1245,2720 1309,2720 1373,2720 1437,2720 1501,2721 1565,2721 1629,2721 1693,2721 1757,2721 1821,2721 1885,2721 1949,2721 2013,2720 2078,2720" />
+                <TextEquiv>
+                    <Unicode>La Vitavosa Squibb resulta de valor inapreciable en la modifi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l13" custom="readingOrder {index:12;}">
+                <Coords points="707,2773 2086,2776 2064,2729 1936,2725 707,2736" />
+                <Baseline points="719,2760 786,2762 854,2762 922,2762 990,2762 1058,2762 1126,2762 1193,2763 1261,2763 1329,2763 1397,2763 1465,2763 1533,2763 1601,2763 1668,2763 1736,2763 1804,2763 1872,2763 1940,2763 2008,2763 2076,2763" />
+                <TextEquiv>
+                    <Unicode>cación de la leche para criaturas y como suplemento a la dieta de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l14" custom="readingOrder {index:13;}">
+                <Coords points="715,2812 2098,2818 2047,2771 715,2776" />
+                <Baseline points="725,2802 793,2802 861,2802 929,2802 997,2802 1065,2802 1133,2802 1202,2802 1270,2802 1338,2804 1406,2804 1474,2804 1542,2804 1610,2804 1679,2804 1747,2804 1815,2805 1883,2805 1951,2805 2019,2805 2088,2805" />
+                <TextEquiv>
+                    <Unicode>niños y adultos débiles, convalecientes, madres lactantes o en cinta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l15" custom="readingOrder {index:14;}">
+                <Coords points="711,2854 2092,2860 2066,2817 711,2813" />
+                <Baseline points="722,2843 793,2844 865,2844 936,2845 1008,2846 1079,2846 1151,2846 1222,2846 1294,2846 1365,2846 1437,2846 1508,2846 1580,2846 1651,2846 1723,2846 1794,2846 1866,2846 1937,2846 2009,2846 2081,2846" />
+                <TextEquiv>
+                    <Unicode>inválidos, etc. Los médicos la recomiendan preferentemente para</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l16" custom="readingOrder {index:15;}">
+                <Coords points="707,2899 1079,2896 1079,2866 1057,2858 707,2859" />
+                <Baseline points="719,2885 745,2885 772,2886 799,2886 826,2886 852,2885 879,2885 906,2885 933,2885 959,2885 986,2886 1013,2886 1040,2886 1067,2888" />
+                <TextEquiv>
+                    <Unicode>todos estos casos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VITAVUS: con SHOVULAI:
+Haciendo uso de los vastos recursos de que disponen, los Labo¬
+ratorios Squibb han perfeccionado la preparación de un extracto
+obtenido exclusivamente de embriones de trigo, y que se llama VI¬
+TAVOSA SQUIBB.
+El polvo de estos embriones malteados tiene un sabor agradable
+y su valor alimenticio es colosal. Por medio de las comparaciones
+y pruebas efectuadas se ha demostrado que la Vitavosa Squibb con¬
+tiene 100 veces más Vitamina B y 40 veces más hierro que la leche
+pura y fresca. Además, suministra en abundancia las sales mine¬
+rales que se desarrollan en el embrión del trigo:
+La Vitavosa Squibb resulta de valor inapreciable en la modifi¬
+cación de la leche para criaturas y como suplemento a la dieta de
+niños y adultos débiles, convalecientes, madres lactantes o en cinta,
+inválidos, etc. Los médicos la recomiendan preferentemente para
+todos estos casos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_9_1" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="370,2974 920,2974 920,3018 370,3018" />
+            <TextLine id="r_9_1l1" custom="readingOrder {index:0;}">
+                <Coords points="368,3023 874,3023 925,3010 925,2980 898,2969 368,2974" />
+                <Baseline points="378,3008 404,3008 431,3009 458,3009 485,3009 512,3009 539,3009 565,3009 592,3009 619,3008 646,3008 673,3008 700,3008 727,3008 753,3008 780,3008 807,3008 834,3008 861,3008 888,3009 915,3009" />
+                <TextEquiv>
+                    <Unicode>AGENTES EXCLUSIVOS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AGENTES EXCLUSIVOS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_10_1" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="936,2940 2100,2940 2100,3028 936,3028" />
+            <TextLine id="r_10_1l1" custom="readingOrder {index:0;}">
+                <Coords points="936,3025 2097,3027 2097,2974 2026,2944 1922,2970 1783,2945 1751,2977 1702,2945 1410,2947 1380,2977 1348,2947 936,2946" />
+                <Baseline points="947,3012 1004,3014 1061,3015 1118,3017 1175,3017 1232,3017 1289,3017 1346,3017 1403,3017 1460,3017 1517,3015 1574,3015 1631,3014 1688,3014 1745,3014 1802,3014 1859,3014 1916,3014 1973,3015 2030,3015 2087,3018" />
+                <TextEquiv>
+                    <Unicode>BOTICA BOIE-Manila</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BOTICA BOIE-Manila</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_11_1" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="228,3136 292,3136 292,3214 228,3214" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_12_1" custom="readingOrder {index:11;} structure {type:paragraph;}">
+            <Coords points="364,3050 2098,3050 2098,3148 364,3148" />
+            <TextLine id="r_12_1l1" custom="readingOrder {index:0;}">
+                <Coords points="368,3100 2094,3101 2094,3048 368,3049" />
+                <Baseline points="378,3087 463,3087 548,3087 633,3086 719,3086 804,3086 889,3086 975,3086 1060,3086 1145,3086 1231,3086 1316,3086 1401,3086 1486,3086 1572,3086 1657,3086 1742,3084 1828,3084 1913,3084 1998,3084 2084,3084" />
+                <TextEquiv>
+                    <Unicode>Pida Vd. un folleto grutis sobre ALIMENTACION al Departamento de Publicidad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_12_1l2" custom="readingOrder {index:1;}">
+                <Coords points="996,3149 1467,3148 1467,3114 1437,3103 1316,3116 1286,3104 996,3104" />
+                <Baseline points="1007,3138 1032,3138 1057,3138 1082,3138 1107,3138 1132,3138 1157,3137 1182,3137 1207,3137 1232,3137 1257,3137 1282,3137 1307,3137 1332,3137 1357,3137 1382,3137 1407,3137 1432,3137 1457,3138" />
+                <TextEquiv>
+                    <Unicode>P. O. Box 299—Manila</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pida Vd. un folleto grutis sobre ALIMENTACION al Departamento de Publicidad
+P. O. Box 299—Manila</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_13_1" custom="readingOrder {index:12;} structure {type:paragraph;}">
+            <Coords points="2188,2544 2238,2544 2238,2652 2188,2652" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_14_1" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="2188,2682 2238,2682 2238,2732 2188,2732" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_15_1" custom="readingOrder {index:14;} structure {type:paragraph;}">
+            <Coords points="2162,2800 2248,2800 2248,3218 2162,3218" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:15;}">
+            <Coords points="1283,289 2209,289 2209,294 1283,294" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:16;}">
+            <Coords points="255,293 1176,293 1176,303 255,303" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:17;}">
+            <Coords points="1286,300 2208,300 2208,305 1286,305" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:18;}">
+            <Coords points="1688,640 1801,640 1801,647 1688,647" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:19;}">
+            <Coords points="253,1703 1181,1703 1181,1707 253,1707" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:20;}">
+            <Coords points="1291,1712 2215,1712 2215,1717 1291,1717" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:21;}">
+            <Coords points="1291,1723 2219,1723 2219,1728 1291,1728" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:22;}">
+            <Coords points="261,1724 1187,1724 1187,1729 261,1729" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:23;}">
+            <Coords points="247,1787 2205,1787 2205,1793 247,1793" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:24;}">
+            <Coords points="249,1798 2204,1798 2204,1804 249,1804" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:25;}">
+            <Coords points="253,1808 2205,1808 2205,1815 253,1815" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:26;}">
+            <Coords points="375,2129 694,2129 694,2151 375,2151" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:27;}">
+            <Coords points="376,2167 693,2167 693,2190 376,2190" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:28;}">
+            <Coords points="376,2207 693,2207 693,2227 376,2227" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:29;}">
+            <Coords points="262,3186 2200,3186 2200,3192 262,3192" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:30;}">
+            <Coords points="253,3197 1958,3197 1958,3203 253,3203" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:31;}">
+            <Coords points="262,3207 1943,3207 1943,3214 262,3214" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:32;}">
+            <Coords points="1964,3208 2204,3208 2204,3212 1964,3212" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:33;}">
+            <Coords points="231,1819 237,1819 237,3185 231,3185" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:34;}">
+            <Coords points="232,312 238,312 238,1713 232,1713" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:35;}">
+            <Coords points="242,1819 248,1819 248,3189 242,3189" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:36;}">
+            <Coords points="251,1819 258,1819 258,3185 251,3185" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_40" custom="readingOrder {index:37;}">
+            <Coords points="252,321 258,321 258,1707 252,1707" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_41" custom="readingOrder {index:38;}">
+            <Coords points="1178,315 1183,315 1183,1695 1178,1695" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_42" custom="readingOrder {index:39;}">
+            <Coords points="1198,307 1204,307 1204,1695 1198,1695" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_43" custom="readingOrder {index:40;}">
+            <Coords points="1262,306 1270,306 1270,1709 1262,1709" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_44" custom="readingOrder {index:41;}">
+            <Coords points="1273,307 1282,307 1282,1708 1273,1708" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_45" custom="readingOrder {index:42;}">
+            <Coords points="2207,1815 2214,1815 2214,2547 2207,2547" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_46" custom="readingOrder {index:43;}">
+            <Coords points="2218,1822 2225,1822 2225,2546 2218,2546" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_47" custom="readingOrder {index:44;}">
+            <Coords points="2224,313 2230,313 2230,1698 2224,1698" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_48" custom="readingOrder {index:45;}">
+            <Coords points="2229,1806 2235,1806 2235,2532 2229,2532" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_49" custom="readingOrder {index:46;}">
+            <Coords points="2235,309 2241,309 2241,1697 2235,1697" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_50" custom="readingOrder {index:47;}">
+            <Coords points="1983,287 2171,287 2171,289 1983,289" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_51" custom="readingOrder {index:48;}">
+            <Coords points="307,1813 439,1813 439,1815 307,1815" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_52" custom="readingOrder {index:49;}">
+            <Coords points="1505,2044 1652,2044 1652,2053 1505,2053" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_53" custom="readingOrder {index:50;}">
+            <Coords points="262,3185 439,3185 439,3186 262,3186" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_54" custom="readingOrder {index:51;}">
+            <Coords points="276,3191 429,3191 429,3193 276,3193" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_55" custom="readingOrder {index:52;}">
+            <Coords points="287,3195 553,3195 553,3197 287,3197" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_56" custom="readingOrder {index:53;}">
+            <Coords points="277,3202 399,3202 399,3203 277,3203" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_57" custom="readingOrder {index:54;}">
+            <Coords points="231,516 232,516 232,781 231,781" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_58" custom="readingOrder {index:55;}">
+            <Coords points="237,500 239,500 239,1594 237,1594" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_59" custom="readingOrder {index:56;}">
+            <Coords points="240,1917 242,1917 242,2298 240,2298" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_60" custom="readingOrder {index:57;}">
+            <Coords points="247,1846 252,1846 252,2383 247,2383" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_61" custom="readingOrder {index:58;}">
+            <Coords points="1261,651 1270,651 1270,1676 1261,1676" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_62" custom="readingOrder {index:59;}">
+            <Coords points="2241,1041 2243,1041 2243,1366 2241,1366" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

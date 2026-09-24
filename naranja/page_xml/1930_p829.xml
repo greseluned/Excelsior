@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:35.146+02:00</Created>
+        <LastChange>2021-06-08T20:16:52.964+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782909" pageNr="1930" tsid="236402348" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=KOSKWLGTKQFYUBOXEHCCPJNX" xmlUrl="https://files.transkribus.eu/Get?id=KNIEIBCTLUNINOTWDYCVPXVN" imageId="17248980" />
+    </Metadata>
+    <Page imageFilename="1930_p829.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="205,268 2277,268 2277,3249 205,3249" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982860918" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="211,268 2266,268 2266,345 211,345" />
+        </GraphicRegion>
+        <GraphicRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="205,356 2277,356 2277,3161 205,3161" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="637,1502 1870,1502 1870,1816 637,1816" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="727,1547 1877,1540 1843,1499 727,1499" />
+                <Baseline points="735,1532 791,1533 848,1533 905,1533 961,1533 1018,1535 1075,1535 1131,1535 1188,1535 1245,1536 1302,1536 1358,1536 1415,1537 1472,1538 1528,1538 1585,1538 1642,1538 1698,1538 1755,1539 1812,1539 1869,1539" />
+                <TextEquiv>
+                    <Unicode>Grupo general de los invitados a la inauguración de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="633,1591 1867,1592 1855,1549 633,1550" />
+                <Baseline points="641,1581 705,1580 769,1580 833,1580 897,1580 961,1581 1025,1581 1090,1581 1154,1581 1218,1582 1282,1583 1346,1583 1410,1583 1475,1584 1539,1584 1603,1584 1667,1584 1731,1586 1795,1586 1860,1586" />
+                <TextEquiv>
+                    <Unicode>nueva casa residencial de los Sres. Gerónimo (D. Tomás)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="645,1636 1874,1639 1755,1596 645,1604" />
+                <Baseline points="653,1628 713,1628 774,1628 834,1628 895,1628 956,1626 1016,1626 1077,1626 1138,1626 1198,1626 1259,1628 1320,1628 1380,1628 1441,1628 1502,1628 1562,1629 1623,1629 1684,1629 1744,1631 1805,1631 1866,1631" />
+                <TextEquiv>
+                    <Unicode>en la calle Azcárraga.—Foto inferior: Las numerosas me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l4" custom="readingOrder {index:3;}">
+                <Coords points="631,1687 1870,1682 1870,1650 1776,1636 631,1644" />
+                <Baseline points="638,1674 699,1673 760,1673 821,1671 882,1671 944,1671 1005,1672 1066,1673 1127,1673 1188,1674 1250,1674 1311,1674 1372,1676 1433,1676 1494,1676 1556,1677 1617,1677 1678,1677 1739,1676 1800,1676 1862,1674" />
+                <TextEquiv>
+                    <Unicode>sas del animado “Tea Danzant” dado por la sociedad "Ka¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l5" custom="readingOrder {index:4;}">
+                <Coords points="636,1731 1867,1740 1867,1689 636,1688" />
+                <Baseline points="644,1719 704,1719 765,1719 826,1719 887,1719 948,1719 1008,1719 1069,1719 1130,1721 1191,1721 1252,1721 1312,1721 1373,1721 1434,1722 1495,1722 1556,1722 1616,1722 1677,1722 1738,1722 1799,1722 1860,1721" />
+                <TextEquiv>
+                    <Unicode>hirup” en el "Wack Wack Golf and Country Club”, en honor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l6" custom="readingOrder {index:5;}">
+                <Coords points="640,1785 811,1792 853,1768 1321,1785 1356,1779 1357,1736 640,1732" />
+                <Baseline points="647,1767 682,1767 717,1767 752,1767 787,1767 822,1767 857,1767 892,1767 927,1767 962,1767 998,1768 1033,1769 1068,1769 1103,1769 1138,1769 1173,1769 1208,1769 1243,1769 1278,1769 1313,1769 1349,1770" />
+                <TextEquiv>
+                    <Unicode>de la Sra. De Alunan (D. Rafael).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1545,1813 1589,1822 1641,1812 1696,1822 1730,1812 1872,1817 1872,1763 1848,1780 1816,1780 1800,1764 1695,1773 1673,1757 1545,1776" />
+                <Baseline points="1553,1809 1579,1809 1605,1808 1631,1808 1657,1808 1683,1808 1709,1808 1735,1808 1761,1808 1787,1808 1813,1809 1839,1809 1865,1809" />
+                <TextEquiv>
+                    <Unicode>Fotos—SUN STUDIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Grupo general de los invitados a la inauguración de la
+nueva casa residencial de los Sres. Gerónimo (D. Tomás)
+en la calle Azcárraga.—Foto inferior: Las numerosas me¬
+sas del animado “Tea Danzant” dado por la sociedad "Ka¬
+hirup” en el "Wack Wack Golf and Country Club”, en honor
+de la Sra. De Alunan (D. Rafael).
+Fotos—SUN STUDIO</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="212,271 2265,271 2265,281 212,281" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:4;}">
+            <Coords points="279,301 1134,301 1134,308 279,308" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:5;}">
+            <Coords points="1364,302 2196,302 2196,311 1364,311" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:6;}">
+            <Coords points="246,309 1146,309 1146,320 246,320" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:7;}">
+            <Coords points="1352,310 2148,310 2148,320 1352,320" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:8;}">
+            <Coords points="211,331 2266,331 2266,355 211,355" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:9;}">
+            <Coords points="208,1564 559,1564 559,1570 208,1570" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:10;}">
+            <Coords points="1946,1564 2267,1564 2267,1569 1946,1569" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:11;}">
+            <Coords points="1942,1623 2209,1623 2209,1634 1942,1634" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:12;}">
+            <Coords points="266,1628 560,1628 560,1635 266,1635" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:13;}">
+            <Coords points="279,1639 560,1639 560,1647 279,1647" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:14;}">
+            <Coords points="1945,1741 2179,1741 2179,1752 1945,1752" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:15;}">
+            <Coords points="1945,1757 2179,1757 2179,1765 1945,1765" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="1269,1985 1447,1985 1447,1996 1269,1996" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="1611,1986 1752,1986 1752,1994 1611,1994" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="249,3161 2254,3161 2254,3169 249,3169" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="273,3168 2252,3168 2252,3179 273,3179" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="552,3199 1161,3199 1161,3203 552,3203" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="341,3207 1190,3207 1190,3214 341,3214" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="1278,3208 2117,3208 2117,3213 1278,3213" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="251,3238 2261,3238 2261,3249 251,3249" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="208,1576 217,1576 217,2575 208,2575" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:25;}">
+            <Coords points="917,2160 925,2160 925,2298 917,2298" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:26;}">
+            <Coords points="1924,1479 1930,1479 1930,1876 1924,1876" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:27;}">
+            <Coords points="2218,1968 2240,1968 2240,2294 2218,2294" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:28;}">
+            <Coords points="2258,1574 2268,1574 2268,3245 2258,3245" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:29;}">
+            <Coords points="1942,335 2004,335 2004,336 1942,336" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:30;}">
+            <Coords points="1882,340 1939,340 1939,341 1882,341" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:31;}">
+            <Coords points="2088,1732 2111,1732 2111,1735 2088,1735" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:32;}">
+            <Coords points="1290,3242 1312,3242 1312,3243 1290,3243" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:33;}">
+            <Coords points="208,2293 209,2293 209,2315 208,2315" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:34;}">
+            <Coords points="960,2189 968,2189 968,2245 960,2245" />
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:35;}">
+            <Coords points="1295,3172 1307,3172 1307,3243 1295,3243" />
+        </SeparatorRegion>
+    </Page>
+</PcGts>

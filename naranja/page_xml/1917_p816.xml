@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-06-04T12:50:24.864+02:00</Created>
+        <LastChange>2021-06-08T20:11:25.500+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="7545511" pageId="93782880" pageNr="1917" tsid="236402339" status="IN_PROGRESS" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XCAFHDVXYBKPNRQVRVRLTUZN" xmlUrl="https://files.transkribus.eu/Get?id=EWRFNAUPZFRUHENONXHMDQNT" imageId="17248943" />
+    </Metadata>
+    <Page imageFilename="1917_p816.jpg" imageWidth="2478" imageHeight="3506">
+        <PrintSpace>
+            <Coords points="298,480 2191,480 2191,3106 298,3106" />
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982858054" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_2_1" />
+                <RegionRefIndexed index="2" regionRef="r_3_1" />
+                <RegionRefIndexed index="3" regionRef="r_4_1" />
+                <RegionRefIndexed index="4" regionRef="r_5_1" />
+                <RegionRefIndexed index="5" regionRef="r_6_1" />
+                <RegionRefIndexed index="7" regionRef="r_8_1" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="298,480 744,480 744,910 298,910" />
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="760,506 2136,506 2136,836 760,836" />
+            <TextEquiv>
+                <Unicode />
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_3_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1064,928 1432,928 1432,966 1064,966" />
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1061,970 1416,971 1434,959 1434,930 1416,924 1224,923 1209,938 1189,924 1153,938 1061,925" />
+                <Baseline points="1067,957 1092,959 1118,959 1144,959 1170,959 1195,959 1221,959 1247,959 1273,959 1299,959 1324,959 1350,960 1376,960 1402,960 1428,960" />
+                <TextEquiv>
+                    <Unicode>Por C. LULOIDE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Por C. LULOIDE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="298,1033 1234,1033 1234,3103 298,3103" />
+            <TextLine id="r_4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="852,1073 879,1081 974,1074 989,1063 1049,1082 1060,1070 1173,1075 1191,1065 1191,1045 1167,1032 1067,1031 1050,1045 1033,1030 1003,1030 988,1044 951,1028 852,1031" />
+                <Baseline points="858,1065 883,1064 908,1062 933,1062 958,1062 983,1062 1008,1062 1034,1062 1059,1064 1084,1064 1109,1065 1134,1065 1159,1065 1185,1067" />
+                <TextEquiv>
+                    <Unicode>(Junio 30, 1932.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l2" custom="readingOrder {index:1;}">
+                <Coords points="339,1134 1232,1138 1232,1105 1195,1092 339,1094" />
+                <Baseline points="344,1127 388,1127 432,1127 476,1127 520,1125 564,1125 608,1125 652,1125 696,1125 740,1127 785,1127 829,1127 873,1127 917,1127 961,1127 1005,1127 1049,1127 1093,1127 1137,1127 1181,1127 1226,1127" />
+                <TextEquiv>
+                    <Unicode>El amor que siente por los perros el conocido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l3" custom="readingOrder {index:2;}">
+                <Coords points="294,1187 1220,1187 1236,1165 634,1142 294,1167" />
+                <Baseline points="299,1181 345,1181 392,1179 438,1179 485,1178 531,1178 578,1178 624,1178 671,1177 717,1176 764,1178 811,1178 857,1178 904,1178 950,1178 997,1178 1043,1178 1090,1178 1136,1179 1183,1179 1230,1179" />
+                <TextEquiv>
+                    <Unicode>galán joven, Philipp Holmes es cosa conocida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l4" custom="readingOrder {index:3;}">
+                <Coords points="302,1238 1233,1239 1214,1204 302,1207" />
+                <Baseline points="308,1227 356,1229 404,1229 453,1230 501,1230 549,1230 598,1230 646,1230 694,1230 743,1230 791,1230 840,1229 888,1229 936,1230 985,1230 1033,1230 1081,1230 1130,1232 1178,1232 1227,1233" />
+                <TextEquiv>
+                    <Unicode>en cinelandía pues ha llegado hasta tener un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l5" custom="readingOrder {index:4;}">
+                <Coords points="301,1286 1221,1292 1221,1261 1151,1249 301,1259" />
+                <Baseline points="306,1280 351,1280 396,1280 442,1280 487,1280 533,1280 578,1280 624,1280 669,1280 715,1280 760,1280 805,1280 851,1280 896,1280 942,1280 987,1280 1033,1280 1078,1280 1124,1280 1169,1280 1215,1280" />
+                <TextEquiv>
+                    <Unicode>criadero de estos animales. Recientemente Holmes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l6" custom="readingOrder {index:5;}">
+                <Coords points="306,1342 1215,1339 1215,1308 1164,1300 306,1308" />
+                <Baseline points="312,1334 356,1334 401,1332 446,1332 491,1332 536,1331 581,1331 625,1331 670,1332 715,1332 760,1332 805,1332 850,1334 895,1334 939,1334 984,1334 1029,1334 1074,1335 1119,1335 1164,1335 1209,1334" />
+                <TextEquiv>
+                    <Unicode>regaló a Ruth Chatterton un perro de raza Sea¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l7" custom="readingOrder {index:6;}">
+                <Coords points="297,1389 1194,1395 1221,1362 297,1364" />
+                <Baseline points="303,1385 348,1385 394,1383 439,1383 485,1383 531,1382 576,1382 622,1382 667,1382 713,1383 759,1383 804,1383 850,1383 895,1383 941,1384 987,1385 1032,1385 1078,1385 1123,1385 1169,1385 1215,1385" />
+                <TextEquiv>
+                    <Unicode>lyhan, que dicho sea de paso es la raza en bo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l8" custom="readingOrder {index:7;}">
+                <Coords points="301,1451 518,1435 679,1451 800,1442 800,1423 775,1405 300,1416" />
+                <Baseline points="306,1439 331,1438 357,1437 383,1437 408,1436 434,1436 460,1435 486,1434 511,1434 537,1434 563,1433 589,1433 614,1433 640,1433 666,1433 692,1434 717,1434 743,1435 769,1436 795,1437" />
+                <TextEquiv>
+                    <Unicode>ga hoy día en Hollywood.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l9" custom="readingOrder {index:8;}">
+                <Coords points="348,1503 1235,1501 1235,1466 1183,1461 348,1463" />
+                <Baseline points="353,1493 396,1493 440,1493 484,1493 528,1493 572,1493 615,1493 659,1493 703,1493 747,1493 791,1494 834,1494 878,1494 922,1494 966,1494 1010,1494 1053,1494 1097,1494 1141,1494 1185,1493 1229,1493" />
+                <TextEquiv>
+                    <Unicode>Pues han de saber ustedes que no solo existen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l10" custom="readingOrder {index:9;}">
+                <Coords points="311,1554 1238,1549 1203,1513 1172,1536 1111,1513 312,1525" />
+                <Baseline points="317,1547 362,1545 408,1545 454,1544 500,1544 545,1544 591,1544 637,1544 683,1544 728,1544 774,1545 820,1545 866,1545 911,1545 957,1547 1003,1547 1049,1547 1094,1547 1140,1547 1186,1547 1232,1547" />
+                <TextEquiv>
+                    <Unicode>modas en Hollywood en cuanto a pr ndas de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l11" custom="readingOrder {index:10;}">
+                <Coords points="317,1610 1232,1601 1232,1575 1180,1564 317,1572" />
+                <Baseline points="323,1596 368,1596 413,1595 458,1595 503,1595 548,1595 593,1595 639,1595 684,1595 729,1596 774,1596 819,1596 864,1596 909,1596 955,1596 1000,1598 1045,1598 1090,1598 1135,1598 1180,1599 1226,1599" />
+                <TextEquiv>
+                    <Unicode>vestir, sino también en lo que se reficie a los</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l12" custom="readingOrder {index:11;}">
+                <Coords points="302,1656 1024,1658 1031,1614 890,1633 302,1626" />
+                <Baseline points="308,1647 343,1647 379,1647 415,1647 451,1647 487,1647 523,1647 559,1647 595,1647 631,1647 667,1647 702,1647 738,1649 774,1649 810,1649 846,1649 882,1649 918,1649 954,1649 990,1649 1026,1649" />
+                <TextEquiv>
+                    <Unicode>simpáticos chuchos. ¡Y va de modas!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l13" custom="readingOrder {index:12;}">
+                <Coords points="687,1753 723,1746 799,1749 807,1745 816,1753 852,1749 852,1723 797,1723 791,1717 781,1720 777,1716 687,1720" />
+                <Baseline points="693,1740 718,1740 744,1740 769,1740 795,1740 820,1740 846,1740" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l14" custom="readingOrder {index:13;}">
+                <Coords points="348,1843 1235,1837 1224,1804 1079,1797 737,1816 348,1796" />
+                <Baseline points="354,1829 397,1829 441,1829 485,1829 529,1829 572,1829 616,1829 660,1829 704,1829 747,1829 791,1830 835,1830 879,1830 922,1830 966,1830 1010,1830 1054,1830 1097,1830 1141,1830 1185,1832 1229,1832" />
+                <TextEquiv>
+                    <Unicode>Maureen O'Sullivan, la beldad irlan lesa que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l15" custom="readingOrder {index:14;}">
+                <Coords points="301,1886 1182,1899 1238,1862 301,1864" />
+                <Baseline points="306,1883 352,1883 398,1882 445,1881 491,1881 537,1881 584,1880 630,1880 676,1880 723,1880 769,1880 815,1880 862,1880 908,1880 954,1880 1001,1881 1047,1881 1093,1881 1140,1882 1186,1883 1233,1883" />
+                <TextEquiv>
+                    <Unicode>comparte con Johnny Weissmuller el éxito que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l16" custom="readingOrder {index:15;}">
+                <Coords points="318,1947 1222,1947 1239,1913 318,1914" />
+                <Baseline points="323,1934 368,1934 414,1934 459,1934 505,1934 550,1934 596,1934 641,1934 687,1932 732,1932 778,1932 823,1932 869,1932 914,1932 960,1934 1005,1934 1051,1934 1096,1934 1142,1934 1187,1935 1233,1935" />
+                <TextEquiv>
+                    <Unicode>está obteniendo la cinta Tarzan, trabajará con</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l17" custom="readingOrder {index:16;}">
+                <Coords points="311,1998 1230,1995 1230,1962 1200,1956 312,1962" />
+                <Baseline points="317,1988 362,1986 407,1986 453,1986 498,1985 543,1985 589,1986 634,1986 679,1986 725,1986 770,1986 815,1986 861,1986 906,1988 951,1988 997,1988 1042,1986 1087,1986 1133,1986 1178,1985 1224,1985" />
+                <TextEquiv>
+                    <Unicode>el apuesto John Gilbert en una película titulada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l18" custom="readingOrder {index:17;}">
+                <Coords points="306,2051 1230,2042 1198,2012 306,2005" />
+                <Baseline points="312,2037 357,2037 403,2036 448,2036 494,2036 540,2036 585,2036 631,2037 676,2037 722,2037 768,2038 813,2039 859,2039 904,2039 950,2039 996,2040 1041,2040 1087,2040 1132,2039 1178,2039 1224,2039" />
+                <TextEquiv>
+                    <Unicode>Dowmstairs (Escalera Abajo) y de cuyo argu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l19" custom="readingOrder {index:18;}">
+                <Coords points="301,2095 723,2092 704,2070 662,2060 607,2070 544,2061 489,2075 430,2075 394,2060 301,2071" />
+                <Baseline points="306,2091 331,2090 357,2090 383,2090 408,2090 434,2090 460,2090 485,2090 511,2090 537,2090 562,2090 588,2090 614,2090 639,2090 665,2090 691,2090 717,2091" />
+                <TextEquiv>
+                    <Unicode>mento es autor John.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l20" custom="readingOrder {index:19;}">
+                <Coords points="335,2162 1225,2162 1225,2122 335,2133" />
+                <Baseline points="341,2153 387,2151 433,2150 479,2150 526,2148 572,2148 618,2148 664,2148 711,2148 757,2148 803,2148 849,2148 896,2148 942,2149 988,2150 1034,2150 1081,2150 1127,2150 1173,2150 1220,2150" />
+                <TextEquiv>
+                    <Unicode>¿Os sorprende esto? John escribía argumentos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l21" custom="readingOrder {index:20;}">
+                <Coords points="305,2218 1229,2210 1192,2173 305,2178" />
+                <Baseline points="311,2204 356,2202 402,2202 447,2201 493,2201 539,2201 584,2201 630,2199 675,2199 721,2199 767,2199 812,2199 858,2199 903,2199 949,2201 995,2201 1040,2201 1086,2201 1131,2201 1177,2201 1223,2201" />
+                <TextEquiv>
+                    <Unicode>para el cine entonces silente y cuando luchaba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l22" custom="readingOrder {index:21;}">
+                <Coords points="299,2265 1205,2260 1235,2229 299,2230" />
+                <Baseline points="305,2255 351,2252 397,2252 443,2250 489,2250 536,2249 582,2249 628,2249 674,2249 720,2249 767,2249 813,2250 859,2250 905,2250 951,2250 998,2252 1044,2252 1090,2252 1136,2252 1182,2252 1229,2252" />
+                <TextEquiv>
+                    <Unicode>para ser actor del mismo. De modo que... autor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l23" custom="readingOrder {index:22;}">
+                <Coords points="300,2309 317,2315 403,2316 473,2311 473,2295 456,2285 386,2285 375,2276 367,2283 341,2284 319,2276 300,2278" />
+                <Baseline points="305,2301 332,2301 359,2301 386,2303 413,2303 440,2303 467,2304" />
+                <TextEquiv>
+                    <Unicode>tenemos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l24" custom="readingOrder {index:23;}">
+                <Coords points="671,2358 695,2353 849,2354 860,2350 860,2327 839,2324 799,2331 789,2325 735,2324 729,2329 698,2325 671,2332" />
+                <Baseline points="677,2349 702,2348 727,2348 752,2346 778,2345 803,2345 828,2347 854,2349" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l25" custom="readingOrder {index:24;}">
+                <Coords points="336,2439 1224,2448 1224,2412 1080,2404 336,2407" />
+                <Baseline points="342,2435 385,2435 429,2435 473,2436 517,2436 561,2436 604,2436 648,2435 692,2435 736,2435 780,2435 823,2435 867,2435 911,2435 955,2435 999,2435 1042,2435 1086,2436 1130,2436 1174,2436 1218,2438" />
+                <TextEquiv>
+                    <Unicode>Lily Damita, la inquietante francesita cuya</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l26" custom="readingOrder {index:25;}">
+                <Coords points="305,2500 1226,2497 1212,2463 1134,2458 305,2461" />
+                <Baseline points="311,2487 356,2487 402,2487 447,2487 493,2487 538,2487 584,2486 629,2486 675,2486 720,2486 766,2486 811,2486 857,2486 902,2486 948,2487 993,2487 1039,2487 1084,2487 1130,2487 1175,2487 1221,2487" />
+                <TextEquiv>
+                    <Unicode>última cinta ha sido This is the Night (Esta es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l27" custom="readingOrder {index:26;}">
+                <Coords points="303,2549 1209,2546 1209,2517 1098,2508 303,2508" />
+                <Baseline points="309,2537 353,2538 398,2538 443,2538 487,2540 532,2540 577,2540 621,2540 666,2540 711,2540 756,2540 800,2540 845,2540 890,2538 934,2538 979,2538 1024,2538 1068,2538 1113,2538 1158,2539 1203,2540" />
+                <TextEquiv>
+                    <Unicode>la Noche) producida por la Paramount, ha em¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l28" custom="readingOrder {index:27;}">
+                <Coords points="293,2602 1217,2594 1175,2556 1139,2576 293,2560" />
+                <Baseline points="299,2591 344,2591 390,2591 435,2591 481,2591 527,2591 572,2591 618,2591 663,2591 709,2591 755,2591 800,2591 846,2591 891,2589 937,2589 983,2589 1028,2589 1074,2589 1119,2589 1165,2589 1211,2589" />
+                <TextEquiv>
+                    <Unicode>barcado con rumbo a Honolulu con el fin de dis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l29" custom="readingOrder {index:28;}">
+                <Coords points="300,2651 1221,2650 1199,2612 300,2613" />
+                <Baseline points="305,2643 350,2642 396,2642 441,2642 487,2642 532,2642 578,2642 623,2642 669,2642 714,2642 760,2642 805,2642 851,2642 896,2642 942,2642 987,2642 1033,2642 1078,2643 1124,2643 1169,2643 1215,2643" />
+                <TextEquiv>
+                    <Unicode>frutar unas cortas vacaciones en la capital de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l30" custom="readingOrder {index:29;}">
+                <Coords points="302,2707 935,2706 918,2670 839,2659 704,2676 623,2661 606,2678 469,2660 362,2678 302,2660" />
+                <Baseline points="308,2694 339,2694 370,2694 401,2694 432,2694 463,2694 494,2694 525,2694 556,2694 587,2694 619,2694 650,2693 681,2693 712,2693 743,2693 774,2693 805,2693 836,2693 867,2693 898,2694 930,2694" />
+                <TextEquiv>
+                    <Unicode>las paradisiacas islas hawaiianas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l31" custom="readingOrder {index:30;}">
+                <Coords points="336,2763 1214,2756 1214,2731 1151,2719 336,2720" />
+                <Baseline points="342,2754 385,2754 428,2754 472,2754 515,2754 558,2754 602,2754 645,2754 688,2754 732,2754 775,2754 818,2754 862,2754 905,2754 948,2754 992,2754 1035,2754 1078,2753 1122,2753 1165,2753 1209,2753" />
+                <TextEquiv>
+                    <Unicode>Por lo que estarán de enhorabuena los residen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l32" custom="readingOrder {index:31;}">
+                <Coords points="293,2815 1218,2818 1218,2788 1128,2772 293,2784" />
+                <Baseline points="299,2805 344,2805 390,2805 435,2805 481,2805 527,2805 572,2805 618,2805 664,2805 709,2805 755,2805 801,2805 846,2805 892,2805 938,2805 983,2805 1029,2807 1075,2807 1120,2807 1166,2808 1212,2808" />
+                <TextEquiv>
+                    <Unicode>tes de esas islas, que se recrearán y extasiarán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l33" custom="readingOrder {index:32;}">
+                <Coords points="294,2863 1119,2869 1044,2827 294,2841" />
+                <Baseline points="300,2858 340,2856 381,2856 421,2856 462,2856 503,2856 543,2856 584,2856 625,2856 665,2856 706,2856 747,2856 787,2856 828,2856 869,2857 909,2858 950,2858 991,2858 1031,2858 1072,2858 1113,2858" />
+                <TextEquiv>
+                    <Unicode>ante los encantos de está fogosa "damita.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l34" custom="readingOrder {index:33;}">
+                <Coords points="671,2954 826,2955 839,2961 847,2959 847,2918 804,2919 796,2928 671,2924" />
+                <Baseline points="677,2948 704,2945 732,2943 759,2943 787,2945 814,2946 842,2945" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l35" custom="readingOrder {index:34;}">
+                <Coords points="326,3038 1192,3051 1220,3039 1220,2995 326,3007" />
+                <Baseline points="332,3032 376,3032 420,3032 464,3032 508,3032 552,3032 596,3032 640,3032 684,3032 728,3032 773,3033 817,3033 861,3033 905,3033 949,3033 993,3033 1037,3035 1081,3035 1125,3035 1169,3036 1214,3036" />
+                <TextEquiv>
+                    <Unicode>El rapto del célebre bebé de Lindbergh trajó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_4_1l36" custom="readingOrder {index:35;}">
+                <Coords points="303,3097 1215,3096 1215,3066 1167,3053 303,3061" />
+                <Baseline points="309,3083 354,3083 399,3083 444,3084 489,3084 534,3084 579,3084 624,3084 669,3084 714,3086 759,3086 804,3086 849,3086 894,3086 939,3086 984,3087 1029,3087 1074,3087 1119,3087 1164,3087 1209,3087" />
+                <TextEquiv>
+                    <Unicode>como secuela una lluvia de argumentos para cine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Junio 30, 1932.)
+El amor que siente por los perros el conocido
+galán joven, Philipp Holmes es cosa conocida
+en cinelandía pues ha llegado hasta tener un
+criadero de estos animales. Recientemente Holmes
+regaló a Ruth Chatterton un perro de raza Sea¬
+lyhan, que dicho sea de paso es la raza en bo¬
+ga hoy día en Hollywood.
+Pues han de saber ustedes que no solo existen
+modas en Hollywood en cuanto a pr ndas de
+vestir, sino también en lo que se reficie a los
+simpáticos chuchos. ¡Y va de modas!
+
+Maureen O'Sullivan, la beldad irlan lesa que
+comparte con Johnny Weissmuller el éxito que
+está obteniendo la cinta Tarzan, trabajará con
+el apuesto John Gilbert en una película titulada
+Dowmstairs (Escalera Abajo) y de cuyo argu¬
+mento es autor John.
+¿Os sorprende esto? John escribía argumentos
+para el cine entonces silente y cuando luchaba
+para ser actor del mismo. De modo que... autor
+tenemos.
+
+Lily Damita, la inquietante francesita cuya
+última cinta ha sido This is the Night (Esta es
+la Noche) producida por la Paramount, ha em¬
+barcado con rumbo a Honolulu con el fin de dis¬
+frutar unas cortas vacaciones en la capital de
+las paradisiacas islas hawaiianas.
+Por lo que estarán de enhorabuena los residen¬
+tes de esas islas, que se recrearán y extasiarán
+ante los encantos de esta fogosa "damita.
+
+El rapto del célebre bebé de Lindbergh trajó
+como secuela una lluvia de argumentos para cine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1270,1032 2191,1032 2191,1317 1270,1317" />
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1277,1075 2189,1083 2189,1042 2103,1029 1277,1036" />
+                <Baseline points="1283,1064 1328,1062 1373,1062 1418,1062 1463,1062 1508,1062 1553,1062 1598,1062 1643,1062 1688,1062 1733,1062 1778,1062 1823,1062 1868,1062 1913,1062 1958,1062 2003,1062 2048,1062 2093,1062 2138,1062 2184,1062" />
+                <TextEquiv>
+                    <Unicode>a base de ese desgraciado y lamentable incidente,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1278,1129 2181,1127 2181,1093 2142,1082 1278,1092" />
+                <Baseline points="1284,1115 1328,1115 1373,1114 1417,1113 1462,1113 1506,1113 1551,1113 1595,1113 1640,1113 1684,1115 1729,1115 1774,1115 1818,1115 1863,1116 1907,1116 1952,1116 1996,1116 2041,1116 2085,1116 2130,1115 2175,1115" />
+                <TextEquiv>
+                    <Unicode>que fueron, con muy buen acuerdo, rechazados</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1275,1178 1346,1165 1434,1178 1643,1179 1654,1177 1654,1157 1624,1141 1559,1133 1418,1145 1366,1132 1274,1140" />
+                <Baseline points="1280,1166 1306,1166 1332,1166 1359,1166 1385,1166 1411,1165 1438,1164 1464,1164 1490,1164 1517,1164 1543,1164 1569,1164 1596,1166 1622,1166 1649,1167" />
+                <TextEquiv>
+                    <Unicode>por los productores.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1307,1226 1992,1231 1992,1202 1932,1188 1785,1207 1690,1188 1477,1203 1307,1187" />
+                <Baseline points="1313,1220 1346,1221 1380,1221 1413,1221 1447,1221 1481,1221 1514,1221 1548,1221 1582,1221 1615,1221 1649,1221 1683,1221 1716,1221 1750,1221 1784,1221 1817,1221 1851,1222 1885,1223 1918,1223 1952,1223 1986,1224" />
+                <TextEquiv>
+                    <Unicode>Muy bien hecho Señores, muy bien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1638,1315 1649,1321 1711,1318 1718,1313 1815,1319 1826,1313 1827,1290 1735,1284 1695,1284 1681,1290 1677,1285 1638,1283" />
+                <Baseline points="1644,1307 1669,1308 1694,1308 1719,1307 1745,1307 1770,1308 1795,1309 1821,1313" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a base de ese desgraciado y lamentable incidente,
+que fueron, con muy buen acuerdo, rechazados
+por los productores.
+Muy bien hecho Señores, muy bien.
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_6_1" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1270,1361 2189,1361 2189,1461 1270,1461" />
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1311,1403 2187,1398 2187,1371 2128,1364 1311,1364" />
+                <Baseline points="1317,1391 1360,1391 1403,1391 1446,1392 1489,1392 1533,1392 1576,1392 1619,1392 1662,1394 1705,1394 1749,1394 1792,1394 1835,1395 1878,1395 1921,1395 1965,1395 2008,1395 2051,1395 2094,1395 2137,1395 2181,1395" />
+                <TextEquiv>
+                    <Unicode>Marie Dressler y Polly Moran acaban de ter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1267,1450 2193,1448 2068,1413 2041,1436 1945,1412 1920,1437 1877,1412 1267,1419" />
+                <Baseline points="1272,1442 1317,1443 1363,1443 1409,1443 1455,1445 1500,1445 1546,1445 1592,1446 1638,1446 1683,1446 1729,1448 1775,1448 1821,1448 1866,1448 1912,1448 1958,1449 2004,1449 2049,1449 2095,1449 2141,1449 2187,1448" />
+                <TextEquiv>
+                    <Unicode>minar su labor en una película de la Metro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Marie Dressler y Polly Moran acaban de ter¬
+minar su labor en una película de la Metro¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_7" custom="readingOrder {index:6;}">
+            <Coords points="1286,1502 2175,1502 2175,2554 1286,2554" />
+        </GraphicRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_8_1" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="1259,2580 2182,2580 2182,3106 1259,3106" />
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1302,2621 2187,2629 2187,2601 2120,2582 2037,2602 1863,2581 1838,2604 1815,2580 1681,2602 1302,2580" />
+                <Baseline points="1308,2607 1351,2609 1395,2609 1438,2610 1482,2610 1526,2612 1569,2612 1613,2612 1657,2612 1700,2612 1744,2612 1788,2613 1831,2613 1875,2613 1919,2613 1962,2615 2006,2615 2050,2616 2093,2616 2137,2618 2181,2619" />
+                <TextEquiv>
+                    <Unicode>Una escena de la película “Careless Lady”,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1260,2666 2174,2675 2175,2639 1260,2638" />
+                <Baseline points="1266,2654 1311,2654 1356,2654 1401,2655 1446,2655 1491,2655 1536,2655 1582,2657 1627,2657 1672,2657 1717,2658 1762,2658 1807,2658 1852,2660 1898,2660 1943,2661 1988,2661 2033,2661 2078,2663 2123,2663 2169,2663" />
+                <TextEquiv>
+                    <Unicode>con Joan Bennett y Eortunio Bonanova. Este</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1262,2712 2184,2721 2184,2685 1978,2675 1263,2678" />
+                <Baseline points="1268,2700 1313,2700 1359,2700 1404,2701 1450,2702 1495,2702 1541,2702 1586,2703 1632,2703 1677,2705 1723,2705 1768,2705 1814,2706 1859,2706 1905,2707 1950,2708 1996,2708 2041,2708 2087,2709 2132,2709 2178,2709" />
+                <TextEquiv>
+                    <Unicode>último tiene la distinción de ser un artista españot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1266,2762 2138,2771 2179,2762 2180,2732 1266,2724" />
+                <Baseline points="1272,2748 1317,2748 1362,2748 1407,2748 1452,2748 1497,2748 1542,2748 1587,2748 1632,2750 1677,2750 1723,2750 1768,2751 1813,2751 1858,2753 1903,2753 1948,2754 1993,2754 2038,2756 2083,2756 2128,2757 2174,2757" />
+                <TextEquiv>
+                    <Unicode>que ha oblenido merecidos triunfos en las tablas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1258,2802 1596,2791 1882,2819 1922,2793 2070,2818 2182,2810 2183,2786 1259,2771" />
+                <Baseline points="1265,2792 1310,2792 1356,2792 1401,2792 1447,2793 1493,2793 1538,2794 1584,2795 1629,2796 1675,2796 1721,2798 1766,2798 1812,2799 1857,2801 1903,2801 1949,2802 1994,2802 2040,2802 2085,2802 2131,2802 2177,2802" />
+                <TextEquiv>
+                    <Unicode>norteamericanas. “Careless Lady" es su prime¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1260,2852 1330,2859 1473,2846 1630,2858 1650,2847 1624,2821 1590,2811 1570,2821 1560,2812 1260,2821" />
+                <Baseline points="1266,2841 1291,2841 1316,2841 1341,2841 1366,2841 1392,2841 1417,2841 1442,2840 1467,2840 1492,2840 1518,2841 1543,2841 1568,2841 1593,2843 1618,2844 1644,2846" />
+                <TextEquiv>
+                    <Unicode>ra película hablada.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1263,2943 1939,2955 1965,2933 2094,2957 2160,2952 2172,2917 1263,2903" />
+                <Baseline points="1268,2931 1312,2933 1357,2933 1402,2933 1447,2933 1492,2934 1537,2934 1581,2934 1626,2935 1671,2936 1716,2936 1761,2937 1806,2937 1851,2937 1895,2939 1940,2939 1985,2939 2030,2939 2075,2940 2120,2940 2165,2940" />
+                <TextEquiv>
+                    <Unicode>Goldwyn- Mayer titulada Prosperity (Prosperi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l8" custom="readingOrder {index:7;}">
+                <Coords points="1253,2991 2009,3010 2171,3002 2172,2971 1254,2969" />
+                <Baseline points="1259,2984 1304,2985 1349,2985 1394,2985 1440,2987 1485,2987 1530,2987 1576,2987 1621,2987 1666,2988 1712,2988 1757,2988 1802,2988 1847,2988 1893,2990 1938,2990 1983,2990 2029,2991 2074,2991 2119,2993 2165,2994" />
+                <TextEquiv>
+                    <Unicode>dad), que dicho sea de paso, vendrá de perlas en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l9" custom="readingOrder {index:8;}">
+                <Coords points="1259,3047 2113,3059 2181,3028 1259,3010" />
+                <Baseline points="1265,3035 1310,3035 1356,3035 1401,3036 1447,3036 1492,3036 1538,3038 1583,3038 1629,3038 1674,3038 1720,3039 1765,3039 1811,3039 1856,3041 1902,3041 1947,3041 1993,3042 2038,3042 2084,3042 2129,3044 2175,3044" />
+                <TextEquiv>
+                    <Unicode>estos tiempos en que no se oye nada más que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l10" custom="readingOrder {index:9;}">
+                <Coords points="1263,3098 1964,3103 1964,3072 1911,3060 1263,3059" />
+                <Baseline points="1269,3086 1303,3086 1338,3087 1372,3087 1407,3089 1441,3089 1476,3089 1510,3089 1545,3089 1579,3089 1614,3089 1648,3089 1683,3089 1717,3090 1752,3090 1786,3090 1821,3090 1855,3090 1890,3090 1924,3091 1959,3092" />
+                <TextEquiv>
+                    <Unicode>lamentos por la depresión económica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Una escena de la película “Careless Lady”,
+con Joan Bennett y Eortunio Bonanova. Este
+último tiene la distinción de ser un artista españot
+que ha oblenido merecidos triunfos en las tablas
+norteamericanas. “Careless Lady" es su prime¬
+ra película hablada.
+Goldwyn- Mayer titulada Prosperity (Prosperi¬
+dad), que dicho sea de paso, vendrá de perlas en
+estos tiempos en que no se oye nada más que
+lamentos por la depresión económica.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_9" custom="readingOrder {index:8;}">
+            <Coords points="1286,1502 2175,1502 2175,2552 1286,2552" />
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers(htr_id=33524)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2020-10-18T14:47:11.894+02:00</Created>
+        <LastChange>2021-10-29T20:40:00.047+02:00</LastChange>
+        <TranskribusMetadata docId="7545511" pageId="93781697" pageNr="753" tsid="236400898" status="IN_PROGRESS" userId="35252" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=EBZKTLXLFOIOJXVTGNDGXTAW" xmlUrl="https://files.transkribus.eu/Get?id=EBAPUFEFSATZFNJDJSETAALB" imageId="17245905" />
+    </Metadata>
+    <Page imageFilename="0753_p289.jpg" imageWidth="2478" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1789982590859" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1" />
+                <RegionRefIndexed index="1" regionRef="r2" />
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="306,3266 306,3424 393,3424 393,3266" />
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="306,3421 335,3416 364,3420 393,3424 393,3274 364,3270 335,3266 306,3271" />
+                <Baseline points="306,3371 335,3366 364,3370 393,3374" />
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="398,715 398,3402 2396,3402 2396,715" />
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1259,828 1284,829 1309,829 1334,827 1359,826 1384,831 1410,844 1410,733 1384,720 1359,715 1334,716 1309,718 1284,718 1259,717" />
+                <Baseline points="1259,791 1284,792 1309,792 1334,790 1359,789 1384,794 1410,807" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="633,1021 660,1024 687,1023 714,1022 741,1023 768,1030 768,970 741,963 714,962 687,963 660,964 633,961" />
+                <Baseline points="633,1001 660,1004 687,1003 714,1002 741,1003 768,1010" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="663,1106 708,1100 708,1040 663,1046" />
+                <Baseline points="663,1086 708,1080" />
+                <TextEquiv>
+                    <Unicode>*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="432,1389 474,1389 474,1278 432,1278" />
+                <Baseline points="432,1352 474,1352" />
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="444,1572 472,1572 500,1572 528,1572 528,1461 500,1461 472,1461 444,1461" />
+                <Baseline points="444,1535 472,1535 500,1535 528,1535" />
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="621,1597 709,1597 798,1597 886,1597 975,1597 1064,1597 1152,1597 1241,1597 1329,1597 1418,1597 1507,1597 1595,1597 1684,1596 1772,1596 1861,1596 1950,1596 2038,1597 2127,1597 2215,1597 2304,1597 2393,1599 2393,1488 2304,1486 2215,1486 2127,1486 2038,1486 1950,1485 1861,1485 1772,1485 1684,1485 1595,1486 1507,1486 1418,1486 1329,1486 1241,1486 1152,1486 1064,1486 975,1486 886,1486 798,1486 709,1486 621,1486" />
+                <Baseline points="621,1560 709,1560 798,1560 886,1560 975,1560 1064,1560 1152,1560 1241,1560 1329,1560 1418,1560 1507,1560 1595,1560 1684,1559 1772,1559 1861,1559 1950,1559 2038,1560 2127,1560 2215,1560 2304,1560 2393,1562" />
+                <TextEquiv>
+                    <Unicode>Es digno de mencionarse que de cada tres personas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="410,1792 508,1792 607,1791 706,1791 804,1789 903,1789 1002,1788 1100,1788 1199,1788 1298,1786 1397,1786 1495,1786 1594,1786 1693,1786 1791,1786 1890,1786 1989,1786 2087,1786 2186,1788 2285,1788 2384,1788 2384,1677 2285,1677 2186,1677 2087,1675 1989,1675 1890,1675 1791,1675 1693,1675 1594,1675 1495,1675 1397,1675 1298,1675 1199,1677 1100,1677 1002,1677 903,1678 804,1678 706,1680 607,1680 508,1681 410,1681" />
+                <Baseline points="410,1755 508,1755 607,1754 706,1754 804,1752 903,1752 1002,1751 1100,1751 1199,1751 1298,1749 1397,1749 1495,1749 1594,1749 1693,1749 1791,1749 1890,1749 1989,1749 2087,1749 2186,1751 2285,1751 2384,1751" />
+                <TextEquiv>
+                    <Unicode>que adquieren un Packard, dos dejan otras marcas. Gozan así,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="401,1975 500,1975 599,1974 698,1972 798,1972 897,1971 996,1971 1096,1971 1195,1969 1294,1969 1394,1969 1493,1969 1592,1969 1691,1969 1791,1969 1890,1969 1989,1969 2089,1969 2188,1969 2287,1969 2387,1969 2387,1858 2287,1858 2188,1858 2089,1858 1989,1858 1890,1858 1791,1858 1691,1858 1592,1858 1493,1858 1394,1858 1294,1858 1195,1858 1096,1860 996,1860 897,1860 798,1861 698,1861 599,1863 500,1864 401,1864" />
+                <Baseline points="401,1938 500,1938 599,1937 698,1935 798,1935 897,1934 996,1934 1096,1934 1195,1932 1294,1932 1394,1932 1493,1932 1592,1932 1691,1932 1791,1932 1890,1932 1989,1932 2089,1932 2188,1932 2287,1932 2387,1932" />
+                <TextEquiv>
+                    <Unicode>por primera vez, de una verdadera transportación de lujo. Su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="407,2155 505,2155 603,2154 702,2154 800,2152 899,2152 997,2152 1095,2152 1194,2152 1292,2152 1391,2151 1489,2151 1587,2151 1686,2151 1784,2151 1883,2151 1981,2151 2079,2151 2178,2149 2276,2149 2375,2149 2375,2038 2276,2038 2178,2038 2079,2040 1981,2040 1883,2040 1784,2040 1686,2040 1587,2040 1489,2040 1391,2040 1292,2041 1194,2041 1095,2041 997,2041 899,2041 800,2041 702,2043 603,2043 505,2044 407,2044" />
+                <Baseline points="407,2118 505,2118 603,2117 702,2117 800,2115 899,2115 997,2115 1095,2115 1194,2115 1292,2115 1391,2114 1489,2114 1587,2114 1686,2114 1784,2114 1883,2114 1981,2114 2079,2114 2178,2112 2276,2112 2375,2112" />
+                <TextEquiv>
+                    <Unicode>satisfacción no previene solamente de la perfección del meca¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="404,2335 503,2335 602,2335 701,2335 800,2335 899,2334 998,2334 1097,2334 1196,2332 1295,2332 1394,2332 1493,2332 1592,2331 1691,2331 1790,2331 1889,2331 1988,2331 2087,2332 2186,2332 2285,2332 2384,2334 2384,2223 2285,2221 2186,2221 2087,2221 1988,2220 1889,2220 1790,2220 1691,2220 1592,2220 1493,2221 1394,2221 1295,2221 1196,2221 1097,2223 998,2223 899,2223 800,2224 701,2224 602,2224 503,2224 404,2224" />
+                <Baseline points="404,2298 503,2298 602,2298 701,2298 800,2298 899,2297 998,2297 1097,2297 1196,2295 1295,2295 1394,2295 1493,2295 1592,2294 1691,2294 1790,2294 1889,2294 1988,2294 2087,2295 2186,2295 2285,2295 2384,2297" />
+                <TextEquiv>
+                    <Unicode>nismo, de la comodidad y de la aristocrática belleza del coche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="401,2517 500,2517 599,2517 698,2517 797,2517 896,2517 995,2515 1095,2515 1194,2515 1293,2515 1392,2514 1491,2514 1590,2514 1689,2512 1789,2512 1888,2512 1987,2512 2086,2511 2185,2511 2284,2511 2384,2511 2384,2400 2284,2400 2185,2400 2086,2400 1987,2401 1888,2401 1789,2401 1689,2401 1590,2403 1491,2403 1392,2403 1293,2404 1194,2404 1095,2404 995,2404 896,2406 797,2406 698,2406 599,2406 500,2406 401,2406" />
+                <Baseline points="401,2480 500,2480 599,2480 698,2480 797,2480 896,2480 995,2478 1095,2478 1194,2478 1293,2478 1392,2477 1491,2477 1590,2477 1689,2475 1789,2475 1888,2475 1987,2475 2086,2474 2185,2474 2284,2474 2384,2474" />
+                <TextEquiv>
+                    <Unicode>sino también del prestigio que imparte el escudo de Packard.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="398,2715 497,2715 597,2715 697,2715 797,2715 897,2715 997,2715 1097,2715 1197,2715 1297,2713 1397,2713 1496,2713 1596,2713 1696,2712 1796,2712 1896,2712 1996,2710 2096,2710 2196,2709 2296,2709 2396,2707 2396,2596 2296,2598 2196,2598 2096,2599 1996,2599 1896,2601 1796,2601 1696,2601 1596,2602 1496,2602 1397,2602 1297,2602 1197,2604 1097,2604 997,2604 897,2604 797,2604 697,2604 597,2604 497,2604 398,2604" />
+                <Baseline points="398,2678 497,2678 597,2678 697,2678 797,2678 897,2678 997,2678 1097,2678 1197,2678 1297,2676 1397,2676 1496,2676 1596,2676 1696,2675 1796,2675 1896,2675 1996,2673 2096,2673 2196,2672 2296,2672 2396,2670" />
+                <TextEquiv>
+                    <Unicode>PREGUNTE A QUIEN TENGA UN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="453,2973 552,2970 652,2969 752,2969 852,2969 952,2969 1052,2969 1152,2970 1252,2972 1352,2972 1452,2973 1552,2973 1652,2975 1752,2975 1852,2975 1952,2973 2052,2972 2152,2970 2252,2967 2352,2964 2352,2864 2252,2867 2152,2870 2052,2872 1952,2873 1852,2875 1752,2875 1652,2875 1552,2873 1452,2873 1352,2872 1252,2872 1152,2870 1052,2869 952,2869 852,2869 752,2869 652,2869 552,2870 453,2873" />
+                <Baseline points="453,2940 552,2937 652,2936 752,2936 852,2936 952,2936 1052,2936 1152,2937 1252,2939 1352,2939 1452,2940 1552,2940 1652,2942 1752,2942 1852,2942 1952,2940 2052,2939 2152,2937 2252,2934 2352,2931" />
+                <TextEquiv>
+                    <Unicode>PACKARD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="687,3106 761,3108 836,3109 911,3109 985,3111 1060,3111 1135,3109 1209,3109 1284,3108 1359,3108 1433,3106 1508,3105 1583,3105 1657,3103 1732,3102 1807,3102 1881,3100 1956,3100 2031,3100 2106,3100 2106,3025 2031,3025 1956,3025 1881,3025 1807,3027 1732,3027 1657,3028 1583,3030 1508,3030 1433,3031 1359,3033 1284,3033 1209,3034 1135,3034 1060,3036 985,3036 911,3034 836,3034 761,3033 687,3031" />
+                <Baseline points="687,3081 761,3083 836,3084 911,3084 985,3086 1060,3086 1135,3084 1209,3084 1284,3083 1359,3083 1433,3081 1508,3080 1583,3080 1657,3078 1732,3077 1807,3077 1881,3075 1956,3075 2031,3075 2106,3075" />
+                <TextEquiv>
+                    <Unicode>ESTRELLA AUTO PALACE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="779,3205 844,3207 909,3207 974,3207 1039,3207 1105,3207 1170,3207 1235,3207 1300,3205 1365,3205 1431,3204 1496,3204 1561,3202 1626,3201 1691,3201 1757,3199 1822,3199 1887,3198 1952,3198 2018,3198 2018,3131 1952,3131 1887,3131 1822,3132 1757,3132 1691,3134 1626,3134 1561,3135 1496,3137 1431,3137 1365,3138 1300,3138 1235,3140 1170,3140 1105,3140 1039,3140 974,3140 909,3140 844,3140 779,3138" />
+                <Baseline points="779,3183 844,3185 909,3185 974,3185 1039,3185 1105,3185 1170,3185 1235,3185 1300,3183 1365,3183 1431,3182 1496,3182 1561,3180 1626,3179 1691,3179 1757,3177 1822,3177 1887,3176 1952,3176 2018,3176" />
+                <TextEquiv>
+                    <Unicode>NO MBRE DEL DISTRIBUIDOR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="1076,3301 1108,3301 1141,3301 1174,3301 1206,3301 1239,3300 1272,3300 1304,3299 1337,3298 1370,3297 1403,3297 1435,3295 1468,3295 1501,3294 1533,3294 1566,3294 1599,3294 1631,3294 1664,3294 1697,3295 1730,3295 1730,3228 1697,3228 1664,3227 1631,3227 1599,3227 1566,3227 1533,3227 1501,3227 1468,3228 1435,3228 1403,3230 1370,3230 1337,3231 1304,3232 1272,3233 1239,3233 1206,3234 1174,3234 1141,3234 1108,3234 1076,3234" />
+                <Baseline points="1076,3279 1108,3279 1141,3279 1174,3279 1206,3279 1239,3278 1272,3278 1304,3277 1337,3276 1370,3275 1403,3275 1435,3273 1468,3273 1501,3272 1533,3272 1566,3272 1599,3272 1631,3272 1664,3272 1697,3273 1730,3273" />
+                <TextEquiv>
+                    <Unicode>536 GANDARA, MANILA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="1979,3397 2006,3400 2034,3401 2062,3402 2090,3397 2090,3286 2062,3291 2034,3290 2006,3289 1979,3286" />
+                <Baseline points="1979,3360 2006,3363 2034,3364 2062,3365 2090,3360" />
+                <TextEquiv>
+                    <Unicode />
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+*
+5
+A
+Es digno de mencionarse que de cada tres personas
+que adquieren un Packard, dos dejan otras marcas. Gozan asi,
+por primera vez, de una verdadera transportación de lujo. Su
+satisfacción no previene solamente de la perfección del meca¬
+nismo, de la comodidad y de la aristocrática belleza del coche,
+sino también del prestigio que imparte el escudo de Packard.
+PREGUNTE A QUIEN TENGA UN
+PACKARD
+ESTRELLA AUTO PALACE
+NO MBRE DEL DISTRIBUIDOR
+536 GANDARA, MANILA
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
